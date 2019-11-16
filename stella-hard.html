@@ -1,0 +1,177 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja">
+<head>
+<title>Stella HARD</title>
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
+<meta name="bmstable" content="https://notmichaelchen.github.io/stella-table-extensions/data/Stella-HARD-header.json" />
+<!-- <link href="https://dl.dropbox.com/s/tct6beozmi3zx9v/style.css" rel="stylesheet" type="text/css" media="screen,print" />-->
+<style>
+@charset "utf-8";
+
+/* ��Փx�\�p���C�A�E�g */
+body.diff {
+margin:0px auto 0px auto;
+padding:0px 0px 0px 0px;
+text-align:center;
+background-color:#222222;
+width: auto;
+min-width: 900px;
+line-height: 1.5;
+}
+
+.tableflame {
+margin-left:auto;
+margin-right:auto;
+padding:0px 5px 0px 5px;
+text-align:center;
+background-color:#222222;
+min-width: 900px;
+}
+
+.tableflame a {
+color:#0000c0;
+}
+
+.tableflame a:visited {
+color:#0000c0;
+}
+
+.tr_separate {
+height:20px;
+color:#ffffff;
+font-size:16px;
+text-shadow:2px 2px 2px #444444;
+background-color:#aaaaaa;
+}
+
+.tr_normal {
+background-color:#eeeeee;
+}
+
+.tableflame table {
+font-size: 12px;
+}
+
+.tableflame td {
+table-layout: fixed;
+}
+
+.tableflame tr,a {
+ /*Firefox����*/
+-moz-transition-property: color, background-color;
+-moz-transition-duration:0.2s;
+/*Chrome�ASafari����*/
+-webkit-transition-property: color, background-color;
+-webkit-transition-duration:0.2s;
+/*Opera����*/
+-o-transition-property: color, background-color;
+-o-transition-duration:0.2s;
+transition-property: color, background-color;
+transition-duration:0.2s;
+}
+
+.tableflame tr.tr_normal:hover {
+background-color:#70f0f0;
+}
+</style>
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+</head>
+<body class="diff">
+<!--�@�@�@�@�@���������Փx�\�{�́@�@�@�@�@-->
+<div class="tableflame">
+<table align="center" cellspacing="1" cellpadding=2�@border="0" bgcolor="#000000" id="table_int">
+</table>
+</div>
+<script language="javascript" type="text/javascript">
+$(document).ready(function(){
+	$.getJSON($("meta[name=bmstable]").attr("content"), function(header){
+		$.getJSON(header.data_url, function(information){
+			makeBMSTable(information,header.symbol);
+		});
+	});
+});
+
+function makeBMSTable(info, mark) {
+    var x = "";
+    var ev = "";
+    var count = 0;
+    var obj = $("#table_int");
+    // �\�̃N���A
+    obj.html("");
+    $("<tr height='20' style='color:white;background-color:#666666'><td align='center'>LV</td><td align='center'>�^�C�g��</td><td align='center'>�{��</td><td align='center'>����</td><td align='center'>�R�����g</td></tr>").appendTo(obj);
+    var obj_sep = null;
+    for (var i = 0; i < info.length; i++) {
+        // ��x���Ƃ̋�؂�
+        if (x != info[i].level) {
+            // �O�̋�؂�ɕ��ʐ��A���ϖ��x��ǉ�
+          	if (obj_sep != null) {
+                obj_sep.html("<td colspan='6' align='center'>" + "<b>" + mark + x + " (" + count + "����)</b></td>");
+            }
+            obj_sep = $("<tr class='tr_separate' id='" + mark + info[i].level + "'></tr>");
+            obj_sep.appendTo(obj);
+            count = 0;
+            x = info[i].level;
+        }
+        // �{��
+        var str = $("<tr class='tr_normal'></tr>");
+        // ���x���\�L
+        $("<td width='5%'>" + mark + x + "</td>").appendTo(str);
+        // �^�C�g��
+        $("<td width='20%'>" + "<a href='http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=" + info[i].md5 + "' target='_blank'>" + info[i].title + "</a></td>").appendTo(str);
+        // �A�[�e�B�X�g
+        var astr = "";
+        if(info[i].url != null) {
+        	if(info[i].artist != null) {
+        		astr = "<a href='" + info[i].url + "'>" + info[i].artist + "</a>";
+        	} else {
+        		astr = "<a href='" + info[i].url + "'>" + info[i].url + "</a>";
+        	}
+        } else {
+        	if(info[i].artist != null) {
+        		astr = info[i].artist;
+        	}
+        }
+        if(info[i].url_pack != null) {
+        	if(info[i].name_pack != null) {
+        		astr += "<br />(<a href='" + info[i].url_pack + "'>" + info[i].name_pack + "</a>)";
+        	} else {
+        		astr += "<br />(<a href='" + info[i].url_pack + "'>" + info[i].url_pack + "</a>)";
+        	}
+        } else {
+        	if(info[i].name_pack != null) {
+        		astr += "<br />(" + info[i].name_pack + ")";
+        	}
+        }
+        $("<td width='20%'>" + astr + "</td>").appendTo(str);
+        // ����
+        if(info[i].url_diff != null) {
+        	if(info[i].name_diff != null) {
+	        $("<td width='10%'><a href='" + info[i].url_diff + "'>" + info[i].name_diff + "</a></td>").appendTo(str);
+        	} else {
+	        $("<td width='10%'><a href='" + info[i].url_diff + "'>" + info[i].url_diff + "</a></td>").appendTo(str);
+        	}
+        } else {
+        	if(info[i].name_diff != null) {
+	        $("<td width='10%'>" + info[i].name_diff + "</td>").appendTo(str);
+        	} else {
+	        $("<td width='10%'></td>").appendTo(str);
+        	}
+        }
+        // �R�����g
+        $("<td width='15%'>" + info[i].comment + "</td>").appendTo(str);
+        str.appendTo(obj);
+        count++;
+    }
+    // �Ō�̋�؂菈��
+    if (obj_sep != null) {
+        obj_sep.html("<td colspan='6' align='center'>" + "<b>" + x + " (" + count + "����)</b></td>");
+    }
+}
+</script>
+</body>
+</html>
