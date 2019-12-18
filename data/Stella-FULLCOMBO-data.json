@@ -11,7 +11,7 @@
 }, {
   "level": "5.00...5.50",
   "md5": "22dc782a49fb3ff80c2de90fb10f62f9",
-  "rawLevel": 5.31,
+  "rawLevel": 5.32,
   "title": "x-Aria -frenzy mix- [Hexagon]"
 }, {
   "level": "5.00...5.50",
@@ -31,7 +31,7 @@
 }, {
   "level": "5.00...5.50",
   "md5": "5d4c998f6b5742612478572b53327140",
-  "rawLevel": 5.37,
+  "rawLevel": 5.38,
   "title": "精霊幻想 [INFELNO]"
 }, {
   "level": "5.00...5.50",
@@ -80,11 +80,6 @@
   "title": "RAPID STRIKE -Destroy them all!-"
 }, {
   "level": "5.00...5.50",
-  "md5": "98ce9d2537a1fe9b767fd495e1d7b339",
-  "rawLevel": 5.44,
-  "title": "タイヨウパラダイス(Lemon beads J-core bootleg) [R-18]"
-}, {
-  "level": "5.00...5.50",
   "md5": "5f0721d70d8e107734a042a7f277e233",
   "rawLevel": 5.45,
   "title": "Chronomia [Presea]"
@@ -93,6 +88,11 @@
   "md5": "11e6fd2beba2a24713f81c37fc6a9c53",
   "rawLevel": 5.45,
   "title": "Harmony [PACIFISM]"
+}, {
+  "level": "5.00...5.50",
+  "md5": "98ce9d2537a1fe9b767fd495e1d7b339",
+  "rawLevel": 5.45,
+  "title": "タイヨウパラダイス(Lemon beads J-core bootleg) [R-18]"
 }, {
   "level": "5.00...5.50",
   "md5": "861f79fe77016605f1aa3cdcd47988c8",
@@ -221,7 +221,7 @@
 }, {
   "level": "6.50...7.00",
   "md5": "90eedb47ffdd6bccee421f527ecea7ff",
-  "rawLevel": 6.6,
+  "rawLevel": 6.61,
   "title": "FELYS -Genocide-"
 }, {
   "level": "6.50...7.00",
@@ -295,11 +295,6 @@
   "title": "Lieselotte [Hi]"
 }, {
   "level": "6.50...7.00",
-  "md5": "6d719c9a8e05a0b7e2aaf7100b488d3b",
-  "rawLevel": 6.66,
-  "title": "Reality [EX]"
-}, {
-  "level": "6.50...7.00",
   "md5": "d471465bb8e45b3867827dd436017607",
   "rawLevel": 6.66,
   "title": "marine snow"
@@ -353,6 +348,11 @@
   "md5": "7ccf30a1ced5601c4a9cdb06beaf39a9",
   "rawLevel": 6.67,
   "title": "Pure Ruby [名なしの森]"
+}, {
+  "level": "6.50...7.00",
+  "md5": "6d719c9a8e05a0b7e2aaf7100b488d3b",
+  "rawLevel": 6.67,
+  "title": "Reality [EX]"
 }, {
   "level": "6.50...7.00",
   "md5": "75c3582014ccff736fd5d2f5ce22f7d0",
@@ -501,7 +501,7 @@
 }, {
   "level": "7.50...8.00",
   "md5": "0c87bfd3bc66f7af4769ee6e1c76c882",
-  "rawLevel": 7.81,
+  "rawLevel": 7.82,
   "title": "Miaplacidus [Beta Carinae]"
 }, {
   "level": "7.50...8.00",
@@ -646,7 +646,7 @@
 }, {
   "level": "8.50...9.00",
   "md5": "9a110d94d62a74daa5d503f5b0f0f17f",
-  "rawLevel": 8.97,
+  "rawLevel": 8.98,
   "title": "Chatblanc [La Scala]"
 }, {
   "level": "9.00...9.50",
@@ -655,14 +655,14 @@
   "title": "Endless Dream -Zero Dimensions-"
 }, {
   "level": "9.00...9.50",
-  "md5": "12820816c37bd5dd1500e4232ebb2297",
-  "rawLevel": 9.02,
-  "title": "aliceblue (Radio Edit) [Daintiest]"
-}, {
-  "level": "9.00...9.50",
   "md5": "d06f7121bc12c8bdab9097c936d84ba9",
   "rawLevel": 9.03,
   "title": "7SP:雪の少女-MorningDash!Mix- [GOD]"
+}, {
+  "level": "9.00...9.50",
+  "md5": "12820816c37bd5dd1500e4232ebb2297",
+  "rawLevel": 9.03,
+  "title": "aliceblue (Radio Edit) [Daintiest]"
 }, {
   "level": "9.00...9.50",
   "md5": "0b5f10cc5b6ee23dff60442b4f0ecd36",
@@ -675,11 +675,6 @@
   "title": "Mario Paint (Time Regression Mix for BMS) [D-ANOTHER]"
 }, {
   "level": "9.00...9.50",
-  "md5": "603cdd2809e952a60133e4b8cd8b015d",
-  "rawLevel": 9.07,
-  "title": "Complex path(bms edit) [さぼてんのとげザ－]"
-}, {
-  "level": "9.00...9.50",
   "md5": "28de731d48217bbd50f49b1ad572f81f",
   "rawLevel": 9.07,
   "title": "Empress of Raizze [フルマラソン]"
@@ -688,6 +683,11 @@
   "md5": "59fa39acd45bc64f9fa1f29d8bbef02d",
   "rawLevel": 9.07,
   "title": "Midnight Driving"
+}, {
+  "level": "9.00...9.50",
+  "md5": "603cdd2809e952a60133e4b8cd8b015d",
+  "rawLevel": 9.08,
+  "title": "Complex path(bms edit) [さぼてんのとげザ－]"
 }, {
   "level": "9.00...9.50",
   "md5": "3216e0be0404e5311672194432d8b82a",
@@ -716,7 +716,7 @@
 }, {
   "level": "10.00...10.50",
   "md5": "237e2c88c0fae4e781b93276389768d8",
-  "rawLevel": 10.12,
+  "rawLevel": 10.13,
   "title": "colorbar [横認識]"
 }, {
   "level": "10.00...10.50",
@@ -800,14 +800,14 @@
   "title": "iterated [Creation]"
 }, {
   "level": "12.50...13.00",
-  "md5": "a5d5b0626966b590eefeab4b7fb924df",
-  "rawLevel": 12.64,
-  "title": "Eisenschweif (FULL)"
-}, {
-  "level": "12.50...13.00",
   "md5": "b29aef69cc169439f35332a56e2e0164",
   "rawLevel": 12.65,
   "title": "Disco Balls [Other]"
+}, {
+  "level": "12.50...13.00",
+  "md5": "a5d5b0626966b590eefeab4b7fb924df",
+  "rawLevel": 12.65,
+  "title": "Eisenschweif (FULL)"
 }, {
   "level": "12.50...13.00",
   "md5": "a97e0b231c3e72f1d37c34eb86167dfd",
@@ -831,7 +831,7 @@
 }, {
   "level": "13.50...14.00",
   "md5": "2c903e074b3072b88905794db36f767e",
-  "rawLevel": 13.8,
+  "rawLevel": 13.81,
   "title": "Jasmine Tea Girl"
 }, {
   "level": "15.00...15.50",
@@ -3403,6 +3403,11 @@
   "md5": "843a00e8a3ba354ffe1160610b1a9168",
   "rawLevel": null,
   "title": "図書室のえれな"
+}, {
+  "level": "-",
+  "md5": "2c4e3404356bdb4b75108afdee91a792",
+  "rawLevel": null,
+  "title": "夢、幻。 [infinity]"
 }, {
   "level": "-",
   "md5": "8bc6a666cf36631b02530c0f06d65a28",
