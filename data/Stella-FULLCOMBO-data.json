@@ -1,7 +1,7 @@
 [{
   "level": "5.00...5.50",
   "md5": "8ee7fc1c67826e7437e07b5e1f92d601",
-  "rawLevel": 5.19,
+  "rawLevel": 5.17,
   "title": "stairway to the universe [laner]"
 }, {
   "level": "5.00...5.50",
@@ -210,24 +210,19 @@
   "title": "壊廊 [Pentagon]"
 }, {
   "level": "6.50...7.00",
+  "md5": "bae158bfd21d2b328960e9d9f9dd5f05",
+  "rawLevel": 6.57,
+  "title": "聖剣伝説2 ～天使の怖れ～ [Delaymaster]"
+}, {
+  "level": "6.50...7.00",
   "md5": "0f8009c475de88d1fce903ffb0824f44",
   "rawLevel": 6.59,
   "title": "Once in my life [Kaiden House]"
 }, {
   "level": "6.50...7.00",
-  "md5": "bae158bfd21d2b328960e9d9f9dd5f05",
-  "rawLevel": 6.59,
-  "title": "聖剣伝説2 ～天使の怖れ～ [Delaymaster]"
-}, {
-  "level": "6.50...7.00",
   "md5": "90eedb47ffdd6bccee421f527ecea7ff",
   "rawLevel": 6.61,
   "title": "FELYS -Genocide-"
-}, {
-  "level": "6.50...7.00",
-  "md5": "e2165305b700604467c33cad3e489f71",
-  "rawLevel": 6.61,
-  "title": "QSHELL -拒色のシェルル- [Hexagon]"
 }, {
   "level": "6.50...7.00",
   "md5": "83b0c5fde2a20ebbcdd661ae58e1be06",
@@ -250,9 +245,19 @@
   "title": "Last! Least! Regrets!! -Heaven-"
 }, {
   "level": "6.50...7.00",
+  "md5": "e2165305b700604467c33cad3e489f71",
+  "rawLevel": 6.62,
+  "title": "QSHELL -拒色のシェルル- [Hexagon]"
+}, {
+  "level": "6.50...7.00",
   "md5": "df2158e11185a9bb575203f7442dd4cb",
   "rawLevel": 6.62,
   "title": "Surfacing Ship -SpeedRush RMX- [EXTRA]"
+}, {
+  "level": "6.50...7.00",
+  "md5": "b2f494e41d3cfa8cee92a52e720dd848",
+  "rawLevel": 6.63,
+  "title": "Flashdance [Hexagon]"
 }, {
   "level": "6.50...7.00",
   "md5": "d1a34b61187c244f836f2a0d4e2a7d3a",
@@ -496,7 +501,7 @@
 }, {
   "level": "7.50...8.00",
   "md5": "4fe71d66b9de769681fd01f85f19eaf4",
-  "rawLevel": 7.79,
+  "rawLevel": 7.8,
   "title": "海神寓拝 [for whale]"
 }, {
   "level": "7.50...8.00",
@@ -560,11 +565,6 @@
   "title": "sola [Other]"
 }, {
   "level": "7.50...8.00",
-  "md5": "985e91ac0ba1460509416ad164e793db",
-  "rawLevel": 7.87,
-  "title": "ハローワールド (EX)"
-}, {
-  "level": "7.50...8.00",
   "md5": "5d053aef2e8612f5105dda1b7e9e039b",
   "rawLevel": 7.87,
   "title": "地球塔デヴォーション [DERAYMASTER]"
@@ -578,11 +578,6 @@
   "md5": "7ccfccdea1b8d4c3dc7691a55649ec15",
   "rawLevel": 7.87,
   "title": "秩序の秋桜 [ありがたや+]"
-}, {
-  "level": "7.50...8.00",
-  "md5": "ce580b56e63cf1667bec9b975911e358",
-  "rawLevel": 7.87,
-  "title": "雨 [Hexagon]"
 }, {
   "level": "7.50...8.00",
   "md5": "07254a7724162b02312aadea3cb76433",
@@ -644,9 +639,19 @@
   "rawLevel": 7.88,
   "title": "オトゲラヴ！ [オタクキモ！]"
 }, {
+  "level": "7.50...8.00",
+  "md5": "985e91ac0ba1460509416ad164e793db",
+  "rawLevel": 7.88,
+  "title": "ハローワールド (EX)"
+}, {
+  "level": "7.50...8.00",
+  "md5": "ce580b56e63cf1667bec9b975911e358",
+  "rawLevel": 7.88,
+  "title": "雨 [Hexagon]"
+}, {
   "level": "8.50...9.00",
   "md5": "9a110d94d62a74daa5d503f5b0f0f17f",
-  "rawLevel": 8.98,
+  "rawLevel": 8.88,
   "title": "Chatblanc [La Scala]"
 }, {
   "level": "9.00...9.50",
@@ -714,9 +719,9 @@
   "rawLevel": 9.08,
   "title": "gazer [Delay MANIAQ]"
 }, {
-  "level": "10.00...10.50",
+  "level": "9.50...10.00",
   "md5": "237e2c88c0fae4e781b93276389768d8",
-  "rawLevel": 10.13,
+  "rawLevel": 9.99,
   "title": "colorbar [横認識]"
 }, {
   "level": "10.00...10.50",
@@ -865,6 +870,11 @@
   "title": "-+ [INFERNO]"
 }, {
   "level": "-",
+  "md5": "5580e8407abef96a303cba82a1eb605c",
+  "rawLevel": null,
+  "title": "Aurora [Shine]"
+}, {
+  "level": "-",
   "md5": "16cd1f53375a658af0b4f37993ce2b94",
   "rawLevel": null,
   "title": "BLAZE YOUR SOUL [SP INSANE+]"
@@ -1000,6 +1010,11 @@
   "title": "ほしぞら遊覧飛行 [Andromeda]"
 }, {
   "level": "-",
+  "md5": "20d2dd0dfdb545a253a43cfa2f5aa7c9",
+  "rawLevel": null,
+  "title": "カタリスト [触媒]"
+}, {
+  "level": "-",
   "md5": "8fd27ddc06bc5e0b84c64aba6c7b4a7e",
   "rawLevel": null,
   "title": "シグナルほっぴんぐ [Delay]"
@@ -1043,6 +1058,11 @@
   "md5": "c4b62a6d7df4ac215fee55e11c9a9b7f",
   "rawLevel": null,
   "title": "自強號 [EMU100]"
+}, {
+  "level": "-",
+  "md5": "99e5d4a4d83d6fb16a830c57361da49b",
+  "rawLevel": null,
+  "title": "花たちに希望を -To the Future-"
 }, {
   "level": "-",
   "md5": "b903a2579e150c6687bbe2530a60fa80",
@@ -1095,6 +1115,11 @@
   "title": "Destr0yer -Last Song-"
 }, {
   "level": "-",
+  "md5": "742f560ef78dca0693aaed37c3d2f1c3",
+  "rawLevel": null,
+  "title": "Electric Emotion -Negative Emotion-"
+}, {
+  "level": "-",
   "md5": "8c100f7a91368a2ed98144f003f438e7",
   "rawLevel": null,
   "title": "Everybody Pumc Kin Jump! [ATLANTIC GIANT]"
@@ -1108,11 +1133,6 @@
   "md5": "e12dbfdc2b25e315c9a4dbab8fc84cce",
   "rawLevel": null,
   "title": "Fireball [SABOTHER]"
-}, {
-  "level": "-",
-  "md5": "b2f494e41d3cfa8cee92a52e720dd848",
-  "rawLevel": null,
-  "title": "Flashdance [Hexagon]"
 }, {
   "level": "-",
   "md5": "3a352a9833250bb882849d14d6984f2b",
@@ -1295,6 +1315,11 @@
   "title": "円環の理 [ＱＢ]"
 }, {
   "level": "-",
+  "md5": "ad53525085055d8b1184096eb890be6f",
+  "rawLevel": null,
+  "title": "午後のこいしちゃん [EX]"
+}, {
+  "level": "-",
   "md5": "080f9c36fca8e43b7fe686254404b851",
   "rawLevel": null,
   "title": "夢、幻。 [INFERNO]"
@@ -1373,6 +1398,11 @@
   "md5": "987521b0e5e93f2cb833e447445a2db8",
   "rawLevel": null,
   "title": "Dark Sky -Bloody-"
+}, {
+  "level": "-",
+  "md5": "7c9773583c69d5b84bc7c0f979c0f38f",
+  "rawLevel": null,
+  "title": "FRAGMENT. [God Speed]"
 }, {
   "level": "-",
   "md5": "2fc9c12eeee75532bc464431efc381fc",
@@ -2298,6 +2328,11 @@
   "md5": "498a9623f48f6dc5a7fef4e21adfa80a",
   "rawLevel": null,
   "title": "EVERLASTING HAPPiNESS↑ [AETERNUM]"
+}, {
+  "level": "-",
+  "md5": "6c67f670599fdffb161eb2e1d798ffde",
+  "rawLevel": null,
+  "title": "F13 [やばい]"
 }, {
   "level": "-",
   "md5": "a79a7531325f46f91960a43648296683",
