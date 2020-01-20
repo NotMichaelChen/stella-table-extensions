@@ -3336,16 +3336,15 @@
   "comment": "同時押し、軸、皿複合、低Total"
 }, {
   "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=123&num=339",
-  "proposerLr2id": 115381,
-  "sha256": "a93039547676dfe60ba702846d79e5ac0b15b9772bdb49dd62308e3777166169",
-  "md5": "3a5f2fe6fc40ca6451e94ea52836c353",
-  "submission": 294,
-  "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02399",
-  "title": "R.I.P. [W]",
-  "proposer": "かに",
+  "sha256": "14cbea667c4507510d0e395fbbad342430cde8fe520228e6e35e535eb5bb4cd9",
+  "md5": "e3fa38ed30a52e5a388148df644817a3",
+  "submission": 1226,
+  "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=03811",
+  "title": "R.I.P. [W] (fix)",
+  "proposer": "LUXURY♪",
   "level": "3",
   "artist": "eicateve hrchem[illust] TOHRU MiTSUHASHi[movie] w[object]",
-  "comment": "sl2-3? 微LN 微皿"
+  "comment": "fixed chart"
 }, {
   "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=543&event=110",
   "proposerLr2id": 120385,
@@ -13353,7 +13352,7 @@
   "sha256": "5847eeedc568e876e882968587939268c04bc3fd78d40ae8f77675469d6c340a",
   "md5": "9dd20fc49c9a5f5ce9cd6ac5fdb3e68c",
   "submission": 154,
-  "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01548",
+  "url_diff": "https://drive.google.com/file/d/1UkCRWzg6AJEqG0KnlXfifsWl_oux1fdx/view?usp=drive_open",
   "title": "Ophelia [Extreme]",
   "proposer": "Leva",
   "level": 16,
