@@ -36,7 +36,7 @@ jobs:
         run: |
           cd builder
           nimble build -y
-          ./bin/stellatablebuilder ../main/data/
+          ./bin/stellatablebuilder --outputPath ../main/data/
           cd ../main
           git config user.name github-actions
           git config user.email github-actions@github.com
