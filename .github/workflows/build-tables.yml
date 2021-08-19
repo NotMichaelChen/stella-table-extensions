@@ -35,7 +35,7 @@ jobs:
       - name: Build tables
         run: |
           cd builder
-          nimble build
+          nimble build -y
           ./bin/stellatablebuilder ../main/data/
           cd ../main
           git config user.name github-actions
