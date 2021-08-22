@@ -1,7 +1,7 @@
 {
   "name": "DP Satellite NORMAL",
   "symbol": "N-sl",
-  "data_url": "https://dl.dropboxusercontent.com/s/4vg2832j4whvyyc/DP-Satellite-NORMAL-data.json",
+  "data_url": "https://notmichaelchen.github.io/stella-table-extensions/data/DP-Satellite-NORMAL-data.json",
   "level_order": [
     "-0.50...0.00",
     "0.00...0.50",

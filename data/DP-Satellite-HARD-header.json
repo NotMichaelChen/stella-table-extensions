@@ -1,7 +1,7 @@
 {
   "name": "DP Satellite HARD",
   "symbol": "H-sl",
-  "data_url": "https://dl.dropboxusercontent.com/s/fqbppvbr0bj4f23/DP-Satellite-HARD-data.json",
+  "data_url": "https://notmichaelchen.github.io/stella-table-extensions/data/DP-Satellite-HARD-data.json",
   "level_order": [
     "0.00...0.50",
     "0.50...1.00",

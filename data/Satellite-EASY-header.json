@@ -1,7 +1,7 @@
 {
   "name": "Satellite EASY",
   "symbol": "E-sl",
-  "data_url": "https://dl.dropboxusercontent.com/s/pf2ax7wwoseuazn/Satellite-EASY-data.json",
+  "data_url": "https://notmichaelchen.github.io/stella-table-extensions/data/Satellite-EASY-data.json",
   "level_order": [
     "-0.50...0.00",
     "0.00...0.50",

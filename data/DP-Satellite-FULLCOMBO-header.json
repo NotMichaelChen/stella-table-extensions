@@ -1,7 +1,7 @@
 {
   "name": "DP Satellite FULLCOMBO",
   "symbol": "F-sl",
-  "data_url": "https://dl.dropboxusercontent.com/s/yq5zoh5x11kcifv/DP-Satellite-FULLCOMBO-data.json",
+  "data_url": "https://notmichaelchen.github.io/stella-table-extensions/data/DP-Satellite-FULLCOMBO-data.json",
   "level_order": [
     "4.00...4.50",
     "4.50...5.00",
