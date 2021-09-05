@@ -10431,6 +10431,17 @@
     "submission": 329
   },
   {
+    "title": "Vorota Collapse -Hopeless-",
+    "artist": "eicateve むらしん[movie] 為宙しなこ[illust] / 七海[obj]",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=436&event=116",
+    "url_diff": "https://www.dropbox.com/s/c5lymek6gixzwi9/vorotarmx_nanami.zip?dl=1",
+    "md5": "e0117231edd25ca85ec41b53dca1f12e",
+    "sha256": "b1d33f3e16358446980dc8d96902f468419d3735b95a6bf97ef2162c6a4110be",
+    "level": "7",
+    "proposer": "Mary_Sue",
+    "submission": 2165
+  },
+  {
     "title": "Σnergy -яevolution- [Steяrite]",
     "artist": "Sterrite",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=240&event=127",
@@ -13430,6 +13441,18 @@
     "level": "11",
     "proposer": "파이어",
     "submission": 1161
+  },
+  {
+    "title": "EMOTIONAL POLARIZATION [EX]",
+    "artist": "hard / obj:marquee",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=79&event=135",
+    "url_diff": "https://darksabun.github.io/event/irbattle/",
+    "md5": "6d53695f5abc7594d9d705c6da80994f",
+    "sha256": "cdb698774f471807431688cb08f41fea9699366bc5a0bdb33a0737b369419b4b",
+    "level": "11",
+    "proposer": "七海",
+    "comment": "10~11? LR2IR Battle",
+    "submission": 2183
   },
   {
     "level": "11",
@@ -17940,6 +17963,18 @@
     "proposerLr2id": 23110
   },
   {
+    "title": "Tangerine Dawn -IR-",
+    "artist": "山田名人 obj.hex",
+    "url": "https://drive.google.com/file/d/1YyhoIQEKT930DfZpVOwGIPCdLVKvVOzS/view?usp=sharing",
+    "url_diff": "https://darksabun.github.io/event/irbattle/",
+    "md5": "2b6640d408f8a7f10bea55b35d8f82f5",
+    "sha256": "c7fc323ae152e42e43f807347dfb3f2de2a231eb54c24ef6f39a7bf331af889c",
+    "level": "14",
+    "proposer": "SHAX.",
+    "comment": "BPM125 マッチョ系ガチ押し",
+    "submission": 1606
+  },
+  {
     "title": "Tavatar Of Darkness -fw. MC TUMMER- [Nemesis_fix]",
     "artist": "ZUMMER BGA / S-BLUE // Obj.Triforce",
     "url": "https://web.archive.org/web/20200114164218/http://team-zummer.club/bms/G2R/Z_TOD_ogg.zip",
@@ -18340,6 +18375,18 @@
     "comment": "",
     "submission": 9,
     "sha256": "108d6a737c6ec21415c27aa6514a1cd100d4aa748e2dfa756a9ed6859f870bc5"
+  },
+  {
+    "title": "ホーリーサンバランド [Soleil]",
+    "artist": "HOLY SAMBA MASTER 佐藤 -SATOH- / obj.fuko",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=96",
+    "url_diff": "https://stellabms.xyz/upload/1042",
+    "md5": "e5877413b78d1cc462a635dec7bd568b",
+    "sha256": "56ed7d50c88ed19e607dc23a9ea78d20be6ba20295b2e80c0c0c253ceb328102",
+    "level": "14",
+    "proposer": "七海",
+    "comment": "LAST BOSSの弱化版",
+    "submission": 1549
   },
   {
     "title": "先天性エゴサ依存症候群 [Twitch TV]",
@@ -18978,18 +19025,6 @@
     "submission": 1112
   },
   {
-    "title": "Dark Sky -Bloody-",
-    "artist": "tanacoro/BGA:musao,wars,M.Takezaki / selene.",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=104",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01462",
-    "md5": "987521b0e5e93f2cb833e447445a2db8",
-    "sha256": "afffe991a3adcaca6fe144ee96b5ef66a6f6abf8c562eb6caa8f2c44a5caac10",
-    "level": "15",
-    "proposer": "スノート",
-    "comment": "乱打",
-    "submission": 876
-  },
-  {
     "title": "Decompozer [Decryption]",
     "artist": "Arkplot（mov：NekoX）",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=254&event=127",
@@ -19181,6 +19216,18 @@
     "proposer": "MarySue",
     "comment": "原曲のキー音をアレンジしたり、カットしたりした差分です(同梱の_OGGme.txtによれば)。同梱の_GOTH_base.b(0ノーツファイル)基準ズレ抜け無し。",
     "submission": 1271
+  },
+  {
+    "title": "GRAB BACK [Maryther]",
+    "artist": "ARMYTOM (Atomic Sphere) / obj : Mary_Sue",
+    "url": "https://mega.nz/file/qllhBSRb#Ed-GnmT3xmLVbJyM9TgylAlfDa-Gz6v0JZcJNCeDwMM",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "md5": "34c64b9c1844d77e3fa29e30398b9c7f",
+    "sha256": "2ed65ffac67adcbf6f91782e7b68858b2122bb690de4c76b56454f7c8a5a6cf1",
+    "level": "15",
+    "proposer": "SHAX.",
+    "comment": "BPM155 微連打",
+    "submission": 1595
   },
   {
     "title": "Grimheart [Project AG]",
@@ -20109,18 +20156,6 @@
     "submission": 995
   },
   {
-    "title": "ホーリーサンバランド [Soleil]",
-    "artist": "HOLY SAMBA MASTER 佐藤 -SATOH- / obj.fuko",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=193&event=96",
-    "url_diff": "https://stellabms.xyz/upload/1042",
-    "md5": "e5877413b78d1cc462a635dec7bd568b",
-    "sha256": "56ed7d50c88ed19e607dc23a9ea78d20be6ba20295b2e80c0c0c253ceb328102",
-    "level": "15",
-    "proposer": "七海",
-    "comment": "LAST BOSSの弱化版",
-    "submission": 1549
-  },
-  {
     "title": "マッドメチャクチャニズム [INSANE]",
     "artist": "69 de 74 BGI:れおん",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=127",
@@ -20761,6 +20796,18 @@
     "submission": 532,
     "sha256": "4f25dd82d41f497efc51d893067c55c21e6a838fd1daec9edb086cf11cb8402f",
     "proposerLr2id": 80338
+  },
+  {
+    "title": "Dark Sky -Bloody-",
+    "artist": "tanacoro/BGA:musao,wars,M.Takezaki / selene.",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=104",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01462",
+    "md5": "987521b0e5e93f2cb833e447445a2db8",
+    "sha256": "afffe991a3adcaca6fe144ee96b5ef66a6f6abf8c562eb6caa8f2c44a5caac10",
+    "level": "16",
+    "proposer": "スノート",
+    "comment": "乱打",
+    "submission": 876
   },
   {
     "title": "Destroyer［Oxygen］",
@@ -22032,6 +22079,18 @@
     "submission": 1036
   },
   {
+    "title": "トレジャーフェスティバル!!! [wide]",
+    "artist": "S.S.D. Arranged by Y.W / obj. laner",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=107",
+    "url_diff": "https://web.archive.org/web/20190322230215id_/https://www.hyper-laner.com/sabun/treasure_festival-7a_laner.bme",
+    "md5": "acfbf9f671497b20b7226754beba4fc6",
+    "sha256": "f0c944870f6e3762ca6c8858cb3402ef81956099139de4a71a81ceee55058d08",
+    "level": "16",
+    "proposer": "fuko",
+    "comment": "同時押し 連打",
+    "submission": 1612
+  },
+  {
     "title": "ドキドキ☆ココロ☆フレーバー (Lemon beads Hands-Up bootleg) -BMS Edit-",
     "artist": "榊原ゆい/Team-OZ/山下慎一狼 remixed by Lemon beads",
     "url": "http://yaruki0.sakura.ne.jp/event/A1_6th/impression.cgi?no=13",
@@ -22444,6 +22503,18 @@
     "sha256": "61f1433b6c83dd902d1eb3f1cac5e30e210cfd3aca280ac10e6ea68e12b2add8"
   },
   {
+    "title": "Be More Sadistic! (BMS Edit) -Genocide-",
+    "artist": "黒木鳴海 Illust:アカツキユウ / selene.",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=132",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04658",
+    "md5": "70cb09f3c2b58e8e49e28d481aa9435c",
+    "sha256": "55bcb2f251b45ea53ebb5786ecf667d8336ff50e85f12f303247ac01c73166ee",
+    "level": "17",
+    "proposer": "七海",
+    "comment": "0noteとズレなし",
+    "submission": 1596
+  },
+  {
     "title": "Bittersweet Magic -To The Future-",
     "artist": "Kuwagata / obj:七海",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=188&event=116",
@@ -22491,6 +22562,18 @@
     "submission": 539,
     "sha256": "04c8a384443d61267e3657c24687abdcde136cfbd0dbc948f7ce1a36a5724117",
     "proposerLr2id": 56801
+  },
+  {
+    "title": "Cipher : /2&//<|0 [/>/w/</]",
+    "artist": "Tetrajectory feat. Ctymax",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=297&event=123",
+    "url_diff": "https://darksabun.github.io/event/irbattle/",
+    "md5": "7809898376079d1d00af68426d050646",
+    "sha256": "b7701feadc9905063533354d83d58c969a6eee54e1bde29d7eef97c392b86fe4",
+    "level": "17",
+    "proposer": "qtp13",
+    "comment": "This Bear... (East@st4; Hard@st5~6)",
+    "submission": 1599
   },
   {
     "title": "colorbar [横認識]",
@@ -22575,6 +22658,18 @@
     "submission": 707,
     "sha256": "8e5b47522c32dd82f3485167b8f9bcdc5cdc3b86f9c9c797eb9661bf3afe5d4f",
     "proposerLr2id": 23110
+  },
+  {
+    "title": "dolls wish... [EX]",
+    "artist": "keyc/さ",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/dolls%20wish.%20(by%20keyc).rar",
+    "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
+    "md5": "003cdfadaf22dade9cccd3ae0d814317",
+    "sha256": "bc6d6644cbdf9901e740dad0e503356157feb44429c10ecbe0d28423d8f154cb",
+    "level": "17",
+    "proposer": "七海",
+    "comment": "43.5,51.5のキー音(#WAV2A)が#WAV29で分割されましたのでズレなし",
+    "submission": 1597
   },
   {
     "title": "DRAGONLADY (7key MASTER)",
@@ -23182,6 +23277,18 @@
     "submission": 1152
   },
   {
+    "title": "Spider Dance(METTAMETA Remix) -Xe-",
+    "artist": "toby fox Remixed by uet / obj : LindBlum BGI : morph",
+    "url": "http://beatmaniauet.sakura.ne.jp/BMS/uet_spiderdancermx_ogg.zip",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01828",
+    "md5": "5f3b47af4b0cbe42bdf2f2a6337caeef",
+    "sha256": "d8342ac22f6c1b36c262f9e5dc22f4031b6636749d28809447d4c0da10408605",
+    "level": "17",
+    "proposer": "歳納京子",
+    "comment": "stream, chords",
+    "submission": 1605
+  },
+  {
     "title": "SpringField [end of spring]",
     "artist": "QH. obj: 今村水産市場",
     "url": "http://k-bms.com/party_pabat/party.jsp?board_num=20&num=49",
@@ -23350,6 +23457,18 @@
     "proposer": "SHAX.",
     "comment": "BPM162 微連打",
     "submission": 1408
+  },
+  {
+    "title": "Valentine Memory [Hexagon]",
+    "artist": "syrela obj.hex",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=165&event=116",
+    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
+    "md5": "94dd053331872ee0fcb858d86cefee74",
+    "sha256": "e97c8de6701d4df136399075eb84d00ba1a5aa7c1f4d2c5ffcf375341af55e90",
+    "level": "17",
+    "proposer": "もにもに",
+    "comment": "乱打、ズレ、微連打 st3-4? ",
+    "submission": 1598
   },
   {
     "title": "violet [Barren]",
@@ -23566,6 +23685,18 @@
     "comment": "微連打複合、ディレイ",
     "submission": 263,
     "sha256": "62d3d6c5d7c1d2283e313b15eaa242e4aad0c343ebc8ab4578adb2902568cad0"
+  },
+  {
+    "title": "七つの鍵盤と大きな円盤とゴリラのための練習曲 第四番 ロ短調 \"かみなりぐものした\"",
+    "artist": "ROKINA OBJ : ランダマイザ",
+    "url": "http://livrenoir.web.fc2.com/",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01535",
+    "md5": "43f4fafa6ca36721d2e4229a847b2ea7",
+    "level": "17",
+    "proposer": "双六",
+    "comment": "ガチ押し",
+    "submission": 150,
+    "sha256": "034c1b1ad94df55f6b184a7647a41abad7f9c19eae896d8db33cc0855e5811d8"
   },
   {
     "title": "人形楽団　 ～ Puppet Ensemble ・∀・ ～",
@@ -24661,18 +24792,6 @@
     "submission": 878
   },
   {
-    "title": "七つの鍵盤と大きな円盤とゴリラのための練習曲 第四番 ロ短調 \"かみなりぐものした\"",
-    "artist": "ROKINA OBJ : ランダマイザ",
-    "url": "http://livrenoir.web.fc2.com/",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01535",
-    "md5": "43f4fafa6ca36721d2e4229a847b2ea7",
-    "level": "18",
-    "proposer": "双六",
-    "comment": "ガチ押し",
-    "submission": 150,
-    "sha256": "034c1b1ad94df55f6b184a7647a41abad7f9c19eae896d8db33cc0855e5811d8"
-  },
-  {
     "title": "図書室のエルザ [EXTRA]",
     "artist": "橘花音 かなえゆめ composed by nmk obj:VINYL",
     "url": "http://tosyosituno-elsa.tumblr.com/",
@@ -25429,6 +25548,18 @@
     "sha256": "b4a121d003dc544f6839b9e6b3a9a081af3d5ae1316782ed3b28b2d81deea62e"
   },
   {
+    "title": "あＡアぁ亜ａァ [Forgotten Hero]",
+    "artist": "ああああ / obj.7zs",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=60",
+    "url_diff": "http://gnqg.rosx.net/upload/",
+    "md5": "9bd201347125207b7acee0310a4d937b",
+    "sha256": "a59ee05b2e0b4492cf15fd438ba99800ded62941134c95875a2149984169be18",
+    "level": "19",
+    "proposer": "垢伴次郎",
+    "comment": "BPM133 ガチ押し ディレイ",
+    "submission": 1602
+  },
+  {
     "title": "オトゲラヴ！ [フルプライス]",
     "artist": "ねこみりん feat.小宮真央×みゆ×えみゅう。 Movie:kkkfff2 / Illust:永山ゆうのん obj.ブレイブマン",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=201&event=96",
@@ -25991,6 +26122,18 @@
     "sha256": "08a1c39baf728c4e9fbe2dfeea6cda5820dfc4e60ccf2defc428c01521e92215"
   },
   {
+    "title": "Orfevre -LAST BOSS-",
+    "artist": "SHIKI / obj:Lian",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=123",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05511",
+    "md5": "8d53c01af779f3f237f5e1b243f8d4d7",
+    "sha256": "e3c0f42a6939d5ddec07ab9424af255896a55976680d26a944f3142d83224fde",
+    "level": "20",
+    "proposer": "BAECON",
+    "comment": "中速連打複合",
+    "submission": 1615
+  },
+  {
     "title": "Plastic Mind [Sacrifice]",
     "artist": "ZUN/arr.みょん / iimode-do / かげきち / obj:C4",
     "url": "http://onedrive.live.com/?cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21201",
@@ -26061,6 +26204,18 @@
     "comment": "주로 24,16섞인 폭타가 나오는 후살 몰빵곡입니다 잘 부탁드립니다",
     "submission": 84,
     "sha256": "c9843b5dee679fcba5895a1cfa2cee444fe9b10c95136967bedc060aa5b07f3e"
+  },
+  {
+    "title": "SEPIA -reminisce-",
+    "artist": "SHIKI/-45/obj:qfeileadh",
+    "url": "http://shiki2.sakura.ne.jp/fohs.html",
+    "url_diff": "https://stellabms.xyz/upload/1072",
+    "md5": "15cff55bf011ac0542b19f9b113d2c92",
+    "sha256": "d4fabfdfe1b8cf7dc2315859508a19c20f10f6dd6271997bb0795a8a6c4817e7",
+    "level": "20",
+    "proposer": "qtp13",
+    "comment": "total is very high, technically it's st8",
+    "submission": 1601
   },
   {
     "title": "Shiny☆Strike!!! [Beyond the Future]",
@@ -26340,18 +26495,6 @@
     "comment": "高速",
     "submission": 177,
     "sha256": "eef272a932e15524d3e05120580f260ccdb73514b29f627d1a462c9bface191c"
-  },
-  {
-    "title": "aballava (???????)",
-    "artist": "Team:SASAKURATION  /  Goten",
-    "url": "http://onedrive.live.com/?cid=43C7447B3E45559B&id=43C7447B3E45559B%21105",
-    "url_diff": "http://absolute.pv.land.to/bmsuploader.html",
-    "md5": "ca0d671f6888bb05962a3574dc8aac77",
-    "sha256": "45d2196a7fe4be19f0165c72c0ab1d98e21d5970fac7751a39f75f9327007107",
-    "level": "21",
-    "proposer": "MEES-♬",
-    "comment": "???????",
-    "submission": 859
   },
   {
     "title": "AIWS [Other]",
@@ -26804,6 +26947,18 @@
     "proposerLr2id": 121666
   },
   {
+    "title": "Reason [without reason]",
+    "artist": "Juno BGI : Sierra pattern for some reason + И",
+    "url": "https://dropbox.bms.ms/u/59988778/Juno%20-%20Reason.zip",
+    "url_diff": "https://darksabun.github.io/event/irbattle/",
+    "md5": "a4c20fb7342ec43979c0ebe2570bd4ae",
+    "sha256": "8b80f07ff081e4a81fb8e6ea973bc1221eb646c2d13a10df36370708457f5421",
+    "level": "21",
+    "proposer": "もにもに",
+    "comment": "beyond the reason",
+    "submission": 1600
+  },
+  {
     "title": "Revelator -Revenger-",
     "artist": "sa10 obj : LindBlum",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=68&event=102",
@@ -26995,6 +27150,18 @@
     "comment": "縦連階段",
     "submission": 256,
     "sha256": "545f89f75bdf5ab364f512928bd71a5f7c7276c6a2838d0191591b4ea83b7522"
+  },
+  {
+    "title": "フロンティア↑↑エクスプローラー [Frontier]",
+    "artist": "kei_iwata Illust:morph/ BGA:qfeileadh/ obj : BAECON",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=132",
+    "url_diff": "",
+    "md5": "14c8320608ce1609a8824558cdd64631",
+    "sha256": "ee5a564bb8c24ce029e78c3a587bc75e36246f267345b3f81ea87e79034a7dde",
+    "level": "21",
+    "proposer": "otoshi.b",
+    "comment": "4522",
+    "submission": 1593
   },
   {
     "title": "レンダランド -EXTRA BOSS-",
@@ -28295,6 +28462,18 @@
     "proposer": "qtp13",
     "comment": "Your despair competent my plume (kurenaissance, arrange by yst; st12?)",
     "submission": 1192
+  },
+  {
+    "title": "Stellaria [STELLA MASTER]",
+    "artist": "Lime obj : BAECON",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=434&event=133",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05534",
+    "md5": "748589350d9a7f663cec78c2a61bce78",
+    "sha256": "6fc70f459c054e94c6cc770420ba06cba185d139964849348c7057718fa78244",
+    "level": "25",
+    "proposer": "スノート",
+    "comment": "地力、高速高密度重発狂",
+    "submission": 1614
   },
   {
     "title": "キミとボクへの葬送歌 [えくせる塩]",
