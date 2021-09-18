@@ -30,8 +30,7 @@ jobs:
       - name: Build tables
         run: |
           cd builder
-          nimble build -y
-          ./bin/stellatablebuilder --outputPath ../main/data/
+          nimble run -d:release -y -- --outputPath ../main/data/
           cd ../main
           git config user.name github-actions
           git config user.email github-actions@github.com
