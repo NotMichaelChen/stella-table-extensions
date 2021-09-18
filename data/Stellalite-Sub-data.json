@@ -6137,6 +6137,18 @@
     "proposerLr2id": 135151
   },
   {
+    "md5": "ac3571dc8bbdeeb7cf06434e7a4028db",
+    "sha256": "352870f868abed066ae8bb73c0a93fb1a6718a1fb0434a9b210d1639244276bc",
+    "title": "Stellaria [ANOTHER7]",
+    "artist": "Lime",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=434&event=133",
+    "level": "1",
+    "proposer": "ИИ",
+    "submission": 2204,
+    "proposerLr2id": 147895
+  },
+  {
     "md5": "b9c7bc62daea8f9ccd4502328d624486",
     "sha256": "dfdb88f1035e27630598f31fc14f534efc619a19bb2f78a103128509c482cf6a",
     "title": "Strawberry Mint Chocolate [ice cream]",
@@ -28825,6 +28837,20 @@
     "proposerLr2id": 80338
   },
   {
+    "md5": "0f02775a367c932432b0e31bb38acc3b",
+    "sha256": "c5c79e124cd049a0b3a5d3b087033e2556e14a2b0d9253c624a03b1a0b3e23d8",
+    "title": "DEATH SENTENCE [Eliminator]",
+    "artist": "kohaxy obj.Mallow♪ vs zowni",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05482",
+    "url": "https://venue.bmssearch.net/bmsshuin3/52",
+    "level": "12",
+    "comment": "11~12?",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 2203,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "a042bdc9757be1de18bf735cba90738d",
     "sha256": "d009ccc924dd97e124787639745f7f335416ae3400322f119e076502088adadc",
     "title": "Death Waltz [HARDEST]",
@@ -36421,6 +36447,19 @@
     "proposerLr2id": 7290
   },
   {
+    "md5": "44305430d942f03a34a2f5ab0c1891ee",
+    "sha256": "c45c18326572d519f8423a2d4365775df4aae01743950b4a2645a7320d77e146",
+    "title": "砂上ノ幻憶 -Mystic-",
+    "artist": "utah 妖",
+    "url_diff": "http://absolute.pv.land.to/bof/src/up0735.zip",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=96&event=96",
+    "level": "14",
+    "comment": "BPM244の8分ガチ押し譜面　同梱SP譜面のいずれともずれていますが、差分作成用のテンプレートである999_砂上ノ幻憶_TEMP.temp基準から作成しており、それ基準ではズレがありません。",
+    "proposer": "ふかけん",
+    "submission": 1628,
+    "proposerLr2id": 145204
+  },
+  {
     "md5": "7c566134ca0e091e4c60f26c140cffa8",
     "sha256": "7429a680c3123753c02d5d92ad194f5bd39d7426b4ca4f16f24da3bff65d0132",
     "title": "硬核機動 [EX]",
@@ -39834,6 +39873,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "b4ba66dc2eaf3034b6a164e1fa0ff50ec2a20c9f7c8b99bc29d8bcc70494e6f6"
+  },
+  {
+    "md5": "59d232d917f8764613784dc121c98eed",
+    "sha256": "f800b25556b5f9b7c0ae4643139c35beb7e0bef2441c885d3ae828d8d6e51d90",
+    "title": "[line:theta] -Xe-",
+    "artist": "nitro obj : LindBlum",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05537",
+    "url": "https://dl.dropboxusercontent.com/s/1wbit5p08wqyxmm/%5Bline%EF%BC%9Atheta%5D%20%28by%20nitro%29.rar",
+    "level": "16",
+    "comment": "3~4?",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 1627,
+    "proposerLr2id": 84597
   },
   {
     "md5": "3a865ba9d608e67d7b86c29e137ff08c",
@@ -47842,6 +47895,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "7796d484252c7407de02d890fe4bbe342b49d0d9d95c1b78a9338aba4a82a199"
+  },
+  {
+    "md5": "b36e85ecc1718a32eb5d77f84a0163bb",
+    "sha256": "a7fc629423176e082c3bea9a0aa1cd5a354e7e641443f0155e82bf0d5ca519b8",
+    "title": "ophthalmomyiasis [eyeburner]",
+    "artist": "xixuezique BGA : 空読無 白眼 / obj tyrcs",
+    "url_diff": "https://stellabms.xyz/upload/1080",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=123",
+    "level": "19",
+    "comment": "ディレイなどのズレあり",
+    "proposer": "七海",
+    "submission": 1626,
+    "proposerLr2id": 84597
   },
   {
     "md5": "9ac398d3e963c9338d3d0c8005bd097b",
