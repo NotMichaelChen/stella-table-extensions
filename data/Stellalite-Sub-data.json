@@ -8639,19 +8639,6 @@
     "votePercent": 0
   },
   {
-    "level": "2",
-    "comment": "同時押し",
-    "md5": "edf3b5d7f64ea23cf04f70443632b782",
-    "sha256": "c48101836126ce9296a0ed018563979cd949e9ee967a591019bdc6ceb7dfd103",
-    "title": "Luca [ABNORMAL]",
-    "artist": "eicateve / obj:Restia hrchem,Takamatsu,Sennzai,Yamaguchi,eoll",
-    "url_diff": "https://1drv.ms/u/s!ApwaJAUHJdpylyrV91360umU3Euo?e=m1VxbD",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=466&event=110",
-    "proposer": "dstorv",
-    "submission": 1224,
-    "proposerLr2id": 145158
-  },
-  {
     "md5": "b4d33ad62e4e4ac6b443e03346bb22b0",
     "sha256": "7bb9188ee467bdabcd67a4d59af5e67198bfc4c3bcfe7843a2f48b2b61598464",
     "title": "Lucid Dreaming [U]",
@@ -11570,6 +11557,19 @@
     "proposerLr2id": 7290
   },
   {
+    "level": "3",
+    "comment": "同時押し",
+    "md5": "edf3b5d7f64ea23cf04f70443632b782",
+    "sha256": "c48101836126ce9296a0ed018563979cd949e9ee967a591019bdc6ceb7dfd103",
+    "title": "Luca [ABNORMAL]",
+    "artist": "eicateve / obj:Restia hrchem,Takamatsu,Sennzai,Yamaguchi,eoll",
+    "url_diff": "https://1drv.ms/u/s!ApwaJAUHJdpylyrV91360umU3Euo?e=m1VxbD",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=466&event=110",
+    "proposer": "dstorv",
+    "submission": 1224,
+    "proposerLr2id": 145158
+  },
+  {
     "md5": "f7f8125e7670c8a96d33d093e637c349",
     "sha256": "70d1949461095686c27c4ad3b4ada697b191773c1cc51dd7f63d091e816b82bc",
     "title": "Lucifuge Rofocale (twilight)",
@@ -12588,6 +12588,20 @@
     "proposer": "MineC24",
     "submission": 1005,
     "proposerLr2id": 84597
+  },
+  {
+    "md5": "e84e2e6b6fce1553ca2e1226c7902b33",
+    "sha256": "8c79f69717ba8e286b3fbcf1515ca4756343422eaea472783ee81db9562ab344",
+    "title": "「ほしのおうじさま」 [A18]",
+    "artist": "梅干茶漬け Obj.Triforce",
+    "url_diff": "https://darksabun.github.io/event/irbattle/",
+    "url": "https://dl.dropboxusercontent.com/s/1x13o0mh5yjnwo8/hoshi_no_oujisama_ogg.zip",
+    "level": "3",
+    "comment": "差分作家さんはケモノが大好きだそうです。",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 2206,
+    "proposerLr2id": 147889
   },
   {
     "level": "3",
@@ -20196,19 +20210,6 @@
     "votePercent": 0
   },
   {
-    "md5": "af2fd0e30bb7547de89d207b4d5807c5",
-    "sha256": "7568fd50fdf4c4e54d41f8d8622a5913f50a61dbac4ea9cc65d1b23bacc7f1a8",
-    "title": "Angel (IR Battle edition)",
-    "artist": "POM bga-G Sliced by DAC",
-    "url_diff": "https://darksabun.github.io/event/irbattle/",
-    "url": "https://mega.nz/folder/sZMTGZqZ#YZH2Xy6jBMMNl3MvQ_pp-A/file/YU0kGRqT",
-    "level": "7",
-    "comment": "If you wish to leave a record of your call, please state your message at the sound of the tone. (Uses sliced keysounds)",
-    "proposer": "qtp13",
-    "submission": 2184,
-    "proposerLr2id": 86559
-  },
-  {
     "level": "7",
     "comment": "Beneath the waves, I find another day... (高TOTAL)",
     "md5": "ffd23e965436f9d6147cf872a8dec374",
@@ -22066,6 +22067,19 @@
     "proposer": "LUXURY♪",
     "submission": 1328,
     "proposerLr2id": 23110
+  },
+  {
+    "md5": "af2fd0e30bb7547de89d207b4d5807c5",
+    "sha256": "7568fd50fdf4c4e54d41f8d8622a5913f50a61dbac4ea9cc65d1b23bacc7f1a8",
+    "title": "Angel (IR Battle edition)",
+    "artist": "POM bga-G Sliced by DAC",
+    "url_diff": "https://darksabun.github.io/event/irbattle/",
+    "url": "https://mega.nz/folder/sZMTGZqZ#YZH2Xy6jBMMNl3MvQ_pp-A/file/YU0kGRqT",
+    "level": "8",
+    "comment": "If you wish to leave a record of your call, please state your message at the sound of the tone. (Uses sliced keysounds)",
+    "proposer": "qtp13",
+    "submission": 2184,
+    "proposerLr2id": 86559
   },
   {
     "md5": "abeb7d0f0baeaa30fa3f2f1626bade73",
@@ -26249,6 +26263,19 @@
     "proposerLr2id": 124809
   },
   {
+    "md5": "c8b4aadd39574ba1f09e983d574859bf",
+    "sha256": "917eafbaaa6a2d3ca17dce66217377cd982458dca44956171405ba8018309bde",
+    "title": "ビミョーなPOSITION (Mince-Saw Zoo of Cocaine Bootleg)",
+    "artist": "アニヨコーズ / obj:ctc",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up5088.zip",
+    "url": "https://mega.nz/folder/EpgWgJqa#7OItZfYLQxZ0X8OB19yvNQ/file/QtRCQSBR",
+    "level": "10",
+    "comment": "子供向けの可愛い楽曲。_ANIYOCORE.bme基準検出されたズレは全部bpm関連のズレです。",
+    "proposer": "Mary_Sue",
+    "submission": 2207,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "53f8be00ad117670c36e25bd521599b7",
     "sha256": "2146ad41c3d1e82c6212678d7dbd05a07c2e7c88dd5ff9849ceaf8a1690eb04b",
     "title": "ピアノ狂詩曲第壱番”天嵐戒” [7G]",
@@ -26707,6 +26734,20 @@
     "proposer": "赤坂",
     "submission": 1044,
     "proposerLr2id": 151125
+  },
+  {
+    "md5": "243a6ba83bc2f291a2a9bc9736b833bd",
+    "sha256": "ca80e976628ccf9a7a0f5141fce13738d65b7832db618e47725b6d491502d024",
+    "title": "Calamity Fortune [HARDEST]",
+    "artist": "ZUN remixed by LeaF/ 差分 赤い人 Movie:Optie",
+    "url_diff": "http://akred.web.fc2.com/bmsfile/Calamity-HARDEST.bms",
+    "url": "http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=45",
+    "level": "11",
+    "comment": "BPM200の16分乱打 sl10強～sl11適正？",
+    "zureCount": 0,
+    "proposer": "KAMBAL",
+    "submission": 2205,
+    "proposerMinirid": "5bca1114-f955-4eaa-87ff-fd46dd1ae927"
   },
   {
     "md5": "b188cbde1a1582b563ec3d48bb7deca8",
@@ -32397,6 +32438,20 @@
     "proposer": "C4",
     "submission": 920,
     "proposerLr2id": 120385
+  },
+  {
+    "md5": "635c5caa8da5bdbb712e35b5f564a11c",
+    "sha256": "8bd9ef6b9e00b096f14649fe299aeb6bf8c9dbd5513f0759185710839d05e249",
+    "title": "あにまら (・ω・)",
+    "artist": "TOMA/さ",
+    "url_diff": "http://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
+    "url": "https://onedrive.live.com/?cid=F61C1F8825F0CF46&id=F61C1F8825F0CF46%21330&parId=F61C1F8825F0CF46%21159&o=OneUp",
+    "level": "13",
+    "comment": "BPM255 超高速love",
+    "zureCount": 0,
+    "proposer": "fuko",
+    "submission": 1629,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "level": "13",
@@ -41029,6 +41084,20 @@
     "sha256": "4d2b608e50482cead3714e0a6b5257863b8218f7c55b320f5be03e54b61ea752"
   },
   {
+    "md5": "97b5e9ba5d721ef74a2c60baa4a318af",
+    "sha256": "73a44eb674b9c2297deb0d9021aba6f4bda7e4dec1c932e73262a7841072b567",
+    "title": "Hard Spice [Maryther]",
+    "artist": "dj koishi / OBJ : Mary_Sue BGI:デスソ－ス軍団",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=599&event=110",
+    "level": "16",
+    "comment": "BPM240 同時押し 皿複合",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 1631,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "237e643cf3bdc90367cbec3c634fcfdd",
     "sha256": "2ee83556ed048253e10eb50be835ae4a76f1a121ce0186902d7d8a7dd81674d9",
     "title": "Holyvenger [MASTER]",
@@ -41317,6 +41386,20 @@
     "proposer": "SHAX.",
     "submission": 1205,
     "proposerLr2id": 65624
+  },
+  {
+    "md5": "0be4d1d469fab7326850e5273200f855",
+    "sha256": "e6020873351e754d3aadb92ea1d79814e462e73cd857216062ae8c355715fd72",
+    "title": "Luv of Magical Synth [LuvTek's Magical Sabun]",
+    "artist": "Naukorin α-Gorila",
+    "url_diff": "https://fsrs.github.io/sabun/LuvTek/Luv_of_Magical_Synth_LuvTek.zip",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=129",
+    "level": "16",
+    "comment": "gachi",
+    "zureCount": 0,
+    "proposer": "歳納京子",
+    "submission": 1620,
+    "proposerLr2id": 75332
   },
   {
     "md5": "d64cec814932a61db780978273c493cc",
@@ -43082,20 +43165,6 @@
     "sha256": "61f1433b6c83dd902d1eb3f1cac5e30e210cfd3aca280ac10e6ea68e12b2add8"
   },
   {
-    "md5": "70cb09f3c2b58e8e49e28d481aa9435c",
-    "sha256": "55bcb2f251b45ea53ebb5786ecf667d8336ff50e85f12f303247ac01c73166ee",
-    "title": "Be More Sadistic! (BMS Edit) -Genocide-",
-    "artist": "黒木鳴海 Illust:アカツキユウ / selene.",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04658",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=132",
-    "level": "17",
-    "comment": "0noteとズレなし",
-    "zureCount": 0,
-    "proposer": "七海",
-    "submission": 1596,
-    "proposerLr2id": 84597
-  },
-  {
     "md5": "a129e26fb60d6381fd44b07fd0ab9725",
     "sha256": "7d1f4cd30830e75e82edf22c89be7e73231dc8e6b8eade14a309bc69b1d48397",
     "title": "Bittersweet Magic -To The Future-",
@@ -43492,6 +43561,20 @@
     "proposer": "スノート",
     "submission": 947,
     "proposerLr2id": 86393
+  },
+  {
+    "md5": "fd278ba1685bd983b3e0dcc496a9b46e",
+    "sha256": "f87f0ce396000f821f064808d069574b1b0035564da9628e5000a8edc9265b31",
+    "title": "Empress of Raizze [殺しなさい]",
+    "artist": "-45/わなな・BANI / obj:スノート",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=03850",
+    "url": "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
+    "level": "17",
+    "comment": "連打ガチ押し",
+    "zureCount": 0,
+    "proposer": "qtp13",
+    "submission": 1634,
+    "proposerLr2id": 86559
   },
   {
     "md5": "feb045f210443dab12b54bebf4f3ccc8",
@@ -44083,20 +44166,6 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "7269234690a0b7c97d9375179829a46070705dd08b96911b55f2e9945554c81f"
-  },
-  {
-    "md5": "0be4d1d469fab7326850e5273200f855",
-    "sha256": "e6020873351e754d3aadb92ea1d79814e462e73cd857216062ae8c355715fd72",
-    "title": "Luv of Magical Synth [LuvTek's Magical Sabun]",
-    "artist": "Naukorin α-Gorila",
-    "url_diff": "https://fsrs.github.io/sabun/LuvTek/Luv_of_Magical_Synth_LuvTek.zip",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=129",
-    "level": "17",
-    "comment": "gachi",
-    "zureCount": 0,
-    "proposer": "歳納京子",
-    "submission": 1620,
-    "proposerLr2id": 75332
   },
   {
     "level": "17",
@@ -44951,6 +45020,19 @@
     "sha256": "2cac4daa2fd5b2b351b0b441de540a69d81e0d5d3f8858a1c9ab3774092cfec6"
   },
   {
+    "md5": "c1b55ce3bea1965441355f042aa85727",
+    "sha256": "637c694f316e4f6b762c29c2ce9fe573414ddde153b2fc2f98e1107b8c2cf915",
+    "title": "その斯くも美しき紅に -IR-",
+    "artist": "天音 obj: qtp13",
+    "url_diff": "https://darksabun.github.io/event/irbattle/",
+    "url": "https://web.archive.org/web/20120507144453/http://youzyo.net/bms/ama03_kakumo.zip",
+    "level": "17",
+    "comment": "BPM155 連打複合",
+    "proposer": "SHAX.",
+    "submission": 1630,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "0e9e71da1f89a803d60b75319b21b9f5",
     "title": "にじいろクレヨン [GOD]",
     "artist": "kagerow",
@@ -45577,6 +45659,20 @@
     "proposer": "오수출신고수",
     "submission": 1351,
     "proposerLr2id": 73333
+  },
+  {
+    "md5": "70cb09f3c2b58e8e49e28d481aa9435c",
+    "sha256": "55bcb2f251b45ea53ebb5786ecf667d8336ff50e85f12f303247ac01c73166ee",
+    "title": "Be More Sadistic! (BMS Edit) -Genocide-",
+    "artist": "黒木鳴海 Illust:アカツキユウ / selene.",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04658",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=132",
+    "level": "18",
+    "comment": "0noteとズレなし",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 1596,
+    "proposerLr2id": 84597
   },
   {
     "md5": "e5820d94259154bff12b6ad106997420",
@@ -46318,6 +46414,19 @@
     "sha256": "16933ea7ce7f52de6395aca12744c7a80edab48544dce533777a3175438841d3"
   },
   {
+    "md5": "15b9d7f3049b903481bfb44f34432afd",
+    "sha256": "2813a3aebe96f416f8d9897a5c9e56e275529fb96790d9ae5a0ba5fea9b198a0",
+    "title": "Neurotoxin (Full length)",
+    "artist": "削除 / 石像くん Sliced by Crude Sound Adder",
+    "url_diff": "https://bms.parksulab.xyz",
+    "url": "https://web.archive.org/web/20120108070726/http://www7b.biglobe.ne.jp/~ssbossmix/sakuzyo_Neurotoxin_ogg.zip",
+    "level": "18",
+    "comment": "BPM180 微縦 (追加音源あり)",
+    "proposer": "垢伴次郎",
+    "submission": 1632,
+    "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
+  },
+  {
     "md5": "edecd9a13627a5a55feaf3be4b6a0724",
     "title": "Nhelv [SF HELL]",
     "artist": "Silentroom obj: Silver_Fish",
@@ -46343,6 +46452,19 @@
     "comment": "",
     "submission": 26,
     "sha256": "a1e162ef4222da26405a178770225b7b5009332e71b4019453fc4387a19e2cbf"
+  },
+  {
+    "md5": "b36e85ecc1718a32eb5d77f84a0163bb",
+    "sha256": "a7fc629423176e082c3bea9a0aa1cd5a354e7e641443f0155e82bf0d5ca519b8",
+    "title": "ophthalmomyiasis [eyeburner]",
+    "artist": "xixuezique BGA : 空読無 白眼 / obj tyrcs",
+    "url_diff": "https://stellabms.xyz/upload/1080",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=123",
+    "level": "18",
+    "comment": "ディレイなどのズレあり",
+    "proposer": "七海",
+    "submission": 1626,
+    "proposerLr2id": 84597
   },
   {
     "md5": "f6366e5d36a9e5403cba3da7e87cc5aa",
@@ -46571,6 +46693,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "1278f06694558238e79d0a60e58ce55c5fec60ca670f449374b9ee0b49cd81b8"
+  },
+  {
+    "md5": "323f8db6c78c71241c433bf40af45128",
+    "sha256": "9f0e2337deca13d4b64c3f066175906ade14c0acc58cf68809ed697707c06804",
+    "title": "Synthesized Girl's Heart [EX]",
+    "artist": "SHIKI obj:tamate",
+    "url_diff": "https://stellabms.xyz/upload/898",
+    "url": "http://wayback.archive.org/web/20051118202658/http://www.remarkablesense.org/~shiki/girl.exe",
+    "level": "18",
+    "comment": "BPM188 乱打",
+    "zureCount": 0,
+    "proposer": "垢伴次郎",
+    "submission": 1633,
+    "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
   },
   {
     "md5": "7867d3bf5cc5af9289f33313eaceb2ed",
@@ -47897,19 +48033,6 @@
     "sha256": "7796d484252c7407de02d890fe4bbe342b49d0d9d95c1b78a9338aba4a82a199"
   },
   {
-    "md5": "b36e85ecc1718a32eb5d77f84a0163bb",
-    "sha256": "a7fc629423176e082c3bea9a0aa1cd5a354e7e641443f0155e82bf0d5ca519b8",
-    "title": "ophthalmomyiasis [eyeburner]",
-    "artist": "xixuezique BGA : 空読無 白眼 / obj tyrcs",
-    "url_diff": "https://stellabms.xyz/upload/1080",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=38&event=123",
-    "level": "19",
-    "comment": "ディレイなどのズレあり",
-    "proposer": "七海",
-    "submission": 1626,
-    "proposerLr2id": 84597
-  },
-  {
     "md5": "9ac398d3e963c9338d3d0c8005bd097b",
     "sha256": "0b6f9f315b708eaf61c1d4f431d7c30b76583b38c4a6743d012ffceb3dfdc861",
     "title": "overtrue [Other]",
@@ -48748,6 +48871,19 @@
     "comment": "",
     "submission": 12,
     "sha256": "b3649f887790abcd9c3d9ca9c67a9592e5d6956e9127377c77efcd082d0a1b81"
+  },
+  {
+    "md5": "945186e72918774b15cff9a38fe7d8ec",
+    "sha256": "e2a2e1b39090f3d49e1f550e79c040f5226ace3af46cb9e0f523be7b741880d8",
+    "title": "CrucifiXus [THE JUDGEMENT DAY]",
+    "artist": "qfeileadh Arishima_Caprico / obj : BAECON",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=132",
+    "level": "20",
+    "comment": "The judgement day is coming...",
+    "proposer": "otoshi.b",
+    "submission": 1531,
+    "proposerLr2id": 87474
   },
   {
     "md5": "a4741bb68417a82573d53da3cbb551b2",
@@ -49905,19 +50041,6 @@
     "comment": "",
     "submission": 30,
     "sha256": "e932f376115d60f4205298489d17ee7f090d11013885d00ebd0acbc49d9b7df3"
-  },
-  {
-    "md5": "945186e72918774b15cff9a38fe7d8ec",
-    "sha256": "e2a2e1b39090f3d49e1f550e79c040f5226ace3af46cb9e0f523be7b741880d8",
-    "title": "CrucifiXus [THE JUDGEMENT DAY]",
-    "artist": "qfeileadh Arishima_Caprico / obj : BAECON",
-    "url_diff": "",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=132",
-    "level": "21",
-    "comment": "The judgement day is coming...",
-    "proposer": "otoshi.b",
-    "submission": 1531,
-    "proposerLr2id": 87474
   },
   {
     "md5": "6ef9b71ed5ba479d39314326ca9bd549",

@@ -1230,11 +1230,6 @@
     "level": "0.00...0.50"
   },
   {
-    "md5": "4b6a3ed9cc78b8bc0f9ae76eba17b21f",
-    "title": "WAYLAID (Additional)",
-    "level": "0.00...0.50"
-  },
-  {
     "md5": "d1f9e7ff31d79e9b4506ae5ae06595d8",
     "title": "work.it [hump day]",
     "level": "0.00...0.50"
@@ -1335,6 +1330,11 @@
     "level": "0.00...0.50"
   },
   {
+    "md5": "ac8f91b6b7da90badb18fea021e38c0a",
+    "title": "十七絃と箏と尺八のための萃夢想 [十七メートル走]",
+    "level": "0.00...0.50"
+  },
+  {
     "md5": "b67c0f0b5da347f94eae1119b1158ec9",
     "title": "夢の地図と僕らの旅 [departure]",
     "level": "0.00...0.50"
@@ -1405,11 +1405,6 @@
     "level": "0.50...1.00"
   },
   {
-    "md5": "3e41e0e7c83c78f907b01598ac206fbf",
-    "title": "Bouquet colore [Macuil]",
-    "level": "0.50...1.00"
-  },
-  {
     "md5": "415c224cfdae9249d2170aae72f53868",
     "title": "Celestial Axes [Intermediate Drill]",
     "level": "0.50...1.00"
@@ -1440,11 +1435,6 @@
     "level": "0.50...1.00"
   },
   {
-    "md5": "9a50c8e205ac779944a6855b9c003b6f",
-    "title": "F [F]",
-    "level": "0.50...1.00"
-  },
-  {
     "md5": "e62f07b38621e9e084f3f9f77d631c82",
     "title": "GET ON WiTH FUNKOT [SP HELL]",
     "level": "0.50...1.00"
@@ -1460,13 +1450,13 @@
     "level": "0.50...1.00"
   },
   {
-    "md5": "e27a5d3958df862a2fb38a8fa393a18f",
-    "title": "Natullary [Hi]",
+    "md5": "7745f1e720cbc677fb403a5e64d17860",
+    "title": "Lonely Cat [Snother]",
     "level": "0.50...1.00"
   },
   {
-    "md5": "869cc79745fd54db3aa1824c2cc1ce5d",
-    "title": "on impetus -for noobetus-",
+    "md5": "e27a5d3958df862a2fb38a8fa393a18f",
+    "title": "Natullary [Hi]",
     "level": "0.50...1.00"
   },
   {
@@ -1500,11 +1490,6 @@
     "level": "0.50...1.00"
   },
   {
-    "md5": "7cda74bdd1200b49a77a802ec3772f64",
-    "title": "Shining Stage",
-    "level": "0.50...1.00"
-  },
-  {
     "md5": "c1a5b071d1c654750ef8d6d902274e43",
     "title": "Shore in the Rain [SP ANOTHER]",
     "level": "0.50...1.00"
@@ -1525,6 +1510,11 @@
     "level": "0.50...1.00"
   },
   {
+    "md5": "4b6a3ed9cc78b8bc0f9ae76eba17b21f",
+    "title": "WAYLAID (Additional)",
+    "level": "0.50...1.00"
+  },
+  {
     "md5": "d92247e0b57d649619e7b4652d8098dc",
     "title": "☆ウィンドサンバランド☆ -ANOTHER-",
     "level": "0.50...1.00"
@@ -1537,26 +1527,6 @@
   {
     "md5": "a5558c79adeaeccca3955e150304a139",
     "title": "ほしぞら遊覧飛行 -under the milkyway-",
-    "level": "0.50...1.00"
-  },
-  {
-    "md5": "ecea3b8c103b84be7771cfb8afc06682",
-    "title": "サラダ [Touch Grass]",
-    "level": "0.50...1.00"
-  },
-  {
-    "md5": "eaaef1ecb6f00074ca25e451b223134d",
-    "title": "リジットXXパラダイス -Hope-",
-    "level": "0.50...1.00"
-  },
-  {
-    "md5": "ac8f91b6b7da90badb18fea021e38c0a",
-    "title": "十七絃と箏と尺八のための萃夢想 [十七メートル走]",
-    "level": "0.50...1.00"
-  },
-  {
-    "md5": "15b9da504bab6ee1cf7122fe8e36a08e",
-    "title": "煉情ミスティフィリア [Another]",
     "level": "0.50...1.00"
   },
   {
@@ -1615,6 +1585,11 @@
     "level": "1.00...1.50"
   },
   {
+    "md5": "3e41e0e7c83c78f907b01598ac206fbf",
+    "title": "Bouquet colore [Macuil]",
+    "level": "1.00...1.50"
+  },
+  {
     "md5": "6b73ab790521416d75b49ac73bb19555",
     "title": "Carnelian",
     "level": "1.00...1.50"
@@ -1667,6 +1642,11 @@
   {
     "md5": "bde981560115cc2f7fa6e5a93b1c13dc",
     "title": "Existence [Another+]",
+    "level": "1.00...1.50"
+  },
+  {
+    "md5": "9a50c8e205ac779944a6855b9c003b6f",
+    "title": "F [F]",
     "level": "1.00...1.50"
   },
   {
@@ -1785,11 +1765,6 @@
     "level": "1.00...1.50"
   },
   {
-    "md5": "7745f1e720cbc677fb403a5e64d17860",
-    "title": "Lonely Cat [Snother]",
-    "level": "1.00...1.50"
-  },
-  {
     "md5": "4f3b5403ec82d5f2cde0a88c13c12a23",
     "title": "Lots Of Spices [甘口]",
     "level": "1.00...1.50"
@@ -1855,6 +1830,11 @@
     "level": "1.00...1.50"
   },
   {
+    "md5": "869cc79745fd54db3aa1824c2cc1ce5d",
+    "title": "on impetus -for noobetus-",
+    "level": "1.00...1.50"
+  },
+  {
     "md5": "fd8827ea3d142f4f7e89563cd3f96603",
     "title": "on the sequence #3 (NOTVICE)",
     "level": "1.00...1.50"
@@ -1907,6 +1887,11 @@
   {
     "md5": "233b0091293574989d1d05f89e279174",
     "title": "SEKIDO [Dead]",
+    "level": "1.00...1.50"
+  },
+  {
+    "md5": "7cda74bdd1200b49a77a802ec3772f64",
+    "title": "Shining Stage",
     "level": "1.00...1.50"
   },
   {
@@ -2005,6 +1990,11 @@
     "level": "1.00...1.50"
   },
   {
+    "md5": "ecea3b8c103b84be7771cfb8afc06682",
+    "title": "サラダ [Touch Grass]",
+    "level": "1.00...1.50"
+  },
+  {
     "md5": "d2c180271db16f3cbd34e53ed51123a5",
     "title": "シャーロック・シェリンフォードのテーマwithえかたん [Why done it?]",
     "level": "1.00...1.50"
@@ -2022,6 +2012,11 @@
   {
     "md5": "df9cca9b79c4e1e016238731ad516328",
     "title": "パステルプラネット [ZOI]",
+    "level": "1.00...1.50"
+  },
+  {
+    "md5": "eaaef1ecb6f00074ca25e451b223134d",
+    "title": "リジットXXパラダイス -Hope-",
     "level": "1.00...1.50"
   },
   {
@@ -2052,6 +2047,11 @@
   {
     "md5": "4a11ad87a53029ad93eeaa7936cdcdb8",
     "title": "森 [炎]",
+    "level": "1.00...1.50"
+  },
+  {
+    "md5": "15b9da504bab6ee1cf7122fe8e36a08e",
+    "title": "煉情ミスティフィリア [Another]",
     "level": "1.00...1.50"
   },
   {
@@ -2162,11 +2162,6 @@
   {
     "md5": "198c2df7b246b1795f6de14a101463d1",
     "title": "Castor(BMS edit) [QuintetStar]",
-    "level": "1.50...2.00"
-  },
-  {
-    "md5": "c26bae73f146ea538b8a52966e68c36a",
-    "title": "Chinese Tea -Re:O2ther-",
     "level": "1.50...2.00"
   },
   {
@@ -2400,11 +2395,6 @@
     "level": "1.50...2.00"
   },
   {
-    "md5": "701e16fabee5967198c9349b2085b7b8",
-    "title": "Verktix [SP INSANE]",
-    "level": "1.50...2.00"
-  },
-  {
     "md5": "a92929741cd51d0c4dfd311c248f6780",
     "title": "violet [SP K4K1NSANE]",
     "level": "1.50...2.00"
@@ -2570,6 +2560,11 @@
     "level": "1.50...2.00"
   },
   {
+    "md5": "f2b941d23b71d6fa37781b74b0028af5",
+    "title": "5.1.1(ReMix) [73Another]",
+    "level": "2.00...2.50"
+  },
+  {
     "md5": "5c638d05e1d19a318eb3a06aee5fa693",
     "title": "Agito [ENT+]",
     "level": "2.00...2.50"
@@ -2602,6 +2597,11 @@
   {
     "md5": "fb6ecaf4baf23f69371010ce707fe0be",
     "title": "Busy Factory [Append]",
+    "level": "2.00...2.50"
+  },
+  {
+    "md5": "c26bae73f146ea538b8a52966e68c36a",
+    "title": "Chinese Tea -Re:O2ther-",
     "level": "2.00...2.50"
   },
   {
@@ -2735,11 +2735,6 @@
     "level": "2.00...2.50"
   },
   {
-    "md5": "8699cec85a8c7493757b21eb910c4358",
-    "title": "Soul of Deep-sea Fish [queER7]",
-    "level": "2.00...2.50"
-  },
-  {
     "md5": "467f58280ddedb50ae20c18d40253f79",
     "title": "Spherescense [Nemesis]",
     "level": "2.00...2.50"
@@ -2762,6 +2757,11 @@
   {
     "md5": "8d6cb28cd80ab924c41f5141ed852326",
     "title": "To the restored sunflower garden [White Another]",
+    "level": "2.00...2.50"
+  },
+  {
+    "md5": "701e16fabee5967198c9349b2085b7b8",
+    "title": "Verktix [SP INSANE]",
     "level": "2.00...2.50"
   },
   {
@@ -2800,6 +2800,11 @@
     "level": "2.00...2.50"
   },
   {
+    "md5": "01b980cdbf815a53eec50a3995b870e2",
+    "title": "新 漢江水打令 [SP LEGGENDARIA]",
+    "level": "2.00...2.50"
+  },
+  {
     "md5": "98e341e00e7355fe03132f6da49dc07f",
     "title": "明空リュウセイグン [Daybreak]",
     "level": "2.00...2.50"
@@ -2813,11 +2818,6 @@
     "md5": "425557b1947505e4c304f50503fbf019",
     "title": "運命論 ~notte stellata~",
     "level": "2.00...2.50"
-  },
-  {
-    "md5": "f2b941d23b71d6fa37781b74b0028af5",
-    "title": "5.1.1(ReMix) [73Another]",
-    "level": "2.50...3.00"
   },
   {
     "md5": "deab2d7c66503690608c04e5c5211f6d",
@@ -3065,6 +3065,11 @@
     "level": "2.50...3.00"
   },
   {
+    "md5": "8699cec85a8c7493757b21eb910c4358",
+    "title": "Soul of Deep-sea Fish [queER7]",
+    "level": "2.50...3.00"
+  },
+  {
     "md5": "a8a6926a8d01f2df55de52babd59c7ad",
     "title": "Spiritoso Killer [SP INSANE]",
     "level": "2.50...3.00"
@@ -3162,11 +3167,6 @@
   {
     "md5": "0169686bd3883f1196f4dd7a4af48f36",
     "title": "愛と煩悩と輪廻と常識の極彩世界 [SP ANOTHER]",
-    "level": "2.50...3.00"
-  },
-  {
-    "md5": "01b980cdbf815a53eec50a3995b870e2",
-    "title": "新 漢江水打令 [SP LEGGENDARIA]",
     "level": "2.50...3.00"
   },
   {
@@ -3367,6 +3367,11 @@
   {
     "md5": "c2584057469480172479f0b166aff5fa",
     "title": "My Hardcore [Difficult]",
+    "level": "3.00...3.50"
+  },
+  {
+    "md5": "d3991e330fae2d3ed978464312112569",
+    "title": "Operation_ALTAIR [CodeName-V.E.G.A.]",
     "level": "3.00...3.50"
   },
   {
@@ -3665,6 +3670,11 @@
     "level": "3.50...4.00"
   },
   {
+    "md5": "3faad7577fe7c3a750b0683693708c7a",
+    "title": "Luna Express 2032 [Farewell]",
+    "level": "3.50...4.00"
+  },
+  {
     "md5": "853ed8be113e4116cab9b74f2828848d",
     "title": "Mazarine",
     "level": "3.50...4.00"
@@ -3682,11 +3692,6 @@
   {
     "md5": "4cc3a2ae8ae0bfff7b1bbe65c0093e2b",
     "title": "NIRVANA [SP INSANE]",
-    "level": "3.50...4.00"
-  },
-  {
-    "md5": "d3991e330fae2d3ed978464312112569",
-    "title": "Operation_ALTAIR [CodeName-V.E.G.A.]",
     "level": "3.50...4.00"
   },
   {
@@ -3712,6 +3717,11 @@
   {
     "md5": "eebf5db925bf70226162ee90cea00646",
     "title": "To you [Affection]",
+    "level": "3.50...4.00"
+  },
+  {
+    "md5": "c982becdce32626a23083d798b02ede1",
+    "title": "Total Eclipse of the Sun -Howling-",
     "level": "3.50...4.00"
   },
   {
@@ -3930,11 +3940,6 @@
     "level": "4.00...4.50"
   },
   {
-    "md5": "3faad7577fe7c3a750b0683693708c7a",
-    "title": "Luna Express 2032 [Farewell]",
-    "level": "4.00...4.50"
-  },
-  {
     "md5": "e8de0fe9c739a15c8810327cfc06e00e",
     "title": "Memoria-Recollection- -追想の夜明け-",
     "level": "4.00...4.50"
@@ -3992,11 +3997,6 @@
   {
     "md5": "ed4600ce4d6f06e0c4fbcc800f1e9255",
     "title": "Snowy Light(BMS Edit) [I'm Already Tracer]",
-    "level": "4.00...4.50"
-  },
-  {
-    "md5": "c982becdce32626a23083d798b02ede1",
-    "title": "Total Eclipse of the Sun -Howling-",
     "level": "4.00...4.50"
   },
   {
@@ -4205,11 +4205,6 @@
     "level": "4.50...5.00"
   },
   {
-    "md5": "b91ed7f26020b9397d47851d6f50300f",
-    "title": "In The Wind -うままう-",
-    "level": "4.50...5.00"
-  },
-  {
     "md5": "f2076c425519a5786045c2a4f7e1e182",
     "title": "Lebensumlauf [INSANE]",
     "level": "4.50...5.00"
@@ -4335,6 +4330,11 @@
     "level": "4.50...5.00"
   },
   {
+    "md5": "e0117231edd25ca85ec41b53dca1f12e",
+    "title": "Vorota Collapse -Hopeless-",
+    "level": "4.50...5.00"
+  },
+  {
     "md5": "2bcfda5864dfc99e74ff46ddaa0b5450",
     "title": "Σnergy -яevolution- [Steяrite]",
     "level": "4.50...5.00"
@@ -4352,6 +4352,11 @@
   {
     "md5": "a7f1926c53928b2034c7d1376fa902fc",
     "title": "すばらきしこのせかい",
+    "level": "4.50...5.00"
+  },
+  {
+    "md5": "d5e3b8d81cb73e1d5f9a9549f3329de5",
+    "title": "アレア→イデア [Snother]",
     "level": "4.50...5.00"
   },
   {
@@ -4485,6 +4490,11 @@
     "level": "5.00...5.50"
   },
   {
+    "md5": "b91ed7f26020b9397d47851d6f50300f",
+    "title": "In The Wind -うままう-",
+    "level": "5.00...5.50"
+  },
+  {
     "md5": "19e7661ba1ae245d5bfadea3fede9ad6",
     "title": "LWVIIX [ANOTHER]",
     "level": "5.00...5.50"
@@ -4562,11 +4572,6 @@
   {
     "md5": "aa9b40b95e54d1e58ee963457a922201",
     "title": "アトロポスと最果の探求者 [dilaceration]",
-    "level": "5.00...5.50"
-  },
-  {
-    "md5": "d5e3b8d81cb73e1d5f9a9549f3329de5",
-    "title": "アレア→イデア [Snother]",
     "level": "5.00...5.50"
   },
   {
@@ -4700,18 +4705,8 @@
     "level": "5.50...6.00"
   },
   {
-    "md5": "3f874970e3824730b7b4d04d0271c360",
-    "title": "DISCHARGE RUSH  [metallic]",
-    "level": "5.50...6.00"
-  },
-  {
     "md5": "42b597e0fc9d2ad51909f774275464ae",
     "title": "EXILE -NEMESIS-",
-    "level": "5.50...6.00"
-  },
-  {
-    "md5": "0a7556dd67ac8c0d236c35452844e3d8",
-    "title": "Fatal Pulse [Hyperpnea]",
     "level": "5.50...6.00"
   },
   {
@@ -4797,6 +4792,11 @@
   {
     "md5": "b43131e9629cb9a403b9d68cac794a0e",
     "title": "Misdirection [Black children]",
+    "level": "5.50...6.00"
+  },
+  {
+    "md5": "7e392ca9c44870a68c8d219b57345be9",
+    "title": "Neurotoxin",
     "level": "5.50...6.00"
   },
   {
@@ -4910,11 +4910,6 @@
     "level": "5.50...6.00"
   },
   {
-    "md5": "40332a570fe97c487da227a7bdcf28a2",
-    "title": "新たなる決意 -黎明-",
-    "level": "5.50...6.00"
-  },
-  {
     "md5": "4191102b46752138740949f43ba6a3f5",
     "title": "星屑アポトーシス [Monsther+]",
     "level": "5.50...6.00"
@@ -4985,6 +4980,11 @@
     "level": "6.00...6.50"
   },
   {
+    "md5": "3f874970e3824730b7b4d04d0271c360",
+    "title": "DISCHARGE RUSH  [metallic]",
+    "level": "6.00...6.50"
+  },
+  {
     "md5": "9972c3c56cdd534bc0374d1c98d962aa",
     "title": "Disco Balls -Eclipse-",
     "level": "6.00...6.50"
@@ -4997,6 +4997,11 @@
   {
     "md5": "d6df89a6cdd857ac7d4ef68e616e55f8",
     "title": "Fantasy (-ω-)",
+    "level": "6.00...6.50"
+  },
+  {
+    "md5": "0a7556dd67ac8c0d236c35452844e3d8",
+    "title": "Fatal Pulse [Hyperpnea]",
     "level": "6.00...6.50"
   },
   {
@@ -5042,11 +5047,6 @@
   {
     "md5": "5ee670f21b8191ab70ce806f1b613f7e",
     "title": "MEPHISTO [FS]",
-    "level": "6.00...6.50"
-  },
-  {
-    "md5": "7e392ca9c44870a68c8d219b57345be9",
-    "title": "Neurotoxin",
     "level": "6.00...6.50"
   },
   {
@@ -5110,6 +5110,11 @@
     "level": "6.00...6.50"
   },
   {
+    "md5": "40332a570fe97c487da227a7bdcf28a2",
+    "title": "新たなる決意 -黎明-",
+    "level": "6.00...6.50"
+  },
+  {
     "md5": "7447b9bd0efd6be281e7307a4a62235e",
     "title": "時架け -Luna-",
     "level": "6.00...6.50"
@@ -5140,6 +5145,11 @@
     "level": "6.50...7.00"
   },
   {
+    "md5": "442d55185f1b14532c81ebb21793c5cc",
+    "title": "1516 [SAETHER]",
+    "level": "6.50...7.00"
+  },
+  {
     "md5": "74b62e4ae1878268d33c5e328243a1dd",
     "title": "A-chasing-Y [Pain]",
     "level": "6.50...7.00"
@@ -5162,6 +5172,11 @@
   {
     "md5": "f6d9d7e536801d45e3126493842dbc40",
     "title": "Aurora [Northern Frontier]",
+    "level": "6.50...7.00"
+  },
+  {
+    "md5": "819058954e618fe7a1a86c828f9d616e",
+    "title": "Berry Go!! [HARDEST]",
     "level": "6.50...7.00"
   },
   {
@@ -5380,11 +5395,6 @@
     "level": "6.50...7.00"
   },
   {
-    "md5": "442d55185f1b14532c81ebb21793c5cc",
-    "title": "1516 [SAETHER]",
-    "level": "7.00...7.50"
-  },
-  {
     "md5": "e7df53f94805d0d2a1976855eaded1c4",
     "title": "Affection [Appreciation]",
     "level": "7.00...7.50"
@@ -5392,11 +5402,6 @@
   {
     "md5": "8b3c66f945d041b5df53ba3e292e5c54",
     "title": "Andromeda [yumether]",
-    "level": "7.00...7.50"
-  },
-  {
-    "md5": "819058954e618fe7a1a86c828f9d616e",
-    "title": "Berry Go!! [HARDEST]",
     "level": "7.00...7.50"
   },
   {
@@ -5472,16 +5477,6 @@
   {
     "md5": "76d96a034e9f28ef1eab7b5627b22ef4",
     "title": "Final examination -Luna-",
-    "level": "7.00...7.50"
-  },
-  {
-    "md5": "62c4774f7c7a0cf0c8ffe36bd8868f7e",
-    "title": "Giselle -Despair-",
-    "level": "7.00...7.50"
-  },
-  {
-    "md5": "824c719686aa341376ea86eb6800acea",
-    "title": "Gothic System -C.H.S_NRG Mix- [yumether]",
     "level": "7.00...7.50"
   },
   {
@@ -5640,6 +5635,11 @@
     "level": "7.50...8.00"
   },
   {
+    "md5": "619bb1692637185edab31552bebdf927",
+    "title": "Abyssal sky of Indicolite [Fallen]",
+    "level": "7.50...8.00"
+  },
+  {
     "md5": "c6e40998c81fbf3ae79484adc8975280",
     "title": "After Burner [SKY HIGH]",
     "level": "7.50...8.00"
@@ -5715,6 +5715,11 @@
     "level": "7.50...8.00"
   },
   {
+    "md5": "6d53695f5abc7594d9d705c6da80994f",
+    "title": "EMOTIONAL POLARIZATION [EX]",
+    "level": "7.50...8.00"
+  },
+  {
     "md5": "c25af3598e0adbc5e4aade55ddb2019f",
     "title": "eth剣 [Fusion Etude]",
     "level": "7.50...8.00"
@@ -5740,8 +5745,18 @@
     "level": "7.50...8.00"
   },
   {
+    "md5": "62c4774f7c7a0cf0c8ffe36bd8868f7e",
+    "title": "Giselle -Despair-",
+    "level": "7.50...8.00"
+  },
+  {
     "md5": "40f931bdce724586b1545ea80eb7fde4",
     "title": "GOODRAGE [#MAGiCVL_R4G3]",
+    "level": "7.50...8.00"
+  },
+  {
+    "md5": "824c719686aa341376ea86eb6800acea",
+    "title": "Gothic System -C.H.S_NRG Mix- [yumether]",
     "level": "7.50...8.00"
   },
   {
@@ -5792,6 +5807,11 @@
   {
     "md5": "c329d494bded6ae4be2b000d29c804a3",
     "title": "Out of the System [for some reason]",
+    "level": "7.50...8.00"
+  },
+  {
+    "md5": "56ef487b38517cae523b4720d6898dd3",
+    "title": "Poisonous Peach [Eb]",
     "level": "7.50...8.00"
   },
   {
@@ -5950,11 +5970,6 @@
     "level": "7.50...8.00"
   },
   {
-    "md5": "619bb1692637185edab31552bebdf927",
-    "title": "Abyssal sky of Indicolite [Fallen]",
-    "level": "8.00...8.50"
-  },
-  {
     "md5": "179380ffe32b422e63a0f35bfedbe6a9",
     "title": "Amaranth [SILLY]",
     "level": "8.00...8.50"
@@ -6092,11 +6107,6 @@
   {
     "md5": "fedde5c969d7b2162e363aa18311a166",
     "title": "Orbital Period [INFINITY]",
-    "level": "8.00...8.50"
-  },
-  {
-    "md5": "56ef487b38517cae523b4720d6898dd3",
-    "title": "Poisonous Peach [Eb]",
     "level": "8.00...8.50"
   },
   {
