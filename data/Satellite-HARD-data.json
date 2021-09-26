@@ -725,6 +725,11 @@
     "level": "1.00...1.50"
   },
   {
+    "md5": "524d44991a3ff923bd4d7a5d55991500",
+    "title": "orange tea [for I]",
+    "level": "1.00...1.50"
+  },
+  {
     "md5": "259c6ff7871efb0492d1dac5d16fda17",
     "title": "PEACE BREAKER [HYPER]",
     "level": "1.00...1.50"
@@ -2050,11 +2055,6 @@
     "level": "2.50...3.00"
   },
   {
-    "md5": "c8e4b980b651241527addb85e7abe3dd",
-    "title": "豪華絢爛少女 [SP Another]",
-    "level": "2.50...3.00"
-  },
-  {
     "md5": "197053ba0681ba82bbbb7ec07572de90",
     "title": "After Burner",
     "level": "3.00...3.50"
@@ -2062,11 +2062,6 @@
   {
     "md5": "ddd488978145d88cc7789371225c10fd",
     "title": "ALife Contradiction",
-    "level": "3.00...3.50"
-  },
-  {
-    "md5": "328f84997abd6480fd09cb95e3f020e8",
-    "title": "Angel dust [FEATHER]",
     "level": "3.00...3.50"
   },
   {
@@ -2087,6 +2082,11 @@
   {
     "md5": "6ef705fddb06acb80f5e8d6d12bee1f5",
     "title": "HIGHWAY RACING [ANOTHER]",
+    "level": "3.00...3.50"
+  },
+  {
+    "md5": "e247ba36d83176a89304c39a8be5b876",
+    "title": "Hypertext Transfer Protocol -418-",
     "level": "3.00...3.50"
   },
   {
@@ -2140,6 +2140,11 @@
     "level": "3.00...3.50"
   },
   {
+    "md5": "c8e4b980b651241527addb85e7abe3dd",
+    "title": "豪華絢爛少女 [SP Another]",
+    "level": "3.00...3.50"
+  },
+  {
     "md5": "0f35d6c3308c459726286c23b48d4660",
     "title": "Absolute Future [ANOTHER]",
     "level": "3.50...4.00"
@@ -2157,6 +2162,11 @@
   {
     "md5": "b4f3a8e3e11c37ea9b6b1304b0f1d59f",
     "title": "Andro -Hope-",
+    "level": "3.50...4.00"
+  },
+  {
+    "md5": "328f84997abd6480fd09cb95e3f020e8",
+    "title": "Angel dust [FEATHER]",
     "level": "3.50...4.00"
   },
   {
@@ -2985,11 +2995,6 @@
     "level": "4.50...5.00"
   },
   {
-    "md5": "f66eb341ffa5988d50d67226fadc91c6",
-    "title": "Panic! Pop'n! Picnic! [abysmal weather]",
-    "level": "4.50...5.00"
-  },
-  {
     "md5": "92ff773f69e452df0784064d3dd29fb7",
     "title": "Paracelestia [ZOI]",
     "level": "4.50...5.00"
@@ -3257,6 +3262,11 @@
   {
     "md5": "d0e59acd20fe09a08e9af6d9efe8383a",
     "title": "Midnight Flux [Nosterdam]",
+    "level": "5.00...5.50"
+  },
+  {
+    "md5": "f66eb341ffa5988d50d67226fadc91c6",
+    "title": "Panic! Pop'n! Picnic! [abysmal weather]",
     "level": "5.00...5.50"
   },
   {
@@ -4590,6 +4600,11 @@
     "level": "8.50...9.00"
   },
   {
+    "md5": "af2fd0e30bb7547de89d207b4d5807c5",
+    "title": "Angel (IR Battle edition)",
+    "level": "8.50...9.00"
+  },
+  {
     "md5": "aad5ec4218a33048c3cd18eb9e182ac5",
     "title": "Artemis　 -SABOTHER-",
     "level": "8.50...9.00"
@@ -5480,6 +5495,11 @@
     "level": "10.50...11.00"
   },
   {
+    "md5": "f474ba68a8b00bf6c18815540da6593c",
+    "title": "WHIRLWIND [Wind Rush]",
+    "level": "10.50...11.00"
+  },
+  {
     "md5": "23108f44859ef37e013fa9bd4df08b72",
     "title": "your wind, my blind [Etude]",
     "level": "10.50...11.00"
@@ -5562,6 +5582,11 @@
   {
     "md5": "6d53695f5abc7594d9d705c6da80994f",
     "title": "EMOTIONAL POLARIZATION [EX]",
+    "level": "11.00...11.50"
+  },
+  {
+    "md5": "76d45a63861718e0081175aecf0daee7",
+    "title": "K8107　 -EXTRA-",
     "level": "11.00...11.50"
   },
   {

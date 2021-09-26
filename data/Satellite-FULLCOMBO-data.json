@@ -785,11 +785,6 @@
     "level": "5.00...5.50"
   },
   {
-    "md5": "f492aee6154abb984b9cdcc63cfd36ab",
-    "title": "ナツイノ [BITTER7]",
-    "level": "5.00...5.50"
-  },
-  {
     "md5": "2dfe8ce71b87ccf054b0620db6d44d78",
     "title": "-零- 【ANOTHER】",
     "level": "5.50...6.00"
@@ -1025,6 +1020,11 @@
     "level": "5.50...6.00"
   },
   {
+    "md5": "f492aee6154abb984b9cdcc63cfd36ab",
+    "title": "ナツイノ [BITTER7]",
+    "level": "5.50...6.00"
+  },
+  {
     "md5": "522ce11990d09b94e515b653705be4fd",
     "title": "プナイプナイたいそう [SP ANOTHER]",
     "level": "5.50...6.00"
@@ -1232,6 +1232,16 @@
   {
     "md5": "7d2715cf75fc0b5c33f8d0c7cce26f57",
     "title": "On And On!! [PIETHER]",
+    "level": "6.00...6.50"
+  },
+  {
+    "md5": "49597182c6a68ff719af9dbf385cbbda",
+    "title": "OneviA -ANOTHER-",
+    "level": "6.00...6.50"
+  },
+  {
+    "md5": "524d44991a3ff923bd4d7a5d55991500",
+    "title": "orange tea [for I]",
     "level": "6.00...6.50"
   },
   {
@@ -1447,11 +1457,6 @@
   {
     "md5": "22a8fdf9c1dc7353c1ec62363244ac73",
     "title": "kyrka [Mild(fix)]",
-    "level": "6.50...7.00"
-  },
-  {
-    "md5": "49597182c6a68ff719af9dbf385cbbda",
-    "title": "OneviA -ANOTHER-",
     "level": "6.50...7.00"
   },
   {
@@ -1907,6 +1912,11 @@
   {
     "md5": "6ef705fddb06acb80f5e8d6d12bee1f5",
     "title": "HIGHWAY RACING [ANOTHER]",
+    "level": "7.50...8.00"
+  },
+  {
+    "md5": "e247ba36d83176a89304c39a8be5b876",
+    "title": "Hypertext Transfer Protocol -418-",
     "level": "7.50...8.00"
   },
   {
@@ -4470,6 +4480,11 @@
     "level": "14.00...14.50"
   },
   {
+    "md5": "af2fd0e30bb7547de89d207b4d5807c5",
+    "title": "Angel (IR Battle edition)",
+    "level": "14.50...15.00"
+  },
+  {
     "md5": "aad5ec4218a33048c3cd18eb9e182ac5",
     "title": "Artemis　 -SABOTHER-",
     "level": "14.50...15.00"
@@ -5305,6 +5320,11 @@
     "level": "17.00...17.50"
   },
   {
+    "md5": "f474ba68a8b00bf6c18815540da6593c",
+    "title": "WHIRLWIND [Wind Rush]",
+    "level": "17.00...17.50"
+  },
+  {
     "md5": "23108f44859ef37e013fa9bd4df08b72",
     "title": "your wind, my blind [Etude]",
     "level": "17.00...17.50"
@@ -6137,6 +6157,11 @@
   {
     "md5": "7e32af584080fb9965bbf497947de99f",
     "title": "It's \"alice\" dream [HARDEST]",
+    "level": "-"
+  },
+  {
+    "md5": "76d45a63861718e0081175aecf0daee7",
+    "title": "K8107　 -EXTRA-",
     "level": "-"
   },
   {

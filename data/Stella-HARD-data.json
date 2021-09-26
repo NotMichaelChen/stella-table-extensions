@@ -35,6 +35,11 @@
     "level": "1.50...2.00"
   },
   {
+    "md5": "1dc761513798c85635f8c2d9f776caf7",
+    "title": "Be More Sadistic! (BMS Edit) [MASTER]",
+    "level": "1.50...2.00"
+  },
+  {
     "md5": "c8e5a63d16a07b4df9ef7d87be6cfe08",
     "title": "Black or White [KANITHER]",
     "level": "1.50...2.00"
@@ -237,11 +242,6 @@
   {
     "md5": "b3d5d615f66d891f2a14e11fbe306297",
     "title": "Batrachotoxin -ADVANCED-",
-    "level": "2.00...2.50"
-  },
-  {
-    "md5": "1dc761513798c85635f8c2d9f776caf7",
-    "title": "Be More Sadistic! (BMS Edit) [MASTER]",
     "level": "2.00...2.50"
   },
   {
@@ -730,6 +730,11 @@
     "level": "2.50...3.00"
   },
   {
+    "md5": "5e05f6064ca48c572c931d50aa34fbbe",
+    "title": "おわりのうた -終わる世界とバースデイ-",
+    "level": "2.50...3.00"
+  },
+  {
     "md5": "68f7337ffb77de90919f6fa68a4f6eb5",
     "title": "シレノ [DILUVIAL]",
     "level": "2.50...3.00"
@@ -862,11 +867,6 @@
   {
     "md5": "c16806baa62156c5819a029d5bd69fcb",
     "title": "Break Through The Barrier [LIMITLESS]",
-    "level": "3.00...3.50"
-  },
-  {
-    "md5": "8dbfdb9a32919d2083f5079bfc6d1288",
-    "title": "breakpush [Maryther]",
     "level": "3.00...3.50"
   },
   {
@@ -1265,11 +1265,6 @@
     "level": "3.00...3.50"
   },
   {
-    "md5": "e5877413b78d1cc462a635dec7bd568b",
-    "title": "ホーリーサンバランド [Soleil]",
-    "level": "3.00...3.50"
-  },
-  {
     "md5": "fb41cc2e68fe23cc49378a58e02eb9a7",
     "title": "先天性エゴサ依存症候群 [Twitch TV]",
     "level": "3.00...3.50"
@@ -1362,6 +1357,11 @@
   {
     "md5": "18055a611e8b97f4cc760aed807c6329",
     "title": "Blizzard [Fierce]",
+    "level": "3.50...4.00"
+  },
+  {
+    "md5": "8dbfdb9a32919d2083f5079bfc6d1288",
+    "title": "breakpush [Maryther]",
     "level": "3.50...4.00"
   },
   {
@@ -1482,6 +1482,11 @@
   {
     "md5": "57cd7ce1136cea3b3d95d0b78b4167e1",
     "title": "プナイプナイたいそう [SP LAST BOSS]",
+    "level": "3.50...4.00"
+  },
+  {
+    "md5": "e5877413b78d1cc462a635dec7bd568b",
+    "title": "ホーリーサンバランド [Soleil]",
     "level": "3.50...4.00"
   },
   {
@@ -1970,6 +1975,11 @@
     "level": "4.50...5.00"
   },
   {
+    "md5": "6a02d80b5261f3b73a0df2263d674912",
+    "title": "Final examination [repeat a year]",
+    "level": "4.50...5.00"
+  },
+  {
     "md5": "2fc9c12eeee75532bc464431efc381fc",
     "title": "FUTURE 1999 [2299.06.15]",
     "level": "4.50...5.00"
@@ -2300,6 +2310,11 @@
     "level": "5.00...5.50"
   },
   {
+    "md5": "0be4d1d469fab7326850e5273200f855",
+    "title": "Luv of Magical Synth [LuvTek's Magical Sabun]",
+    "level": "5.00...5.50"
+  },
+  {
     "md5": "1bca8c429f5edf8c46ee749999be7845",
     "title": "Maharaja Trance [simultaneous]",
     "level": "5.00...5.50"
@@ -2402,11 +2417,6 @@
   {
     "md5": "f08d82e959c860ae803a8f12b27d1261",
     "title": "T'Suramic -Despair-",
-    "level": "5.00...5.50"
-  },
-  {
-    "md5": "94dd053331872ee0fcb858d86cefee74",
-    "title": "Valentine Memory [Hexagon]",
     "level": "5.00...5.50"
   },
   {
@@ -2775,6 +2785,11 @@
     "level": "5.50...6.00"
   },
   {
+    "md5": "94dd053331872ee0fcb858d86cefee74",
+    "title": "Valentine Memory [Hexagon]",
+    "level": "5.50...6.00"
+  },
+  {
     "md5": "adb8fe149acde030640503371a58c760",
     "title": "★SweeT DiscoverY★ -Be HappY!-",
     "level": "5.50...6.00"
@@ -3015,6 +3030,11 @@
     "level": "6.00...6.50"
   },
   {
+    "md5": "1e363649c9762aa94c4b7f4a6eb92302",
+    "title": "Ultimate Dream [INSANE]",
+    "level": "6.00...6.50"
+  },
+  {
     "md5": "83d81a0ce10a4136bed82e12d932e46e",
     "title": "あさつゆ [朝露]",
     "level": "6.00...6.50"
@@ -3110,13 +3130,13 @@
     "level": "6.50...7.00"
   },
   {
-    "md5": "7809898376079d1d00af68426d050646",
-    "title": "Cipher : /2&//<|0 [/>/w/</]",
+    "md5": "ca490a947d45147ffea27c63f5ae1665",
+    "title": "corneal -Corrupted Nature-",
     "level": "6.50...7.00"
   },
   {
-    "md5": "ca490a947d45147ffea27c63f5ae1665",
-    "title": "corneal -Corrupted Nature-",
+    "md5": "899fde655fdd0213ab7df89fa577dfe8",
+    "title": "Crystal Wind [IR]",
     "level": "6.50...7.00"
   },
   {
@@ -3405,6 +3425,11 @@
     "level": "7.00...7.50"
   },
   {
+    "md5": "7809898376079d1d00af68426d050646",
+    "title": "Cipher : /2&//<|0 [/>/w/</]",
+    "level": "7.00...7.50"
+  },
+  {
     "md5": "f2cc0a67e5b042702927c6a2bb301797",
     "title": "Colour My Sky -To The Future-",
     "level": "7.00...7.50"
@@ -3677,6 +3702,11 @@
   {
     "md5": "55608d3ca34e95dfebbe874babe0c536",
     "title": "Meaning of Existence [magical]",
+    "level": "7.50...8.00"
+  },
+  {
+    "md5": "b36e85ecc1718a32eb5d77f84a0163bb",
+    "title": "ophthalmomyiasis [eyeburner]",
     "level": "7.50...8.00"
   },
   {
@@ -3955,11 +3985,6 @@
     "level": "8.00...8.50"
   },
   {
-    "md5": "9bd201347125207b7acee0310a4d937b",
-    "title": "あＡアぁ亜ａァ [Forgotten Hero]",
-    "level": "8.00...8.50"
-  },
-  {
     "md5": "b43593efc5000e0ba21c3332f5f8bffb",
     "title": "スーパーイザナギオブジェクト (おに)",
     "level": "8.00...8.50"
@@ -4112,6 +4137,11 @@
   {
     "md5": "b9450a30141bb6669f289147d6f003aa",
     "title": "tinnitus -Madness-",
+    "level": "8.50...9.00"
+  },
+  {
+    "md5": "9bd201347125207b7acee0310a4d937b",
+    "title": "あＡアぁ亜ａァ [Forgotten Hero]",
     "level": "8.50...9.00"
   },
   {
@@ -5342,6 +5372,11 @@
   {
     "md5": "0f744354fd09321a82ef2a287029e0d4",
     "title": "Lambda Driver [EX]",
+    "level": "-"
+  },
+  {
+    "md5": "565ee8d466cd4dca179ffb4a3ac0eb0e",
+    "title": "Misdirection -Ragnarok-",
     "level": "-"
   },
   {

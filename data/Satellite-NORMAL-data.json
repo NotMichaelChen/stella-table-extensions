@@ -710,11 +710,6 @@
     "level": "0.00...0.50"
   },
   {
-    "md5": "2dfe8ce71b87ccf054b0620db6d44d78",
-    "title": "-零- 【ANOTHER】",
-    "level": "0.50...1.00"
-  },
-  {
     "md5": "a35d01bf77358e15ec980ac5dc5c891e",
     "title": "Another Day [HIDDEN]",
     "level": "0.50...1.00"
@@ -755,6 +750,11 @@
     "level": "0.50...1.00"
   },
   {
+    "md5": "524d44991a3ff923bd4d7a5d55991500",
+    "title": "orange tea [for I]",
+    "level": "0.50...1.00"
+  },
+  {
     "md5": "259c6ff7871efb0492d1dac5d16fda17",
     "title": "PEACE BREAKER [HYPER]",
     "level": "0.50...1.00"
@@ -773,6 +773,11 @@
     "md5": "a69797e5735be285a032d519788f2424",
     "title": "Valedict",
     "level": "0.50...1.00"
+  },
+  {
+    "md5": "2dfe8ce71b87ccf054b0620db6d44d78",
+    "title": "-零- 【ANOTHER】",
+    "level": "1.00...1.50"
   },
   {
     "md5": "d6259aa76c94bdd4e4b885dc2af26623",
@@ -1510,11 +1515,6 @@
     "level": "1.50...2.00"
   },
   {
-    "md5": "ff8a205c1488a9469205326f071d051a",
-    "title": "Sky High [wing]",
-    "level": "1.50...2.00"
-  },
-  {
     "md5": "883e105c2aa9a81108b3c4bf5d571c41",
     "title": "Snowfairy -naughty-",
     "level": "1.50...2.00"
@@ -1522,11 +1522,6 @@
   {
     "md5": "30c1993623dcda955b497b356077c34b",
     "title": "Sweet Pie",
-    "level": "1.50...2.00"
-  },
-  {
-    "md5": "268508cd8f9da505d7069fe3c57370fc",
-    "title": "The Last Page [SP INSANE]",
     "level": "1.50...2.00"
   },
   {
@@ -1940,6 +1935,11 @@
     "level": "2.00...2.50"
   },
   {
+    "md5": "ff8a205c1488a9469205326f071d051a",
+    "title": "Sky High [wing]",
+    "level": "2.00...2.50"
+  },
+  {
     "md5": "2d658e3b35abde484248a948cd55cd7e",
     "title": "Snow Black -Vendetta- [Finale]",
     "level": "2.00...2.50"
@@ -1952,6 +1952,11 @@
   {
     "md5": "856dea4c2b9d943c0eba27765574fa81",
     "title": "Starry Fate [EX]",
+    "level": "2.00...2.50"
+  },
+  {
+    "md5": "268508cd8f9da505d7069fe3c57370fc",
+    "title": "The Last Page [SP INSANE]",
     "level": "2.00...2.50"
   },
   {
@@ -2180,11 +2185,6 @@
     "level": "2.50...3.00"
   },
   {
-    "md5": "bcdcd6bd60c82d2775cc2fa1a3263666",
-    "title": "Flesvelka [yumether]",
-    "level": "2.50...3.00"
-  },
-  {
     "md5": "03a9fa5af9ab65bf403777ad3ee43909",
     "title": "fly*high*five [ZOI]",
     "level": "2.50...3.00"
@@ -2192,6 +2192,11 @@
   {
     "md5": "07bdaf0e10d28457e899c3569fdc82d1",
     "title": "HARDCORE UNDERSTAND [ANOTHER]",
+    "level": "2.50...3.00"
+  },
+  {
+    "md5": "e247ba36d83176a89304c39a8be5b876",
+    "title": "Hypertext Transfer Protocol -418-",
     "level": "2.50...3.00"
   },
   {
@@ -2530,6 +2535,11 @@
     "level": "3.00...3.50"
   },
   {
+    "md5": "bcdcd6bd60c82d2775cc2fa1a3263666",
+    "title": "Flesvelka [yumether]",
+    "level": "3.00...3.50"
+  },
+  {
     "md5": "4c756edeb68d70960989daf1d1aae9ed",
     "title": "Fly up to : the Sky [Insane]",
     "level": "3.00...3.50"
@@ -2567,11 +2577,6 @@
   {
     "md5": "e19b38273e6b5d2bb8f4bf1da01dcbaf",
     "title": "Iolite Quintz",
-    "level": "3.00...3.50"
-  },
-  {
-    "md5": "547c796d8c5bd20a1bad385a34c1e7df",
-    "title": "Knock It Off [ANOTHER+]",
     "level": "3.00...3.50"
   },
   {
@@ -2887,6 +2892,11 @@
   {
     "md5": "c56c046eb75eee143e825ac045208f5a",
     "title": "Kanon's Fantasia -Flower Forest- [ver.翠]",
+    "level": "3.50...4.00"
+  },
+  {
+    "md5": "547c796d8c5bd20a1bad385a34c1e7df",
+    "title": "Knock It Off [ANOTHER+]",
     "level": "3.50...4.00"
   },
   {
@@ -4230,6 +4240,11 @@
     "level": "6.00...6.50"
   },
   {
+    "md5": "c565d6dbf6346e6a28277742ecd9d60c",
+    "title": "平衡世界 Parallel World [HARDEST]",
+    "level": "6.00...6.50"
+  },
+  {
     "md5": "0a682def4c79d7bd55a5c885b4d85638",
     "title": "村 [村 of a Bitch]",
     "level": "6.00...6.50"
@@ -4500,11 +4515,6 @@
     "level": "6.50...7.00"
   },
   {
-    "md5": "c565d6dbf6346e6a28277742ecd9d60c",
-    "title": "平衡世界 Parallel World [HARDEST]",
-    "level": "6.50...7.00"
-  },
-  {
     "md5": "9dd34100b83d5e091dcb76c5af65f4bc",
     "title": "年中夢中な好奇心 [ManiaK]",
     "level": "6.50...7.00"
@@ -4522,6 +4532,11 @@
   {
     "md5": "ceedcf9712b3018c1fd7e7bf87454139",
     "title": "Alitatrieb [Insanity]",
+    "level": "7.00...7.50"
+  },
+  {
+    "md5": "af2fd0e30bb7547de89d207b4d5807c5",
+    "title": "Angel (IR Battle edition)",
     "level": "7.00...7.50"
   },
   {
@@ -5475,6 +5490,11 @@
     "level": "9.00...9.50"
   },
   {
+    "md5": "f474ba68a8b00bf6c18815540da6593c",
+    "title": "WHIRLWIND [Wind Rush]",
+    "level": "9.00...9.50"
+  },
+  {
     "md5": "23108f44859ef37e013fa9bd4df08b72",
     "title": "your wind, my blind [Etude]",
     "level": "9.00...9.50"
@@ -5592,6 +5612,11 @@
   {
     "md5": "4049fef0752c925c6d8c9d286301a631",
     "title": "fragmentation -dusk-",
+    "level": "9.50...10.00"
+  },
+  {
+    "md5": "76d45a63861718e0081175aecf0daee7",
+    "title": "K8107　 -EXTRA-",
     "level": "9.50...10.00"
   },
   {
