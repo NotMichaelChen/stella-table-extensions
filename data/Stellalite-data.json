@@ -2748,6 +2748,18 @@
     "proposerLr2id": 80338
   },
   {
+    "title": "REZIDUAL MiND [ANOTHER]",
+    "artist": "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス",
+    "url": "https://venue.bmssearch.net/bmsshuin3/34",
+    "url_diff": "",
+    "md5": "1cd29c630f0857f7a9cc5edb00e29a0b",
+    "sha256": "4796c49f623ee6fe2da8643cd3952bc3fb7010f376f391b9af0b4ad9a9b6fddc",
+    "level": "1",
+    "proposer": "えば",
+    "comment": "同梱譜面　☆11むずかしめ～★1入門程度",
+    "submission": 2202
+  },
+  {
     "title": "Ring Ring Ring ☆ Let's H! [M@STER]",
     "artist": "wigen_ / Note:薄杏",
     "url": "http://web.archive.org/web/20120607160512/http://neoarre.aquz.biz/bms/3rd/letsh_ogg.rar",
@@ -3920,6 +3932,18 @@
     "proposer": "monaka",
     "comment": "乱打",
     "submission": 892
+  },
+  {
+    "title": "Hypertext Transfer Protocol -418-",
+    "artist": "EXCITECH / obj. marie",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=83",
+    "url_diff": "https://darksabun.github.io/event/irbattle/",
+    "md5": "e247ba36d83176a89304c39a8be5b876",
+    "sha256": "31d428c4dc1621b4af453bb32ee52f55e8bd3f5b62e10b079c968b88570af144",
+    "level": "2",
+    "proposer": "ИИ",
+    "comment": "LR2IR BATTLE",
+    "submission": 2185
   },
   {
     "title": "Hypnos Metropolis",
@@ -5396,18 +5420,6 @@
     "proposer": "ww",
     "comment": "第二回BMS衆議院選、連打、いろいろ、わかる",
     "submission": 1036
-  },
-  {
-    "title": "Hypertext Transfer Protocol -418-",
-    "artist": "EXCITECH / obj. marie",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=83",
-    "url_diff": "https://darksabun.github.io/event/irbattle/",
-    "md5": "e247ba36d83176a89304c39a8be5b876",
-    "sha256": "31d428c4dc1621b4af453bb32ee52f55e8bd3f5b62e10b079c968b88570af144",
-    "level": "3",
-    "proposer": "ИИ",
-    "comment": "LR2IR BATTLE",
-    "submission": 2185
   },
   {
     "title": "H∀TE [ANOTHER 2000Notes]",
@@ -8709,6 +8721,18 @@
     "submission": 470
   },
   {
+    "title": "虹夜パレッド -Rainbow-",
+    "artist": "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu /obj:monaka",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=388&event=123",
+    "url_diff": "https://ux.getuploader.com/monaka_sabun_2/download/173",
+    "md5": "8bac3ecaf59be63bef0d8bcd0ded05ff",
+    "sha256": "a7503f303c71a92384f346d9ee0676f1f3141ad8458f19ebd31897141d256ccf",
+    "level": "5",
+    "proposer": "スノート",
+    "comment": "G2R2018",
+    "submission": 845
+  },
+  {
     "title": "虹夜パレッド -SP ANOTHER-",
     "artist": "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=388&event=123",
@@ -9435,18 +9459,6 @@
     "proposerLr2id": 111239
   },
   {
-    "title": "WHIRLWIND [EXTRA]",
-    "artist": "Linne X SCTL Visualized by Keiyuu & RED-FOX / obj:monaka",
-    "url": "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=43&order=reg&odtype=a",
-    "url_diff": "http://ux.getuploader.com/monaka_sabun_2/download/124/WHIRLWIND.zip",
-    "md5": "c4bb75ec414177e4c1d9f5bafae4cca2",
-    "sha256": "a8c664e28919904687b48443034744dfeab1b5bff96657db9415db0ef5a23f96",
-    "level": "6",
-    "proposer": "Restia",
-    "comment": "",
-    "submission": 395
-  },
-  {
     "title": "Yellow Smile (bms edit) (ヽ*'∀')人 (*'∀'ノ)",
     "artist": "Junk BGA : YARITA / obj:あると vs りこぴー",
     "url": "https://www.axfc.net/u/3933668.zip",
@@ -9731,18 +9743,6 @@
     "comment": "ノーマル判定",
     "submission": 217,
     "proposerLr2id": 80964
-  },
-  {
-    "title": "虹夜パレッド -Rainbow-",
-    "artist": "Is-m // あまね（COOL&CREATE） BGA:sveki hamalu /obj:monaka",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=388&event=123",
-    "url_diff": "https://ux.getuploader.com/monaka_sabun_2/download/173",
-    "md5": "8bac3ecaf59be63bef0d8bcd0ded05ff",
-    "sha256": "a7503f303c71a92384f346d9ee0676f1f3141ad8458f19ebd31897141d256ccf",
-    "level": "6",
-    "proposer": "スノート",
-    "comment": "G2R2018",
-    "submission": 845
   },
   {
     "title": "7SP:雪の少女-MorningDash!Mix- [MANIAQ]",
@@ -10466,6 +10466,18 @@
     "submission": 2165
   },
   {
+    "title": "WHIRLWIND [EXTRA]",
+    "artist": "Linne X SCTL Visualized by Keiyuu & RED-FOX / obj:monaka",
+    "url": "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=43&order=reg&odtype=a",
+    "url_diff": "http://ux.getuploader.com/monaka_sabun_2/download/124/WHIRLWIND.zip",
+    "md5": "c4bb75ec414177e4c1d9f5bafae4cca2",
+    "sha256": "a8c664e28919904687b48443034744dfeab1b5bff96657db9415db0ef5a23f96",
+    "level": "7",
+    "proposer": "Restia",
+    "comment": "",
+    "submission": 395
+  },
+  {
     "title": "Σnergy -яevolution- [Steяrite]",
     "artist": "Sterrite",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=240&event=127",
@@ -10728,18 +10740,6 @@
     "proposer": "LUXURY♪",
     "comment": "fix ver",
     "submission": 1328
-  },
-  {
-    "title": "Angel (IR Battle edition)",
-    "artist": "POM bga-G Sliced by DAC",
-    "url": "https://mega.nz/folder/sZMTGZqZ#YZH2Xy6jBMMNl3MvQ_pp-A/file/YU0kGRqT",
-    "url_diff": "https://darksabun.github.io/event/irbattle/",
-    "md5": "af2fd0e30bb7547de89d207b4d5807c5",
-    "sha256": "7568fd50fdf4c4e54d41f8d8622a5913f50a61dbac4ea9cc65d1b23bacc7f1a8",
-    "level": "8",
-    "proposer": "qtp13",
-    "comment": "If you wish to leave a record of your call, please state your message at the sound of the tone. (Uses sliced keysounds)",
-    "submission": 2184
   },
   {
     "title": "Artemis　 -SABOTHER-",
@@ -11692,6 +11692,18 @@
     "submission": 327
   },
   {
+    "title": "Angel (IR Battle edition)",
+    "artist": "POM bga-G Sliced by DAC",
+    "url": "https://mega.nz/folder/sZMTGZqZ#YZH2Xy6jBMMNl3MvQ_pp-A/file/YU0kGRqT",
+    "url_diff": "https://darksabun.github.io/event/irbattle/",
+    "md5": "af2fd0e30bb7547de89d207b4d5807c5",
+    "sha256": "7568fd50fdf4c4e54d41f8d8622a5913f50a61dbac4ea9cc65d1b23bacc7f1a8",
+    "level": "9",
+    "proposer": "qtp13",
+    "comment": "If you wish to leave a record of your call, please state your message at the sound of the tone. (Uses sliced keysounds)",
+    "submission": 2184
+  },
+  {
     "title": "Arcadia -幻眠る-",
     "artist": "HaL feat. riri obj:れもんるり",
     "url": "http://web.archive.org/web/20060621124303/http://www.remarkablesense.org/~hal/waveceptor/bms/bms_arcadia_LQ.zip",
@@ -12180,6 +12192,18 @@
     "comment": "同時押し,乱打",
     "submission": 278,
     "proposerLr2id": 128281
+  },
+  {
+    "title": "WHIRLWIND [Wind Rush]",
+    "artist": "Linne X SCTL Visualized by Keiyuu & RED-FOX / obj tyrcs",
+    "url": "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=43&order=reg&odtype=a",
+    "url_diff": "https://stellabms.xyz/upload/1135",
+    "md5": "f474ba68a8b00bf6c18815540da6593c",
+    "sha256": "fcd3b136eea5edab2cab8f87b3bd70441083d7f81693c451d03f09b630327f09",
+    "level": "9",
+    "proposer": "七海",
+    "comment": "0noteとズレなし",
+    "submission": 2188
   },
   {
     "title": "XIII Charlotte -Alcadiz Gear-",
@@ -12976,18 +13000,6 @@
     "submission": 626
   },
   {
-    "title": "Trinity [DELAYMASTER]",
-    "artist": "TAK / 差分　赤い人",
-    "url": "http://web.archive.org/web/20060503155239/http:/www.ismusic.ne.jp/djtak/",
-    "url_diff": "http://akred.web.fc2.com/bmsfile/trinity-DELAYMASTER.bme",
-    "md5": "c7bbb20702438642af7a04677f68da54",
-    "sha256": "31bd69b943b38037ab2cc42be00ba91cdd5664438d1ab2c7496a47d6460eb75e",
-    "level": "10",
-    "proposer": "氷城つるぎ",
-    "comment": "ディレイ",
-    "submission": 1069
-  },
-  {
     "title": "Unleashed World -Luna-",
     "artist": "sak feat.みゅい Movie: げ～むばか Illust: 球根 / selene.",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=123",
@@ -12997,18 +13009,6 @@
     "level": "10",
     "proposer": "こめっと",
     "submission": 365
-  },
-  {
-    "title": "WHIRLWIND [Wind Rush]",
-    "artist": "Linne X SCTL Visualized by Keiyuu & RED-FOX / obj tyrcs",
-    "url": "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=43&order=reg&odtype=a",
-    "url_diff": "https://stellabms.xyz/upload/1135",
-    "md5": "f474ba68a8b00bf6c18815540da6593c",
-    "sha256": "fcd3b136eea5edab2cab8f87b3bd70441083d7f81693c451d03f09b630327f09",
-    "level": "10",
-    "proposer": "七海",
-    "comment": "0noteとズレなし",
-    "submission": 2188
   },
   {
     "title": "your wind, my blind [Etude]",
@@ -13346,6 +13346,18 @@
     "submission": 111,
     "sha256": "ad83ff3d3a646642c021f1fa6441b8e07eb0e70fdae4e246cadfaf5c1619b31d",
     "proposerLr2id": 128003
+  },
+  {
+    "title": "Calamity Fortune [HARDEST]",
+    "artist": "ZUN remixed by LeaF/ 差分 赤い人 Movie:Optie",
+    "url": "http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=45",
+    "url_diff": "http://akred.web.fc2.com/bmsfile/Calamity-HARDEST.bms",
+    "md5": "243a6ba83bc2f291a2a9bc9736b833bd",
+    "sha256": "ca80e976628ccf9a7a0f5141fce13738d65b7832db618e47725b6d491502d024",
+    "level": "11",
+    "proposer": "神原駿河",
+    "comment": "BPM200の16分乱打 sl10強～sl11適正？",
+    "submission": 2205
   },
   {
     "title": "Celestial Axes  -Luna-",
@@ -13986,6 +13998,18 @@
     "comment": "高速乱打、同時押し",
     "submission": 210,
     "proposerLr2id": 61713
+  },
+  {
+    "title": "Trinity [DELAYMASTER]",
+    "artist": "TAK / 差分　赤い人",
+    "url": "http://web.archive.org/web/20060503155239/http:/www.ismusic.ne.jp/djtak/",
+    "url_diff": "http://akred.web.fc2.com/bmsfile/trinity-DELAYMASTER.bme",
+    "md5": "c7bbb20702438642af7a04677f68da54",
+    "sha256": "31bd69b943b38037ab2cc42be00ba91cdd5664438d1ab2c7496a47d6460eb75e",
+    "level": "11",
+    "proposer": "氷城つるぎ",
+    "comment": "ディレイ",
+    "submission": 1069
   },
   {
     "title": "Twin☆kle Galaxies [Fortunate Groove]",
@@ -16057,6 +16081,18 @@
     "proposerLr2id": 87474
   },
   {
+    "title": "P8107 (__)",
+    "artist": "onoken",
+    "url": "http://web.archive.org/web/20070111193502/www107.sakura.ne.jp/~onoken/htmls/bms.html",
+    "url_diff": "https://stellabms.xyz/upload/1170",
+    "md5": "acb300af338f3fd83aa733952aed6261",
+    "sha256": "9854a4edcb8ed1b7b45485bb97e8615da2e7d6ffae749b5847a4aa90f152f765",
+    "level": "13",
+    "proposer": "marie",
+    "comment": "fun chordstreams / zure = additional keysounds",
+    "submission": 1637
+  },
+  {
     "title": "Poison AND÷OR Affection -PANDORA-",
     "artist": "LeaF Movie:Optie obj:BAECON",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=149&event=96",
@@ -16312,6 +16348,18 @@
     "submission": 1202
   },
   {
+    "title": "あにまら (・ω・)",
+    "artist": "TOMA/さ",
+    "url": "https://onedrive.live.com/?cid=F61C1F8825F0CF46&id=F61C1F8825F0CF46%21330&parId=F61C1F8825F0CF46%21159&o=OneUp",
+    "url_diff": "http://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
+    "md5": "635c5caa8da5bdbb712e35b5f564a11c",
+    "sha256": "8bd9ef6b9e00b096f14649fe299aeb6bf8c9dbd5513f0759185710839d05e249",
+    "level": "13",
+    "proposer": "fuko",
+    "comment": "BPM255 超高速love",
+    "submission": 1629
+  },
+  {
     "title": "ちんこ音頭2012",
     "artist": "くっちー / Ds",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=83",
@@ -16407,18 +16455,6 @@
     "comment": "同時押し・物量",
     "submission": 239,
     "sha256": "eddd300273551c372440db78de5940e7966e95e1fd364a2c52308b9310904d11"
-  },
-  {
-    "title": "カタリスト [触媒]",
-    "artist": "P4koo/つゆり花鈴/BlueArpeggio Illust GATTOMOTTO/Movie Ratif/obj:MiracleOnsen",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=127",
-    "url_diff": "https://darksabun.github.io/bceg/event/ondan9/",
-    "md5": "20d2dd0dfdb545a253a43cfa2f5aa7c9",
-    "sha256": "8270aaade1b97a302967cc9831aa7d3894161ef096b9cadeffe91d44c72836aa",
-    "level": "13",
-    "proposer": "Mallow♪",
-    "comment": "イージーは比較的簡単",
-    "submission": 1033
   },
   {
     "title": "キミとボクへの葬送歌 [Dirge]",
@@ -19422,6 +19458,18 @@
     "submission": 1338
   },
   {
+    "title": "Kafig [Trennung_fixed]",
+    "artist": "Chicala Lpis movie:K.MONO,illustration:戀/obj:Mary_Sue",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=116",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "md5": "01d6ea667d9d87c4d5a7e939adb80647",
+    "sha256": "5cc0bd8dfbf2657fd2ad2f7a9eb8a8945424192064af2a9fc21bb3bb0a816029",
+    "level": "15",
+    "proposer": "♪♪",
+    "comment": "BPMを133に固定した差分。ソフランはまだあるけど…ズレが一つありそうですがソフランを消したので発生したものです。",
+    "submission": 1624
+  },
+  {
     "title": "KiraKira‥Explorer [ぽに！]",
     "artist": "U-ske feat. 利香 obj:りこりす・らぢあーた",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=100&event=133",
@@ -20180,17 +20228,6 @@
     "proposerLr2id": 23110
   },
   {
-    "title": "キエユクコトワリ [BLACK ANOTHER]",
-    "artist": "ROKINA",
-    "url": "http://1drv.ms/1FHRtpc",
-    "url_diff": "",
-    "md5": "f33028fd5bcef05cf5947f416622f46b",
-    "level": "15",
-    "proposer": "qtp13",
-    "submission": 331,
-    "sha256": "41caea30c247feeb578064e9e433ed56656612243788ad2b9401df57ea939bd1"
-  },
-  {
     "title": "ココナツ・アバンチュール [Hexagon]",
     "artist": "ぽんきち obj.hex",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=229&event=116",
@@ -20579,6 +20616,18 @@
     "comment": "物量",
     "submission": 267,
     "sha256": "b4ba66dc2eaf3034b6a164e1fa0ff50ec2a20c9f7c8b99bc29d8bcc70494e6f6"
+  },
+  {
+    "title": "[line:theta] -Xe-",
+    "artist": "nitro obj : LindBlum",
+    "url": "https://dl.dropboxusercontent.com/s/1wbit5p08wqyxmm/%5Bline%EF%BC%9Atheta%5D%20%28by%20nitro%29.rar",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05537",
+    "md5": "59d232d917f8764613784dc121c98eed",
+    "sha256": "f800b25556b5f9b7c0ae4643139c35beb7e0bef2441c885d3ae828d8d6e51d90",
+    "level": "16",
+    "proposer": "七海",
+    "comment": "3~4?",
+    "submission": 1627
   },
   {
     "title": "Act #000000 (short) [Extra]",
@@ -22707,18 +22756,6 @@
     "sha256": "67090c0a2f1b26daeeb243e54e95ef6339c5c248098b9fe8a1ca1769aef6f1bf"
   },
   {
-    "title": "Crystal Wind [IR]",
-    "artist": "maxXx65535 obj:LuvTek",
-    "url": "https://onedrive.live.com/?id=26D9698EC1CEC044%21212&cid=26D9698EC1CEC044",
-    "url_diff": "https://darksabun.github.io/event/irbattle/",
-    "md5": "899fde655fdd0213ab7df89fa577dfe8",
-    "sha256": "0337e4a85eb132b30ee4e4f252ccd2907ecd4e2b418a434b222e796dd5545412",
-    "level": "17",
-    "proposer": "qtp13",
-    "comment": "Easy: st3~4, Hard: st4~5; uses additional keysound",
-    "submission": 1617
-  },
-  {
     "title": "Cutee☆NeverLand [LAST BOSS]",
     "artist": "sak with.ごくごくプリン Movie: げ～むばか obj: BAECON",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=127",
@@ -22827,6 +22864,18 @@
     "proposer": "スノート",
     "comment": "物量とディレイ",
     "submission": 947
+  },
+  {
+    "title": "Empress of Raizze [殺しなさい]",
+    "artist": "-45/わなな・BANI / obj:スノート",
+    "url": "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=03850",
+    "md5": "fd278ba1685bd983b3e0dcc496a9b46e",
+    "sha256": "f87f0ce396000f821f064808d069574b1b0035564da9628e5000a8edc9265b31",
+    "level": "17",
+    "proposer": "qtp13",
+    "comment": "連打ガチ押し",
+    "submission": 1634
   },
   {
     "title": "Evangelize (Radio Edit) -Long Distance race-",
@@ -23663,6 +23712,18 @@
     "proposerLr2id": 87474
   },
   {
+    "title": "その斯くも美しき紅に -IR-",
+    "artist": "天音 obj: qtp13",
+    "url": "https://web.archive.org/web/20120507144453/http://youzyo.net/bms/ama03_kakumo.zip",
+    "url_diff": "https://darksabun.github.io/event/irbattle/",
+    "md5": "c1b55ce3bea1965441355f042aa85727",
+    "sha256": "637c694f316e4f6b762c29c2ce9fe573414ddde153b2fc2f98e1107b8c2cf915",
+    "level": "17",
+    "proposer": "SHAX.",
+    "comment": "BPM155 連打複合",
+    "submission": 1630
+  },
+  {
     "title": "にじいろクレヨン [GOD]",
     "artist": "kagerow",
     "url": "http://kagerow.net",
@@ -24121,6 +24182,18 @@
     "proposer": "LUXURY♪",
     "comment": "高速乱打 差分内readme: \"note番号\"KR\"および\"24\"はわざとズラしています\"",
     "submission": 1097
+  },
+  {
+    "title": "Crystal Wind [IR]",
+    "artist": "maxXx65535 obj:LuvTek",
+    "url": "https://onedrive.live.com/?id=26D9698EC1CEC044%21212&cid=26D9698EC1CEC044",
+    "url_diff": "https://darksabun.github.io/event/irbattle/",
+    "md5": "899fde655fdd0213ab7df89fa577dfe8",
+    "sha256": "0337e4a85eb132b30ee4e4f252ccd2907ecd4e2b418a434b222e796dd5545412",
+    "level": "18",
+    "proposer": "qtp13",
+    "comment": "Easy: st3~4, Hard: st4~5; uses additional keysound",
+    "submission": 1617
   },
   {
     "title": "Daybreak",
@@ -25119,6 +25192,18 @@
     "sha256": "6e7c300f6e9211b1684d92ae1135981a8c0aa6909014535cd51da66415fa84f9"
   },
   {
+    "title": "Acadia -あかんやつや-",
+    "artist": "Triangle Waste",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=304&event=116",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=5490",
+    "md5": "b5998585661edaa392ba36f0607108fd",
+    "sha256": "de49bc4d038c6208d6a852bff8a000fd0b84764359c815e3f5a95c033805756d",
+    "level": "19",
+    "proposer": "垢伴次郎",
+    "comment": "BPM128 ズレガチ押し",
+    "submission": 1622
+  },
+  {
     "title": "After Burner [わや]",
     "artist": "ねこかぶりサイクロン(xi+ねこみりん) feat.えみゅう。/obj.z",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=430&event=104",
@@ -25849,6 +25934,18 @@
     "sha256": "87610d640265afed21bcc9ff9eae30f5b63dd2460bf58c5c0210cda0e1b91217"
   },
   {
+    "title": "#DoomeyTunes [phi]",
+    "artist": "Louie Fibonacci feat. ricono obj:qfeileadh",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=133",
+    "url_diff": "https://stellabms.xyz/upload/478",
+    "md5": "7f2cbe01342d3935dd6e72a7ef2b4aa3",
+    "sha256": "7d0ddbba0af763d7fd4aad8307e6a12321e5a8c4e890c7770c22407590b1dc72",
+    "level": "20",
+    "proposer": "BAECON",
+    "comment": "高速乱打",
+    "submission": 1357
+  },
+  {
     "title": "+84 [+700]",
     "artist": "はがね obj:sak",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=100&event=110",
@@ -26349,18 +26446,6 @@
     "sha256": "c9843b5dee679fcba5895a1cfa2cee444fe9b10c95136967bedc060aa5b07f3e"
   },
   {
-    "title": "SEPIA -reminisce-",
-    "artist": "SHIKI/-45/obj:qfeileadh",
-    "url": "http://shiki2.sakura.ne.jp/fohs.html",
-    "url_diff": "https://stellabms.xyz/upload/1072",
-    "md5": "15cff55bf011ac0542b19f9b113d2c92",
-    "sha256": "d4fabfdfe1b8cf7dc2315859508a19c20f10f6dd6271997bb0795a8a6c4817e7",
-    "level": "20",
-    "proposer": "qtp13",
-    "comment": "total is very high, technically it's st8",
-    "submission": 1601
-  },
-  {
     "title": "Shiny☆Strike!!! [Beyond the Future]",
     "artist": "otoshi.b × みゅい × はしたかさん × BAECON",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=133",
@@ -26614,18 +26699,6 @@
     "comment": "地力",
     "submission": 278,
     "sha256": "dda71b54c5249cd3010e252c5a935089102099455e1b1743faa8086062a8923f"
-  },
-  {
-    "title": "#DoomeyTunes [phi]",
-    "artist": "Louie Fibonacci feat. ricono obj:qfeileadh",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=29&event=133",
-    "url_diff": "https://stellabms.xyz/upload/478",
-    "md5": "7f2cbe01342d3935dd6e72a7ef2b4aa3",
-    "sha256": "7d0ddbba0af763d7fd4aad8307e6a12321e5a8c4e890c7770c22407590b1dc72",
-    "level": "21",
-    "proposer": "BAECON",
-    "comment": "高速乱打",
-    "submission": 1357
   },
   {
     "title": "0xFFF [Overlimit]",
@@ -27115,6 +27188,18 @@
     "proposerLr2id": 86559
   },
   {
+    "title": "SEPIA -reminisce-",
+    "artist": "SHIKI/-45/obj:qfeileadh",
+    "url": "http://shiki2.sakura.ne.jp/fohs.html",
+    "url_diff": "https://stellabms.xyz/upload/1072",
+    "md5": "15cff55bf011ac0542b19f9b113d2c92",
+    "sha256": "d4fabfdfe1b8cf7dc2315859508a19c20f10f6dd6271997bb0795a8a6c4817e7",
+    "level": "21",
+    "proposer": "qtp13",
+    "comment": "total is very high, technically it's st8",
+    "submission": 1601
+  },
+  {
     "title": "Stellaria [LAST VOYAGE]",
     "artist": "Lime obj:NoName",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=434&event=133",
@@ -27356,18 +27441,6 @@
     "sha256": "be45b07af3cf1c9df54c448e72e34663628474913458c51eb203af733531c955"
   },
   {
-    "title": "綺機 ～あやはずみ～ [25回秘密箱]",
-    "artist": "うまるつふり",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=54&event=133",
-    "url_diff": "",
-    "md5": "5accb2f61f444dc721f23f244db00936",
-    "sha256": "77863b401bb3b79f805b4a4f5284cb26761c56767040fdf863e238b33f031e23",
-    "level": "21",
-    "proposer": "kai",
-    "comment": "BPM224のゴチャゴチャ系 同梱譜面",
-    "submission": 1418
-  },
-  {
     "title": ")-@1くvz@",
     "artist": "QURELESS obj : BAECON",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=339&event=110",
@@ -27450,6 +27523,18 @@
     "proposer": "MEES-♬",
     "comment": "CCHHAASSEERR",
     "submission": 1332
+  },
+  {
+    "title": "CO5M1C R4ILR0AD [B3Y0ND DE5CRIP7ION]",
+    "artist": "kanone obj:Guanacoite",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=110&num=220",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05329",
+    "md5": "6c6a66565aed72bf10a57fa60007db34",
+    "sha256": "51d3b85fd88a096fd02c26ffe43e4aebad3ea3e52c7dc6f28c6db92d0fdbe13b",
+    "level": "22",
+    "proposer": "歳納京子",
+    "comment": "According to the included text, all misalignments are intentional.",
+    "submission": 1636
   },
   {
     "title": "corneal -Over The Limit-",
@@ -27738,18 +27823,6 @@
     "proposer": "qtp13",
     "comment": "drrrrrrrr",
     "submission": 985
-  },
-  {
-    "title": "This Club is not 4 U",
-    "artist": "EmoCo. / 玲架 / UnK-now / 37X obj. Lapis",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=123",
-    "url_diff": "http://sagena.harisen.jp/hyou.html",
-    "md5": "156783da7d59f7ddfb2543890eceb3c5",
-    "sha256": "3bd4f43ffbac2babdfda8ec7f3e56b78c6251cef4670262feae31b71306b3c9f",
-    "level": "22",
-    "proposer": "MEES-♬",
-    "comment": "ディレイ4U",
-    "submission": 1231
   },
   {
     "title": "tinnitus音頭",
