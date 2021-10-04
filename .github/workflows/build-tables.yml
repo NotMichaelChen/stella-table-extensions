@@ -23,7 +23,7 @@ jobs:
           path: builder
           
       - name: Setup Nim environment
-        uses: jiro4989/setup-nim-action@v1.3.12
+        uses: jiro4989/setup-nim-action@v1.3.13
         with:
           nim-version: 1.4.8
       
