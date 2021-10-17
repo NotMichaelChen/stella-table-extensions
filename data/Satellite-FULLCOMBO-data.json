@@ -50,6 +50,11 @@
     "level": "3.50...4.00"
   },
   {
+    "md5": "6a9742bbe2de9cdf0f9e5dc0a6a662c3",
+    "title": "NEW ANACHRONISM -もう、主人公になれない- (dream side)",
+    "level": "3.50...4.00"
+  },
+  {
     "md5": "f0571f9ffd44be2dd7acf420fc025a53",
     "title": "NightTheater [SP ANOTHER]",
     "level": "3.50...4.00"
@@ -140,6 +145,11 @@
     "level": "4.00...4.50"
   },
   {
+    "md5": "011d370c8a0d66bf3175a88609dca383",
+    "title": "Berry Go!! [ZOI-EZ]",
+    "level": "4.00...4.50"
+  },
+  {
     "md5": "bb5d0716c18b37f9687bbcea17fc646c",
     "title": "BLAZE YOUR SOUL [SP ANOTHER]",
     "level": "4.00...4.50"
@@ -215,8 +225,8 @@
     "level": "4.00...4.50"
   },
   {
-    "md5": "6a9742bbe2de9cdf0f9e5dc0a6a662c3",
-    "title": "NEW ANACHRONISM -もう、主人公になれない- (dream side)",
+    "md5": "79feed2cbf54e5405a43e60392769dcf",
+    "title": "Love☆Spellcard",
     "level": "4.00...4.50"
   },
   {
@@ -257,6 +267,16 @@
   {
     "md5": "67cdcfbf6b3ca4d2b22e6213a81d39f7",
     "title": "SHERRY FLIP",
+    "level": "4.00...4.50"
+  },
+  {
+    "md5": "89628573ae1099a76cc25582957fb84f",
+    "title": "Sogaikan Utopia [ANOTHER]",
+    "level": "4.00...4.50"
+  },
+  {
+    "md5": "fa0a38f2a1a45edbf0388492fde8c35b",
+    "title": "SpellBound [CHARM]",
     "level": "4.00...4.50"
   },
   {
@@ -390,11 +410,6 @@
     "level": "4.50...5.00"
   },
   {
-    "md5": "011d370c8a0d66bf3175a88609dca383",
-    "title": "Berry Go!! [ZOI-EZ]",
-    "level": "4.50...5.00"
-  },
-  {
     "md5": "07026c7b3111bb4b65b36db269a949cf",
     "title": "Bioinformatics",
     "level": "4.50...5.00"
@@ -475,6 +490,11 @@
     "level": "4.50...5.00"
   },
   {
+    "md5": "76b1a277369cb77868d1ec35d452a31f",
+    "title": "GOODWORLD [A]",
+    "level": "4.50...5.00"
+  },
+  {
     "md5": "722262f991053fb691b8d125cbd8f61f",
     "title": "HealingFactor [SP HYPER]",
     "level": "4.50...5.00"
@@ -532,11 +552,6 @@
   {
     "md5": "4023045d9134dfc47e953bc430e5ef07",
     "title": "Life is PIANO [Another]",
-    "level": "4.50...5.00"
-  },
-  {
-    "md5": "79feed2cbf54e5405a43e60392769dcf",
-    "title": "Love☆Spellcard",
     "level": "4.50...5.00"
   },
   {
@@ -630,18 +645,8 @@
     "level": "4.50...5.00"
   },
   {
-    "md5": "89628573ae1099a76cc25582957fb84f",
-    "title": "Sogaikan Utopia [ANOTHER]",
-    "level": "4.50...5.00"
-  },
-  {
     "md5": "310372ffd72050362763ed477a862274",
     "title": "SpellBound [7KEYS ANOTHER]",
-    "level": "4.50...5.00"
-  },
-  {
-    "md5": "fa0a38f2a1a45edbf0388492fde8c35b",
-    "title": "SpellBound [CHARM]",
     "level": "4.50...5.00"
   },
   {
@@ -710,6 +715,11 @@
     "level": "5.00...5.50"
   },
   {
+    "md5": "c211005b8889e007aaf1941e241a82ed",
+    "title": "B e l i - R [ANOTHER]",
+    "level": "5.00...5.50"
+  },
+  {
     "md5": "4c9eac48034b36614e00c0b957db33b0",
     "title": "before... [mood]",
     "level": "5.00...5.50"
@@ -740,11 +750,6 @@
     "level": "5.00...5.50"
   },
   {
-    "md5": "76b1a277369cb77868d1ec35d452a31f",
-    "title": "GOODWORLD [A]",
-    "level": "5.00...5.50"
-  },
-  {
     "md5": "413f7ba663145dd7fc0e4422c9247d55",
     "title": "Hyper Fiber World Spectrum [ANOTHER]",
     "level": "5.00...5.50"
@@ -762,6 +767,16 @@
   {
     "md5": "b914da45e4dbf5599b7edee4d3c7e8a9",
     "title": "Mondlicht [SP ANOTHER]",
+    "level": "5.00...5.50"
+  },
+  {
+    "md5": "1cd29c630f0857f7a9cc5edb00e29a0b",
+    "title": "REZIDUAL MiND [ANOTHER]",
+    "level": "5.00...5.50"
+  },
+  {
+    "md5": "4dc22308eb254f088ead286be4acecde",
+    "title": "Second Synthesis [7key Extra]",
     "level": "5.00...5.50"
   },
   {
@@ -815,18 +830,8 @@
     "level": "5.50...6.00"
   },
   {
-    "md5": "c211005b8889e007aaf1941e241a82ed",
-    "title": "B e l i - R [ANOTHER]",
-    "level": "5.50...6.00"
-  },
-  {
     "md5": "a0f64c8af8621f4fdce97e24193a76cb",
     "title": "Brave My Soul -Flareness Heart-",
-    "level": "5.50...6.00"
-  },
-  {
-    "md5": "ebbfc0f2212f436180d8208595bb58c1",
-    "title": "Chatblanc [clonter]",
     "level": "5.50...6.00"
   },
   {
@@ -955,11 +960,6 @@
     "level": "5.50...6.00"
   },
   {
-    "md5": "4dc22308eb254f088ead286be4acecde",
-    "title": "Second Synthesis [7key Extra]",
-    "level": "5.50...6.00"
-  },
-  {
     "md5": "8351115e6c0b75e9af4239668a86cdd3",
     "title": "Selenotaxis [nostalgia]",
     "level": "5.50...6.00"
@@ -1065,11 +1065,6 @@
     "level": "5.50...6.00"
   },
   {
-    "md5": "54f438fa75188b54064e8bc983b264b4",
-    "title": "見送る一星、無我のソラ [100 min]",
-    "level": "5.50...6.00"
-  },
-  {
     "md5": "37f5309c50a7cbc2d43243ace22c91ac",
     "title": "Alitatrieb [Madness]",
     "level": "6.00...6.50"
@@ -1107,6 +1102,11 @@
   {
     "md5": "759408e8a0549292963b2948f67111f3",
     "title": "Burning Beat [B-Fight]",
+    "level": "6.00...6.50"
+  },
+  {
+    "md5": "ebbfc0f2212f436180d8208595bb58c1",
+    "title": "Chatblanc [clonter]",
     "level": "6.00...6.50"
   },
   {
@@ -1430,6 +1430,11 @@
     "level": "6.00...6.50"
   },
   {
+    "md5": "54f438fa75188b54064e8bc983b264b4",
+    "title": "見送る一星、無我のソラ [100 min]",
+    "level": "6.00...6.50"
+  },
+  {
     "md5": "a876f5e44fa63f4b0ec59f0b0b066d8c",
     "title": "鳥の詩 - Euro Techno Mix - [plume]",
     "level": "6.00...6.50"
@@ -1452,11 +1457,6 @@
   {
     "md5": "45c3c25bed84bc61d06cf6ec6d03e81a",
     "title": "island dream [maniac]",
-    "level": "6.50...7.00"
-  },
-  {
-    "md5": "22a8fdf9c1dc7353c1ec62363244ac73",
-    "title": "kyrka [Mild(fix)]",
     "level": "6.50...7.00"
   },
   {
@@ -1492,6 +1492,11 @@
   {
     "md5": "ef54e973b67578f913f93d32b3d5efcb",
     "title": "村 [正]",
+    "level": "6.50...7.00"
+  },
+  {
+    "md5": "b12910cdfc2a7838662775b55ded48fb",
+    "title": "紅月夜想　～Scarlet Nocturne～ [HARD]",
     "level": "6.50...7.00"
   },
   {
@@ -1615,6 +1620,11 @@
     "level": "7.00...7.50"
   },
   {
+    "md5": "22a8fdf9c1dc7353c1ec62363244ac73",
+    "title": "kyrka [Mild(fix)]",
+    "level": "7.00...7.50"
+  },
+  {
     "md5": "25999666bc86cc9224524aae91956523",
     "title": "L9 [★]",
     "level": "7.00...7.50"
@@ -1687,6 +1697,11 @@
   {
     "md5": "7f85bc9dae50ff37aa3f51a89c8e42f2",
     "title": "Road to Dwarf -Little Princess Medley- -EXTRA-",
+    "level": "7.00...7.50"
+  },
+  {
+    "md5": "a38fcd8a5d6779fea4de309e8d613bd3",
+    "title": "Saudade -nostalgia-",
     "level": "7.00...7.50"
   },
   {
@@ -1805,11 +1820,6 @@
     "level": "7.00...7.50"
   },
   {
-    "md5": "b12910cdfc2a7838662775b55ded48fb",
-    "title": "紅月夜想　～Scarlet Nocturne～ [HARD]",
-    "level": "7.00...7.50"
-  },
-  {
     "md5": "6fb9179fd2576a889301a0dfc99ab6da",
     "title": "綺雪朧月 (EX)",
     "level": "7.00...7.50"
@@ -1915,11 +1925,6 @@
     "level": "7.50...8.00"
   },
   {
-    "md5": "e247ba36d83176a89304c39a8be5b876",
-    "title": "Hypertext Transfer Protocol -418-",
-    "level": "7.50...8.00"
-  },
-  {
     "md5": "86312e5ac9a3afc35f58568942c3a61a",
     "title": "introspect [SP INSANE]",
     "level": "7.50...8.00"
@@ -2007,11 +2012,6 @@
   {
     "md5": "7a9e1a818cb07c49ef12f220f3facf95",
     "title": "RiZE UP FUTURE [Dif]",
-    "level": "7.50...8.00"
-  },
-  {
-    "md5": "a38fcd8a5d6779fea4de309e8d613bd3",
-    "title": "Saudade -nostalgia-",
     "level": "7.50...8.00"
   },
   {
@@ -2120,8 +2120,18 @@
     "level": "8.00...8.50"
   },
   {
+    "md5": "8afdf8703ce4597e7ac71f3bf37756f1",
+    "title": "Digital Signage [W]",
+    "level": "8.00...8.50"
+  },
+  {
     "md5": "4c756edeb68d70960989daf1d1aae9ed",
     "title": "Fly up to : the Sky [Insane]",
+    "level": "8.00...8.50"
+  },
+  {
+    "md5": "e247ba36d83176a89304c39a8be5b876",
+    "title": "Hypertext Transfer Protocol -418-",
     "level": "8.00...8.50"
   },
   {
@@ -2282,11 +2292,6 @@
   {
     "md5": "0b1b155fe41684cab37abaca57f7894e",
     "title": "Demagogie [Hetzerei]",
-    "level": "8.50...9.00"
-  },
-  {
-    "md5": "8afdf8703ce4597e7ac71f3bf37756f1",
-    "title": "Digital Signage [W]",
     "level": "8.50...9.00"
   },
   {
@@ -2685,6 +2690,11 @@
     "level": "9.50...10.00"
   },
   {
+    "md5": "3213380b921dd1275fb392c0080f07ae",
+    "title": "Drop Down [SP Insane]",
+    "level": "9.50...10.00"
+  },
+  {
     "md5": "0fcca00f177808e921078208e4a94527",
     "title": "EOS [女神]",
     "level": "9.50...10.00"
@@ -2792,6 +2802,11 @@
   {
     "md5": "31d94f9c12d00a95b059e0a0629232a0",
     "title": "The Last Page [Endgame]",
+    "level": "9.50...10.00"
+  },
+  {
+    "md5": "a096f87066726fa05f3254d7653f187d",
+    "title": "tinnitus -7 another-",
     "level": "9.50...10.00"
   },
   {
@@ -2922,11 +2937,6 @@
   {
     "md5": "fcdf30a51d164f935445af5ea3c0f6fb",
     "title": "Dreadnought [Bravery]",
-    "level": "10.00...10.50"
-  },
-  {
-    "md5": "3213380b921dd1275fb392c0080f07ae",
-    "title": "Drop Down [SP Insane]",
     "level": "10.00...10.50"
   },
   {
@@ -3095,11 +3105,6 @@
     "level": "10.00...10.50"
   },
   {
-    "md5": "a096f87066726fa05f3254d7653f187d",
-    "title": "tinnitus -7 another-",
-    "level": "10.00...10.50"
-  },
-  {
     "md5": "1cc3ef8d8b7dec5515d7168e5e03cfa7",
     "title": "Transfixation [STERRITE]",
     "level": "10.00...10.50"
@@ -3240,8 +3245,8 @@
     "level": "10.50...11.00"
   },
   {
-    "md5": "6692336d013c16c438437e30b44f24af",
-    "title": "五月雨に誓う [SP EX+]",
+    "md5": "f4fd9980f358e32e461b7811ee297245",
+    "title": "synodion [SP BLACK ANOTHER]",
     "level": "10.50...11.00"
   },
   {
@@ -3495,11 +3500,6 @@
     "level": "11.00...11.50"
   },
   {
-    "md5": "f4fd9980f358e32e461b7811ee297245",
-    "title": "synodion [SP BLACK ANOTHER]",
-    "level": "11.00...11.50"
-  },
-  {
     "md5": "b31259505ed8a18dd1e9be924308aa45",
     "title": "Term of Atrophy [ANOTHER]",
     "level": "11.00...11.50"
@@ -3620,6 +3620,11 @@
     "level": "11.00...11.50"
   },
   {
+    "md5": "6692336d013c16c438437e30b44f24af",
+    "title": "五月雨に誓う [SP EX+]",
+    "level": "11.00...11.50"
+  },
+  {
     "md5": "5c5fdbb4051fc0b2b7831f54466b2fa7",
     "title": "今日一日も全力疾走！ -Hope-",
     "level": "11.00...11.50"
@@ -3695,6 +3700,11 @@
     "level": "12.00...12.50"
   },
   {
+    "md5": "c6b9bfcef0215b51317cebc4a4520d9c",
+    "title": "B e l i - R [rebellion]",
+    "level": "12.00...12.50"
+  },
+  {
     "md5": "f8dd029100b14f226a482480903efa48",
     "title": "BlythE:ExtenD -SemicoloN-",
     "level": "12.00...12.50"
@@ -3727,11 +3737,6 @@
   {
     "md5": "70120d2889c1e30252289b4e95e1f0c6",
     "title": "take me to the moon [yumether]",
-    "level": "12.00...12.50"
-  },
-  {
-    "md5": "c982becdce32626a23083d798b02ede1",
-    "title": "Total Eclipse of the Sun -Howling-",
     "level": "12.00...12.50"
   },
   {
@@ -3812,11 +3817,6 @@
   {
     "md5": "fe2fbfefcdf57b56bb6aaa89d6ee11cc",
     "title": "Awaking Beat-From the next generation- [W]",
-    "level": "12.50...13.00"
-  },
-  {
-    "md5": "c6b9bfcef0215b51317cebc4a4520d9c",
-    "title": "B e l i - R [rebellion]",
     "level": "12.50...13.00"
   },
   {
@@ -3992,6 +3992,11 @@
   {
     "md5": "f2da1453f55ef10482ca0072c5161414",
     "title": "Snow Crystal [INSANE]",
+    "level": "12.50...13.00"
+  },
+  {
+    "md5": "c982becdce32626a23083d798b02ede1",
+    "title": "Total Eclipse of the Sun -Howling-",
     "level": "12.50...13.00"
   },
   {
@@ -4675,6 +4680,11 @@
     "level": "15.00...15.50"
   },
   {
+    "md5": "19e7661ba1ae245d5bfadea3fede9ad6",
+    "title": "LWVIIX [ANOTHER]",
+    "level": "15.00...15.50"
+  },
+  {
     "md5": "2fc9de092a418ba64d1747ba268494d8",
     "title": "magia [HARDEST]",
     "level": "15.00...15.50"
@@ -5155,6 +5165,11 @@
     "level": "17.00...17.50"
   },
   {
+    "md5": "24c869a51384af113e9271a766e7d4be",
+    "title": "Central Nucleus [INFERNO]",
+    "level": "17.00...17.50"
+  },
+  {
     "md5": "d9411e1ea20048bb585c3a3c2282ebf9",
     "title": "Cross Galaxy [microcosmos]",
     "level": "17.00...17.50"
@@ -5393,6 +5408,11 @@
     "md5": "b9cc5bd4194b74c2b8420a4f5c8d2ea8",
     "title": "運命論 [Atropos]",
     "level": "17.00...17.50"
+  },
+  {
+    "md5": "76d45a63861718e0081175aecf0daee7",
+    "title": "K8107　 -EXTRA-",
+    "level": "18.00...18.50"
   },
   {
     "md5": "24ccef65138cbd461f82780aca4f7e47",
@@ -5980,6 +6000,11 @@
     "level": "-"
   },
   {
+    "md5": "243a6ba83bc2f291a2a9bc9736b833bd",
+    "title": "Calamity Fortune [HARDEST]",
+    "level": "-"
+  },
+  {
     "md5": "c1a869dbb132dbfc87b87c220240276a",
     "title": "Ceebu Yapp",
     "level": "-"
@@ -5992,11 +6017,6 @@
   {
     "md5": "c16ad6046d2f0d5f65a66bbbba6aaaa8",
     "title": "Central GRAY [Crazy]",
-    "level": "-"
-  },
-  {
-    "md5": "24c869a51384af113e9271a766e7d4be",
-    "title": "Central Nucleus [INFERNO]",
     "level": "-"
   },
   {
@@ -6160,11 +6180,6 @@
     "level": "-"
   },
   {
-    "md5": "76d45a63861718e0081175aecf0daee7",
-    "title": "K8107　 -EXTRA-",
-    "level": "-"
-  },
-  {
     "md5": "cfe8ad9b75ba72ca331755b14df24373",
     "title": "Kiss in the dark [入って来るのは自由だけど 出るのは出来ない]",
     "level": "-"
@@ -6192,11 +6207,6 @@
   {
     "md5": "949001cff5b3401543134964395782f8",
     "title": "Luna Express 2032 [銀河鉄道999]",
-    "level": "-"
-  },
-  {
-    "md5": "19e7661ba1ae245d5bfadea3fede9ad6",
-    "title": "LWVIIX [ANOTHER]",
     "level": "-"
   },
   {
