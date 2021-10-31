@@ -3488,6 +3488,22 @@
     "proposerLr2id": 147642
   },
   {
+    "md5": "522ce11990d09b94e515b653705be4fd",
+    "title": "プナイプナイたいそう [SP ANOTHER]",
+    "artist": "立秋 feat.ちょこ",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=116",
+    "level": "0",
+    "comment": "(ง '-' )ง うーっ ٩( 'o' )۶プナイプナイ〜っ！！ 難易度ガバガバかも...",
+    "proposer": "otoshi.b",
+    "proposerLr2id": 87474,
+    "submission": 34,
+    "voteYes": 0,
+    "voteNo": 0,
+    "votePercent": 0,
+    "sha256": "532a76cb5a42dfccb2fdabc06624c432dc930f1aa26a067e496818ae9d79dc36"
+  },
+  {
     "md5": "8f425209fae28c57edc33c3061e08236",
     "sha256": "80f3f395424366fc6b3bc8e790b3e968012a11413921843d9d8fdb05758f8461",
     "title": "プラネット [Satella]",
@@ -6855,22 +6871,6 @@
     "proposer": "MineC24",
     "submission": 1272,
     "proposerLr2id": 84597
-  },
-  {
-    "md5": "522ce11990d09b94e515b653705be4fd",
-    "title": "プナイプナイたいそう [SP ANOTHER]",
-    "artist": "立秋 feat.ちょこ",
-    "url_diff": "",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=116",
-    "level": "1",
-    "comment": "(ง '-' )ง うーっ ٩( 'o' )۶プナイプナイ〜っ！！ 難易度ガバガバかも...",
-    "proposer": "otoshi.b",
-    "proposerLr2id": 87474,
-    "submission": 34,
-    "voteYes": 0,
-    "voteNo": 0,
-    "votePercent": 0,
-    "sha256": "532a76cb5a42dfccb2fdabc06624c432dc930f1aa26a067e496818ae9d79dc36"
   },
   {
     "md5": "bcbdac0287dc4adad7e0103eb5120c46",
@@ -13702,6 +13702,20 @@
     "proposerLr2id": 120385
   },
   {
+    "md5": "42b8aae291c69e28bdebfcfbc31a0797",
+    "sha256": "c9b0faa524b7521963511643f8b44e588fcb7a1ecdd3fb270c9a3381469c1ad0",
+    "title": "Amnehilesie [AbNormal]",
+    "artist": "MisomyL obj.nozomi",
+    "url_diff": "https://1drv.ms/u/s!ApwaJAUHJdpymjUB299q9fGkPODB?e=KJZzof",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=362&event=123",
+    "level": "4",
+    "comment": "高bpm乱打など。",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 2250,
+    "proposerLr2id": 147889
+  },
+  {
     "level": "4",
     "md5": "1e149570c9c292e83d2646a56653c50a",
     "sha256": "9a306d00b50a2d9f3bae7e43dd2ff906e75029562414bf63fba3b6acabfa3f84",
@@ -15702,6 +15716,20 @@
     "proposerLr2id": 18553
   },
   {
+    "md5": "a71537335d29219b96f41f182e2547b1",
+    "sha256": "154aba14e2513afd22eada8933309d8c8d0f8d1fdc13446c359f35f246815e58",
+    "title": "YOU from \"ひぐらしのなく頃に\"",
+    "artist": "composed by だい / arranged by dn3r obj:業",
+    "url_diff": "https://stellabms.xyz/upload/1196",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=112&event=131",
+    "level": "4",
+    "comment": "たのしい",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 2211,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "f06660c61e2db1da1e3b2e6853c5bdd2",
     "sha256": "9b1e0641b1e9ea951cdb0fd6167cbf856e46c57387f74666ff3bcd394f9f49c6",
     "title": "your wind, my blind [ZOI]",
@@ -17397,6 +17425,19 @@
     "proposerLr2id": 111239
   },
   {
+    "md5": "4cc3a2ae8ae0bfff7b1bbe65c0093e2b",
+    "sha256": "379df1a951ae1ca9aad2e9f4d9975c54987faf2c8a9e9783c250acc2a88ee618",
+    "title": "NIRVANA [SP INSANE]",
+    "artist": "Music : Zekk / Movie : vol-t",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=104",
+    "level": "5",
+    "comment": "同梱譜面　物量　微縦",
+    "proposer": "siron",
+    "submission": 1817,
+    "proposerLr2id": 92946
+  },
+  {
     "md5": "4f775eba5ef84e100785f3e4f3e4fc28",
     "sha256": "7dd535013e34729265ecce6d485c9059aab5cbd7ce65898d021dce81bb5b12dd",
     "title": "Nyan-Nyan Naughty Night [ANOTHER]",
@@ -17871,20 +17912,6 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
-  },
-  {
-    "md5": "a71537335d29219b96f41f182e2547b1",
-    "sha256": "154aba14e2513afd22eada8933309d8c8d0f8d1fdc13446c359f35f246815e58",
-    "title": "YOU from \"ひぐらしのなく頃に\"",
-    "artist": "composed by だい / arranged by dn3r obj:業",
-    "url_diff": "https://stellabms.xyz/upload/1196",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=112&event=131",
-    "level": "5",
-    "comment": "たのしい",
-    "zureCount": 0,
-    "proposer": "七海",
-    "submission": 2211,
-    "proposerLr2id": 84597
   },
   {
     "md5": "490a5d45f7ae0d37af2b7880836e46aa",
@@ -19348,19 +19375,6 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
-  },
-  {
-    "md5": "4cc3a2ae8ae0bfff7b1bbe65c0093e2b",
-    "sha256": "379df1a951ae1ca9aad2e9f4d9975c54987faf2c8a9e9783c250acc2a88ee618",
-    "title": "NIRVANA [SP INSANE]",
-    "artist": "Music : Zekk / Movie : vol-t",
-    "url_diff": "",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=104",
-    "level": "6",
-    "comment": "同梱譜面　物量　微縦",
-    "proposer": "siron",
-    "submission": 1817,
-    "proposerLr2id": 92946
   },
   {
     "level": "6",
@@ -22102,6 +22116,19 @@
     "votePercent": 0
   },
   {
+    "md5": "9299c524b16ff777ac135041a17b1984",
+    "sha256": "8166c9544d917c8939cef6890c3109cc353e4afbd4bc3ef08899db9939d98223",
+    "title": "変人店～あの町にチェーンを広げよ～ -IR-",
+    "artist": "【躾】ますたー & MilkT(from こんすとらくたぁ～) / obj. marie",
+    "url_diff": "https://darksabun.github.io/event/irbattle/",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/%E5%A4%89%E4%BA%BA%E5%BA%97%20%EF%BD%9E%E3%81%82%E3%81%AE%E7%94%BA%E3%81%AB%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%92%E5%BA%83%E3%81%92%E3%82%88%EF%BD%9E%20(by%20%E3%80%90%E8%BA%BE%E3%80%91%E3%81%BE%E3%81%99%E",
+    "level": "7",
+    "comment": "henjin5_n.bms基準、検出されたすべてのズレはキー音をカットしたので出たズレです。",
+    "proposer": "Mary_Sue",
+    "submission": 2251,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "ea83d8cfa55713c1d5f677535e73c79f",
     "sha256": "04cb0d87f3920278922096fb7ef5fe33f0533afe217c873be8cfd28b13eabd3f",
     "title": "多重極展開 [MANIAQ]",
@@ -23331,6 +23358,20 @@
     "votePercent": 0,
     "sha256": "2f2c4da03e58b288baa58938e326d271392c1223ad5c7b87da193ddea509542c",
     "proposerLr2id": 80964
+  },
+  {
+    "md5": "e385b553488a23c440c776ba18649803",
+    "sha256": "74cc251b0fb07297e9e5791ec28d136aab53fef66121a0c957e752316b1500ed",
+    "title": "Sunset Toybox [yumether]",
+    "artist": "テヅカ x Aoi feat.桃雛なの / obj:夢瑠",
+    "url_diff": "https://dl.dropboxusercontent.com/s/wi896g8u0kgx4nn/_Sunset_Toybox_yume.zip",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=133",
+    "level": "8",
+    "comment": "同時押し、乱打",
+    "zureCount": 0,
+    "proposer": "Seiren",
+    "submission": 2252,
+    "proposerMinirid": "553dc7a3-bfbd-4a20-bfc2-3ec13fb66c58"
   },
   {
     "level": "8",
@@ -24767,6 +24808,20 @@
     "votePercent": 0
   },
   {
+    "md5": "54d2f32d4d1beaaf7ec6beeb0f4cc976",
+    "sha256": "09529f1d6cdf328ce2c51107691687be251c22b69b61ed51e5ab2d9e99227961",
+    "title": "Mind Quest [7key//LUNATIC]",
+    "artist": "LV.4 obj.Restia",
+    "url_diff": "https://1drv.ms/u/s!ApwaJAUHJdpylzdetL3mbvjyhr-U?e=h2U868",
+    "url": "https://1drv.ms/u/s!ApwaJAUHJdpyjx31NpN0wGy-yO9V",
+    "level": "9",
+    "comment": "BPM170、16分乱打、皿がラス殺しっぽい？でもまあ騒ぐほどでもないか… 0.24(580/2398)",
+    "zureCount": 0,
+    "proposer": "💩",
+    "submission": 2248,
+    "proposerLr2id": 119698
+  },
+  {
     "level": "9",
     "comment": "中速乱打+少しの微連打",
     "md5": "2e0b721babb8fb62ce977c23c9f364f9",
@@ -24912,6 +24967,19 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "18d8db2a640be5be0ead7d8e01ec27da",
+    "sha256": "756a3356c57d760b58ed666f6fcc8637066adddf482a5876aa6a5d8bee5b3ba7",
+    "title": "Thaumaturgy [SP ANOTHER]",
+    "artist": "qfeileadh as xuxuezique BGI : 睦月ふみよ",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/bmsshuin2/85",
+    "level": "9",
+    "comment": "BPM130、同梱、ガチ押し成分多め、皿複合時々ジャリ、0.16(350/2200)",
+    "proposer": "💩",
+    "submission": 2247,
+    "proposerLr2id": 119698
   },
   {
     "level": "9",
@@ -27491,6 +27559,19 @@
     "proposerLr2id": 84597
   },
   {
+    "md5": "2dbfb357ced7ec7010c848b8b0e2c895",
+    "sha256": "912060462192a7ad4b3cfb1544467d89ab8834f4b5e76ba402867c6c763d7c81",
+    "title": "FUELBLOODS [SP INSANE]",
+    "artist": "callasoiled",
+    "url_diff": "",
+    "url": "https://www.dropbox.com/s/o085hfj98zc7sgg/fuelbloods_ogg.zip?dl=0",
+    "level": "11",
+    "comment": "this fumen contains: notes",
+    "proposer": "AYhaz",
+    "submission": 2249,
+    "proposerLr2id": 123475
+  },
+  {
     "md5": "c83066cf6e28150f3f4e266fa00c3f8d",
     "sha256": "b858de6bbd0acaaef94cf0bcad9226b4254c8f4cec5a43df4c338c4f1f5358a8",
     "title": "Fusionik -Typhoon-",
@@ -27739,6 +27820,20 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "67f4387cb513c9242b919df282e89fbe",
+    "sha256": "942b39ac077654826bd2d68a2d84545819fef582f8a995a2cd443ab9035650c1",
+    "title": "LiVEMeTAL [HEROIC]",
+    "artist": "あとぅす / obj.fuko Illust:Micelle/Movie:TM",
+    "url_diff": "https://stellabms.xyz/upload/994",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=131",
+    "level": "11",
+    "comment": "from Stella",
+    "zureCount": 0,
+    "proposer": "LUXURY♪",
+    "submission": 2112,
+    "proposerLr2id": 23110
   },
   {
     "md5": "82b48aadb412afb4b6e0d208fecfc9e1",
@@ -28588,6 +28683,20 @@
     "proposer": "七海",
     "submission": 2091,
     "proposerLr2id": 84597
+  },
+  {
+    "md5": "8841ecde594f990c6731e6a1d6b898e5",
+    "sha256": "0158acb2c9bb2876c08ec86ce1b96115faf2262d789d606e9de5eddc089a60fc",
+    "title": "架空ユリカゴ　 [EX]",
+    "artist": "Hate × Ritsu × Salita/さ Douglas × Mentalstock",
+    "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
+    "url": "http://xiv.si/bms/yrkg.html",
+    "level": "11",
+    "comment": "BPM175.5の4～5個同時押し 時折16分やジャリが混じります",
+    "zureCount": 0,
+    "proposer": "ふかけん",
+    "submission": 2242,
+    "proposerLr2id": 145204
   },
   {
     "md5": "73ae012eabc321bb943b07ac517af5ce",
@@ -29723,20 +29832,6 @@
     "proposer": "SHAX.",
     "submission": 1635,
     "proposerLr2id": 65624
-  },
-  {
-    "md5": "67f4387cb513c9242b919df282e89fbe",
-    "sha256": "942b39ac077654826bd2d68a2d84545819fef582f8a995a2cd443ab9035650c1",
-    "title": "LiVEMeTAL [HEROIC]",
-    "artist": "あとぅす / obj.fuko Illust:Micelle/Movie:TM",
-    "url_diff": "https://stellabms.xyz/upload/994",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=131",
-    "level": "12",
-    "comment": "from Stella",
-    "zureCount": 0,
-    "proposer": "LUXURY♪",
-    "submission": 2112,
-    "proposerLr2id": 23110
   },
   {
     "level": "12",
@@ -30953,20 +31048,6 @@
     "proposerLr2id": 80964
   },
   {
-    "md5": "8841ecde594f990c6731e6a1d6b898e5",
-    "sha256": "0158acb2c9bb2876c08ec86ce1b96115faf2262d789d606e9de5eddc089a60fc",
-    "title": "架空ユリカゴ　 [EX]",
-    "artist": "Hate × Ritsu × Salita/さ Douglas × Mentalstock",
-    "url_diff": "https://web.archive.org/web/20190917071620/http://sabosabun.tank.jp/",
-    "url": "http://xiv.si/bms/yrkg.html",
-    "level": "12",
-    "comment": "BPM175.5の4～5個同時押し 時折16分やジャリが混じります",
-    "zureCount": 0,
-    "proposer": "ふかけん",
-    "submission": 2242,
-    "proposerLr2id": 145204
-  },
-  {
     "md5": "5de0fbf7c3b7d551653158f69deba855",
     "sha256": "efb4bf386014ee5449ceae787ca0018f0bd938affbd7b548520319a2ddfc585d",
     "title": "柳の下のセキルチ",
@@ -31737,21 +31818,6 @@
     "sha256": "50c8e58893522a7d08a9d3eb3ceecc6b76fe26fd5ae66b3b63f952b9a1a3e555"
   },
   {
-    "md5": "e7e922d2a22ebb9add14bb97b2ee04e6",
-    "title": "End Time [ALITHER]",
-    "artist": "Cres / ALICE*",
-    "url_diff": "http://www.ribbit.xyz/bms/tables/bmsuploader.html",
-    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ",
-    "level": "13",
-    "proposer": "LUXURY",
-    "comment": "up0685",
-    "submission": 359,
-    "voteYes": 0,
-    "voteNo": 0,
-    "votePercent": 0,
-    "sha256": "f97a20e6810b483ac9f418ee766cdb30fcd81d190f34ae82beeb33304382a911"
-  },
-  {
     "md5": "acb066266ebc83d9dae23f1009497fe3",
     "sha256": "84c9a5166a427f275a24fc03828cd8db70e81743e65c019e60bff26ccc81fda9",
     "title": "End Time A⇒Side [Deadly End]",
@@ -32009,6 +32075,20 @@
     "proposerMinirid": "3708ebc6-f813-4964-a5e4-deb86620233a"
   },
   {
+    "md5": "c73e8a7fe1b879c4aa8802982a7c9604",
+    "sha256": "c13663c0863d55b21e9096caed279ed2d84d8b446d3b8d13dc406fabc0e42a37",
+    "title": "Hard Spice [激辛]",
+    "artist": "dj koishi/obj：双六 BGI:デスソ－ス軍団",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01075",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=599&event=110",
+    "level": "13",
+    "comment": "ガチ押し",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 1669,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "28d43d02b22a9bd755b8269a7d7cd497",
     "sha256": "1dfe776b7d902c3ff2144083f8704e9c781cdb9de6417e94bb93a6bddbaf134f",
     "title": "Harder Experience [yumether]",
@@ -32237,18 +32317,6 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "2673ae9cefe11fd6ca50399a833a0cb18f74cdaf737ef681eafb5afe80b55d40"
-  },
-  {
-    "md5": "e981f4d1bfeb05172fc28f14b3d58ad0",
-    "sha256": "4ec59b3a0944e4af3ab0183f0f4fb90d93990446aa954098d4edc34b11f7cfbe",
-    "title": "MachinaRegina [MASTER]",
-    "artist": "ROKINA",
-    "url_diff": "",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=171&event=88",
-    "level": "13",
-    "proposer": "♪♪",
-    "submission": 1578,
-    "proposerLr2id": 7290
   },
   {
     "md5": "091e742ab34187cb2cc63f461f1a80ca",
@@ -34239,6 +34307,19 @@
     "sha256": "c31fd3d5c3ceb24c9bad1064d4b257db3ba14651c0064ab626e71cbb851cfdac"
   },
   {
+    "md5": "dd36e9c11a77222a64e7f4e39deec7a3",
+    "sha256": "75395e7629042f385b548e8aa615f0b8d2b2db12d17915f3f0b91e38790cc0b5",
+    "title": "BIG CHUNGUS -IR-",
+    "artist": "Endigo / チュチャムスメ",
+    "url_diff": "https://darksabun.github.io/event/irbattle/",
+    "url": "https://drive.google.com/file/d/1iKZ3BavYnb-g08uUWDmqq3UAE2S6JBpw/view?usp=sharing",
+    "level": "14",
+    "comment": "曲変更差分なので、ズレ抜けチェックはできません（会場のコメント参考）",
+    "proposer": "Mary_Sue",
+    "submission": 1667,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "a114160e8bb5dd670908e3d74e45b2eb",
     "sha256": "bf173d76223dba09da883cd44d3d60a0312735179da28ebb985c3296414f8618",
     "title": "BiRTH [DAY]",
@@ -35402,6 +35483,18 @@
     "proposer": "スノート",
     "submission": 1093,
     "proposerLr2id": 86393
+  },
+  {
+    "md5": "e981f4d1bfeb05172fc28f14b3d58ad0",
+    "sha256": "4ec59b3a0944e4af3ab0183f0f4fb90d93990446aa954098d4edc34b11f7cfbe",
+    "title": "MachinaRegina [MASTER]",
+    "artist": "ROKINA",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=171&event=88",
+    "level": "14",
+    "proposer": "♪♪",
+    "submission": 1578,
+    "proposerLr2id": 7290
   },
   {
     "title": "marine snow",
@@ -37158,6 +37251,19 @@
     "proposerLr2id": 145204
   },
   {
+    "md5": "fc398ada4d6695eb77c7d753b9c0a442",
+    "sha256": "1aeaf723755313acebb26b1e4c2a526624c9472106135079266d24f773b6b80e",
+    "title": "硬核機動 -Assault D-",
+    "artist": "しらいし / obj.ぶんぺ～",
+    "url_diff": "https://stellabms.xyz/upload/1148",
+    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/odcQ0DRL",
+    "level": "14",
+    "comment": "delay",
+    "proposer": "Kamikaze",
+    "submission": 1666,
+    "proposerMinirid": "bf60caf9-09cd-438f-90a3-fb3c0bbf0fd5"
+  },
+  {
     "md5": "7c566134ca0e091e4c60f26c140cffa8",
     "sha256": "7429a680c3123753c02d5d92ad194f5bd39d7426b4ca4f16f24da3bff65d0132",
     "title": "硬核機動 [EX]",
@@ -37726,22 +37832,6 @@
     "proposer": "MarySue",
     "submission": 1145,
     "proposerLr2id": 147889
-  },
-  {
-    "md5": "4ee397e6dda8ac5ff091888fe5974ea4",
-    "title": "Break of the Day [Break of the DELay]",
-    "artist": "raii obj.Lapis",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01858",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=68&event=120",
-    "level": "15",
-    "comment": "delay(?)",
-    "proposer": "MineC24",
-    "proposerLr2id": 84597,
-    "submission": 616,
-    "voteYes": 0,
-    "voteNo": 0,
-    "votePercent": 0,
-    "sha256": "6d2ca9409255fa217484931e7d96722865041aacca34be23dcd3bb5fa4e38e68"
   },
   {
     "md5": "8dbfdb9a32919d2083f5079bfc6d1288",
@@ -40029,19 +40119,6 @@
   },
   {
     "level": "15",
-    "comment": "gachoishi",
-    "md5": "a7b3fba3112aa3000b53816a0b3b1a88",
-    "sha256": "ab97a1e1805a843dfe8acdbf2ca3d298f604a3799037f170f7edf6388ea4d3ae",
-    "title": "ペニンシュラの踊り子 The dancer of a peninsula [Hexagon]",
-    "artist": "daisan Movie : highluin / obj.hex",
-    "url_diff": "http://bms.hexlataia.xyz/tables/hexajoy.html",
-    "url": "http://clockxellox.sakura.ne.jp/BMS/Peninsular.zip",
-    "proposer": "LUXURY♪",
-    "submission": 995,
-    "proposerLr2id": 23110
-  },
-  {
-    "level": "15",
     "comment": "1~2?",
     "md5": "d415aa79f5fbd7f1a1944146afd5f9af",
     "sha256": "7b66394648d6c5be637fb586c37d2300da133cd51ceb73f922e556a7e6fcfeea",
@@ -40483,6 +40560,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "da03d2705d2572a288734c2a1ae4149944be3d77d294d256123af20b58a5b214"
+  },
+  {
+    "md5": "846346b51e39713b22247f03c2ffdea8",
+    "sha256": "45395a9efd88446474abab4f42315ef6ec7310f663213f1c8cbf92d019c29553",
+    "title": "闘気に満ちた草原 [もふもふ！]",
+    "artist": "Arranged by Y.W bga:kotomi obj:もふもふ (もにもに & fuko)",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05701",
+    "url": "http://www.yw-works.com/bms_pms.htm",
+    "level": "15",
+    "comment": "chords, gachi, delay",
+    "zureCount": 0,
+    "proposer": "歳納京子",
+    "submission": 1665,
+    "proposerLr2id": 75332
   },
   {
     "md5": "ce580b56e63cf1667bec9b975911e358",
@@ -40984,6 +41075,22 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "9ed763f92afb5462893379b398453be20c98fbb18497bdcc75beefd29082cd65"
+  },
+  {
+    "md5": "4ee397e6dda8ac5ff091888fe5974ea4",
+    "title": "Break of the Day [Break of the DELay]",
+    "artist": "raii obj.Lapis",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=01858",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=68&event=120",
+    "level": "16",
+    "comment": "delay(?)",
+    "proposer": "MineC24",
+    "proposerLr2id": 84597,
+    "submission": 616,
+    "voteYes": 0,
+    "voteNo": 0,
+    "votePercent": 0,
+    "sha256": "6d2ca9409255fa217484931e7d96722865041aacca34be23dcd3bb5fa4e38e68"
   },
   {
     "md5": "9e59b9340bbe882de28bbff2f6221e8a",
@@ -41649,19 +41756,6 @@
     "proposer": "Restia",
     "submission": 1330,
     "proposerLr2id": 115265
-  },
-  {
-    "level": "16",
-    "comment": "NORMAL判定、ラストが難しい",
-    "md5": "7e4313871af7914a8f969910a9bc45a0",
-    "sha256": "1bbc659b8aff55446d338341dee7f16261d4e2bd3596bceffc5401319315c2f1",
-    "title": "Gynandromorph [7key_★★]",
-    "artist": "tarolabo / obj:NoName",
-    "url_diff": "http://kanki2.net/bme.html",
-    "url": "http://www.mediafire.com/file/44680p3uf7dab41/Gynandromorph.zip",
-    "proposer": "MineC24",
-    "submission": 1042,
-    "proposerLr2id": 84597
   },
   {
     "md5": "718c41af9ff148a9833489cedd1d43dd",
@@ -43281,6 +43375,19 @@
   },
   {
     "level": "16",
+    "comment": "gachoishi",
+    "md5": "a7b3fba3112aa3000b53816a0b3b1a88",
+    "sha256": "ab97a1e1805a843dfe8acdbf2ca3d298f604a3799037f170f7edf6388ea4d3ae",
+    "title": "ペニンシュラの踊り子 The dancer of a peninsula [Hexagon]",
+    "artist": "daisan Movie : highluin / obj.hex",
+    "url_diff": "http://bms.hexlataia.xyz/tables/hexajoy.html",
+    "url": "http://clockxellox.sakura.ne.jp/BMS/Peninsular.zip",
+    "proposer": "LUXURY♪",
+    "submission": 995,
+    "proposerLr2id": 23110
+  },
+  {
+    "level": "16",
     "comment": "kachifushi st4 gazer ↓",
     "md5": "dea80337ce0010089b02a09b3a3e319f",
     "sha256": "a9570c2ab7bd9d7eb658f37b0fa4e3239b35945d40e8d9061af107ef01d90a3e",
@@ -43291,20 +43398,6 @@
     "proposer": "LUXURY♪",
     "submission": 940,
     "proposerLr2id": 23110
-  },
-  {
-    "md5": "a0e534d02c919996fef1f2a83c44c418",
-    "sha256": "4fb18c030425b33f1cd7c841fd2af7e3a0fd267e2b5486928454720c566633e2",
-    "title": "ルーネイトエルフ～霧の湖の物語～ [Pentagon]",
-    "artist": "9-zen obj.hex",
-    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=129",
-    "level": "16",
-    "comment": "BPM154 ディレイ、縦連、体力",
-    "zureCount": 0,
-    "proposer": "SHAX.",
-    "submission": 1198,
-    "proposerLr2id": 65624
   },
   {
     "md5": "4966cfceb7eec811d6a429f8c69c1cf6",
@@ -43435,6 +43528,19 @@
     "proposer": "七海",
     "submission": 1660,
     "proposerLr2id": 84597
+  },
+  {
+    "md5": "ae3f52aaff95329b733675f86b0f84ea",
+    "sha256": "8415bdd9e9d0e469321a65a6bf03682934baeeb0340c82d9f84be12d9e4e5d15",
+    "title": "心壊のアガルマトフィリア -midnight-",
+    "artist": "SioN / 篠乃ちよ obj: Haze*",
+    "url_diff": "https://stellabms.xyz/upload/870",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=438&event=88",
+    "level": "16",
+    "zureCount": 0,
+    "proposer": "qtp13",
+    "submission": 1668,
+    "proposerLr2id": 86559
   },
   {
     "md5": "0991c218a17e1a2f26d31d7a719f1e0c",
@@ -45951,6 +46057,20 @@
     "proposerLr2id": 39693
   },
   {
+    "md5": "a0e534d02c919996fef1f2a83c44c418",
+    "sha256": "4fb18c030425b33f1cd7c841fd2af7e3a0fd267e2b5486928454720c566633e2",
+    "title": "ルーネイトエルフ～霧の湖の物語～ [Pentagon]",
+    "artist": "9-zen obj.hex",
+    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=129",
+    "level": "17",
+    "comment": "BPM154 ディレイ、縦連、体力",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 1198,
+    "proposerLr2id": 65624
+  },
+  {
     "title": "ロスト：ユートピアと真理と純粋の極彩世界 -Catastrophe-",
     "artist": "Sound piercer & Sobrem / selene.",
     "url": "https://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=70&order=reg&odtype=a",
@@ -47238,6 +47358,20 @@
     "proposer": "MineC24",
     "submission": 1195,
     "proposerLr2id": 84597
+  },
+  {
+    "md5": "cf790901b8b0613fc179860eb21a87fa",
+    "sha256": "7995835f78c7d4f61a00cc64e7c1abc56216361c2b3c4a2ff70a415bb84604e0",
+    "title": "PAST FUTURE!!! [Maryther]",
+    "artist": "一次元 / obj : Mary_Sue",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "url": "https://bms.kyouko.moe/torrent/BMS_Library/PAST%20FUTURE!!!%20(by%20%E4%B8%80%E6%AC%A1%E5%85%83).rar",
+    "level": "18",
+    "comment": "BPM145 多要素?",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 1671,
+    "proposerLr2id": 65624
   },
   {
     "title": "Polymorphism [MUTATION]",
@@ -48549,6 +48683,19 @@
     "votePercent": 0,
     "sha256": "43f0d3940b3444fc1e9d17a5f935593c30090e7cd3574531ddf2e2f6e6c36d60",
     "level": "19"
+  },
+  {
+    "md5": "b3dd380e2134601b6b7c8e06e6768fcc",
+    "sha256": "f350b2673b97bd53750afe86e4b564191a9f36b4450bb9309e34f8a645918dd4",
+    "title": "Elnath [Hexagon]",
+    "artist": "fkRadish obj.hex",
+    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
+    "url": "https://anonymous.bms.ms/data/bms/fuki1755/Elnath_ogg.rar",
+    "level": "19",
+    "comment": "BPM096 同時押し ズレ",
+    "proposer": "SHAX.",
+    "submission": 1670,
+    "proposerLr2id": 65624
   },
   {
     "md5": "ccdbd7df4c2a0a2af1cdc1cbba7b083f",
@@ -51413,6 +51560,20 @@
     "proposerLr2id": 75332
   },
   {
+    "md5": "938ad8d7108fe9a5fa83f9f62dc46018",
+    "sha256": "adcb48596d1ff8ac31dcb7e2cecf71f6f1e41146b47f2fbf03208a10ad73a59b",
+    "title": "The infant daughter Frandle's -Genocide-",
+    "artist": "celas / selene.",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04683",
+    "url": "https://web.archive.org/web/20140612155001/http://creation-records.info/bms/c_oen_ogg.rar",
+    "level": "21",
+    "comment": "gachi",
+    "zureCount": 0,
+    "proposer": "歳納京子",
+    "submission": 1664,
+    "proposerLr2id": 75332
+  },
+  {
     "md5": "5c7acf0197d61588fdfb113534b1d468",
     "title": "The Lady Is A Trump [LAST RESORT]",
     "artist": "Damjoy&ほくとしちせい obj:Monsta",
@@ -51851,21 +52012,6 @@
     "proposer": "MineC24",
     "submission": 1171,
     "proposerLr2id": 84597
-  },
-  {
-    "md5": "a17498dd386fa6f42cc8e1c0b40b2561",
-    "title": "Astraia [the_End]",
-    "artist": "Azel",
-    "url_diff": "",
-    "url": "https://dl.dropbox.com/u/87297315/_Astraia_BOF2012.zip",
-    "level": "22",
-    "proposer": "LUXURY",
-    "comment": "THE END",
-    "submission": 399,
-    "voteYes": 0,
-    "voteNo": 0,
-    "votePercent": 0,
-    "sha256": "bcf114eb38080e7c28fdfbd9957e0d7b674d2dea365a226d2cde1590aaa68f4a"
   },
   {
     "md5": "02580b5c353eac65db38470fee32bd4f",

@@ -1,22 +1,12 @@
 [
   {
-    "md5": "0a5033e3081589ffd65a6293f6421b14",
-    "title": "Forgot Ya [LEGGENDARIA]",
-    "level": "3.50...4.00"
-  },
-  {
-    "md5": "3e2b303f183b77fe7938104a8c7a8869",
-    "title": "Nu Flame [14K ANOTHER]",
-    "level": "3.50...4.00"
-  },
-  {
-    "md5": "d7e305a2f3685592730aae1baea5735e",
-    "title": "Out of Sense [DPA]",
-    "level": "3.50...4.00"
-  },
-  {
     "md5": "2f73d7199984227a5565ac5da184b3ab",
     "title": "ALICE IN PICOPICO NIGHT (DP HYPER)",
+    "level": "4.00...4.50"
+  },
+  {
+    "md5": "0a5033e3081589ffd65a6293f6421b14",
+    "title": "Forgot Ya [LEGGENDARIA]",
     "level": "4.00...4.50"
   },
   {
@@ -30,13 +20,18 @@
     "level": "4.00...4.50"
   },
   {
-    "md5": "f41a990d8137150f510e74468d9f2244",
-    "title": "resonance [DP Another]",
+    "md5": "3e2b303f183b77fe7938104a8c7a8869",
+    "title": "Nu Flame [14K ANOTHER]",
     "level": "4.00...4.50"
   },
   {
-    "md5": "de22bde8f104e132afdc15ac65c14021",
-    "title": "ノーザンブルー・デイブリーズ [DP-sagANOTHER]",
+    "md5": "d7e305a2f3685592730aae1baea5735e",
+    "title": "Out of Sense [DPA]",
+    "level": "4.00...4.50"
+  },
+  {
+    "md5": "f41a990d8137150f510e74468d9f2244",
+    "title": "resonance [DP Another]",
     "level": "4.00...4.50"
   },
   {
@@ -95,16 +90,6 @@
     "level": "4.50...5.00"
   },
   {
-    "md5": "8ed7c1363a7cbff1f587ccf0ca43e4d4",
-    "title": "Luv 5 Dancer [Double]",
-    "level": "4.50...5.00"
-  },
-  {
-    "md5": "ea2807ec3ef16bb50dba561ea8e5cb29",
-    "title": "MANHATTAN [DP ANOTHER]",
-    "level": "4.50...5.00"
-  },
-  {
     "md5": "191a530a966d7f4cb956bcce8548fc5c",
     "title": "Marion",
     "level": "4.50...5.00"
@@ -142,6 +127,11 @@
   {
     "md5": "e6daf926c0cf0bac383e7e24e09494da",
     "title": "タキオン",
+    "level": "4.50...5.00"
+  },
+  {
+    "md5": "de22bde8f104e132afdc15ac65c14021",
+    "title": "ノーザンブルー・デイブリーズ [DP-sagANOTHER]",
     "level": "4.50...5.00"
   },
   {
@@ -187,6 +177,16 @@
   {
     "md5": "ff3d89cff34c9b1cfb75a50f7b38ea7d",
     "title": "Jasmine Tea Girl [DP ANOTHER]",
+    "level": "5.00...5.50"
+  },
+  {
+    "md5": "8ed7c1363a7cbff1f587ccf0ca43e4d4",
+    "title": "Luv 5 Dancer [Double]",
+    "level": "5.00...5.50"
+  },
+  {
+    "md5": "ea2807ec3ef16bb50dba561ea8e5cb29",
+    "title": "MANHATTAN [DP ANOTHER]",
     "level": "5.00...5.50"
   },
   {
@@ -415,11 +415,6 @@
     "level": "7.00...7.50"
   },
   {
-    "md5": "a883969ae8ae045218a5f5a8f846eaf4",
-    "title": "Breeze [台風とそよ風の境目]",
-    "level": "7.00...7.50"
-  },
-  {
     "md5": "d95223a411d9aece9a16eaf733d6797c",
     "title": "Empress of Raizze (14H)",
     "level": "7.00...7.50"
@@ -487,6 +482,11 @@
   {
     "md5": "7cdf1284c9df6e5f031bd8ad4a37dbe2",
     "title": "BOUNCE THE TECH [DP ANOTHER]",
+    "level": "7.50...8.00"
+  },
+  {
+    "md5": "a883969ae8ae045218a5f5a8f846eaf4",
+    "title": "Breeze [台風とそよ風の境目]",
     "level": "7.50...8.00"
   },
   {
@@ -860,14 +860,14 @@
     "level": "11.00...11.50"
   },
   {
-    "md5": "f97eb1e2a6015ccf91ec6cdce0f48c81",
-    "title": "fragile crystal -14keys-",
-    "level": "12.00...12.50"
-  },
-  {
     "md5": "d03436d07bc8913d5abd8157887e8327",
     "title": "physalis [14KEYS ANOTHER]",
     "level": "12.00...12.50"
+  },
+  {
+    "md5": "f97eb1e2a6015ccf91ec6cdce0f48c81",
+    "title": "fragile crystal -14keys-",
+    "level": "12.50...13.00"
   },
   {
     "md5": "bb648bb7b6d71d24ae931c3140cb806c",
@@ -893,6 +893,11 @@
     "md5": "d6a3bc8b57baca9d23fd1e0554fb4921",
     "title": "もぺもぺ [R-15]",
     "level": "13.50...14.00"
+  },
+  {
+    "md5": "9758bfe64fd9e0f4b1a2906e482e4f24",
+    "title": "Beyond the Lightning -King's tragedy- [DP INSANE]",
+    "level": "14.50...15.00"
   },
   {
     "md5": "d456037131dc98541200c34c3fe146ae",
@@ -1055,11 +1060,6 @@
     "level": "-"
   },
   {
-    "md5": "9758bfe64fd9e0f4b1a2906e482e4f24",
-    "title": "Beyond the Lightning -King's tragedy- [DP INSANE]",
-    "level": "-"
-  },
-  {
     "md5": "7008ff0237c4c9c65809950654b8c01c",
     "title": "Bicolor Spirit [DP INSANE]",
     "level": "-"
@@ -1107,6 +1107,11 @@
   {
     "md5": "7b00521bff9a8275d02b71a4f2a5086a",
     "title": "Caelumize [MG]",
+    "level": "-"
+  },
+  {
+    "md5": "7bd33f48e9c11b9062297d8ac8df31ab",
+    "title": "Calamity Fortune (DPA)",
     "level": "-"
   },
   {
@@ -1505,6 +1510,11 @@
     "level": "-"
   },
   {
+    "md5": "f857959df640cdb58ceaa0aab57e6036",
+    "title": "JUGGLE [DP R3cycl3r]",
+    "level": "-"
+  },
+  {
     "md5": "de8c6827b28bc4b92471e7065d0eb698",
     "title": "jus†ice [ANOTHER]",
     "level": "-"
@@ -1870,6 +1880,11 @@
     "level": "-"
   },
   {
+    "md5": "75c837f639a0d5cc70a378c0c0b7c6ec",
+    "title": "Sweety Sweety Sweet feat. Ryunka [DP Another]",
+    "level": "-"
+  },
+  {
     "md5": "a3ed09fedd0af81df96743f8671fccd4",
     "title": "take me to the moon [DP Disaster]",
     "level": "-"
@@ -1957,6 +1972,11 @@
   {
     "md5": "8fda1f7edc956b0a390aa9c7ba1f8d6c",
     "title": "VALLISTA [DP VALLISTANDARD]",
+    "level": "-"
+  },
+  {
+    "md5": "66d86b3543736c6925509bbf533fce04",
+    "title": "VENUS INVADER [14K ANOTHER+]",
     "level": "-"
   },
   {
@@ -2145,6 +2165,11 @@
     "level": "-"
   },
   {
+    "md5": "aa389df1f9b142c58e1fd9204df74278",
+    "title": "摩訶幻想マジトリク [DP INSANE]",
+    "level": "-"
+  },
+  {
     "md5": "aaf4a1eef238223c67d96994b66a66f1",
     "title": "新月舞踏 -DP ANOTHER-",
     "level": "-"
@@ -2217,6 +2242,11 @@
   {
     "md5": "0c828e4a9805195c688972d2d58b89ad",
     "title": "異説彼岸花 第二 -終世のリコリス- [DP INSANE]",
+    "level": "-"
+  },
+  {
+    "md5": "f4b8d89ea3ab4f4a45e17c399c88cd55",
+    "title": "白き星姫-Принцесса белая звезда- [BLACKAnother]",
     "level": "-"
   },
   {
