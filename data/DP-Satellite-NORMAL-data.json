@@ -60,11 +60,6 @@
     "level": "0.00...0.50"
   },
   {
-    "md5": "f41a990d8137150f510e74468d9f2244",
-    "title": "resonance [DP Another]",
-    "level": "0.00...0.50"
-  },
-  {
     "md5": "de22bde8f104e132afdc15ac65c14021",
     "title": "ノーザンブルー・デイブリーズ [DP-sagANOTHER]",
     "level": "0.00...0.50"
@@ -127,6 +122,11 @@
   {
     "md5": "5fc0f29f5ad725c1266991dd20c9b439",
     "title": "PLASTIC GIRLS (ft. Seorryang) [140000円]",
+    "level": "0.50...1.00"
+  },
+  {
+    "md5": "f41a990d8137150f510e74468d9f2244",
+    "title": "resonance [DP Another]",
     "level": "0.50...1.00"
   },
   {
@@ -450,11 +450,6 @@
     "level": "2.00...2.50"
   },
   {
-    "md5": "5a3d872dcaae9b644d0cd06388c7124a",
-    "title": "Suffering of screw [DP Another]",
-    "level": "2.00...2.50"
-  },
-  {
     "md5": "f6721d9e4ac564412ce520aae543290c",
     "title": "WHIRLWIND [DP SHDMix]",
     "level": "2.00...2.50"
@@ -530,11 +525,6 @@
     "level": "2.50...3.00"
   },
   {
-    "md5": "fae668556e7a69b1c7268513bedf2a9d",
-    "title": "It's \"alice\" dream [DP ANOTHER]",
-    "level": "2.50...3.00"
-  },
-  {
     "md5": "86335757e9ed29a86a00bd7d34cfe59a",
     "title": "Lunar Pulse (DPA)",
     "level": "2.50...3.00"
@@ -557,6 +547,11 @@
   {
     "md5": "da90f40fc2435ec76c2739eff8972656",
     "title": "Strawberry icecream (bms ver.) -14K another-",
+    "level": "2.50...3.00"
+  },
+  {
+    "md5": "5a3d872dcaae9b644d0cd06388c7124a",
+    "title": "Suffering of screw [DP Another]",
     "level": "2.50...3.00"
   },
   {
@@ -625,6 +620,11 @@
     "level": "3.00...3.50"
   },
   {
+    "md5": "fae668556e7a69b1c7268513bedf2a9d",
+    "title": "It's \"alice\" dream [DP ANOTHER]",
+    "level": "3.00...3.50"
+  },
+  {
     "md5": "4517d25589a16bf79795b09b95592324",
     "title": "Love's Rebirth '06 LEGEND MIX -DP-",
     "level": "3.00...3.50"
@@ -632,11 +632,6 @@
   {
     "md5": "d08dbe5c4b065b7ae3fe80d7354ecfd4",
     "title": "Lyrith -迷宮リリス- [sub another]",
-    "level": "3.00...3.50"
-  },
-  {
-    "md5": "0f120c8076af344310b2c59df8c7d69f",
-    "title": "Mysticeti",
     "level": "3.00...3.50"
   },
   {
@@ -665,18 +660,8 @@
     "level": "3.00...3.50"
   },
   {
-    "md5": "8fda1f7edc956b0a390aa9c7ba1f8d6c",
-    "title": "VALLISTA [DP VALLISTANDARD]",
-    "level": "3.00...3.50"
-  },
-  {
     "md5": "dfecee0e19120dcdc4f92271699016fa",
     "title": "XALICE [DP WONDERLAND]",
-    "level": "3.00...3.50"
-  },
-  {
-    "md5": "1352e568f8b1d3214619f7ca9211c67f",
-    "title": "リリカと魔法の言葉 [DP Magical]",
     "level": "3.00...3.50"
   },
   {
@@ -800,6 +785,11 @@
     "level": "3.50...4.00"
   },
   {
+    "md5": "0f120c8076af344310b2c59df8c7d69f",
+    "title": "Mysticeti",
+    "level": "3.50...4.00"
+  },
+  {
     "md5": "2e1d905b08d65ad49333586bfbc9a7b5",
     "title": "Satellite in Heart",
     "level": "3.50...4.00"
@@ -835,6 +825,11 @@
     "level": "3.50...4.00"
   },
   {
+    "md5": "8fda1f7edc956b0a390aa9c7ba1f8d6c",
+    "title": "VALLISTA [DP VALLISTANDARD]",
+    "level": "3.50...4.00"
+  },
+  {
     "md5": "66d86b3543736c6925509bbf533fce04",
     "title": "VENUS INVADER [14K ANOTHER+]",
     "level": "3.50...4.00"
@@ -852,6 +847,11 @@
   {
     "md5": "926ebcc5fd53d715a4494641a266202d",
     "title": "ポケットモンスター BW2 アイリス戦",
+    "level": "3.50...4.00"
+  },
+  {
+    "md5": "1352e568f8b1d3214619f7ca9211c67f",
+    "title": "リリカと魔法の言葉 [DP Magical]",
     "level": "3.50...4.00"
   },
   {
@@ -930,11 +930,6 @@
     "level": "4.00...4.50"
   },
   {
-    "md5": "09d1c8ce11ca00865862fd4a94d00250",
-    "title": "Granblaze [DP ANOTHER]",
-    "level": "4.00...4.50"
-  },
-  {
     "md5": "09170a7abead9fcb7fed236527017ad6",
     "title": "Leviathan [Double]",
     "level": "4.00...4.50"
@@ -952,11 +947,6 @@
   {
     "md5": "7413baf27804bd657cb0e8aea502ba7c",
     "title": "Midnight o'clock [sub another]",
-    "level": "4.00...4.50"
-  },
-  {
-    "md5": "f933308f0963b29ad48b6fe249689560",
-    "title": "QSHELL -拒色のシェルル- [DPA]",
     "level": "4.00...4.50"
   },
   {
@@ -1040,6 +1030,11 @@
     "level": "4.50...5.00"
   },
   {
+    "md5": "09d1c8ce11ca00865862fd4a94d00250",
+    "title": "Granblaze [DP ANOTHER]",
+    "level": "4.50...5.00"
+  },
+  {
     "md5": "5ccbb93e6752084e3226246260ed9eb3",
     "title": "Life is PIANO [DPYoither]",
     "level": "4.50...5.00"
@@ -1072,6 +1067,11 @@
   {
     "md5": "a3a0fe509b86ba843ae1559397427844",
     "title": "Shape [14Ex]",
+    "level": "4.50...5.00"
+  },
+  {
+    "md5": "e95c45d5c8a175310c67d5b4640a990f",
+    "title": "Telescope [DP-sagANOTHER]",
     "level": "4.50...5.00"
   },
   {
@@ -1185,6 +1185,11 @@
     "level": "5.00...5.50"
   },
   {
+    "md5": "f933308f0963b29ad48b6fe249689560",
+    "title": "QSHELL -拒色のシェルル- [DPA]",
+    "level": "5.00...5.50"
+  },
+  {
     "md5": "59909bc8c4d6f0788e04cc632e63e6d1",
     "title": "SCARY BANQUET [DP ANOTHER]",
     "level": "5.00...5.50"
@@ -1245,13 +1250,13 @@
     "level": "5.50...6.00"
   },
   {
-    "md5": "b73c05f5bc653e4d2a801129d58f2297",
-    "title": "Anti Function -DP ANOTHER-",
+    "md5": "0ac8c71c69c6f6d4305b967b07f1c217",
+    "title": "8bit Voyager [DPBF]",
     "level": "5.50...6.00"
   },
   {
-    "md5": "ba42bf286f04905a967a4007c39eecd8",
-    "title": "cold world [DP ANOTHER]",
+    "md5": "b73c05f5bc653e4d2a801129d58f2297",
+    "title": "Anti Function -DP ANOTHER-",
     "level": "5.50...6.00"
   },
   {
@@ -1340,11 +1345,6 @@
     "level": "6.00...6.50"
   },
   {
-    "md5": "0ac8c71c69c6f6d4305b967b07f1c217",
-    "title": "8bit Voyager [DPBF]",
-    "level": "6.00...6.50"
-  },
-  {
     "md5": "a6f82198424691c199e5163f49506554",
     "title": "After Burner [Adventure]",
     "level": "6.00...6.50"
@@ -1365,6 +1365,11 @@
     "level": "6.00...6.50"
   },
   {
+    "md5": "ba42bf286f04905a967a4007c39eecd8",
+    "title": "cold world [DP ANOTHER]",
+    "level": "6.00...6.50"
+  },
+  {
     "md5": "714082d72dafdfd12bf4810980ae179d",
     "title": "Dance revolution [DP ANOTHER]",
     "level": "6.00...6.50"
@@ -1372,11 +1377,6 @@
   {
     "md5": "c00887580bcdb3dd9dd594f2eef5c63d",
     "title": "Divided Montage [14KEYS ANOTHER]",
-    "level": "6.00...6.50"
-  },
-  {
-    "md5": "dd3b189fa0bc5e73f65a588ea89a4e47",
-    "title": "dolosus [さくらむすび]",
     "level": "6.00...6.50"
   },
   {
@@ -1407,11 +1407,6 @@
   {
     "md5": "6a9a075aa7e63c399102a03b62522e67",
     "title": "HAELEQUIN [DP ANOTHER]",
-    "level": "6.00...6.50"
-  },
-  {
-    "md5": "8b64dfa0cfcc8bf659f8f863e9dea811",
-    "title": "Ladymade corestar [14kumanother]",
     "level": "6.00...6.50"
   },
   {
@@ -1465,11 +1460,6 @@
     "level": "6.00...6.50"
   },
   {
-    "md5": "e349061cb23d580c6979503d08a674ef",
-    "title": "Trichterwinde [DP ANOTHER]",
-    "level": "6.00...6.50"
-  },
-  {
     "md5": "328535c09400f1d31460f9314013d34b",
     "title": "平衡世界 Parallel World [Spring Ephemeral]",
     "level": "6.00...6.50"
@@ -1495,8 +1485,18 @@
     "level": "6.50...7.00"
   },
   {
+    "md5": "7bd33f48e9c11b9062297d8ac8df31ab",
+    "title": "Calamity Fortune (DPA)",
+    "level": "6.50...7.00"
+  },
+  {
     "md5": "66f2263a8e854298029231c872c3e14b",
     "title": "Deepsea Moonlight [Cuvelia14]",
+    "level": "6.50...7.00"
+  },
+  {
+    "md5": "dd3b189fa0bc5e73f65a588ea89a4e47",
+    "title": "dolosus [さくらむすび]",
     "level": "6.50...7.00"
   },
   {
@@ -1550,6 +1550,11 @@
     "level": "6.50...7.00"
   },
   {
+    "md5": "8b64dfa0cfcc8bf659f8f863e9dea811",
+    "title": "Ladymade corestar [14kumanother]",
+    "level": "6.50...7.00"
+  },
+  {
     "md5": "ab61284c1bb89137e93b15288e3c9f09",
     "title": "Life is PIANO [DP ☆NOTHER]",
     "level": "6.50...7.00"
@@ -1582,6 +1587,11 @@
   {
     "md5": "bdb21ed11e1e31d8b1b3f3afb52f820f",
     "title": "The SkyScrapers [DP-sagINSANE]",
+    "level": "6.50...7.00"
+  },
+  {
+    "md5": "e349061cb23d580c6979503d08a674ef",
+    "title": "Trichterwinde [DP ANOTHER]",
     "level": "6.50...7.00"
   },
   {
@@ -1627,11 +1637,6 @@
   {
     "md5": "87dcc21c72f4e0c25e23915184b848a2",
     "title": "all u gotta do is... [DP INSANE]",
-    "level": "7.00...7.50"
-  },
-  {
-    "md5": "7bd33f48e9c11b9062297d8ac8df31ab",
-    "title": "Calamity Fortune (DPA)",
     "level": "7.00...7.50"
   },
   {
@@ -1737,11 +1742,6 @@
   {
     "md5": "d820be8513cd93b29f14d1ee0182d553",
     "title": "BOUNCE THE TECH †LEGGENDARIA",
-    "level": "7.50...8.00"
-  },
-  {
-    "md5": "3313af61d72229ebf2910b7d82108083",
-    "title": "Destr0yer [DP ☆NOTHER]",
     "level": "7.50...8.00"
   },
   {
@@ -1910,6 +1910,16 @@
     "level": "8.00...8.50"
   },
   {
+    "md5": "c6b4fe5b81e4ce532bea1f60ae06f1f4",
+    "title": "rise to R -overdrive 14-",
+    "level": "8.00...8.50"
+  },
+  {
+    "md5": "d829ea4e2ca8d5050a77d5e0fd9f4102",
+    "title": "Singing of Night birds [DP INSANE]",
+    "level": "8.00...8.50"
+  },
+  {
     "md5": "d456037131dc98541200c34c3fe146ae",
     "title": "Summerland [14key_Extreme]",
     "level": "8.00...8.50"
@@ -1935,13 +1945,13 @@
     "level": "8.50...9.00"
   },
   {
-    "md5": "0c38eafa5cf3a4440832242fd1bd2ef7",
-    "title": "CYCLONE",
+    "md5": "8a03405fa7a6a3b0f93880e81ccc3f46",
+    "title": "DELIGHTS -EXTREME14-",
     "level": "8.50...9.00"
   },
   {
-    "md5": "8a03405fa7a6a3b0f93880e81ccc3f46",
-    "title": "DELIGHTS -EXTREME14-",
+    "md5": "3313af61d72229ebf2910b7d82108083",
+    "title": "Destr0yer [DP ☆NOTHER]",
     "level": "8.50...9.00"
   },
   {
@@ -2008,6 +2018,11 @@
     "md5": "609c7cedebd3a895dc46ab9dfc97a345",
     "title": "硬核機動 [DP ANOTHER]",
     "level": "8.50...9.00"
+  },
+  {
+    "md5": "0c38eafa5cf3a4440832242fd1bd2ef7",
+    "title": "CYCLONE",
+    "level": "9.00...9.50"
   },
   {
     "md5": "19dd7514996c1d83396cf79d33dd0b03",
@@ -2095,6 +2110,11 @@
     "level": "10.00...10.50"
   },
   {
+    "md5": "2d1d397efcd45ec665c5d82b19bc3601",
+    "title": "Cinderella Story -XX o'clock-",
+    "level": "10.00...10.50"
+  },
+  {
     "md5": "badd87bc03a1b5657c4f9061e3bbd083",
     "title": "Danse de Romani",
     "level": "10.00...10.50"
@@ -2162,11 +2182,6 @@
   {
     "md5": "c11998a30371142374cd158c995d9de3",
     "title": "ALICE IN PICOPICO NIGHT (DP ANOTHER)",
-    "level": "10.50...11.00"
-  },
-  {
-    "md5": "2d1d397efcd45ec665c5d82b19bc3601",
-    "title": "Cinderella Story -XX o'clock-",
     "level": "10.50...11.00"
   },
   {
@@ -2292,6 +2307,11 @@
   {
     "md5": "01bd9b363a1d5c87998b077d60f96875",
     "title": "suffruti",
+    "level": "-"
+  },
+  {
+    "md5": "48e3f3a439115c200f796b06e352f00f",
+    "title": "Ultimate Weapon [XIV 新生エオルゼア]",
     "level": "-"
   }
 ]

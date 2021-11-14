@@ -40,11 +40,6 @@
     "level": "-0.50...0.00"
   },
   {
-    "md5": "3bc50ae766596c725d4aad5db93968a0",
-    "title": "DRAGONLADY (DRAGONDERAY)",
-    "level": "-0.50...0.00"
-  },
-  {
     "md5": "6eab44ebe4d61f16e06c67ef45024e56",
     "title": "Fiore Tempesta [百花繚乱]",
     "level": "-0.50...0.00"
@@ -57,11 +52,6 @@
   {
     "md5": "2a73669b92b7c0f84043cefc9773af32",
     "title": "Gleam of Aigis (超地獄級)",
-    "level": "-0.50...0.00"
-  },
-  {
-    "md5": "bc160dfadf2cc83024d964524861f7b7",
-    "title": "H'az'E -Despair-",
     "level": "-0.50...0.00"
   },
   {
@@ -135,11 +125,6 @@
     "level": "-0.50...0.00"
   },
   {
-    "md5": "a636677efdd94b802076c77dc780d53e",
-    "title": "XIII Charlotte [Rasalhague]",
-    "level": "-0.50...0.00"
-  },
-  {
     "md5": "bc6cf4791e30e04f0079c806981840f9",
     "title": "YAKUI [SA]",
     "level": "-0.50...0.00"
@@ -147,11 +132,6 @@
   {
     "md5": "5a92a023a9746fdbc031a94aadc89a82",
     "title": "ΩXIII [GOD]",
-    "level": "-0.50...0.00"
-  },
-  {
-    "md5": "635c5caa8da5bdbb712e35b5f564a11c",
-    "title": "あにまら (・ω・)",
     "level": "-0.50...0.00"
   },
   {
@@ -265,6 +245,11 @@
     "level": "0.00...0.50"
   },
   {
+    "md5": "3bc50ae766596c725d4aad5db93968a0",
+    "title": "DRAGONLADY (DRAGONDERAY)",
+    "level": "0.00...0.50"
+  },
+  {
     "md5": "3770428dc92aec7ba658a804af2344ec",
     "title": "duty [act out of \"duty\"]",
     "level": "0.00...0.50"
@@ -302,6 +287,11 @@
   {
     "md5": "15884a34d21ebcdf55d9924f2e640a10",
     "title": "GREENS 2012 [Real Dark Matter]",
+    "level": "0.00...0.50"
+  },
+  {
+    "md5": "bc160dfadf2cc83024d964524861f7b7",
+    "title": "H'az'E -Despair-",
     "level": "0.00...0.50"
   },
   {
@@ -445,6 +435,11 @@
     "level": "0.00...0.50"
   },
   {
+    "md5": "a636677efdd94b802076c77dc780d53e",
+    "title": "XIII Charlotte [Rasalhague]",
+    "level": "0.00...0.50"
+  },
+  {
     "md5": "704c64bf9a15fb95ad790f8665893594",
     "title": "XROSS DIMENSION (相互交差)",
     "level": "0.00...0.50"
@@ -452,6 +447,11 @@
   {
     "md5": "aff8a5db8910bfeb24966931a4cfacdf",
     "title": "Y [yumether]",
+    "level": "0.00...0.50"
+  },
+  {
+    "md5": "635c5caa8da5bdbb712e35b5f564a11c",
+    "title": "あにまら (・ω・)",
     "level": "0.00...0.50"
   },
   {
@@ -557,11 +557,6 @@
   {
     "md5": "540ad15cb16c6a7f4e5f5e3613135bfc",
     "title": "超絶速鍵練習曲第一番「銀世界」",
-    "level": "0.00...0.50"
-  },
-  {
-    "md5": "8cbb9953cc18436d5991105b6c5de0a6",
-    "title": "雪原と少女の冒険 [Insane]",
     "level": "0.00...0.50"
   },
   {
@@ -800,6 +795,11 @@
     "level": "0.50...1.00"
   },
   {
+    "md5": "7ccf30a1ced5601c4a9cdb06beaf39a9",
+    "title": "Pure Ruby [名なしの森]",
+    "level": "0.50...1.00"
+  },
+  {
     "md5": "e2165305b700604467c33cad3e489f71",
     "title": "QSHELL -拒色のシェルル- [Hexagon]",
     "level": "0.50...1.00"
@@ -862,6 +862,11 @@
   {
     "md5": "4a142bd47e18d95a266becb6d178ec7f",
     "title": "Squeeze Me [Maryther]",
+    "level": "0.50...1.00"
+  },
+  {
+    "md5": "0ebe1afbe14c578a694184390d318dfe",
+    "title": "START-RESTART -O2therEX-",
     "level": "0.50...1.00"
   },
   {
@@ -970,6 +975,11 @@
     "level": "0.50...1.00"
   },
   {
+    "md5": "e5877413b78d1cc462a635dec7bd568b",
+    "title": "ホーリーサンバランド [Soleil]",
+    "level": "0.50...1.00"
+  },
+  {
     "md5": "a0f3e4cf22c7b9b02017bf7ccad47293",
     "title": "世界殺戮ブラッドローズ -LiALIZE-",
     "level": "0.50...1.00"
@@ -1030,6 +1040,11 @@
     "level": "0.50...1.00"
   },
   {
+    "md5": "3450980c996be99f58926660fb0f4c0b",
+    "title": "7/8→6/8→7/8→6/8→7/8→6/8→17/16→10/8→3/4→7/8→14/16→6/8→9/8→4/4→7/8→6/8→12/16→7/4→4/4→13/16→5/8→3/4→14/16→4/4→14/16→10/16→5/16→7/8→3/4→11/16→7/8→3/4→9/8→7/8→4/4→3/4→5/4→7/8→3/8 [オサレ]",
+    "level": "1.00...1.50"
+  },
+  {
     "md5": "792b8daa37dea9193a0e3d92ecc6da75",
     "title": "Absolute Future [Fortunately]",
     "level": "1.00...1.50"
@@ -1072,6 +1087,11 @@
   {
     "md5": "b60ee5d99b0b2dd1990ba96a329fbf8d",
     "title": "beyond the limit -limit7-",
+    "level": "1.00...1.50"
+  },
+  {
+    "md5": "bcc6cd83b75155549139cf7f0ca9251c",
+    "title": "Blooming [7key Sunflower]",
     "level": "1.00...1.50"
   },
   {
@@ -1147,6 +1167,11 @@
   {
     "md5": "f3d8537398e4eec3a366f56fb844d34b",
     "title": "ENERGY SYNERGY MATRIX -REVOLUTIONS-",
+    "level": "1.00...1.50"
+  },
+  {
+    "md5": "75c3582014ccff736fd5d2f5ce22f7d0",
+    "title": "eth剣 [INFELNO]",
     "level": "1.00...1.50"
   },
   {
@@ -1305,11 +1330,6 @@
     "level": "1.00...1.50"
   },
   {
-    "md5": "7ccf30a1ced5601c4a9cdb06beaf39a9",
-    "title": "Pure Ruby [名なしの森]",
-    "level": "1.00...1.50"
-  },
-  {
     "md5": "9dc7ff845fd555cba93a243b99e04429",
     "title": "rainbow [Black & White]",
     "level": "1.00...1.50"
@@ -1332,16 +1352,6 @@
   {
     "md5": "5ed1e7aab6eee4e30731365e0e4a601e",
     "title": "ShootingStar [MoonStrike!!]",
-    "level": "1.00...1.50"
-  },
-  {
-    "md5": "ddc1e577779bb3989cff7fddb4f3c1e4",
-    "title": "Snowflakes [Pentagon]",
-    "level": "1.00...1.50"
-  },
-  {
-    "md5": "0ebe1afbe14c578a694184390d318dfe",
-    "title": "START-RESTART -O2therEX-",
     "level": "1.00...1.50"
   },
   {
@@ -1470,11 +1480,6 @@
     "level": "1.00...1.50"
   },
   {
-    "md5": "e5877413b78d1cc462a635dec7bd568b",
-    "title": "ホーリーサンバランド [Soleil]",
-    "level": "1.00...1.50"
-  },
-  {
     "md5": "d415aa79f5fbd7f1a1944146afd5f9af",
     "title": "マッドメチャクチャニズム [INSANE]",
     "level": "1.00...1.50"
@@ -1542,6 +1547,11 @@
   {
     "md5": "d00e7d9111ad2bd2bba587616627fc69",
     "title": "諸星きらりのハピハピ☆恋愛論だにぃ [SR]",
+    "level": "1.00...1.50"
+  },
+  {
+    "md5": "8cbb9953cc18436d5991105b6c5de0a6",
+    "title": "雪原と少女の冒険 [Insane]",
     "level": "1.00...1.50"
   },
   {
@@ -1667,11 +1677,6 @@
   {
     "md5": "893d732923cc950da5906d13266f1cd5",
     "title": "Epatoivo LdsRmx [IMPLICITNESS]",
-    "level": "1.50...2.00"
-  },
-  {
-    "md5": "75c3582014ccff736fd5d2f5ce22f7d0",
-    "title": "eth剣 [INFELNO]",
     "level": "1.50...2.00"
   },
   {
@@ -1810,13 +1815,13 @@
     "level": "1.50...2.00"
   },
   {
-    "md5": "8c1680c5ad18ba2a1391e6b01de94ff7",
-    "title": "Sparks Hit My Head [ShortCircuit]",
+    "md5": "ddc1e577779bb3989cff7fddb4f3c1e4",
+    "title": "Snowflakes [Pentagon]",
     "level": "1.50...2.00"
   },
   {
-    "md5": "1c72dd3095f58c181a4a686858eec87b",
-    "title": "Stargazer [Simultaneous]",
+    "md5": "8c1680c5ad18ba2a1391e6b01de94ff7",
+    "title": "Sparks Hit My Head [ShortCircuit]",
     "level": "1.50...2.00"
   },
   {
@@ -1867,6 +1872,11 @@
   {
     "md5": "1278a7f680f3438cf5c753a5637e6e7b",
     "title": "ココナツ・アバンチュール [Hexagon]",
+    "level": "1.50...2.00"
+  },
+  {
+    "md5": "f0369b6ad8cbebd6c8057b826abd77cf",
+    "title": "ゴクラクハスノウテナ (EX)",
     "level": "1.50...2.00"
   },
   {
@@ -2015,11 +2025,6 @@
     "level": "2.00...2.50"
   },
   {
-    "md5": "666cf5d3472e5fbd026607147e8a7360",
-    "title": "CYCLONE ［微縦］",
-    "level": "2.00...2.50"
-  },
-  {
     "md5": "28334e4ffcc4e6fb393ccf8bc1bc842f",
     "title": "Destroyer [Abgrund]",
     "level": "2.00...2.50"
@@ -2072,11 +2077,6 @@
   {
     "md5": "bd6d3fe0e349cf68d2f59645a6c89d01",
     "title": "Gothic System -Genocide-",
-    "level": "2.00...2.50"
-  },
-  {
-    "md5": "2d1de5a9ae740b3e00abceb41d737d69",
-    "title": "GREMLIN [EX]",
     "level": "2.00...2.50"
   },
   {
@@ -2155,6 +2155,11 @@
     "level": "2.00...2.50"
   },
   {
+    "md5": "218592671612e80104e6893bb7868cff",
+    "title": "melty blood into the holy grail",
+    "level": "2.00...2.50"
+  },
+  {
     "md5": "f3242efa149acd3ccd92a3a79af38c02",
     "title": "METABOKNIGHT [PIZZA]",
     "level": "2.00...2.50"
@@ -2185,6 +2190,11 @@
     "level": "2.00...2.50"
   },
   {
+    "md5": "ecc2343d183d12dd1798950c8bbc618f",
+    "title": "Paracelestia [Project AG]",
+    "level": "2.00...2.50"
+  },
+  {
     "md5": "a5604183afc075ba7b730d4d2cb763a0",
     "title": "Pernicious Deed [陸上]",
     "level": "2.00...2.50"
@@ -2210,6 +2220,11 @@
     "level": "2.00...2.50"
   },
   {
+    "md5": "7308ca05265bdaded630375665e7b0b3",
+    "title": "Rigel [mayones]",
+    "level": "2.00...2.50"
+  },
+  {
     "md5": "672690e207236cac329f6a9a388b6ffa",
     "title": "S t r a i n <7key stressor+>",
     "level": "2.00...2.50"
@@ -2227,6 +2242,11 @@
   {
     "md5": "12f1ff3a45f0ecc3e1cfbbf1be55e6d6",
     "title": "Servus Meum [Maryther]",
+    "level": "2.00...2.50"
+  },
+  {
+    "md5": "23356bb3d1a9c39e5440d1ff9f2763b4",
+    "title": "Sigmoid [Supersingulary]",
     "level": "2.00...2.50"
   },
   {
@@ -2252,6 +2272,11 @@
   {
     "md5": "944c170fc6c7cd3f0de9a7868aead69c",
     "title": "STAR STREAM [Hexagon]",
+    "level": "2.00...2.50"
+  },
+  {
+    "md5": "1c72dd3095f58c181a4a686858eec87b",
+    "title": "Stargazer [Simultaneous]",
     "level": "2.00...2.50"
   },
   {
@@ -2372,11 +2397,6 @@
   {
     "md5": "e9fc82f22a048d62165c482841eb0d33",
     "title": "ウタカタ・サマーメモリーズ -To The Future-",
-    "level": "2.00...2.50"
-  },
-  {
-    "md5": "f0369b6ad8cbebd6c8057b826abd77cf",
-    "title": "ゴクラクハスノウテナ (EX)",
     "level": "2.00...2.50"
   },
   {
@@ -2550,6 +2570,11 @@
     "level": "2.50...3.00"
   },
   {
+    "md5": "666cf5d3472e5fbd026607147e8a7360",
+    "title": "CYCLONE ［微縦］",
+    "level": "2.50...3.00"
+  },
+  {
     "md5": "3bbec1005ef59916b0c0e6ca931c1756",
     "title": "Dandelion Sparkle!! (´；ω；｀)",
     "level": "2.50...3.00"
@@ -2590,6 +2615,11 @@
     "level": "2.50...3.00"
   },
   {
+    "md5": "68f709ad576392f57fcbee4b0df88fe3",
+    "title": "FAKE LIFE [Nihilism]",
+    "level": "2.50...3.00"
+  },
+  {
     "md5": "536cc21edc55c4df9e2aa998ccbd1f8f",
     "title": "FIONA [DREAM]",
     "level": "2.50...3.00"
@@ -2607,6 +2637,11 @@
   {
     "md5": "d5f397b50d019d2e78565d0caa7ab0f9",
     "title": "Grace Glaciaire [MASTER]",
+    "level": "2.50...3.00"
+  },
+  {
+    "md5": "2d1de5a9ae740b3e00abceb41d737d69",
+    "title": "GREMLIN [EX]",
     "level": "2.50...3.00"
   },
   {
@@ -2670,11 +2705,6 @@
     "level": "2.50...3.00"
   },
   {
-    "md5": "218592671612e80104e6893bb7868cff",
-    "title": "melty blood into the holy grail",
-    "level": "2.50...3.00"
-  },
-  {
     "md5": "6cfac3e6c1663f491431d19b5af5be22",
     "title": "Memories of Sky -2018- [Hexagon]",
     "level": "2.50...3.00"
@@ -2687,11 +2717,6 @@
   {
     "md5": "81cffd4c50402037a8d9864c5fdbf656",
     "title": "Pandemonium [死ぬがよい]",
-    "level": "2.50...3.00"
-  },
-  {
-    "md5": "ecc2343d183d12dd1798950c8bbc618f",
-    "title": "Paracelestia [Project AG]",
     "level": "2.50...3.00"
   },
   {
@@ -2715,18 +2740,8 @@
     "level": "2.50...3.00"
   },
   {
-    "md5": "6055fa88e9f0ca8642d88b75f2808e1d",
-    "title": "Rin-Rin [7K LT's INSANE]",
-    "level": "2.50...3.00"
-  },
-  {
     "md5": "61968950b9aeb39c6ce2576c75884243",
     "title": "Septem Peccata Mortalia [Deus]",
-    "level": "2.50...3.00"
-  },
-  {
-    "md5": "23356bb3d1a9c39e5440d1ff9f2763b4",
-    "title": "Sigmoid [Supersingulary]",
     "level": "2.50...3.00"
   },
   {
@@ -2737,11 +2752,6 @@
   {
     "md5": "5f3b47af4b0cbe42bdf2f2a6337caeef",
     "title": "Spider Dance(METTAMETA Remix) -Xe-",
-    "level": "2.50...3.00"
-  },
-  {
-    "md5": "67a511c6f1feed687a4865866cd4655b",
-    "title": "Sterelogue [Vengeance]",
     "level": "2.50...3.00"
   },
   {
@@ -2852,6 +2862,11 @@
   {
     "md5": "d324f981955e881393501f0f791b2d93",
     "title": "絵空事の世界と私　 [EX]",
+    "level": "2.50...3.00"
+  },
+  {
+    "md5": "346c53f7ed3a654a24a8d037b5929200",
+    "title": "聖戦の輪舞 [DELAYMASTER]",
     "level": "2.50...3.00"
   },
   {
@@ -3030,11 +3045,6 @@
     "level": "3.00...3.50"
   },
   {
-    "md5": "0b3382d2bc20ab4ae70514a89c8d8ba0",
-    "title": "God Morning [Maryther]",
-    "level": "3.00...3.50"
-  },
-  {
     "md5": "515ef0685a13ed7432702bde38011112",
     "title": "Happy Ending Story☆ -TrueEND-",
     "level": "3.00...3.50"
@@ -3095,13 +3105,13 @@
     "level": "3.00...3.50"
   },
   {
-    "md5": "d8355db1f45727bcd468242ba751c307",
-    "title": "puppies [Pentagon]",
+    "md5": "18a8109ae8f65222ab57570abcfae1b2",
+    "title": "Rainy [GOD]",
     "level": "3.00...3.50"
   },
   {
-    "md5": "18a8109ae8f65222ab57570abcfae1b2",
-    "title": "Rainy [GOD]",
+    "md5": "6055fa88e9f0ca8642d88b75f2808e1d",
+    "title": "Rin-Rin [7K LT's INSANE]",
     "level": "3.00...3.50"
   },
   {
@@ -3122,6 +3132,11 @@
   {
     "md5": "25424c3d4c970f8d975a91bcb513960d",
     "title": "Smudge",
+    "level": "3.00...3.50"
+  },
+  {
+    "md5": "67a511c6f1feed687a4865866cd4655b",
+    "title": "Sterelogue [Vengeance]",
     "level": "3.00...3.50"
   },
   {
@@ -3300,6 +3315,11 @@
     "level": "3.50...4.00"
   },
   {
+    "md5": "fd278ba1685bd983b3e0dcc496a9b46e",
+    "title": "Empress of Raizze [殺しなさい]",
+    "level": "3.50...4.00"
+  },
+  {
     "md5": "62348bdacd282766123e329517631a09",
     "title": "Finixe -Genocide-",
     "level": "3.50...4.00"
@@ -3317,6 +3337,11 @@
   {
     "md5": "2d71eacb542ff1fe34f89af449387f3c",
     "title": "galaxy fall -SP DARKMATTER-",
+    "level": "3.50...4.00"
+  },
+  {
+    "md5": "0b3382d2bc20ab4ae70514a89c8d8ba0",
+    "title": "God Morning [Maryther]",
     "level": "3.50...4.00"
   },
   {
@@ -3405,6 +3430,11 @@
     "level": "3.50...4.00"
   },
   {
+    "md5": "d8355db1f45727bcd468242ba751c307",
+    "title": "puppies [Pentagon]",
+    "level": "3.50...4.00"
+  },
+  {
     "md5": "6f7efa0cc8600ea75ebef16b89e39bd2",
     "title": "Pure White † Crimson Coffin -Genocide-",
     "level": "3.50...4.00"
@@ -3425,8 +3455,8 @@
     "level": "3.50...4.00"
   },
   {
-    "md5": "69e76ecdfd8064c934bc8a5aaad6a17a",
-    "title": "Sparkling☆Sunshine!! [Last Resort]",
+    "md5": "580445780f746df771efb28d25a4c03b",
+    "title": "SINGURIZE",
     "level": "3.50...4.00"
   },
   {
@@ -3565,6 +3595,11 @@
     "level": "4.00...4.50"
   },
   {
+    "md5": "8122a17d61cf9a6f6a09c79238310465",
+    "title": "Armageddon -Genocide-",
+    "level": "4.00...4.50"
+  },
+  {
     "md5": "59870e6c1b936fe10f8a8ed36f75b6be",
     "title": "Aurora [64.96°N, 19.02°W]",
     "level": "4.00...4.50"
@@ -3597,11 +3632,6 @@
   {
     "md5": "b20c05c90a8c1fab6542c7ae46b7b276",
     "title": "Daybreak",
-    "level": "4.00...4.50"
-  },
-  {
-    "md5": "fd278ba1685bd983b3e0dcc496a9b46e",
-    "title": "Empress of Raizze [殺しなさい]",
     "level": "4.00...4.50"
   },
   {
@@ -3675,11 +3705,6 @@
     "level": "4.00...4.50"
   },
   {
-    "md5": "580445780f746df771efb28d25a4c03b",
-    "title": "SINGURIZE",
-    "level": "4.00...4.50"
-  },
-  {
     "md5": "f02ed8c8f032a9a7dad2f6bd7d7efd61",
     "title": "SIREN OF DAWN [AIR-RAID SIREN]",
     "level": "4.00...4.50"
@@ -3687,6 +3712,11 @@
   {
     "md5": "b40dd99d298820fdd613e6ec4bce0c9c",
     "title": "Sonic Cannon [RAILGUN]",
+    "level": "4.00...4.50"
+  },
+  {
+    "md5": "69e76ecdfd8064c934bc8a5aaad6a17a",
+    "title": "Sparkling☆Sunshine!! [Last Resort]",
     "level": "4.00...4.50"
   },
   {
@@ -3760,6 +3790,11 @@
     "level": "4.00...4.50"
   },
   {
+    "md5": "0b1e8ad76e0865cd0f58a6ebbd416cfa",
+    "title": "ぽっぷる！ [delay fantasy]",
+    "level": "4.00...4.50"
+  },
+  {
     "md5": "b43593efc5000e0ba21c3332f5f8bffb",
     "title": "スーパーイザナギオブジェクト (おに)",
     "level": "4.00...4.50"
@@ -3807,11 +3842,6 @@
   {
     "md5": "bc2fc830f05f36608ed1b9720f9eb919",
     "title": "Alt Futur [Future+]",
-    "level": "4.50...5.00"
-  },
-  {
-    "md5": "8122a17d61cf9a6f6a09c79238310465",
-    "title": "Armageddon -Genocide-",
     "level": "4.50...5.00"
   },
   {
@@ -3892,11 +3922,6 @@
   {
     "md5": "09b6324e00251acf3ba57c1437ac08fe",
     "title": "Faurie [INSANE]",
-    "level": "4.50...5.00"
-  },
-  {
-    "md5": "53d61c3bfc4d027151be895343a33962",
-    "title": "flowers [miracle]",
     "level": "4.50...5.00"
   },
   {
@@ -4190,6 +4215,11 @@
     "level": "5.00...5.50"
   },
   {
+    "md5": "334c1db25269dd7b042d770d58c3dd79",
+    "title": "Pumpkin ◇ Magic [DESPERATE]",
+    "level": "5.00...5.50"
+  },
+  {
     "md5": "7c357326e3473309b0f17b3715ebf149",
     "title": "Qualia [情け無用]",
     "level": "5.00...5.50"
@@ -4330,11 +4360,6 @@
     "level": "5.50...6.00"
   },
   {
-    "md5": "6c6a66565aed72bf10a57fa60007db34",
-    "title": "CO5M1C R4ILR0AD [B3Y0ND DE5CRIP7ION]",
-    "level": "5.50...6.00"
-  },
-  {
     "md5": "8b8634ba54a3e177f0d174dfd0799843",
     "title": "Cold Breath -Ragnarok-",
     "level": "5.50...6.00"
@@ -4410,13 +4435,13 @@
     "level": "5.50...6.00"
   },
   {
-    "md5": "334c1db25269dd7b042d770d58c3dd79",
-    "title": "Pumpkin ◇ Magic [DESPERATE]",
+    "md5": "51d6045371df6dd037c2ff3d9947f0c9",
+    "title": "QSHELL -拒色のシェルル- [Geraeusch]",
     "level": "5.50...6.00"
   },
   {
-    "md5": "51d6045371df6dd037c2ff3d9947f0c9",
-    "title": "QSHELL -拒色のシェルル- [Geraeusch]",
+    "md5": "17b5565d13642b90d311eb2c1563c41d",
+    "title": "Rhadamanthys",
     "level": "5.50...6.00"
   },
   {
@@ -4507,6 +4532,11 @@
   {
     "md5": "321a0af93bf7306547b4b136b7701bcf",
     "title": "Bangin' Dumpin' Rumble Bomber [OVERHEAT]",
+    "level": "6.00...6.50"
+  },
+  {
+    "md5": "6c6a66565aed72bf10a57fa60007db34",
+    "title": "CO5M1C R4ILR0AD [B3Y0ND DE5CRIP7ION]",
     "level": "6.00...6.50"
   },
   {
@@ -4607,11 +4637,6 @@
   {
     "md5": "8808f736cb16968a5e0647a80e6aee47",
     "title": "Reason of being [genesis]",
-    "level": "6.00...6.50"
-  },
-  {
-    "md5": "17b5565d13642b90d311eb2c1563c41d",
-    "title": "Rhadamanthys",
     "level": "6.00...6.50"
   },
   {
@@ -5015,6 +5040,11 @@
     "level": "7.50...8.00"
   },
   {
+    "md5": "a7519b6a29a870a303b69cc3f6e728d9",
+    "title": "Finixe -Ragnarok-",
+    "level": "7.50...8.00"
+  },
+  {
     "md5": "87b6fe6eb45c22bae567538c9f5ddb44",
     "title": "GIGAHERTZ [Fatality]",
     "level": "7.50...8.00"
@@ -5107,11 +5137,6 @@
   {
     "md5": "891cdab3552aec6b2af3570488099f4b",
     "title": "Dreadnought [Lagoon]",
-    "level": "8.00...8.50"
-  },
-  {
-    "md5": "a7519b6a29a870a303b69cc3f6e728d9",
-    "title": "Finixe -Ragnarok-",
     "level": "8.00...8.50"
   },
   {
@@ -5245,6 +5270,11 @@
     "level": "8.50...9.00"
   },
   {
+    "md5": "b2a1915cbb9954007c6adeea97c12330",
+    "title": "プナイプナイせんそう",
+    "level": "8.50...9.00"
+  },
+  {
     "md5": "b73ef6fac70e149a36e03a1981768057",
     "title": "プナイプナイたいそう",
     "level": "8.50...9.00"
@@ -5317,11 +5347,6 @@
   {
     "md5": "bfe3c76fb81102273929e641233b7eeb",
     "title": "VENDeTTA -Ragnarok-",
-    "level": "9.00...9.50"
-  },
-  {
-    "md5": "b2a1915cbb9954007c6adeea97c12330",
-    "title": "プナイプナイせんそう",
     "level": "9.00...9.50"
   },
   {
@@ -5508,11 +5533,6 @@
     "md5": "f880de58c2dcb3ea4e3d9dc39b096080",
     "title": "saucy plume (KurisumasuFumen)",
     "level": "11.50...12.00"
-  },
-  {
-    "md5": "bcc6cd83b75155549139cf7f0ca9251c",
-    "title": "Blooming [7key Sunflower]",
-    "level": "-"
   },
   {
     "md5": "3b8dc35b550dcd07876688d9cb0571f0",

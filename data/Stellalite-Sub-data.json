@@ -18091,6 +18091,23 @@
     "proposerLr2id": 124809
   },
   {
+    "md5": "2ccbf2841e848eed9a2c6a8e1ceeec4c",
+    "sha256": "b4aeb52a74fcf86da25fdf8644705bc8ae0fd2509ad9852ddff9a2afa1bf4058",
+    "title": "クォークの海を泳いで [Photonica]",
+    "artist": "hugepulse obj.rat vs NASA",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02672",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=121",
+    "level": "5",
+    "comment": "5~6?",
+    "proposer": "MineC24",
+    "proposerLr2id": 84597,
+    "submission": 635,
+    "voteYes": 0,
+    "voteNeutral": 0,
+    "voteNo": 0,
+    "votePercent": 0
+  },
+  {
     "md5": "04d96716449a9301ca187c657aed3558",
     "sha256": "04084991f4a89ed56d5bb484878a8c1770ec2f61edce9b6e53f970aa91f21489",
     "title": "サクラノユメ。 [満開]",
@@ -19341,6 +19358,22 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "7b877dceae4a8c706f7438be9f7742c9",
+    "sha256": "e784e0447bd84bc1b199fcdbfda8012cefc29cde8308e8ce52f98b2ba29af915",
+    "title": "Megalovania HardRockArrange [Do you wanna have a bad time?]",
+    "artist": "tetorimino / A",
+    "url_diff": "http://absolute.pv.land.to/bmsuploader.html",
+    "url": "http://keysounds.net/events/event/1/impressions/id/6",
+    "level": "6",
+    "comment": "ガチ押し",
+    "proposer": "ZEUS",
+    "submission": 186,
+    "voteYes": 0,
+    "voteNo": 0,
+    "votePercent": 0,
+    "proposerLr2id": 80338
+  },
+  {
     "md5": "e8de0fe9c739a15c8810327cfc06e00e",
     "sha256": "bd1ceacec4b187c340ec4d7af67746125a2a93c8cb1f7299938cd895efdf40d5",
     "title": "Memoria-Recollection- -追想の夜明け-",
@@ -20104,23 +20137,6 @@
     "votePercent": 0,
     "sha256": "2a76e7941f4e0f38b091a316fdccc5d7f264aefb57046d8f5b2690099027f31a",
     "proposerLr2id": 127851
-  },
-  {
-    "md5": "2ccbf2841e848eed9a2c6a8e1ceeec4c",
-    "sha256": "b4aeb52a74fcf86da25fdf8644705bc8ae0fd2509ad9852ddff9a2afa1bf4058",
-    "title": "クォークの海を泳いで [Photonica]",
-    "artist": "hugepulse obj.rat vs NASA",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02672",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=121",
-    "level": "6",
-    "comment": "5~6?",
-    "proposer": "MineC24",
-    "proposerLr2id": 84597,
-    "submission": 635,
-    "voteYes": 0,
-    "voteNeutral": 0,
-    "voteNo": 0,
-    "votePercent": 0
   },
   {
     "md5": "8a17295809444b13954a1bf1739cd1f8",
@@ -21310,22 +21326,6 @@
     "voteNo": 0,
     "votePercent": 0,
     "proposerLr2id": 35410
-  },
-  {
-    "md5": "7b877dceae4a8c706f7438be9f7742c9",
-    "sha256": "e784e0447bd84bc1b199fcdbfda8012cefc29cde8308e8ce52f98b2ba29af915",
-    "title": "Megalovania HardRockArrange [Do you wanna have a bad time?]",
-    "artist": "tetorimino / A",
-    "url_diff": "http://absolute.pv.land.to/bmsuploader.html",
-    "url": "http://keysounds.net/events/event/1/impressions/id/6",
-    "level": "7",
-    "comment": "ガチ押し",
-    "proposer": "ZEUS",
-    "submission": 186,
-    "voteYes": 0,
-    "voteNo": 0,
-    "votePercent": 0,
-    "proposerLr2id": 80338
   },
   {
     "md5": "d92a8b1aa5ae222f2ce1f76704c42c78",
@@ -38905,6 +38905,19 @@
     "sha256": "7a15538e30f548a7f274fb46b53a6599ead5f1696761af8465909e2497acafa7"
   },
   {
+    "md5": "89801f59148cb7e517fb51c7199a9ea7",
+    "sha256": "9ae56550742d75112b1edeb99228146f972debd717f46d635340cdb2854cb9b5",
+    "title": "J456",
+    "artist": "cranky obj.Squid BMS Host \"nozomi\"",
+    "url_diff": "https://1drv.ms/u/s!ApwaJAUHJdpymjlQlzY5zho18EFQ?e=xAucUc",
+    "url": "http://web.archive.org/web/20051110125653/http://pal.mydns.to/cranky/up/5key/5k-j219.zip",
+    "level": "15",
+    "comment": "BPM147 縦連系ガチ押し (#55までは追加音以外はズレX,#56~59後番は曲時間追加です。(AFOTHERと同じで実ズレX)(差分アップローダ作成者コメントより))",
+    "proposer": "垢伴次郎",
+    "submission": 1677,
+    "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
+  },
+  {
     "level": "15",
     "comment": "物量",
     "md5": "aa18cd83e9bd14cade78cad49d14d4f1",
@@ -40137,19 +40150,6 @@
     "voteYes": 0,
     "voteNo": 0,
     "sha256": "6be63d4fd95c0429c92647bf7a7f902d16dc3705714872c1c8fa325328450bdc"
-  },
-  {
-    "md5": "7b41576e882e8ad94b338b81eec952ed",
-    "sha256": "703febf75b9cbca65bf0945cf8b52192082bd2c1a38bce4e373308115c8648f1",
-    "title": "ただいま、Bar“BOOMY” [ばぶぅみぃ]",
-    "artist": "dawn-system Vo: もちこまめ / BGA: うまるつふり＆わっふゑ / obj.hex",
-    "url_diff": "http://bms.hexlataia.xyz/tables/hexajoy.html",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=61&event=110",
-    "level": "15",
-    "comment": "ガチ押し + @",
-    "proposer": "ZEUS",
-    "submission": 676,
-    "proposerLr2id": 80338
   },
   {
     "md5": "ea755ec70f08d00c44fb0bd7fabac19d",
@@ -43099,6 +43099,19 @@
     "proposerLr2id": 147889
   },
   {
+    "md5": "6949ff79072d384a945c4c02eca28aef",
+    "sha256": "c0a83ba10d661c633886dd2921ea315c75a5b4d34938d28c130e7b9d3988dd46",
+    "title": "TakeTrip [蓬莱の樹海]",
+    "artist": "Remixed by ⑮ BGA:えらる /eleanor",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04634",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=102",
+    "level": "16",
+    "comment": "BPM135 ガチ押し ※曲変更差分",
+    "proposer": "fuko",
+    "submission": 1676,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
+  },
+  {
     "level": "16",
     "comment": "微縦連 横に広い物量",
     "md5": "6757cc8bae9a71a690d42a12a427265f",
@@ -43314,6 +43327,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "a3043ea62cdd916beeb06486d6a130b36d7de219a34f7712f92fda213e7a8f10"
+  },
+  {
+    "md5": "7b41576e882e8ad94b338b81eec952ed",
+    "sha256": "703febf75b9cbca65bf0945cf8b52192082bd2c1a38bce4e373308115c8648f1",
+    "title": "ただいま、Bar“BOOMY” [ばぶぅみぃ]",
+    "artist": "dawn-system Vo: もちこまめ / BGA: うまるつふり＆わっふゑ / obj.hex",
+    "url_diff": "http://bms.hexlataia.xyz/tables/hexajoy.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=61&event=110",
+    "level": "16",
+    "comment": "ガチ押し + @",
+    "proposer": "ZEUS",
+    "submission": 676,
+    "proposerLr2id": 80338
   },
   {
     "md5": "0cb2464f1b4d8a8f401b26e3cdd45e47",
@@ -44176,6 +44202,20 @@
     "proposer": "SHAX.",
     "submission": 1476,
     "proposerLr2id": 65624
+  },
+  {
+    "md5": "161d264c8c0b2c554ddf382713d5dc68",
+    "sha256": "563f90ba8064b716119c30f4d13d25273c880fba496d991db116899db0fcd18d",
+    "title": "Blooming Jump! [Maneuver]",
+    "artist": "卯月 改",
+    "url_diff": "http://gnqg.rosx.net/upload/",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=109",
+    "level": "17",
+    "comment": "BPM195の重発狂　いろいろなタイプの重発狂が練習できます",
+    "zureCount": 0,
+    "proposer": "BAECON",
+    "submission": 1315,
+    "proposerLr2id": 46122
   },
   {
     "md5": "092512fc826da66f52b9144b9632a4a3",
@@ -45637,6 +45677,20 @@
     "proposerLr2id": 147889
   },
   {
+    "md5": "ef2167e3aa935c4617dc6ff00fe8dbf7",
+    "sha256": "01ddfa4aa82fbbd9fd8cf4d25b5e2cb32966fa877326626c96d130c2b32b25ca",
+    "title": "story of dreamers [extra vision]",
+    "artist": "ノア remixed by otokaz obj:1008",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05419",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=65",
+    "level": "17",
+    "comment": "BPM124 ガチ押し",
+    "zureCount": 0,
+    "proposer": "垢伴次郎",
+    "submission": 1654,
+    "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
+  },
+  {
     "md5": "633141a17ae7ba45fd4ed3729c48d4ef",
     "sha256": "44fdb44b37c6805e5e90096bbd19ba3eadf3095c6d7bdadbe7de0525b3f9f563",
     "title": "Strawberry Mint Chocolate [v('ω')v]",
@@ -46728,20 +46782,6 @@
     "sha256": "e130e0d45504aedc7677eaa17eacd84a4d195e0663e45c2fa955d75b8a8c1f87"
   },
   {
-    "md5": "161d264c8c0b2c554ddf382713d5dc68",
-    "sha256": "563f90ba8064b716119c30f4d13d25273c880fba496d991db116899db0fcd18d",
-    "title": "Blooming Jump! [Maneuver]",
-    "artist": "卯月 改",
-    "url_diff": "http://gnqg.rosx.net/upload/",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=109",
-    "level": "18",
-    "comment": "BPM195の重発狂　いろいろなタイプの重発狂が練習できます",
-    "zureCount": 0,
-    "proposer": "BAECON",
-    "submission": 1315,
-    "proposerLr2id": 46122
-  },
-  {
     "title": "Blue Dragoon [Nereus]",
     "artist": "kanone / obj.swa",
     "url": "http://www1.axfc.net/uploader/so/2299297",
@@ -47087,19 +47127,6 @@
     "proposer": "BAECON",
     "submission": 1252,
     "proposerLr2id": 46122
-  },
-  {
-    "md5": "53d61c3bfc4d027151be895343a33962",
-    "sha256": "a51dd9a13082a8d53fe900bccf8b874a3c184ed50b421b3bbcc11d2abcb95445",
-    "title": "flowers [miracle]",
-    "artist": "mist-rose/obj.もにもに",
-    "url_diff": "https://stellabms.xyz/upload/303",
-    "url": "http://tm2.toymusical.net/download.html",
-    "level": "18",
-    "comment": "この曲切らしてた（最後のディレイ追加以外はpmsの差分とズレチェック済みだそうです）",
-    "proposer": "turbow",
-    "submission": 1230,
-    "proposerMinirid": "6ff4a3e0-3764-464e-ba27-37e10197ee2a"
   },
   {
     "title": "FREEDOM DiVE - SINGULARITY",
@@ -47480,21 +47507,6 @@
     "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
   },
   {
-    "md5": "edecd9a13627a5a55feaf3be4b6a0724",
-    "title": "Nhelv [SF HELL]",
-    "artist": "Silentroom obj: Silver_Fish",
-    "url_diff": "https://1drv.ms/u/s!Ar0n2ZA4TxT5bA-cS7iCN8M3AKM",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=386&event=116",
-    "level": "18",
-    "proposer": "StarFish",
-    "proposerLr2id": 146040,
-    "submission": 689,
-    "voteYes": 0,
-    "voteNo": 0,
-    "votePercent": 0,
-    "sha256": "293a8bc3cba84314b59e9cbdcbc00c0d04805ca3596791fe6cdd8f527061efcb"
-  },
-  {
     "title": "No.337 -THE ANOTHER-",
     "artist": "ATM / obj. by 、",
     "url": "http://web.archive.org/web/20140901092628/http://plugout4.com/plugout/ATM[vol.1].zip",
@@ -47616,6 +47628,19 @@
     "comment": "",
     "submission": 52,
     "sha256": "c45b667a79b77c667b0e826da7be73366ac45acd215105b7a9bddfff70d45291"
+  },
+  {
+    "md5": "ecafeddfc8731c5243ce3c5165767715",
+    "sha256": "dcc133d9e48308cbc1bb397f89c1a16debbc303d6f8c4900dfcdac23d116453b",
+    "title": "Rabbits [Maryther]",
+    "artist": "Est / BGA:Johnny / OBJ:Mary_Sue",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "url": "https://onedrive.live.com/?cid=F61C1F8825F0CF46&id=F61C1F8825F0CF46%21159",
+    "level": "18",
+    "comment": "gachi, delay",
+    "proposer": "歳納京子",
+    "submission": 1679,
+    "proposerLr2id": 75332
   },
   {
     "md5": "e0da513dc1f9aee1446804273e099709",
@@ -47743,20 +47768,6 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "2346c04a1da674273eaf48e00306cda2651d4885b7b8c6525b5ac4052a555e91"
-  },
-  {
-    "md5": "ef2167e3aa935c4617dc6ff00fe8dbf7",
-    "sha256": "01ddfa4aa82fbbd9fd8cf4d25b5e2cb32966fa877326626c96d130c2b32b25ca",
-    "title": "story of dreamers [extra vision]",
-    "artist": "ノア remixed by otokaz obj:1008",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05419",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=65",
-    "level": "18",
-    "comment": "BPM124 ガチ押し",
-    "zureCount": 0,
-    "proposer": "垢伴次郎",
-    "submission": 1654,
-    "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
   },
   {
     "md5": "b68e4ddc153ab9b9391f3d9a2f856e7a",
@@ -49123,6 +49134,21 @@
     "voteYes": 0,
     "voteNo": 0,
     "sha256": "1234672a8a0786ce9c98416dfa548c1f27d585c0f194def1249505e93fe2be6e"
+  },
+  {
+    "md5": "edecd9a13627a5a55feaf3be4b6a0724",
+    "title": "Nhelv [SF HELL]",
+    "artist": "Silentroom obj: Silver_Fish",
+    "url_diff": "https://1drv.ms/u/s!Ar0n2ZA4TxT5bA-cS7iCN8M3AKM",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=386&event=116",
+    "level": "19",
+    "proposer": "StarFish",
+    "proposerLr2id": 146040,
+    "submission": 689,
+    "voteYes": 0,
+    "voteNo": 0,
+    "votePercent": 0,
+    "sha256": "293a8bc3cba84314b59e9cbdcbc00c0d04805ca3596791fe6cdd8f527061efcb"
   },
   {
     "md5": "0a2ef1a74e2bf188bc129066c95b6e86",
@@ -50789,6 +50815,20 @@
     "proposer": "LUXURY♪",
     "submission": 1430,
     "proposerLr2id": 23110
+  },
+  {
+    "md5": "464647e9e4f9d44d9c9d74aa9610bc20",
+    "sha256": "590232fe21265398848f5e34e0e8003006f68c5a3f28f59436a35eb0b0155264",
+    "title": "ZEUS † 666 for Magician",
+    "artist": "ルゼ obj: qtp13",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04932",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=125",
+    "level": "20",
+    "comment": "BPM180 微縦",
+    "zureCount": 0,
+    "proposer": "垢伴次郎",
+    "submission": 1678,
+    "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
   },
   {
     "md5": "298010e7cd72551b39926c32693c9de9",

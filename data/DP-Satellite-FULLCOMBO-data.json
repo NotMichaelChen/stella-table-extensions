@@ -30,11 +30,6 @@
     "level": "4.00...4.50"
   },
   {
-    "md5": "f41a990d8137150f510e74468d9f2244",
-    "title": "resonance [DP Another]",
-    "level": "4.00...4.50"
-  },
-  {
     "md5": "32c4eb544798251f227dd58c7c1ee5a8",
     "title": "062020 [14KEYS HYPER]",
     "level": "4.50...5.00"
@@ -102,6 +97,11 @@
   {
     "md5": "f983d6bff87cc6681290a50f8ca53883",
     "title": "Plunge into cloud [DP another]",
+    "level": "4.50...5.00"
+  },
+  {
+    "md5": "f41a990d8137150f510e74468d9f2244",
+    "title": "resonance [DP Another]",
     "level": "4.50...5.00"
   },
   {
@@ -315,6 +315,11 @@
     "level": "6.00...6.50"
   },
   {
+    "md5": "af3c85b4d9ec0c7ef028affc2f1ba7bb",
+    "title": "Linescape (14keys Maniac)",
+    "level": "6.00...6.50"
+  },
+  {
     "md5": "73012ac67ea897ae78c0202df48b7edc",
     "title": "Lumos (BMS Edit) ～蛍光灯～",
     "level": "6.00...6.50"
@@ -392,11 +397,6 @@
   {
     "md5": "33dcbf24bf983f3a897ad45220e95754",
     "title": "LAST PROPOZE [DP 202THER]",
-    "level": "6.50...7.00"
-  },
-  {
-    "md5": "af3c85b4d9ec0c7ef028affc2f1ba7bb",
-    "title": "Linescape (14keys Maniac)",
     "level": "6.50...7.00"
   },
   {
@@ -525,11 +525,6 @@
     "level": "7.50...8.00"
   },
   {
-    "md5": "fae668556e7a69b1c7268513bedf2a9d",
-    "title": "It's \"alice\" dream [DP ANOTHER]",
-    "level": "7.50...8.00"
-  },
-  {
     "md5": "4517d25589a16bf79795b09b95592324",
     "title": "Love's Rebirth '06 LEGEND MIX -DP-",
     "level": "7.50...8.00"
@@ -630,6 +625,11 @@
     "level": "8.50...9.00"
   },
   {
+    "md5": "fae668556e7a69b1c7268513bedf2a9d",
+    "title": "It's \"alice\" dream [DP ANOTHER]",
+    "level": "8.50...9.00"
+  },
+  {
     "md5": "e255f2454ad464f042b2ea6f83d143ab",
     "title": "Loki [Trickster]",
     "level": "8.50...9.00"
@@ -705,6 +705,11 @@
     "level": "9.00...9.50"
   },
   {
+    "md5": "8de20bc4c3b218c140bdbbf71287b1b6",
+    "title": "Angelic Snow (kumanother)",
+    "level": "9.50...10.00"
+  },
+  {
     "md5": "e80b8d644b47e94cda1c90ca27014a3b",
     "title": "Take Me Away [DPH]",
     "level": "9.50...10.00"
@@ -717,11 +722,6 @@
   {
     "md5": "d06fdb6b500818662f2054e0cbc47533",
     "title": "A D D i c T i O N 4 5 0 0 0 0 0 [ D P H ]",
-    "level": "10.00...10.50"
-  },
-  {
-    "md5": "8de20bc4c3b218c140bdbbf71287b1b6",
-    "title": "Angelic Snow (kumanother)",
     "level": "10.00...10.50"
   },
   {
@@ -1795,6 +1795,11 @@
     "level": "-"
   },
   {
+    "md5": "c6b4fe5b81e4ce532bea1f60ae06f1f4",
+    "title": "rise to R -overdrive 14-",
+    "level": "-"
+  },
+  {
     "md5": "c8165d170ccb541a766ce33a74d284a7",
     "title": "S'il vous plait! [DP_Li]",
     "level": "-"
@@ -1822,6 +1827,11 @@
   {
     "md5": "21129c8e705e3e94f649c73900dc35b8",
     "title": "Singing of Night birds [DP ANOTHER]",
+    "level": "-"
+  },
+  {
+    "md5": "d829ea4e2ca8d5050a77d5e0fd9f4102",
+    "title": "Singing of Night birds [DP INSANE]",
     "level": "-"
   },
   {
@@ -1905,6 +1915,11 @@
     "level": "-"
   },
   {
+    "md5": "e95c45d5c8a175310c67d5b4640a990f",
+    "title": "Telescope [DP-sagANOTHER]",
+    "level": "-"
+  },
+  {
     "md5": "053a9df4c39af51f5437b7377101a0e6",
     "title": "TEN -Q-",
     "level": "-"
@@ -1962,6 +1977,11 @@
   {
     "md5": "707b92679398b7de2505a2d308da8364",
     "title": "Ultimate Weapon [DP ANOTHER]",
+    "level": "-"
+  },
+  {
+    "md5": "48e3f3a439115c200f796b06e352f00f",
+    "title": "Ultimate Weapon [XIV 新生エオルゼア]",
     "level": "-"
   },
   {

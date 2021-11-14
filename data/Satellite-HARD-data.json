@@ -155,11 +155,6 @@
     "level": "0.50...1.00"
   },
   {
-    "md5": "c74942da2bb8599f726f10a6c8fd67a5",
-    "title": "Dai-katsugeki(AMAZE Remix) [7ANOTHER]",
-    "level": "0.50...1.00"
-  },
-  {
     "md5": "325213609ad69f4bb9bcb61735318423",
     "title": "Damnation 565 [ANOTHER]",
     "level": "0.50...1.00"
@@ -550,6 +545,11 @@
     "level": "0.50...1.00"
   },
   {
+    "md5": "32f15e4a324ab1a2450913da7f121295",
+    "title": "Sunset Toybox [ANOTHER]",
+    "level": "0.50...1.00"
+  },
+  {
     "md5": "de3c9a8f256d27e573e7e73e3dfea2d3",
     "title": "the lost dedicated (another)",
     "level": "0.50...1.00"
@@ -717,6 +717,11 @@
   {
     "md5": "8104bc6b3580ec33e2f8a425488f0d5f",
     "title": "Crossover (Chain mix)",
+    "level": "1.00...1.50"
+  },
+  {
+    "md5": "c74942da2bb8599f726f10a6c8fd67a5",
+    "title": "Dai-katsugeki(AMAZE Remix) [7ANOTHER]",
     "level": "1.00...1.50"
   },
   {
@@ -1455,6 +1460,11 @@
     "level": "2.00...2.50"
   },
   {
+    "md5": "eaaef1ecb6f00074ca25e451b223134d",
+    "title": "リジットXXパラダイス -Hope-",
+    "level": "2.00...2.50"
+  },
+  {
     "md5": "8cb8c32c1f06fdfc5b11d22de0731539",
     "title": "-if-扉のその向こう側へ [HARD]",
     "level": "2.50...3.00"
@@ -2005,11 +2015,6 @@
     "level": "2.50...3.00"
   },
   {
-    "md5": "eaaef1ecb6f00074ca25e451b223134d",
-    "title": "リジットXXパラダイス -Hope-",
-    "level": "2.50...3.00"
-  },
-  {
     "md5": "4dae609e5f8eca718e30110d582fe268",
     "title": "リリカと魔法の言葉 [ZOI]",
     "level": "2.50...3.00"
@@ -2075,11 +2080,6 @@
     "level": "3.00...3.50"
   },
   {
-    "md5": "ddd488978145d88cc7789371225c10fd",
-    "title": "ALife Contradiction",
-    "level": "3.00...3.50"
-  },
-  {
     "md5": "91dc7d0c5d3ccf39804fcac66bf2424c",
     "title": "Anzu no Kakkoi Ongaku [SP EXTRA]",
     "level": "3.00...3.50"
@@ -2115,8 +2115,8 @@
     "level": "3.00...3.50"
   },
   {
-    "md5": "5db7bef388eef5816d2caf4231a37ec2",
-    "title": "プラネット -Nebula-",
+    "md5": "c7c7b226226b6b00dfa7206b009b8b29",
+    "title": "summerghost -dawn-",
     "level": "3.00...3.50"
   },
   {
@@ -2157,6 +2157,11 @@
   {
     "md5": "5c638d05e1d19a318eb3a06aee5fa693",
     "title": "Agito [ENT+]",
+    "level": "3.50...4.00"
+  },
+  {
+    "md5": "ddd488978145d88cc7789371225c10fd",
+    "title": "ALife Contradiction",
     "level": "3.50...4.00"
   },
   {
@@ -2212,11 +2217,6 @@
   {
     "md5": "198c2df7b246b1795f6de14a101463d1",
     "title": "Castor(BMS edit) [QuintetStar]",
-    "level": "3.50...4.00"
-  },
-  {
-    "md5": "c26bae73f146ea538b8a52966e68c36a",
-    "title": "Chinese Tea -Re:O2ther-",
     "level": "3.50...4.00"
   },
   {
@@ -2405,11 +2405,6 @@
     "level": "3.50...4.00"
   },
   {
-    "md5": "c7c7b226226b6b00dfa7206b009b8b29",
-    "title": "summerghost -dawn-",
-    "level": "3.50...4.00"
-  },
-  {
     "md5": "9417fabee3127db8cb63dba9a62ddfd5",
     "title": "Take Me Away [SAETHER]",
     "level": "3.50...4.00"
@@ -2550,6 +2545,11 @@
     "level": "3.50...4.00"
   },
   {
+    "md5": "5db7bef388eef5816d2caf4231a37ec2",
+    "title": "プラネット -Nebula-",
+    "level": "3.50...4.00"
+  },
+  {
     "md5": "f31e56e1c9fa557a311cb552df22ff6b",
     "title": "マツユキソウ [ZOI]",
     "level": "3.50...4.00"
@@ -2617,6 +2617,11 @@
   {
     "md5": "1d1980c11ebb190068041af164ee0f32",
     "title": "Believe the Future -ANOTHER-",
+    "level": "4.00...4.50"
+  },
+  {
+    "md5": "c26bae73f146ea538b8a52966e68c36a",
+    "title": "Chinese Tea -Re:O2ther-",
     "level": "4.00...4.50"
   },
   {
@@ -2715,6 +2720,11 @@
     "level": "4.00...4.50"
   },
   {
+    "md5": "a71537335d29219b96f41f182e2547b1",
+    "title": "YOU from \"ひぐらしのなく頃に\"",
+    "level": "4.00...4.50"
+  },
+  {
     "md5": "f06660c61e2db1da1e3b2e6853c5bdd2",
     "title": "your wind, my blind [ZOI]",
     "level": "4.00...4.50"
@@ -2730,13 +2740,13 @@
     "level": "4.00...4.50"
   },
   {
-    "md5": "ba3adb82d930f49620ed810cedd73eae",
-    "title": "小さなてのひら (Join Handz Remix) [SABOTHER]",
+    "md5": "180ecc755af1b5875dbd110789cfe5b0",
+    "title": "ピクニックガール [Dead]",
     "level": "4.00...4.50"
   },
   {
-    "md5": "038cf0248a84abb1579cfefd8cdad050",
-    "title": "赤 [W]",
+    "md5": "ba3adb82d930f49620ed810cedd73eae",
+    "title": "小さなてのひら (Join Handz Remix) [SABOTHER]",
     "level": "4.00...4.50"
   },
   {
@@ -3095,16 +3105,6 @@
     "level": "4.50...5.00"
   },
   {
-    "md5": "a71537335d29219b96f41f182e2547b1",
-    "title": "YOU from \"ひぐらしのなく頃に\"",
-    "level": "4.50...5.00"
-  },
-  {
-    "md5": "5cd3a41e8f017eb4164c6bded198ddc9",
-    "title": "ひつぎとふたご [7KEY/A2]",
-    "level": "4.50...5.00"
-  },
-  {
     "md5": "b7c510d564e6abdc8fb3a0495663ce4a",
     "title": "ハニエルのうた [ZOI]",
     "level": "4.50...5.00"
@@ -3112,11 +3112,6 @@
   {
     "md5": "7959bf2189b1c16849d1cb4f0c819bfb",
     "title": "バンバード ～Piano Version～ [sunny]",
-    "level": "4.50...5.00"
-  },
-  {
-    "md5": "180ecc755af1b5875dbd110789cfe5b0",
-    "title": "ピクニックガール [Dead]",
     "level": "4.50...5.00"
   },
   {
@@ -3167,6 +3162,11 @@
   {
     "md5": "95ebb3522c510f78e4fd4728ca5c33e3",
     "title": "石 [7ANOTHER]",
+    "level": "4.50...5.00"
+  },
+  {
+    "md5": "038cf0248a84abb1579cfefd8cdad050",
+    "title": "赤 [W]",
     "level": "4.50...5.00"
   },
   {
@@ -3255,11 +3255,6 @@
     "level": "5.00...5.50"
   },
   {
-    "md5": "af3d691548fe1aa9fdbf19d0e96387fb",
-    "title": "Life is PIANO [未来差分研究所]",
-    "level": "5.00...5.50"
-  },
-  {
     "md5": "acaaa0aaa4e8a3de3cbf8041f4891d72",
     "title": "Little \"Sister\" Bitch -Hope-",
     "level": "5.00...5.50"
@@ -3300,6 +3295,11 @@
     "level": "5.00...5.50"
   },
   {
+    "md5": "b31259505ed8a18dd1e9be924308aa45",
+    "title": "Term of Atrophy [ANOTHER]",
+    "level": "5.00...5.50"
+  },
+  {
     "md5": "bbb6c2152d9939fe2961efdbc932853f",
     "title": "Unleashed World [ZOI]",
     "level": "5.00...5.50"
@@ -3312,6 +3312,11 @@
   {
     "md5": "8be97a7c2ab870a950c3192680c75fdb",
     "title": "はじまりの詩 [INSANE]",
+    "level": "5.00...5.50"
+  },
+  {
+    "md5": "5cd3a41e8f017eb4164c6bded198ddc9",
+    "title": "ひつぎとふたご [7KEY/A2]",
     "level": "5.00...5.50"
   },
   {
@@ -3530,6 +3535,11 @@
     "level": "5.50...6.00"
   },
   {
+    "md5": "af3d691548fe1aa9fdbf19d0e96387fb",
+    "title": "Life is PIANO [未来差分研究所]",
+    "level": "5.50...6.00"
+  },
+  {
     "md5": "2041387d70474998bf74d2d793ef07cc",
     "title": "MK-ULTRA [isocosa's 7k Insane]",
     "level": "5.50...6.00"
@@ -3555,11 +3565,6 @@
     "level": "5.50...6.00"
   },
   {
-    "md5": "9bf9199bc76e5114e2a3759fb48fee16",
-    "title": "Press [X to Pay Respect]",
-    "level": "5.50...6.00"
-  },
-  {
     "md5": "7991c56502a1d21d776a1c14e247a6e9",
     "title": "QSHELL －拒色のシェルル－ [ZOI]",
     "level": "5.50...6.00"
@@ -3572,11 +3577,6 @@
   {
     "md5": "b6f2c8d798b81f67a14ce05c50cb3b07",
     "title": "Signager -HONGKONG EXPRESS_FIX-",
-    "level": "5.50...6.00"
-  },
-  {
-    "md5": "b31259505ed8a18dd1e9be924308aa45",
-    "title": "Term of Atrophy [ANOTHER]",
     "level": "5.50...6.00"
   },
   {
@@ -3730,6 +3730,11 @@
     "level": "6.00...6.50"
   },
   {
+    "md5": "9bf9199bc76e5114e2a3759fb48fee16",
+    "title": "Press [X to Pay Respect]",
+    "level": "6.00...6.50"
+  },
+  {
     "md5": "70120d2889c1e30252289b4e95e1f0c6",
     "title": "take me to the moon [yumether]",
     "level": "6.00...6.50"
@@ -3760,8 +3765,18 @@
     "level": "6.00...6.50"
   },
   {
+    "md5": "80819ea2ff7dfb3ee0264a5f74e70b97",
+    "title": "水の螺旋 [TOWER]",
+    "level": "6.00...6.50"
+  },
+  {
     "md5": "b7387dc90a66b0d3dad3460eb3c70a9e",
     "title": "蓄積×フラストレーション  [交錯×アサーション]",
+    "level": "6.00...6.50"
+  },
+  {
+    "md5": "8bac3ecaf59be63bef0d8bcd0ded05ff",
+    "title": "虹夜パレッド -Rainbow-",
     "level": "6.00...6.50"
   },
   {
@@ -4070,11 +4085,6 @@
     "level": "6.50...7.00"
   },
   {
-    "md5": "80819ea2ff7dfb3ee0264a5f74e70b97",
-    "title": "水の螺旋 [TOWER]",
-    "level": "6.50...7.00"
-  },
-  {
     "md5": "22850b3b023918b76b9eb2a7c7172a1f",
     "title": "浮世絵横丁 -凱風快晴-",
     "level": "6.50...7.00"
@@ -4082,11 +4092,6 @@
   {
     "md5": "438fa3931fcbb5b71c27b6587c5034c3",
     "title": "白菊 [Snother]",
-    "level": "6.50...7.00"
-  },
-  {
-    "md5": "8bac3ecaf59be63bef0d8bcd0ded05ff",
-    "title": "虹夜パレッド -Rainbow-",
     "level": "6.50...7.00"
   },
   {
@@ -4955,6 +4960,11 @@
     "level": "9.00...9.50"
   },
   {
+    "md5": "8c4134058e20ada508642f24f96298ed",
+    "title": "Subterranean Blastoff -Stellar Overhaul-",
+    "level": "9.00...9.50"
+  },
+  {
     "md5": "b5fd495a29dc5f1513333d0db281495f",
     "title": "The End of Yggdrasil",
     "level": "9.00...9.50"
@@ -5120,11 +5130,6 @@
     "level": "9.50...10.00"
   },
   {
-    "md5": "8c4134058e20ada508642f24f96298ed",
-    "title": "Subterranean Blastoff -Stellar Overhaul-",
-    "level": "9.50...10.00"
-  },
-  {
     "md5": "1834e440eb1574429d84354807389809",
     "title": "T.Y.H.Y. [SP BRLTHER]",
     "level": "9.50...10.00"
@@ -5205,6 +5210,11 @@
     "level": "9.50...10.00"
   },
   {
+    "md5": "74b62e4ae1878268d33c5e328243a1dd",
+    "title": "A-chasing-Y [Pain]",
+    "level": "10.00...10.50"
+  },
+  {
     "md5": "9e8e7e04e1ce7709c9fb94ad85837550",
     "title": "Armageddon -Luna-",
     "level": "10.00...10.50"
@@ -5235,11 +5245,6 @@
     "level": "10.00...10.50"
   },
   {
-    "md5": "ae24d8a3d5526131ab9fe48d2cbcd568",
-    "title": "LAST PROPOZE [Re]",
-    "level": "10.00...10.50"
-  },
-  {
     "md5": "aa0df8bed54cbcc7dfa10d7347c8730b",
     "title": "Ninja's betrayal [アイエエエ！？]",
     "level": "10.00...10.50"
@@ -5262,11 +5267,6 @@
   {
     "md5": "b24188498a91ed9c75d65cc572202874",
     "title": "偶像に世界を委ねて(起死回生RMX) -Last Battle-",
-    "level": "10.00...10.50"
-  },
-  {
-    "md5": "8841ecde594f990c6731e6a1d6b898e5",
-    "title": "架空ユリカゴ　 [EX]",
     "level": "10.00...10.50"
   },
   {
@@ -5302,11 +5302,6 @@
   {
     "md5": "442d55185f1b14532c81ebb21793c5cc",
     "title": "1516 [SAETHER]",
-    "level": "10.50...11.00"
-  },
-  {
-    "md5": "74b62e4ae1878268d33c5e328243a1dd",
-    "title": "A-chasing-Y [Pain]",
     "level": "10.50...11.00"
   },
   {
@@ -5410,11 +5405,6 @@
     "level": "10.50...11.00"
   },
   {
-    "md5": "3fb0e6356a1fb97f30fdc30f65ffa311",
-    "title": "HAPPY☆LUCKY☆BABY [SP AMETHER-A]",
-    "level": "10.50...11.00"
-  },
-  {
     "md5": "411a20140a19a8292d9e554cf6b83710",
     "title": "Hot Heart is Sprinting Love~!! [地球最後の日]",
     "level": "10.50...11.00"
@@ -5437,6 +5427,11 @@
   {
     "md5": "010d5e5f5225616215c1b365f68a604b",
     "title": "Lapis [World Extend]",
+    "level": "10.50...11.00"
+  },
+  {
+    "md5": "ae24d8a3d5526131ab9fe48d2cbcd568",
+    "title": "LAST PROPOZE [Re]",
     "level": "10.50...11.00"
   },
   {
@@ -5467,6 +5462,11 @@
   {
     "md5": "0076b2ce2cee05999a524712c128740f",
     "title": "NS20 [7key CHAOSDEATH]",
+    "level": "10.50...11.00"
+  },
+  {
+    "md5": "3de6a2e947e4d9d0f4b13d3eabf2dca3",
+    "title": "PANIC! BOUNCE!! ATTACK!!! [SP UNKNOWN]",
     "level": "10.50...11.00"
   },
   {
@@ -5590,6 +5590,11 @@
     "level": "11.00...11.50"
   },
   {
+    "md5": "f19f3a79fe68e9e53b742b88529c0d98",
+    "title": "Amusing Colorful Pudding. [HARDEST]",
+    "level": "11.00...11.50"
+  },
+  {
     "md5": "c16ad6046d2f0d5f65a66bbbba6aaaa8",
     "title": "Central GRAY [Crazy]",
     "level": "11.00...11.50"
@@ -5615,6 +5620,11 @@
     "level": "11.00...11.50"
   },
   {
+    "md5": "3fb0e6356a1fb97f30fdc30f65ffa311",
+    "title": "HAPPY☆LUCKY☆BABY [SP AMETHER-A]",
+    "level": "11.00...11.50"
+  },
+  {
     "md5": "76d45a63861718e0081175aecf0daee7",
     "title": "K8107　 -EXTRA-",
     "level": "11.00...11.50"
@@ -5635,6 +5645,11 @@
     "level": "11.00...11.50"
   },
   {
+    "md5": "25eaf10ef0085443932317c03a65f333",
+    "title": "Sunny [ディレイ&物量]",
+    "level": "11.00...11.50"
+  },
+  {
     "md5": "2b13530120df96c374f4fb79e3599ce6",
     "title": "Urania [Glowing Sky]",
     "level": "11.00...11.50"
@@ -5645,13 +5660,13 @@
     "level": "11.00...11.50"
   },
   {
-    "md5": "afe8cdbcaa8f6edeba182ecb9b266fb5",
-    "title": "テウメッサ [にゃーん]",
+    "md5": "13756934dd32940cdd59df75dc94509c",
+    "title": "wholeheartedly [lightray]",
     "level": "11.00...11.50"
   },
   {
-    "md5": "d8a2719afd4a0649028f06d8850c437d",
-    "title": "フロンティア↑↑エクスプローラー [EARTH]",
+    "md5": "afe8cdbcaa8f6edeba182ecb9b266fb5",
+    "title": "テウメッサ [にゃーん]",
     "level": "11.00...11.50"
   },
   {
@@ -5677,11 +5692,6 @@
   {
     "md5": "267fbf20e2f0d04e64525b0dbee0f789",
     "title": "Amnehilesie [Etude]",
-    "level": "11.50...12.00"
-  },
-  {
-    "md5": "f19f3a79fe68e9e53b742b88529c0d98",
-    "title": "Amusing Colorful Pudding. [HARDEST]",
     "level": "11.50...12.00"
   },
   {
@@ -5712,6 +5722,11 @@
   {
     "md5": "b188cbde1a1582b563ec3d48bb7deca8",
     "title": "Celestial Axes  -Luna-",
+    "level": "11.50...12.00"
+  },
+  {
+    "md5": "213ce0b43c2b287e5f7d5bb30c8ec44f",
+    "title": "Chainsaw NINJA vs ALIEN -Despair-",
     "level": "11.50...12.00"
   },
   {
@@ -5762,6 +5777,11 @@
   {
     "md5": "3aa94d21ece8da5ef2f5e31b10188d7c",
     "title": "G e n g a o z o GOD⇒Side",
+    "level": "11.50...12.00"
+  },
+  {
+    "md5": "d10869eb8dfad12297f8894d1cfd0715",
+    "title": "G-SHOCK [C4A]",
     "level": "11.50...12.00"
   },
   {
@@ -5905,11 +5925,6 @@
     "level": "11.50...12.00"
   },
   {
-    "md5": "25eaf10ef0085443932317c03a65f333",
-    "title": "Sunny [ディレイ&物量]",
-    "level": "11.50...12.00"
-  },
-  {
     "md5": "cc1c4f40886d7ea1d32f867fb9ea2e20",
     "title": "SYNTHETICS [CYBERTIC ETUDE]",
     "level": "11.50...12.00"
@@ -5940,11 +5955,6 @@
     "level": "11.50...12.00"
   },
   {
-    "md5": "13756934dd32940cdd59df75dc94509c",
-    "title": "wholeheartedly [lightray]",
-    "level": "11.50...12.00"
-  },
-  {
     "md5": "0ef63d0fc1f2c2031ca6fa3bb06e6351",
     "title": "しぇる☆どっきんぐ ～だめ！このままじゃ溢れちゃう！～ [HARDEST]",
     "level": "11.50...12.00"
@@ -5957,6 +5967,21 @@
   {
     "md5": "be15c9f54f0a0cd0e5c1737415dc7182",
     "title": "ヒメタイプ [LAPITHER]",
+    "level": "11.50...12.00"
+  },
+  {
+    "md5": "d8a2719afd4a0649028f06d8850c437d",
+    "title": "フロンティア↑↑エクスプローラー [EARTH]",
+    "level": "11.50...12.00"
+  },
+  {
+    "md5": "c22797ce6e4476f0cdd06407cb4f7d94",
+    "title": "ラストワード [Deflation world]",
+    "level": "11.50...12.00"
+  },
+  {
+    "md5": "8841ecde594f990c6731e6a1d6b898e5",
+    "title": "架空ユリカゴ　 [EX]",
     "level": "11.50...12.00"
   },
   {
@@ -6065,11 +6090,6 @@
     "level": "12.00...12.50"
   },
   {
-    "md5": "d10869eb8dfad12297f8894d1cfd0715",
-    "title": "G-SHOCK [C4A]",
-    "level": "12.00...12.50"
-  },
-  {
     "md5": "daabea71e949e92d5718ae7ba27ca0a5",
     "title": "Hi-Fi-Story [SP EXTRA]",
     "level": "12.00...12.50"
@@ -6095,6 +6115,11 @@
     "level": "12.00...12.50"
   },
   {
+    "md5": "0f5b2b2df091b511e311873204203dcc",
+    "title": "Psychedelic Ritual -Despair-",
+    "level": "12.00...12.50"
+  },
+  {
     "md5": "1c9c574853c87a09e03ee40d372ecc36",
     "title": "sunken azure world [マヨマヨ]",
     "level": "12.00...12.50"
@@ -6102,6 +6127,11 @@
   {
     "md5": "1d7a8c995ba28203d49e570426e7c662",
     "title": "tightrope city [taxy]",
+    "level": "12.00...12.50"
+  },
+  {
+    "md5": "6a3762ad91ec89392dda8554360f66c1",
+    "title": "ting ting [belong]",
     "level": "12.00...12.50"
   },
   {
@@ -6275,11 +6305,6 @@
     "level": "12.50...13.00"
   },
   {
-    "md5": "0f5b2b2df091b511e311873204203dcc",
-    "title": "Psychedelic Ritual -Despair-",
-    "level": "12.50...13.00"
-  },
-  {
     "md5": "6e7142d2af381896361100d23879d973",
     "title": "Red-rize \"B172 mix\" // 7keys GOD",
     "level": "12.50...13.00"
@@ -6287,6 +6312,11 @@
   {
     "md5": "bc5c6de58b37834a97681dac127fc94a",
     "title": "Rosario -輪廻幻想譚- (EX)",
+    "level": "12.50...13.00"
+  },
+  {
+    "md5": "1de52296e68de07a51a0fecd09684784",
+    "title": "Sigmoid [Analytic]",
     "level": "12.50...13.00"
   },
   {
@@ -6312,11 +6342,6 @@
   {
     "md5": "eb2528879be2b76b68f0f3c1a658a0d9",
     "title": "the lost dedicated [memory]",
-    "level": "12.50...13.00"
-  },
-  {
-    "md5": "6a3762ad91ec89392dda8554360f66c1",
-    "title": "ting ting [belong]",
     "level": "12.50...13.00"
   },
   {
@@ -6432,11 +6457,6 @@
   {
     "md5": "408673987d3c9ce60610db5c51b9117e",
     "title": "satellite -MOON-",
-    "level": "13.00...13.50"
-  },
-  {
-    "md5": "1de52296e68de07a51a0fecd09684784",
-    "title": "Sigmoid [Analytic]",
     "level": "13.00...13.50"
   },
   {

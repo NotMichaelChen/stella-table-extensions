@@ -490,11 +490,6 @@
     "level": "1.00...1.50"
   },
   {
-    "md5": "fae668556e7a69b1c7268513bedf2a9d",
-    "title": "It's \"alice\" dream [DP ANOTHER]",
-    "level": "1.00...1.50"
-  },
-  {
     "md5": "24990b5348187bfd53c897ed4b1ff120",
     "title": "Late Summer [nostalgia]",
     "level": "1.00...1.50"
@@ -517,11 +512,6 @@
   {
     "md5": "da90f40fc2435ec76c2739eff8972656",
     "title": "Strawberry icecream (bms ver.) -14K another-",
-    "level": "1.00...1.50"
-  },
-  {
-    "md5": "5a3d872dcaae9b644d0cd06388c7124a",
-    "title": "Suffering of screw [DP Another]",
     "level": "1.00...1.50"
   },
   {
@@ -622,6 +612,11 @@
   {
     "md5": "7870ad2dee9a20f592192c08e815efbf",
     "title": "Smiling",
+    "level": "1.50...2.00"
+  },
+  {
+    "md5": "5a3d872dcaae9b644d0cd06388c7124a",
+    "title": "Suffering of screw [DP Another]",
     "level": "1.50...2.00"
   },
   {
@@ -775,6 +770,11 @@
     "level": "2.00...2.50"
   },
   {
+    "md5": "fae668556e7a69b1c7268513bedf2a9d",
+    "title": "It's \"alice\" dream [DP ANOTHER]",
+    "level": "2.00...2.50"
+  },
+  {
     "md5": "09170a7abead9fcb7fed236527017ad6",
     "title": "Leviathan [Double]",
     "level": "2.00...2.50"
@@ -920,11 +920,6 @@
     "level": "2.50...3.00"
   },
   {
-    "md5": "09d1c8ce11ca00865862fd4a94d00250",
-    "title": "Granblaze [DP ANOTHER]",
-    "level": "2.50...3.00"
-  },
-  {
     "md5": "5ccbb93e6752084e3226246260ed9eb3",
     "title": "Life is PIANO [DPYoither]",
     "level": "2.50...3.00"
@@ -937,11 +932,6 @@
   {
     "md5": "7413baf27804bd657cb0e8aea502ba7c",
     "title": "Midnight o'clock [sub another]",
-    "level": "2.50...3.00"
-  },
-  {
-    "md5": "f933308f0963b29ad48b6fe249689560",
-    "title": "QSHELL -拒色のシェルル- [DPA]",
     "level": "2.50...3.00"
   },
   {
@@ -1025,6 +1015,11 @@
     "level": "3.00...3.50"
   },
   {
+    "md5": "09d1c8ce11ca00865862fd4a94d00250",
+    "title": "Granblaze [DP ANOTHER]",
+    "level": "3.00...3.50"
+  },
+  {
     "md5": "22aecf56d1de614852af9d27b3693984",
     "title": "H.S : Hadron Strike [DP HYPER]",
     "level": "3.00...3.50"
@@ -1087,6 +1082,11 @@
   {
     "md5": "b2d8e66f68e22dfa5d7b41bbb17d22a1",
     "title": "Prayer [LEGGENDARIA]",
+    "level": "3.00...3.50"
+  },
+  {
+    "md5": "f933308f0963b29ad48b6fe249689560",
+    "title": "QSHELL -拒色のシェルル- [DPA]",
     "level": "3.00...3.50"
   },
   {
@@ -1260,8 +1260,8 @@
     "level": "3.50...4.00"
   },
   {
-    "md5": "910681db5dfded14ac907e0cfe9122e2",
-    "title": "Zero Dimension [ANOTHER14]",
+    "md5": "e95c45d5c8a175310c67d5b4640a990f",
+    "title": "Telescope [DP-sagANOTHER]",
     "level": "3.50...4.00"
   },
   {
@@ -1435,6 +1435,11 @@
     "level": "4.00...4.50"
   },
   {
+    "md5": "910681db5dfded14ac907e0cfe9122e2",
+    "title": "Zero Dimension [ANOTHER14]",
+    "level": "4.00...4.50"
+  },
+  {
     "md5": "328535c09400f1d31460f9314013d34b",
     "title": "平衡世界 Parallel World [Spring Ephemeral]",
     "level": "4.00...4.50"
@@ -1475,11 +1480,6 @@
     "level": "4.50...5.00"
   },
   {
-    "md5": "dd3b189fa0bc5e73f65a588ea89a4e47",
-    "title": "dolosus [さくらむすび]",
-    "level": "4.50...5.00"
-  },
-  {
     "md5": "f7498e0befb9d2e581871430d9670ecc",
     "title": "Emptiness [DP ANOTHER]",
     "level": "4.50...5.00"
@@ -1502,11 +1502,6 @@
   {
     "md5": "d33783021b1df12952eecdf2c1eadde7",
     "title": "frozen over",
-    "level": "4.50...5.00"
-  },
-  {
-    "md5": "862bad018be732989b33886f12264d98",
-    "title": "GOODTEK [DP ANOTHER]",
     "level": "4.50...5.00"
   },
   {
@@ -1567,11 +1562,6 @@
   {
     "md5": "bdb21ed11e1e31d8b1b3f3afb52f820f",
     "title": "The SkyScrapers [DP-sagINSANE]",
-    "level": "4.50...5.00"
-  },
-  {
-    "md5": "e349061cb23d580c6979503d08a674ef",
-    "title": "Trichterwinde [DP ANOTHER]",
     "level": "4.50...5.00"
   },
   {
@@ -1645,8 +1635,18 @@
     "level": "5.00...5.50"
   },
   {
+    "md5": "dd3b189fa0bc5e73f65a588ea89a4e47",
+    "title": "dolosus [さくらむすび]",
+    "level": "5.00...5.50"
+  },
+  {
     "md5": "c53e377d470cfd492d635447c9efd615",
     "title": "electric butterfly [A14]",
+    "level": "5.00...5.50"
+  },
+  {
+    "md5": "862bad018be732989b33886f12264d98",
+    "title": "GOODTEK [DP ANOTHER]",
     "level": "5.00...5.50"
   },
   {
@@ -1675,6 +1675,11 @@
     "level": "5.00...5.50"
   },
   {
+    "md5": "d829ea4e2ca8d5050a77d5e0fd9f4102",
+    "title": "Singing of Night birds [DP INSANE]",
+    "level": "5.00...5.50"
+  },
+  {
     "md5": "c0df391328b3f4984fc53307236efdda",
     "title": "Skull & Witch [DP]",
     "level": "5.00...5.50"
@@ -1682,6 +1687,11 @@
   {
     "md5": "3b308fec3ad20cae5eb13eb0e3895c7a",
     "title": "The Last Page [BEGIN]",
+    "level": "5.00...5.50"
+  },
+  {
+    "md5": "e349061cb23d580c6979503d08a674ef",
+    "title": "Trichterwinde [DP ANOTHER]",
     "level": "5.00...5.50"
   },
   {
@@ -1745,11 +1755,6 @@
     "level": "5.50...6.00"
   },
   {
-    "md5": "3313af61d72229ebf2910b7d82108083",
-    "title": "Destr0yer [DP ☆NOTHER]",
-    "level": "5.50...6.00"
-  },
-  {
     "md5": "2bef2aaca13082016b396c6beddc4f61",
     "title": "Dreadnought [DP sub black another+]",
     "level": "5.50...6.00"
@@ -1767,11 +1772,6 @@
   {
     "md5": "6c60ebb93243207d2b30da98ee18fcf0",
     "title": "Illusion of Mind [DP INSANE]",
-    "level": "5.50...6.00"
-  },
-  {
-    "md5": "d73cdd6d5d1897e2d3052b74263b5283",
-    "title": "IN [HAORSE MUSIC / DP譜面]",
     "level": "5.50...6.00"
   },
   {
@@ -1797,6 +1797,11 @@
   {
     "md5": "143734dba02fd634d6a76c77509f8b85",
     "title": "Re:End of a Dream [DPH]",
+    "level": "5.50...6.00"
+  },
+  {
+    "md5": "c6b4fe5b81e4ce532bea1f60ae06f1f4",
+    "title": "rise to R -overdrive 14-",
     "level": "5.50...6.00"
   },
   {
@@ -1827,11 +1832,6 @@
   {
     "md5": "80688a79f251ece911a4a1c3b782f835",
     "title": "Absurd Gaff [DP ANOTHER]",
-    "level": "6.00...6.50"
-  },
-  {
-    "md5": "9ee3eda36a1d43c84798caaa51dcc4d8",
-    "title": "Acid Drizzle -レイクサイド-",
     "level": "6.00...6.50"
   },
   {
@@ -1870,6 +1870,11 @@
     "level": "6.00...6.50"
   },
   {
+    "md5": "3313af61d72229ebf2910b7d82108083",
+    "title": "Destr0yer [DP ☆NOTHER]",
+    "level": "6.00...6.50"
+  },
+  {
     "md5": "97120ea69565c29f8acae5551caa6d0b",
     "title": "Dreamy Fall [DP INSANE]",
     "level": "6.00...6.50"
@@ -1895,6 +1900,11 @@
     "level": "6.00...6.50"
   },
   {
+    "md5": "d73cdd6d5d1897e2d3052b74263b5283",
+    "title": "IN [HAORSE MUSIC / DP譜面]",
+    "level": "6.00...6.50"
+  },
+  {
     "md5": "4b2d84e3ee6fddaf678d30cb695d638a",
     "title": "Judah [DP INSANE]",
     "level": "6.00...6.50"
@@ -1902,11 +1912,6 @@
   {
     "md5": "401c87a84d6d6396a970d2d73416af98",
     "title": "Kronos [Choronos]",
-    "level": "6.00...6.50"
-  },
-  {
-    "md5": "d69afec5896d7e9963869d1b0247edaf",
-    "title": "rainy beauty [ワイルドシ　ョット14]",
     "level": "6.00...6.50"
   },
   {
@@ -1940,6 +1945,11 @@
     "level": "6.00...6.50"
   },
   {
+    "md5": "9ee3eda36a1d43c84798caaa51dcc4d8",
+    "title": "Acid Drizzle -レイクサイド-",
+    "level": "6.50...7.00"
+  },
+  {
     "md5": "7e3def092791e260b1a3b2f0ae4638b3",
     "title": "Ceebu Yapp",
     "level": "6.50...7.00"
@@ -1965,11 +1975,6 @@
     "level": "6.50...7.00"
   },
   {
-    "md5": "19dd7514996c1d83396cf79d33dd0b03",
-    "title": "Love☆Spellcard",
-    "level": "6.50...7.00"
-  },
-  {
     "md5": "091001b3a2865a7c463f882de5377679",
     "title": "Mario Paint (Time Regression Mix for BMS) -4つ同時押し-",
     "level": "6.50...7.00"
@@ -1985,11 +1990,6 @@
     "level": "6.50...7.00"
   },
   {
-    "md5": "e2e430faf05b6a5d2b0ab301cb03657a",
-    "title": "Only Diversity [DPA]",
-    "level": "6.50...7.00"
-  },
-  {
     "md5": "88c3f3fb8a5d2587fc78735155e33509",
     "title": "Parasitize Your Head [DP INSANE]",
     "level": "6.50...7.00"
@@ -1997,6 +1997,11 @@
   {
     "md5": "b69172f4882a5a0e03d84352f812a994",
     "title": "Psalms [さよなら、ユートピア]",
+    "level": "6.50...7.00"
+  },
+  {
+    "md5": "d69afec5896d7e9963869d1b0247edaf",
+    "title": "rainy beauty [ワイルドシ　ョット14]",
     "level": "6.50...7.00"
   },
   {
@@ -2022,6 +2027,11 @@
   {
     "md5": "8cc4f01e3855e3f0acbe26920762fe32",
     "title": "Toki (Sound piercer's Timesucker Remix) [DP ANOTHER]",
+    "level": "6.50...7.00"
+  },
+  {
+    "md5": "48e3f3a439115c200f796b06e352f00f",
+    "title": "Ultimate Weapon [XIV 新生エオルゼア]",
     "level": "6.50...7.00"
   },
   {
@@ -2075,11 +2085,6 @@
     "level": "7.00...7.50"
   },
   {
-    "md5": "889439f50329c7d90a071e6dba4a3d17",
-    "title": "EXTRAPHANTASM [DP INSANE]",
-    "level": "7.00...7.50"
-  },
-  {
     "md5": "4a4fbf7e7c9a95a0b1dd34685331b9a3",
     "title": "Illusion of Mind [DP Another]",
     "level": "7.00...7.50"
@@ -2087,6 +2092,16 @@
   {
     "md5": "101c37c44d865b61b391fae7614eaaea",
     "title": "Life is PIANO [DP INS☆NE]",
+    "level": "7.00...7.50"
+  },
+  {
+    "md5": "19dd7514996c1d83396cf79d33dd0b03",
+    "title": "Love☆Spellcard",
+    "level": "7.00...7.50"
+  },
+  {
+    "md5": "e2e430faf05b6a5d2b0ab301cb03657a",
+    "title": "Only Diversity [DPA]",
     "level": "7.00...7.50"
   },
   {
@@ -2152,6 +2167,11 @@
   {
     "md5": "badd87bc03a1b5657c4f9061e3bbd083",
     "title": "Danse de Romani",
+    "level": "7.50...8.00"
+  },
+  {
+    "md5": "889439f50329c7d90a071e6dba4a3d17",
+    "title": "EXTRAPHANTASM [DP INSANE]",
     "level": "7.50...8.00"
   },
   {
