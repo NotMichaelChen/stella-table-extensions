@@ -220,6 +220,11 @@
     "level": "5.00...5.50"
   },
   {
+    "md5": "4ad3d6fd738190796262510dd3619b1f",
+    "title": "Spherescense",
+    "level": "5.00...5.50"
+  },
+  {
     "md5": "8ee7fc1c67826e7437e07b5e1f92d601",
     "title": "stairway to the universe [laner]",
     "level": "5.00...5.50"
@@ -400,13 +405,8 @@
     "level": "6.00...6.50"
   },
   {
-    "md5": "9a71a30bb7aabb4fcacd9094d1dfaa45",
-    "title": "Snow in February [Hexagon]",
-    "level": "6.00...6.50"
-  },
-  {
-    "md5": "2b6640d408f8a7f10bea55b35d8f82f5",
-    "title": "Tangerine Dawn -IR-",
+    "md5": "8cbb9953cc18436d5991105b6c5de0a6",
+    "title": "雪原と少女の冒険 [Insane]",
     "level": "6.00...6.50"
   },
   {
@@ -635,8 +635,18 @@
     "level": "6.50...7.00"
   },
   {
+    "md5": "9a71a30bb7aabb4fcacd9094d1dfaa45",
+    "title": "Snow in February [Hexagon]",
+    "level": "6.50...7.00"
+  },
+  {
     "md5": "df2158e11185a9bb575203f7442dd4cb",
     "title": "Surfacing Ship -SpeedRush RMX- [EXTRA]",
+    "level": "6.50...7.00"
+  },
+  {
+    "md5": "2b6640d408f8a7f10bea55b35d8f82f5",
+    "title": "Tangerine Dawn -IR-",
     "level": "6.50...7.00"
   },
   {
@@ -770,9 +780,9 @@
     "level": "6.50...7.00"
   },
   {
-    "md5": "8cbb9953cc18436d5991105b6c5de0a6",
-    "title": "雪原と少女の冒険 [Insane]",
-    "level": "6.50...7.00"
+    "md5": "3450980c996be99f58926660fb0f4c0b",
+    "title": "7/8→6/8→7/8→6/8→7/8→6/8→17/16→10/8→3/4→7/8→14/16→6/8→9/8→4/4→7/8→6/8→12/16→7/4→4/4→13/16→5/8→3/4→14/16→4/4→14/16→10/16→5/16→7/8→3/4→11/16→7/8→3/4→9/8→7/8→4/4→3/4→5/4→7/8→3/8 [オサレ]",
+    "level": "7.50...8.00"
   },
   {
     "md5": "07254a7724162b02312aadea3cb76433",
@@ -812,6 +822,11 @@
   {
     "md5": "6c3124ed05f85523620c109d738393a1",
     "title": "Booboo Bounce! [7k LT's Insane]",
+    "level": "7.50...8.00"
+  },
+  {
+    "md5": "8ee5d815420374323d52e5b84d043457",
+    "title": "Can't it be true [so true...]",
     "level": "7.50...8.00"
   },
   {
@@ -862,6 +877,11 @@
   {
     "md5": "0c87bfd3bc66f7af4769ee6e1c76c882",
     "title": "Miaplacidus [Beta Carinae]",
+    "level": "7.50...8.00"
+  },
+  {
+    "md5": "1b5ac0745528ef12ae03ce66b31fb6a5",
+    "title": "Milly Barll",
     "level": "7.50...8.00"
   },
   {
@@ -1060,6 +1080,11 @@
     "level": "8.50...9.00"
   },
   {
+    "md5": "7308ca05265bdaded630375665e7b0b3",
+    "title": "Rigel [mayones]",
+    "level": "8.50...9.00"
+  },
+  {
     "md5": "dea80337ce0010089b02a09b3a3e319f",
     "title": "ミシロタウン2014 [Hexagon]",
     "level": "8.50...9.00"
@@ -1185,6 +1210,11 @@
     "level": "9.00...9.50"
   },
   {
+    "md5": "944c170fc6c7cd3f0de9a7868aead69c",
+    "title": "STAR STREAM [Hexagon]",
+    "level": "9.00...9.50"
+  },
+  {
     "md5": "e2961626bf567be86416967a891759db",
     "title": "subconsciousness [wide]",
     "level": "9.00...9.50"
@@ -1192,6 +1222,11 @@
   {
     "md5": "3e98b4e9bfea5f84c1db744c142e7e98",
     "title": "The Formula [連打の原理]",
+    "level": "9.00...9.50"
+  },
+  {
+    "md5": "90a9c85f1fd28de0be536ad3bcc2e913",
+    "title": "コスモワンダラー (･∀･)",
     "level": "9.00...9.50"
   },
   {
@@ -1262,6 +1297,11 @@
   {
     "md5": "d49874c9835571a8d892e6ed6a0dcaef",
     "title": "tinnitus -Genocide-",
+    "level": "10.00...10.50"
+  },
+  {
+    "md5": "19882f14ec385af0804e7bfa0833d5bd",
+    "title": "Tuk Tuk Boshi [Hexagon]",
     "level": "10.00...10.50"
   },
   {
@@ -1502,11 +1542,6 @@
   {
     "md5": "a85994133df21871af5dc168d1fabbfd",
     "title": "1516 [3032]",
-    "level": "-"
-  },
-  {
-    "md5": "3450980c996be99f58926660fb0f4c0b",
-    "title": "7/8→6/8→7/8→6/8→7/8→6/8→17/16→10/8→3/4→7/8→14/16→6/8→9/8→4/4→7/8→6/8→12/16→7/4→4/4→13/16→5/8→3/4→14/16→4/4→14/16→10/16→5/16→7/8→3/4→11/16→7/8→3/4→9/8→7/8→4/4→3/4→5/4→7/8→3/8 [オサレ]",
     "level": "-"
   },
   {
@@ -1802,6 +1837,11 @@
   {
     "md5": "0d3bb37d7c64cfe6d89653ee95169a5f",
     "title": "Berry Go!! [Bitter]",
+    "level": "-"
+  },
+  {
+    "md5": "dd36e9c11a77222a64e7f4e39deec7a3",
+    "title": "BIG CHUNGUS -IR-",
     "level": "-"
   },
   {
@@ -3000,6 +3040,11 @@
     "level": "-"
   },
   {
+    "md5": "c73e8a7fe1b879c4aa8802982a7c9604",
+    "title": "Hard Spice [激辛]",
+    "level": "-"
+  },
+  {
     "md5": "496cbb0d0f6b3b7287fb360944124e85",
     "title": "Hazy moon [雷雨]",
     "level": "-"
@@ -3455,11 +3500,6 @@
     "level": "-"
   },
   {
-    "md5": "1b5ac0745528ef12ae03ce66b31fb6a5",
-    "title": "Milly Barll",
-    "level": "-"
-  },
-  {
     "md5": "565ee8d466cd4dca179ffb4a3ac0eb0e",
     "title": "Misdirection -Ragnarok-",
     "level": "-"
@@ -3657,6 +3697,11 @@
   {
     "md5": "1c08cf21845bf409451368d83dd2a86f",
     "title": "Parousia [Osorosia]",
+    "level": "-"
+  },
+  {
+    "md5": "cf790901b8b0613fc179860eb21a87fa",
+    "title": "PAST FUTURE!!! [Maryther]",
     "level": "-"
   },
   {
@@ -3940,11 +3985,6 @@
     "level": "-"
   },
   {
-    "md5": "7308ca05265bdaded630375665e7b0b3",
-    "title": "Rigel [mayones]",
-    "level": "-"
-  },
-  {
     "md5": "6055fa88e9f0ca8642d88b75f2808e1d",
     "title": "Rin-Rin [7K LT's INSANE]",
     "level": "-"
@@ -4130,11 +4170,6 @@
     "level": "-"
   },
   {
-    "md5": "4ad3d6fd738190796262510dd3619b1f",
-    "title": "Spherescense",
-    "level": "-"
-  },
-  {
     "md5": "5f3b47af4b0cbe42bdf2f2a6337caeef",
     "title": "Spider Dance(METTAMETA Remix) -Xe-",
     "level": "-"
@@ -4165,11 +4200,6 @@
     "level": "-"
   },
   {
-    "md5": "944c170fc6c7cd3f0de9a7868aead69c",
-    "title": "STAR STREAM [Hexagon]",
-    "level": "-"
-  },
-  {
     "md5": "0ebe1afbe14c578a694184390d318dfe",
     "title": "START-RESTART -O2therEX-",
     "level": "-"
@@ -4197,6 +4227,11 @@
   {
     "md5": "67a511c6f1feed687a4865866cd4655b",
     "title": "Sterelogue [Vengeance]",
+    "level": "-"
+  },
+  {
+    "md5": "ef2167e3aa935c4617dc6ff00fe8dbf7",
+    "title": "story of dreamers [extra vision]",
     "level": "-"
   },
   {
@@ -4407,11 +4442,6 @@
   {
     "md5": "24a1ac98307d14fc9094985849120d41",
     "title": "Triumphal Return [TrueEnd]",
-    "level": "-"
-  },
-  {
-    "md5": "19882f14ec385af0804e7bfa0833d5bd",
-    "title": "Tuk Tuk Boshi [Hexagon]",
     "level": "-"
   },
   {
@@ -4847,11 +4877,6 @@
   {
     "md5": "1278a7f680f3438cf5c753a5637e6e7b",
     "title": "ココナツ・アバンチュール [Hexagon]",
-    "level": "-"
-  },
-  {
-    "md5": "90a9c85f1fd28de0be536ad3bcc2e913",
-    "title": "コスモワンダラー (･∀･)",
     "level": "-"
   },
   {

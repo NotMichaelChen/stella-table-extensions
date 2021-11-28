@@ -1,7 +1,17 @@
 [
   {
+    "md5": "8ed7c1363a7cbff1f587ccf0ca43e4d4",
+    "title": "Luv 5 Dancer [Double]",
+    "level": "0.50...1.00"
+  },
+  {
     "md5": "ea2807ec3ef16bb50dba561ea8e5cb29",
     "title": "MANHATTAN [DP ANOTHER]",
+    "level": "0.50...1.00"
+  },
+  {
+    "md5": "927c7acd74be6c41415b540fcdec89a0",
+    "title": "Night view [DP ANOTHER]",
     "level": "0.50...1.00"
   },
   {
@@ -65,16 +75,6 @@
     "level": "1.00...1.50"
   },
   {
-    "md5": "8ed7c1363a7cbff1f587ccf0ca43e4d4",
-    "title": "Luv 5 Dancer [Double]",
-    "level": "1.00...1.50"
-  },
-  {
-    "md5": "927c7acd74be6c41415b540fcdec89a0",
-    "title": "Night view [DP ANOTHER]",
-    "level": "1.00...1.50"
-  },
-  {
     "md5": "d7e305a2f3685592730aae1baea5735e",
     "title": "Out of Sense [DPA]",
     "level": "1.00...1.50"
@@ -87,6 +87,11 @@
   {
     "md5": "f983d6bff87cc6681290a50f8ca53883",
     "title": "Plunge into cloud [DP another]",
+    "level": "1.00...1.50"
+  },
+  {
+    "md5": "f41a990d8137150f510e74468d9f2244",
+    "title": "resonance [DP Another]",
     "level": "1.00...1.50"
   },
   {
@@ -192,11 +197,6 @@
   {
     "md5": "24b84a5f70b67bb54b4da39bcead1e56",
     "title": "Orbitaloid [DP ANOTHER]",
-    "level": "1.50...2.00"
-  },
-  {
-    "md5": "f41a990d8137150f510e74468d9f2244",
-    "title": "resonance [DP Another]",
     "level": "1.50...2.00"
   },
   {
@@ -515,6 +515,11 @@
     "level": "3.50...4.00"
   },
   {
+    "md5": "e150aba33c57e4a8c35bb1daddee4fc1",
+    "title": "Ena (Radio edit) 虎のANOTHER14 (修正版)",
+    "level": "3.50...4.00"
+  },
+  {
     "md5": "b947ca70a8e97353b9f79a37752e8605",
     "title": "HAPPY CIRCULATION [DP ANOTHER]",
     "level": "3.50...4.00"
@@ -560,6 +565,11 @@
     "level": "3.50...4.00"
   },
   {
+    "md5": "75c837f639a0d5cc70a378c0c0b7c6ec",
+    "title": "Sweety Sweety Sweet feat. Ryunka [DP Another]",
+    "level": "3.50...4.00"
+  },
+  {
     "md5": "dfecee0e19120dcdc4f92271699016fa",
     "title": "XALICE [DP WONDERLAND]",
     "level": "3.50...4.00"
@@ -600,6 +610,11 @@
     "level": "4.00...4.50"
   },
   {
+    "md5": "7b00521bff9a8275d02b71a4f2a5086a",
+    "title": "Caelumize [MG]",
+    "level": "4.00...4.50"
+  },
+  {
     "md5": "81c8fad166661b8609873553f32d09bb",
     "title": "Conviction [DP HYPER]",
     "level": "4.00...4.50"
@@ -612,6 +627,11 @@
   {
     "md5": "f47dd3cd5f16c3e5f0372d6a35f4e5fc",
     "title": "fall down",
+    "level": "4.00...4.50"
+  },
+  {
+    "md5": "cdab5423f483634a2af53ed295a1cbd1",
+    "title": "Fractal [DP]",
     "level": "4.00...4.50"
   },
   {
@@ -650,13 +670,13 @@
     "level": "4.00...4.50"
   },
   {
-    "md5": "75c837f639a0d5cc70a378c0c0b7c6ec",
-    "title": "Sweety Sweety Sweet feat. Ryunka [DP Another]",
+    "md5": "b6f635f6986a8ac6627accd79332df4d",
+    "title": "the scenery [DP ANOTHER]",
     "level": "4.00...4.50"
   },
   {
-    "md5": "b6f635f6986a8ac6627accd79332df4d",
-    "title": "the scenery [DP ANOTHER]",
+    "md5": "1352e568f8b1d3214619f7ca9211c67f",
+    "title": "リリカと魔法の言葉 [DP Magical]",
     "level": "4.00...4.50"
   },
   {
@@ -690,6 +710,11 @@
     "level": "4.00...4.50"
   },
   {
+    "md5": "058922a838838d529da9766a2f683b84",
+    "title": "藍より青い憧憬",
+    "level": "4.00...4.50"
+  },
+  {
     "md5": "7350b957c0c4a5100ca6fca9b24b144e",
     "title": "2anyFirst [14-A]",
     "level": "4.50...5.00"
@@ -720,13 +745,13 @@
     "level": "4.50...5.00"
   },
   {
-    "md5": "7b00521bff9a8275d02b71a4f2a5086a",
-    "title": "Caelumize [MG]",
+    "md5": "4b09fc33f71a32e2c6bbc7602048ab21",
+    "title": "Central Nucleus [DP ANOTHER]",
     "level": "4.50...5.00"
   },
   {
-    "md5": "4b09fc33f71a32e2c6bbc7602048ab21",
-    "title": "Central Nucleus [DP ANOTHER]",
+    "md5": "3a202c8d9ca00a685f8067895e55897b",
+    "title": "Chasing Stars [DP Very Hard]",
     "level": "4.50...5.00"
   },
   {
@@ -750,28 +775,8 @@
     "level": "4.50...5.00"
   },
   {
-    "md5": "e150aba33c57e4a8c35bb1daddee4fc1",
-    "title": "Ena (Radio edit) 虎のANOTHER14 (修正版)",
-    "level": "4.50...5.00"
-  },
-  {
-    "md5": "cdab5423f483634a2af53ed295a1cbd1",
-    "title": "Fractal [DP]",
-    "level": "4.50...5.00"
-  },
-  {
     "md5": "f59aedc595217b62eed54f5ecf663fba",
     "title": "gradation (DP ANOTHER)",
-    "level": "4.50...5.00"
-  },
-  {
-    "md5": "f008dbc8cfd5f637c28b6ab0b266fd58",
-    "title": "Illumiscape [DP BEGINNER]",
-    "level": "4.50...5.00"
-  },
-  {
-    "md5": "f857959df640cdb58ceaa0aab57e6036",
-    "title": "JUGGLE [DP R3cycl3r]",
     "level": "4.50...5.00"
   },
   {
@@ -790,6 +795,11 @@
     "level": "4.50...5.00"
   },
   {
+    "md5": "c8165d170ccb541a766ce33a74d284a7",
+    "title": "S'il vous plait! [DP_Li]",
+    "level": "4.50...5.00"
+  },
+  {
     "md5": "2e1d905b08d65ad49333586bfbc9a7b5",
     "title": "Satellite in Heart",
     "level": "4.50...5.00"
@@ -802,11 +812,6 @@
   {
     "md5": "7870ad2dee9a20f592192c08e815efbf",
     "title": "Smiling",
-    "level": "4.50...5.00"
-  },
-  {
-    "md5": "51499867f8d8531220ebfec8074c116f",
-    "title": "Subjection Method [DPH]",
     "level": "4.50...5.00"
   },
   {
@@ -830,11 +835,6 @@
     "level": "4.50...5.00"
   },
   {
-    "md5": "66d86b3543736c6925509bbf533fce04",
-    "title": "VENUS INVADER [14K ANOTHER+]",
-    "level": "4.50...5.00"
-  },
-  {
     "md5": "fdc6f8e3e78e78f45e763ef20ef848a6",
     "title": "☆ウィンドサンバランド☆ -DP ANOTHER-",
     "level": "4.50...5.00"
@@ -850,13 +850,18 @@
     "level": "4.50...5.00"
   },
   {
-    "md5": "058922a838838d529da9766a2f683b84",
-    "title": "藍より青い憧憬",
+    "md5": "347e728cf787c9eddcb2986abe6c028e",
+    "title": "月時計　Last・Dial (DPA)",
     "level": "4.50...5.00"
   },
   {
     "md5": "57bf2117e01dba19e4fa172ade61d400",
     "title": "藍煉の人形 [DPA.NOTHER]",
+    "level": "4.50...5.00"
+  },
+  {
+    "md5": "82fc0c8a10aa9820232865dc0f996706",
+    "title": "踊る水飛沫 [DP-sagANOTHER]",
     "level": "4.50...5.00"
   },
   {
@@ -882,11 +887,6 @@
   {
     "md5": "74275b409e2bc00f51366a14c7e5d173",
     "title": "CG901B -7- [Short Ver.] [DPEX]",
-    "level": "5.00...5.50"
-  },
-  {
-    "md5": "3a202c8d9ca00a685f8067895e55897b",
-    "title": "Chasing Stars [DP Very Hard]",
     "level": "5.00...5.50"
   },
   {
@@ -925,11 +925,6 @@
     "level": "5.00...5.50"
   },
   {
-    "md5": "c8165d170ccb541a766ce33a74d284a7",
-    "title": "S'il vous plait! [DP_Li]",
-    "level": "5.00...5.50"
-  },
-  {
     "md5": "103f559a7cecad6789109a21296d2371",
     "title": "searoad tracks =side blue= [DP MANIAC]",
     "level": "5.00...5.50"
@@ -965,23 +960,8 @@
     "level": "5.00...5.50"
   },
   {
-    "md5": "1352e568f8b1d3214619f7ca9211c67f",
-    "title": "リリカと魔法の言葉 [DP Magical]",
-    "level": "5.00...5.50"
-  },
-  {
-    "md5": "347e728cf787c9eddcb2986abe6c028e",
-    "title": "月時計　Last・Dial (DPA)",
-    "level": "5.00...5.50"
-  },
-  {
     "md5": "e709d83416ec401d28bbecd53b7e80e5",
     "title": "無想 (14A)",
-    "level": "5.00...5.50"
-  },
-  {
-    "md5": "82fc0c8a10aa9820232865dc0f996706",
-    "title": "踊る水飛沫 [DP-sagANOTHER]",
     "level": "5.00...5.50"
   },
   {
@@ -990,13 +970,13 @@
     "level": "5.50...6.00"
   },
   {
-    "md5": "1cf2e4e0cd40442ecbb7d633617c4714",
-    "title": "ALife Contradiction [DP ANOTHER]",
+    "md5": "adaba76dca4f2d8eb5518f79d6a0dbd3",
+    "title": "Black or White",
     "level": "5.50...6.00"
   },
   {
-    "md5": "adaba76dca4f2d8eb5518f79d6a0dbd3",
-    "title": "Black or White",
+    "md5": "d650ba8622f1f079681efb67dd7ee04e",
+    "title": "Cutter [DP INSANE]",
     "level": "5.50...6.00"
   },
   {
@@ -1012,6 +992,16 @@
   {
     "md5": "22aecf56d1de614852af9d27b3693984",
     "title": "H.S : Hadron Strike [DP HYPER]",
+    "level": "5.50...6.00"
+  },
+  {
+    "md5": "f008dbc8cfd5f637c28b6ab0b266fd58",
+    "title": "Illumiscape [DP BEGINNER]",
+    "level": "5.50...6.00"
+  },
+  {
+    "md5": "f857959df640cdb58ceaa0aab57e6036",
+    "title": "JUGGLE [DP R3cycl3r]",
     "level": "5.50...6.00"
   },
   {
@@ -1040,8 +1030,13 @@
     "level": "5.50...6.00"
   },
   {
-    "md5": "e95c45d5c8a175310c67d5b4640a990f",
-    "title": "Telescope [DP-sagANOTHER]",
+    "md5": "51499867f8d8531220ebfec8074c116f",
+    "title": "Subjection Method [DPH]",
+    "level": "5.50...6.00"
+  },
+  {
+    "md5": "66d86b3543736c6925509bbf533fce04",
+    "title": "VENUS INVADER [14K ANOTHER+]",
     "level": "5.50...6.00"
   },
   {
@@ -1070,6 +1065,11 @@
     "level": "5.50...6.00"
   },
   {
+    "md5": "1cf2e4e0cd40442ecbb7d633617c4714",
+    "title": "ALife Contradiction [DP ANOTHER]",
+    "level": "6.00...6.50"
+  },
+  {
     "md5": "b8a1552944a45a43e14125a85cb9803f",
     "title": "ametsuchi",
     "level": "6.00...6.50"
@@ -1082,11 +1082,6 @@
   {
     "md5": "76fd4bd3f9937e3880739fa116c7dcae",
     "title": "Brandnew Mind [14A]",
-    "level": "6.00...6.50"
-  },
-  {
-    "md5": "d650ba8622f1f079681efb67dd7ee04e",
-    "title": "Cutter [DP INSANE]",
     "level": "6.00...6.50"
   },
   {
@@ -1255,6 +1250,11 @@
     "level": "6.50...7.00"
   },
   {
+    "md5": "b7ff48a82dc10c9622934bbf39de2202",
+    "title": "Nervous As the Damsel [DP ANOTHER]",
+    "level": "6.50...7.00"
+  },
+  {
     "md5": "696db350374daf33a376b5a1e56863e4",
     "title": "Ocean Memory [DP Hyper]",
     "level": "6.50...7.00"
@@ -1272,6 +1272,11 @@
   {
     "md5": "6398996a4cd2d449811cbedcc439115d",
     "title": "starlights [DP]",
+    "level": "6.50...7.00"
+  },
+  {
+    "md5": "e95c45d5c8a175310c67d5b4640a990f",
+    "title": "Telescope [DP-sagANOTHER]",
     "level": "6.50...7.00"
   },
   {
@@ -1330,6 +1335,11 @@
     "level": "7.00...7.50"
   },
   {
+    "md5": "dd3b189fa0bc5e73f65a588ea89a4e47",
+    "title": "dolosus [さくらむすび]",
+    "level": "7.00...7.50"
+  },
+  {
     "md5": "972b10226fe6fb1cb39028570a1f34c1",
     "title": "Electric Emotion [DP Extension Energy]",
     "level": "7.00...7.50"
@@ -1337,11 +1347,6 @@
   {
     "md5": "c0f3911088dcb6f705bbd850b7fd8de4",
     "title": "FAKE LIFE",
-    "level": "7.00...7.50"
-  },
-  {
-    "md5": "8f4c529cc67018c14ffe0463efce9e25",
-    "title": "Galaxy in Toybox [DP >▽<]",
     "level": "7.00...7.50"
   },
   {
@@ -1367,11 +1372,6 @@
   {
     "md5": "773951a8a13fcb7165d903e57a33ec18",
     "title": "Midnight Flux",
-    "level": "7.00...7.50"
-  },
-  {
-    "md5": "b7ff48a82dc10c9622934bbf39de2202",
-    "title": "Nervous As the Damsel [DP ANOTHER]",
     "level": "7.00...7.50"
   },
   {
@@ -1425,6 +1425,11 @@
     "level": "7.00...7.50"
   },
   {
+    "md5": "e349061cb23d580c6979503d08a674ef",
+    "title": "Trichterwinde [DP ANOTHER]",
+    "level": "7.00...7.50"
+  },
+  {
     "md5": "aaf4a1eef238223c67d96994b66a66f1",
     "title": "新月舞踏 -DP ANOTHER-",
     "level": "7.00...7.50"
@@ -1475,11 +1480,6 @@
     "level": "7.50...8.00"
   },
   {
-    "md5": "dd3b189fa0bc5e73f65a588ea89a4e47",
-    "title": "dolosus [さくらむすび]",
-    "level": "7.50...8.00"
-  },
-  {
     "md5": "f7498e0befb9d2e581871430d9670ecc",
     "title": "Emptiness [DP ANOTHER]",
     "level": "7.50...8.00"
@@ -1487,6 +1487,11 @@
   {
     "md5": "21538d163ad1a5852a5d55bf5f66e016",
     "title": "Enneaquest [MEGALOPOLIS]",
+    "level": "7.50...8.00"
+  },
+  {
+    "md5": "8f4c529cc67018c14ffe0463efce9e25",
+    "title": "Galaxy in Toybox [DP >▽<]",
     "level": "7.50...8.00"
   },
   {
@@ -1545,11 +1550,6 @@
     "level": "7.50...8.00"
   },
   {
-    "md5": "e349061cb23d580c6979503d08a674ef",
-    "title": "Trichterwinde [DP ANOTHER]",
-    "level": "7.50...8.00"
-  },
-  {
     "md5": "707b92679398b7de2505a2d308da8364",
     "title": "Ultimate Weapon [DP ANOTHER]",
     "level": "7.50...8.00"
@@ -1585,8 +1585,18 @@
     "level": "8.00...8.50"
   },
   {
+    "md5": "7bd33f48e9c11b9062297d8ac8df31ab",
+    "title": "Calamity Fortune (DPA)",
+    "level": "8.00...8.50"
+  },
+  {
     "md5": "e650df1b1c4c3ad522c52ec3e411f3f1",
     "title": "ENERGY SYNERGY MATRIX [VerA]",
+    "level": "8.00...8.50"
+  },
+  {
+    "md5": "450912fa718ab2e6c6816a87ed2bad5e",
+    "title": "Fading Star [kumanother]",
     "level": "8.00...8.50"
   },
   {
@@ -1660,11 +1670,6 @@
     "level": "8.50...9.00"
   },
   {
-    "md5": "7bd33f48e9c11b9062297d8ac8df31ab",
-    "title": "Calamity Fortune (DPA)",
-    "level": "8.50...9.00"
-  },
-  {
     "md5": "4a6b5a4ad9ef995ca2ae8560094e7b7b",
     "title": "ClowN CrowN [DP Li]",
     "level": "8.50...9.00"
@@ -1672,11 +1677,6 @@
   {
     "md5": "c53e377d470cfd492d635447c9efd615",
     "title": "electric butterfly [A14]",
-    "level": "8.50...9.00"
-  },
-  {
-    "md5": "450912fa718ab2e6c6816a87ed2bad5e",
-    "title": "Fading Star [kumanother]",
     "level": "8.50...9.00"
   },
   {
@@ -1800,11 +1800,6 @@
     "level": "9.00...9.50"
   },
   {
-    "md5": "f9df3384b6b1837009a174657a606070",
-    "title": "lataia [DP SUPER]",
-    "level": "9.00...9.50"
-  },
-  {
     "md5": "f36b829438ba718c7e7679b430848c99",
     "title": "Luminance (DP ANOTHER)",
     "level": "9.00...9.50"
@@ -1890,6 +1885,16 @@
     "level": "9.50...10.00"
   },
   {
+    "md5": "de1b0b31e2a9a2d5eef92f2395f13c26",
+    "title": "Kaleidoscope [DP_Li]",
+    "level": "9.50...10.00"
+  },
+  {
+    "md5": "f9df3384b6b1837009a174657a606070",
+    "title": "lataia [DP SUPER]",
+    "level": "9.50...10.00"
+  },
+  {
     "md5": "93086ca5d235d4b32016cf44520f50b9",
     "title": "New Windy Paradise [DP MANIAC]",
     "level": "9.50...10.00"
@@ -1932,11 +1937,6 @@
   {
     "md5": "4b2d84e3ee6fddaf678d30cb695d638a",
     "title": "Judah [DP INSANE]",
-    "level": "10.00...10.50"
-  },
-  {
-    "md5": "de1b0b31e2a9a2d5eef92f2395f13c26",
-    "title": "Kaleidoscope [DP_Li]",
     "level": "10.00...10.50"
   },
   {
@@ -2092,6 +2092,11 @@
   {
     "md5": "e2e430faf05b6a5d2b0ab301cb03657a",
     "title": "Only Diversity [DPA]",
+    "level": "11.50...12.00"
+  },
+  {
+    "md5": "48e3f3a439115c200f796b06e352f00f",
+    "title": "Ultimate Weapon [XIV 新生エオルゼア]",
     "level": "11.50...12.00"
   },
   {
@@ -2295,11 +2300,6 @@
     "level": "-"
   },
   {
-    "md5": "48e3f3a439115c200f796b06e352f00f",
-    "title": "Ultimate Weapon [XIV 新生エオルゼア]",
-    "level": "-"
-  },
-  {
     "md5": "f2659eb48724603adf9e548ec9be5c04",
     "title": "whence [DP FingerDance]",
     "level": "-"
@@ -2307,6 +2307,11 @@
   {
     "md5": "aa389df1f9b142c58e1fd9204df74278",
     "title": "摩訶幻想マジトリク [DP INSANE]",
+    "level": "-"
+  },
+  {
+    "md5": "b9600a2936cab0232a4781d32eb99235",
+    "title": "硬核機動 [14KEYS-ANOTHER]",
     "level": "-"
   },
   {
