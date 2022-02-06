@@ -3,6 +3,7 @@
   "symbol": "H-sl",
   "data_url": "https://notmichaelchen.github.io/stella-table-extensions/data/DP-Satellite-HARD-data.json",
   "level_order": [
+    "0.00...0.50",
     "0.50...1.00",
     "1.00...1.50",
     "1.50...2.00",
