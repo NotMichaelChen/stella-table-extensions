@@ -2,37 +2,17 @@
   {
     "md5": "c80f82c866039e7f563ad6e2020e4980",
     "title": "Anger Control [14KEYS]",
-    "level": "2.50...3.00"
+    "level": "3.00...3.50"
   },
   {
     "md5": "80aa05db73ca35739b93df3f46afc440",
     "title": "Regain [DP HYPER]",
-    "level": "3.00...3.50"
+    "level": "3.50...4.00"
   },
   {
     "md5": "72a47cbc96d28f623d821641ee913bf5",
     "title": "エリフィと白昏の夜",
     "level": "3.50...4.00"
-  },
-  {
-    "md5": "5734e3760fa0f8e5925829d07b639af9",
-    "title": "Acacia [DP ANOTHER]",
-    "level": "4.00...4.50"
-  },
-  {
-    "md5": "c02de0206f910240a0b9ed86858969cd",
-    "title": "Dream in the girl -DP ANOTHER-",
-    "level": "4.00...4.50"
-  },
-  {
-    "md5": "5589dc6b48dfa1d345b8ff06457f51dd",
-    "title": "endemize [E-ANOTHER]",
-    "level": "4.00...4.50"
-  },
-  {
-    "md5": "0a5033e3081589ffd65a6293f6421b14",
-    "title": "Forgot Ya [LEGGENDARIA]",
-    "level": "4.00...4.50"
   },
   {
     "md5": "1ce0d95e27aab50479e3a726ef27b157",
@@ -55,23 +35,18 @@
     "level": "4.00...4.50"
   },
   {
-    "md5": "8115719f84c683cdc1dfd53efe0b92d7",
-    "title": "Peaceful Leafs",
-    "level": "4.00...4.50"
-  },
-  {
-    "md5": "fa736e9530e3c7170c570efd03b69b07",
-    "title": "Postliminium [DP ANOTHER]",
-    "level": "4.00...4.50"
-  },
-  {
-    "md5": "030056b702515b5f64d6b557513293a0",
-    "title": "Summer White [DP ANOTHER]",
+    "md5": "3a9338257e96637378c6f7f4dac076f7",
+    "title": "ハッピーフェイクショー [DP Another]",
     "level": "4.00...4.50"
   },
   {
     "md5": "32c4eb544798251f227dd58c7c1ee5a8",
     "title": "062020 [14KEYS HYPER]",
+    "level": "4.50...5.00"
+  },
+  {
+    "md5": "5734e3760fa0f8e5925829d07b639af9",
+    "title": "Acacia [DP ANOTHER]",
     "level": "4.50...5.00"
   },
   {
@@ -95,8 +70,23 @@
     "level": "4.50...5.00"
   },
   {
+    "md5": "c02de0206f910240a0b9ed86858969cd",
+    "title": "Dream in the girl -DP ANOTHER-",
+    "level": "4.50...5.00"
+  },
+  {
+    "md5": "5589dc6b48dfa1d345b8ff06457f51dd",
+    "title": "endemize [E-ANOTHER]",
+    "level": "4.50...5.00"
+  },
+  {
     "md5": "71bc274a1042e15361058fc79dda3745",
     "title": "Estella [DP ANOTHER]",
+    "level": "4.50...5.00"
+  },
+  {
+    "md5": "0a5033e3081589ffd65a6293f6421b14",
+    "title": "Forgot Ya [LEGGENDARIA]",
     "level": "4.50...5.00"
   },
   {
@@ -140,13 +130,18 @@
     "level": "4.50...5.00"
   },
   {
-    "md5": "1ab2a0140e177fc8681b93cb6768093d",
-    "title": "Reality [14keys Hyper]",
+    "md5": "8115719f84c683cdc1dfd53efe0b92d7",
+    "title": "Peaceful Leafs",
     "level": "4.50...5.00"
   },
   {
-    "md5": "9175ecb4ebe55e11054e8e78e2464cf8",
-    "title": "Replace [DP ANOTHER]",
+    "md5": "fa736e9530e3c7170c570efd03b69b07",
+    "title": "Postliminium [DP ANOTHER]",
+    "level": "4.50...5.00"
+  },
+  {
+    "md5": "1ab2a0140e177fc8681b93cb6768093d",
+    "title": "Reality [14keys Hyper]",
     "level": "4.50...5.00"
   },
   {
@@ -157,6 +152,11 @@
   {
     "md5": "6c0bba1647785f2d79cc41896118b656",
     "title": "Save the Water",
+    "level": "4.50...5.00"
+  },
+  {
+    "md5": "030056b702515b5f64d6b557513293a0",
+    "title": "Summer White [DP ANOTHER]",
     "level": "4.50...5.00"
   },
   {
@@ -190,11 +190,6 @@
     "level": "4.50...5.00"
   },
   {
-    "md5": "3a9338257e96637378c6f7f4dac076f7",
-    "title": "ハッピーフェイクショー [DP Another]",
-    "level": "4.50...5.00"
-  },
-  {
     "md5": "ac667cd75481e28426bfc0af5f430e77",
     "title": "星蝕セクエンス [DP HYPER]",
     "level": "4.50...5.00"
@@ -202,11 +197,6 @@
   {
     "md5": "ce58d3735220aaaff7183eb44e5b1f6b",
     "title": "Amnehilesie [DP Hyper]",
-    "level": "5.00...5.50"
-  },
-  {
-    "md5": "e19cc99225c0ad52cba5c5a7c3a2b76f",
-    "title": "Battle TechniX [DP ANOTHER]",
     "level": "5.00...5.50"
   },
   {
@@ -285,11 +275,6 @@
     "level": "5.00...5.50"
   },
   {
-    "md5": "b23ba65f405ebfea72637abfe90e981e",
-    "title": "Resolution Trigger [DP INSANE]",
-    "level": "5.00...5.50"
-  },
-  {
     "md5": "eda91b02fece36750c6a18afd2284527",
     "title": "Ring Ring Ring ☆ Let's H! [R-15]",
     "level": "5.00...5.50"
@@ -303,6 +288,11 @@
     "md5": "6b73f5c141b87ec84a473919b1ceb28e",
     "title": "サンバランド [LN ANOTHER14]",
     "level": "5.00...5.50"
+  },
+  {
+    "md5": "e19cc99225c0ad52cba5c5a7c3a2b76f",
+    "title": "Battle TechniX [DP ANOTHER]",
+    "level": "5.50...6.00"
   },
   {
     "md5": "2dc6e8268b5efcca25c9f72f9c1186f0",
@@ -320,13 +310,13 @@
     "level": "5.50...6.00"
   },
   {
-    "md5": "ab27e512bd93288306944f602d57e834",
-    "title": "JUGGLE [DP ANOTHER]",
+    "md5": "9175ecb4ebe55e11054e8e78e2464cf8",
+    "title": "Replace [DP ANOTHER]",
     "level": "5.50...6.00"
   },
   {
-    "md5": "5b6413abb8ab8b5dc428e9716f531331",
-    "title": "Sleet in the city [DP ANOTHER]",
+    "md5": "b23ba65f405ebfea72637abfe90e981e",
+    "title": "Resolution Trigger [DP INSANE]",
     "level": "5.50...6.00"
   },
   {
@@ -340,8 +330,8 @@
     "level": "5.50...6.00"
   },
   {
-    "md5": "1273495bab9aa0561cdc7fa5f0fc9a50",
-    "title": "玉響サーチライト [DP ANOTHER]",
+    "md5": "c6a5d271001d48fcccecffd6b2f8ad5b",
+    "title": "ラケシスと永遠の祈祷者 [sub another]",
     "level": "5.50...6.00"
   },
   {
@@ -400,11 +390,6 @@
     "level": "6.00...6.50"
   },
   {
-    "md5": "197f79072827b1c0c329edbe85fee7cd",
-    "title": "H.S : Hadron Strike [DP1104H]",
-    "level": "6.00...6.50"
-  },
-  {
     "md5": "87a99be482ff03fe37134265827aabf0",
     "title": "IKAROS [DPA]",
     "level": "6.00...6.50"
@@ -422,6 +407,11 @@
   {
     "md5": "b82f9945d35d5a04186bc672d44925f0",
     "title": "JACK ROSE",
+    "level": "6.00...6.50"
+  },
+  {
+    "md5": "ab27e512bd93288306944f602d57e834",
+    "title": "JUGGLE [DP ANOTHER]",
     "level": "6.00...6.50"
   },
   {
@@ -465,6 +455,11 @@
     "level": "6.00...6.50"
   },
   {
+    "md5": "5b6413abb8ab8b5dc428e9716f531331",
+    "title": "Sleet in the city [DP ANOTHER]",
+    "level": "6.00...6.50"
+  },
+  {
     "md5": "ce8c05ca35de4b2816e34e34757eac44",
     "title": "soda ocean",
     "level": "6.00...6.50"
@@ -490,11 +485,6 @@
     "level": "6.00...6.50"
   },
   {
-    "md5": "c6a5d271001d48fcccecffd6b2f8ad5b",
-    "title": "ラケシスと永遠の祈祷者 [sub another]",
-    "level": "6.00...6.50"
-  },
-  {
     "md5": "388426e945942e01ac07b0ff81503690",
     "title": "多重極展開 [DP Molecules]",
     "level": "6.00...6.50"
@@ -502,6 +492,11 @@
   {
     "md5": "e3ca8c0c1f1a412f7824745d4f8e090f",
     "title": "新 漢江水打令 [DP ANOTHER]",
+    "level": "6.00...6.50"
+  },
+  {
+    "md5": "1273495bab9aa0561cdc7fa5f0fc9a50",
+    "title": "玉響サーチライト [DP ANOTHER]",
     "level": "6.00...6.50"
   },
   {
@@ -642,6 +637,11 @@
   {
     "md5": "65fca2949626b80fb8f21359cf0799aa",
     "title": "GIN TONIC FLAVOR",
+    "level": "7.50...8.00"
+  },
+  {
+    "md5": "197f79072827b1c0c329edbe85fee7cd",
+    "title": "H.S : Hadron Strike [DP1104H]",
     "level": "7.50...8.00"
   },
   {
@@ -880,6 +880,11 @@
     "level": "9.50...10.00"
   },
   {
+    "md5": "82fc0c8a10aa9820232865dc0f996706",
+    "title": "踊る水飛沫 [DP-sagANOTHER]",
+    "level": "9.50...10.00"
+  },
+  {
     "md5": "d06fdb6b500818662f2054e0cbc47533",
     "title": "A D D i c T i O N 4 5 0 0 0 0 0 [ D P H ]",
     "level": "10.00...10.50"
@@ -942,11 +947,6 @@
   {
     "md5": "aee587970d848afb5259956b8f184d2c",
     "title": "YASAKANI [DP INSANE+]",
-    "level": "10.00...10.50"
-  },
-  {
-    "md5": "82fc0c8a10aa9820232865dc0f996706",
-    "title": "踊る水飛沫 [DP-sagANOTHER]",
     "level": "10.00...10.50"
   },
   {
@@ -1083,6 +1083,11 @@
     "md5": "5f5be91b44b0108d91c48e01b0e27c41",
     "title": "Chatblanc [blache]",
     "level": "18.50...19.00"
+  },
+  {
+    "md5": "58c7cc7fabd94b15b0569843063dd3a7",
+    "title": "!nterroban(?, [happy14]",
+    "level": "-"
   },
   {
     "md5": "ad27797ac54d934ad13ee1dcafdd329d",
@@ -1465,6 +1470,11 @@
     "level": "-"
   },
   {
+    "md5": "028d2eb267753e281eea1f23a2458492",
+    "title": "ELECTRiCiTY [DP INSANE]",
+    "level": "-"
+  },
+  {
     "md5": "225bfdc355cfb22c0e75e3195fc4e6ff",
     "title": "ELIMINATOR [DP ANOTHER]",
     "level": "-"
@@ -1777,6 +1787,11 @@
   {
     "md5": "f36b829438ba718c7e7679b430848c99",
     "title": "Luminance (DP ANOTHER)",
+    "level": "-"
+  },
+  {
+    "md5": "b117e4747a220ff1216c152f075ad409",
+    "title": "Mandragora [Cry Out]",
     "level": "-"
   },
   {
@@ -2215,6 +2230,11 @@
     "level": "-"
   },
   {
+    "md5": "82d6765227d050ddff2d4d930f9b0aec",
+    "title": "TURNDOWN [DPL]",
+    "level": "-"
+  },
+  {
     "md5": "707b92679398b7de2505a2d308da8364",
     "title": "Ultimate Weapon [DP ANOTHER]",
     "level": "-"
@@ -2310,6 +2330,11 @@
     "level": "-"
   },
   {
+    "md5": "74af66270ed14d3bb20f612768c97f07",
+    "title": "☆ twinklesky ☆ 12",
+    "level": "-"
+  },
+  {
     "md5": "2c343d24fc944984e77bfd3d16cfc5e6",
     "title": "あさひのなかで(Art Glint mix) [DPI]",
     "level": "-"
@@ -2317,6 +2342,11 @@
   {
     "md5": "674afb1706dee011cc29d157d7cf2acb",
     "title": "あずぅる!! -双鍵難-",
+    "level": "-"
+  },
+  {
+    "md5": "73e1a67c683004e499d6a40e91fcc0d6",
+    "title": "あなた [DP HYPER]",
     "level": "-"
   },
   {
