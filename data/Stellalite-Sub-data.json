@@ -4121,6 +4121,19 @@
     "proposerMinirid": "da079373-08be-4151-a76f-8ed44123949a"
   },
   {
+    "md5": "1486448b03ccc4d643b210c12d73a915",
+    "sha256": "b45885e0a98585c926c1d35459a4ef90ade1d782930e42c22757cc776e7a923c",
+    "title": "東 [ANOTHER]",
+    "artist": "かたぎり BGA: 2nd_identity",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/bmskanji2/11",
+    "level": "0",
+    "comment": "BPM164 乱打 皿複合",
+    "proposer": "DJ_Kuroakari",
+    "submission": 2587,
+    "proposerMinirid": "67a15542-ef23-4a97-82a0-cc6d74a114c1"
+  },
+  {
     "md5": "e1dfd68aab90337b91e2d107b3b29424",
     "sha256": "fe2b074a75d6d3fb86836ab786d2288b9306cc5c42006af539f39d771ddd338b",
     "title": "物怪舞踏 [Another]",
@@ -10322,6 +10335,19 @@
     "proposerLr2id": 115265
   },
   {
+    "md5": "e4163bccf296af419ffd6182523be899",
+    "sha256": "c50b1f209c71e4a5e7f4c3af9d5e82bce74d84f02fed06b5942dee6412d9a027",
+    "title": "Pixel Princess [ANOTHER7]",
+    "artist": "Lime",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=418&event=137",
+    "level": "2",
+    "comment": "BPM188 乱打 微縦連",
+    "proposer": "DJ_Kuroakari",
+    "submission": 2586,
+    "proposerMinirid": "67a15542-ef23-4a97-82a0-cc6d74a114c1"
+  },
+  {
     "md5": "1c2fcd164f70c414b3310770832b7cff",
     "sha256": "036d47fe2c2327dd51d626d35b350531c20ef9886a61906756a1eff30d9204e3",
     "title": "Polaris Prayer [ANOTHER]",
@@ -16148,6 +16174,19 @@
     "proposer": "otoshi.b",
     "submission": 987,
     "proposerLr2id": 87474
+  },
+  {
+    "md5": "7e91db9cecc65a530e083831833cfa22",
+    "sha256": "cb7e6e6ec7e9ff7353fbc82772979b7a3b3dd5201771b17e602f670a0285c972",
+    "title": "depth meter [7K ANOTHER]",
+    "artist": "Hyparpax BGI: 空読無 白眼",
+    "url_diff": "",
+    "url": "https://drive.google.com/file/d/1Xrk8X1HR1eBkLY1HsQVvwHLb0lpje3V6/view",
+    "level": "4",
+    "comment": "BPM172 微連打",
+    "proposer": "SHAX.",
+    "submission": 2588,
+    "proposerLr2id": 65624
   },
   {
     "md5": "eb9439bd4d6e1f8af4bcf25cfb6b175d",
@@ -29086,6 +29125,19 @@
     "proposerLr2id": 124809
   },
   {
+    "md5": "c16ad6046d2f0d5f65a66bbbba6aaaa8",
+    "sha256": "756c5bf430dc5284695b3deaf9d9e821e3a832025f2b5f79bdad4c816f1d3795",
+    "title": "Central GRAY [Crazy]",
+    "artist": "P.E. / D",
+    "url_diff": "http://absolute.pv.land.to/uploader/src/up4378.rar",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=60",
+    "level": "10",
+    "comment": "jacks (regarding misalignments: some snare rolls were readded as individual keysounds)",
+    "proposer": "marie",
+    "submission": 1970,
+    "proposerMinirid": "3977549d-6d82-4c50-ba91-1fdc6b430afe"
+  },
+  {
     "level": "10",
     "comment": "★10強化版",
     "md5": "24c869a51384af113e9271a766e7d4be",
@@ -30985,19 +31037,6 @@
     "votePercent": 0
   },
   {
-    "md5": "c16ad6046d2f0d5f65a66bbbba6aaaa8",
-    "sha256": "756c5bf430dc5284695b3deaf9d9e821e3a832025f2b5f79bdad4c816f1d3795",
-    "title": "Central GRAY [Crazy]",
-    "artist": "P.E. / D",
-    "url_diff": "http://absolute.pv.land.to/uploader/src/up4378.rar",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=60",
-    "level": "11",
-    "comment": "jacks (regarding misalignments: some snare rolls were readded as individual keysounds)",
-    "proposer": "marie",
-    "submission": 1970,
-    "proposerMinirid": "3977549d-6d82-4c50-ba91-1fdc6b430afe"
-  },
-  {
     "md5": "213ce0b43c2b287e5f7d5bb30c8ec44f",
     "sha256": "1598d1428426b5d5a157391253f7ccb3259e23af90fd84ace612582195f61972",
     "title": "Chainsaw NINJA vs ALIEN -Despair-",
@@ -31071,20 +31110,6 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
-  },
-  {
-    "md5": "653345ae3589dd2ed93383f862b7d949",
-    "sha256": "c32e6145981e2d6d34c80ff9a717fba9c646acdf513435feaf1c6ea31bc5fe90",
-    "title": "CRUSH THE PARTY [yumether]",
-    "artist": "paraneumann / obj:夢瑠",
-    "url_diff": "https://dl.dropboxusercontent.com/s/n8uufwnh7kt1vlr/_crush_the_party_yume.zip",
-    "url": "https://venue.bmssearch.net/bmsshuin3/51",
-    "level": "11",
-    "comment": "BPM175 乱打 微連打",
-    "zureCount": 0,
-    "proposer": "SHAX.",
-    "submission": 2088,
-    "proposerLr2id": 65624
   },
   {
     "md5": "404937351f39007a7a211e154feebadb",
@@ -32548,6 +32573,19 @@
     "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
+    "md5": "97f65f3a8bd34961ddc95983e4494661",
+    "sha256": "2697b8a3b4f9ada89e1beb68e0dfb2f12d526d4ca2a83938259c69be3bb956de",
+    "title": "コモリヌ [リンネ]",
+    "artist": "Qayo feat.杠葉えりか movie:inukoro / illust:兎乃介 / obj:ノゾミ",
+    "url_diff": "https://1drv.ms/u/s!ApwaJAUHJdpymj0uih3eFZ5lMKSJ?e=H0oj03",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=398&event=137",
+    "level": "11",
+    "comment": "BPM変更以外のズレはなし",
+    "proposer": "七海",
+    "submission": 2589,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "afe8cdbcaa8f6edeba182ecb9b266fb5",
     "sha256": "21ad3bc4074f5990a8ec4d1ed2832a498a43b65b37aaad88520d0271e3129a8c",
     "title": "テウメッサ [にゃーん]",
@@ -32641,6 +32679,20 @@
     "zureCount": 0,
     "proposer": "七海",
     "submission": 2091,
+    "proposerLr2id": 84597
+  },
+  {
+    "md5": "67a903768653ce5a8978d082efe4c680",
+    "sha256": "8f6230fe4d6a862e780d65c752f611cdf47955b247fa9a2e8d435dd4e317e7c8",
+    "title": "宇宙テレビ #Decimalized",
+    "artist": "Ｋａｏｒｕ feat. ゆきね /Naoki Yotsube 差分:Decimal",
+    "url_diff": "https://stellabms.xyz/upload/1911",
+    "url": "https://onedrive.live.com/?cid=2E0B6A331309387C&id=2E0B6A331309387C%21107#cid=2E0B6A331309387C&id=2E0B6A331309387C%21159&parId=2E0B6A331309387C%21107&action=defaultclick",
+    "level": "11",
+    "comment": "sl12~st0?",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 2564,
     "proposerLr2id": 84597
   },
   {
@@ -33399,6 +33451,20 @@
     "proposerLr2id": 145739
   },
   {
+    "md5": "653345ae3589dd2ed93383f862b7d949",
+    "sha256": "c32e6145981e2d6d34c80ff9a717fba9c646acdf513435feaf1c6ea31bc5fe90",
+    "title": "CRUSH THE PARTY [yumether]",
+    "artist": "paraneumann / obj:夢瑠",
+    "url_diff": "https://dl.dropboxusercontent.com/s/n8uufwnh7kt1vlr/_crush_the_party_yume.zip",
+    "url": "https://venue.bmssearch.net/bmsshuin3/51",
+    "level": "12",
+    "comment": "BPM175 乱打 微連打",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 2088,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "4dbd9d03b996fb9e3d671d3f723834ef",
     "sha256": "50bcd45f8ddd6b2388a949265a91b6a40d895c8289d96195556237a52d4df68b",
     "title": "CYCLONE [Typhoon]",
@@ -33551,6 +33617,19 @@
     "proposer": "polynya_",
     "submission": 2190,
     "proposerLr2id": 173260
+  },
+  {
+    "md5": "bf32bfe637da0b321e8ff27b225901b5",
+    "sha256": "18a226f9b77155f01eeb93b93dac873e84882f039d7f4ce9ec4c555602ca5f6d",
+    "title": "DJおっさん 尻削り節 remix [...!?]",
+    "artist": "kireji remixed by s-don obj : qtp13",
+    "url_diff": "https://venue.bmssearch.net/bcel_pre/18",
+    "url": "https://dropbox.bms.ms/u/33464123/DJ_Ossan.zip",
+    "level": "12",
+    "comment": "BPM140 ガチ押し",
+    "proposer": "SHAX.",
+    "submission": 2591,
+    "proposerLr2id": 65624
   },
   {
     "md5": "2d034bffd18881fe6757706d6729eb33",
@@ -33858,6 +33937,20 @@
     "proposer": "MarySue",
     "submission": 1393,
     "proposerLr2id": 147889
+  },
+  {
+    "md5": "9d45ecce513a6e43375fcb88677df7f4",
+    "sha256": "70d9d3b51302f747159ddfdb2ef3d6933c8483ccf0f873baf2a94bb842b0c706",
+    "title": "jello jelly [jellybean]",
+    "artist": "VeetaCrush bgi: Ano / obj: Haze*",
+    "url_diff": "https://stellabms.xyz/upload/1642",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=459&event=137",
+    "level": "12",
+    "comment": "sl12~st0?",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 2590,
+    "proposerLr2id": 84597
   },
   {
     "level": "12",
@@ -35342,20 +35435,6 @@
     "votePercent": 0
   },
   {
-    "md5": "67a903768653ce5a8978d082efe4c680",
-    "sha256": "8f6230fe4d6a862e780d65c752f611cdf47955b247fa9a2e8d435dd4e317e7c8",
-    "title": "宇宙テレビ #Decimalized",
-    "artist": "Ｋａｏｒｕ feat. ゆきね /Naoki Yotsube 差分:Decimal",
-    "url_diff": "https://stellabms.xyz/upload/1911",
-    "url": "https://onedrive.live.com/?cid=2E0B6A331309387C&id=2E0B6A331309387C%21107#cid=2E0B6A331309387C&id=2E0B6A331309387C%21159&parId=2E0B6A331309387C%21107&action=defaultclick",
-    "level": "12",
-    "comment": "sl12~st0?",
-    "zureCount": 0,
-    "proposer": "七海",
-    "submission": 2564,
-    "proposerLr2id": 84597
-  },
-  {
     "md5": "6cbfcecef0c2a08b6f402f530e4b6972",
     "sha256": "988cbf360970cb15542df21e8328db42037685c20bed76342eadd56d83848ab6",
     "title": "恋の2-4-11(BMS Edit) [= -13]",
@@ -35706,6 +35785,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "9281b9d91c17b92420bfe8ebb67fe5e990b1dcfec58a3e8f7a7cb9c81e8e1b61"
+  },
+  {
+    "md5": "0cca056c997d6a90f5873b2998a36138",
+    "sha256": "77fe150d42115a51ca82fbab97f14768b36af1210abb0550f33c9031bf37c90d",
+    "title": "Adularescence",
+    "artist": "8284 vs wa. obj.XYZ",
+    "url_diff": "https://tejawha.github.io/objxyz/",
+    "url": "http://l-bms.space/1st/download.html",
+    "level": "13",
+    "comment": "st0強",
+    "zureCount": 0,
+    "proposer": "Mallow♪",
+    "submission": 1927,
+    "proposerLr2id": 154796
   },
   {
     "md5": "db58d9c9fe42379299fa9f615da87dd9",
@@ -37839,19 +37932,6 @@
     "proposerLr2id": 137190
   },
   {
-    "md5": "2071eb219632ba1072b67d3a627cf108",
-    "sha256": "2cef16450dd6b2bbaf43be7a75a9f6b1cf7d603cca7047d4a3423d03f233f392",
-    "title": "さよならダイヤモンド -メスガキの穴-",
-    "artist": "メスガキに分からせられたい obj:メスガキ",
-    "url_diff": "",
-    "url": "https://drive.google.com/file/d/1xOXL8llmNlEYB8rsCcTL_FDmeR55tre2/view",
-    "level": "13",
-    "comment": "BPM125 ガチ押し",
-    "proposer": "fuko",
-    "submission": 1897,
-    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
-  },
-  {
     "md5": "a3c4f1060479d87a9a7d33a48ec1b094",
     "title": "ちんこ音頭2012",
     "artist": "くっちー / Ds",
@@ -39585,6 +39665,19 @@
     "votePercent": 0
   },
   {
+    "md5": "cc49d9845cc9af02177308b20290e148",
+    "sha256": "b7a5eec20cd092bad05758846fb0ce3d1c5807c93abb5acc83ad1555556bd624",
+    "title": "Disco Balls -Genocide-",
+    "artist": "roop × Mentalstock / selene.",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02540",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=183&event=60",
+    "level": "14",
+    "comment": "gachioshi",
+    "proposer": "skyeeeee",
+    "submission": 1929,
+    "proposerLr2id": 172886
+  },
+  {
     "md5": "35506a715969231f7d4cea8274346e77",
     "sha256": "01d3380352cf81338484504c931f433135d49975cbc052a362b557fc9bbb9aae",
     "title": "Dog-Run Panic! -Despair-",
@@ -40161,6 +40254,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "2ddc868da923e5b0cf8c1958782a8c2107910c614c15bba84184630c56710023"
+  },
+  {
+    "md5": "0ff88aed13ca2371d298ccd41c1fc8b2",
+    "sha256": "4c90fbddfd8d8638f0122a949bb1115637cc8adcff44c16c35e86f067ba0e985",
+    "title": "Highly Responsive to Penor Stimulation [魔界入門]",
+    "artist": "XD / LuvTek",
+    "url_diff": "https://darksabun.github.io/bceg/event/ondan9/",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=129",
+    "level": "14",
+    "comment": "bpm128 ガチ押し、同時押しなど。",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 1831,
+    "proposerLr2id": 147889
   },
   {
     "md5": "fa0bb9a8c9a4f32398c0949c2483a67f",
@@ -41615,6 +41722,19 @@
     "proposer": "qtp13",
     "submission": 1618,
     "proposerLr2id": 86559
+  },
+  {
+    "md5": "2071eb219632ba1072b67d3a627cf108",
+    "sha256": "2cef16450dd6b2bbaf43be7a75a9f6b1cf7d603cca7047d4a3423d03f233f392",
+    "title": "さよならダイヤモンド -メスガキの穴-",
+    "artist": "メスガキに分からせられたい obj:メスガキ",
+    "url_diff": "",
+    "url": "https://drive.google.com/file/d/1xOXL8llmNlEYB8rsCcTL_FDmeR55tre2/view",
+    "level": "14",
+    "comment": "BPM125 ガチ押し",
+    "proposer": "fuko",
+    "submission": 1897,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "fafab5cbb6fd96cb35d1785807095322",
@@ -43884,20 +44004,6 @@
     "proposer": "♪♪",
     "submission": 1465,
     "proposerLr2id": 7290
-  },
-  {
-    "md5": "0ff88aed13ca2371d298ccd41c1fc8b2",
-    "sha256": "4c90fbddfd8d8638f0122a949bb1115637cc8adcff44c16c35e86f067ba0e985",
-    "title": "Highly Responsive to Penor Stimulation [魔界入門]",
-    "artist": "XD / LuvTek",
-    "url_diff": "https://darksabun.github.io/bceg/event/ondan9/",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=129",
-    "level": "15",
-    "comment": "bpm128 ガチ押し、同時押しなど。",
-    "zureCount": 0,
-    "proposer": "Mary_Sue",
-    "submission": 1831,
-    "proposerLr2id": 147889
   },
   {
     "title": "HoneyButterBass [SuperSweet]",
@@ -49022,6 +49128,19 @@
     "sha256": "63ef1b3359d3260a57bc4e50ad442008cb1e2eba7263f2cb426522e7606576b4"
   },
   {
+    "md5": "51cfcc119aa3b4b517299c69e2c1d943",
+    "sha256": "3f1b556eebb3c23fc62c04f305541d7f2e9afe13f6359dda2b42117c36d0ce91",
+    "title": "The Mighty A [DAWN]",
+    "artist": "69 de 74 obj:69 de 74 a.k.a. 37 go 64",
+    "url_diff": "",
+    "url": "https://pupuly.nekokan.dyndns.info/bms/v/212",
+    "level": "16",
+    "comment": "BPM397の8分乱打　体力難寄り",
+    "proposer": "antimongen",
+    "submission": 1926,
+    "proposerMinirid": "af2f6447-aabe-41ef-95a6-cd7d7618e9b3"
+  },
+  {
     "level": "16",
     "comment": "物量？",
     "md5": "d68d9c174bc83aa0580f0ae13f01bc5e",
@@ -53821,6 +53940,19 @@
     "proposerLr2id": 46122
   },
   {
+    "md5": "e0acfcdc210f055b29607063efd0ea4b",
+    "sha256": "d3a355a08c4e2fda87324ab1e4de6f7dcf026628af5dd83ff60035110a9df19a",
+    "title": "FINGER FOOD (*´～｀*)",
+    "artist": "l'avenir proche",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=139",
+    "level": "18",
+    "comment": "BPM170 連打複合 皿複合 (HS-FIX MIN or AVG)",
+    "proposer": "SHAX.",
+    "submission": 1930,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "53d61c3bfc4d027151be895343a33962",
     "sha256": "a51dd9a13082a8d53fe900bccf8b874a3c184ed50b421b3bbcc11d2abcb95445",
     "title": "flowers [miracle]",
@@ -53830,6 +53962,7 @@
     "level": "18",
     "comment": "この曲切らしてた（最後のディレイ追加以外はpmsの差分とズレチェック済みだそうです）",
     "proposer": "堀尾聡史",
+    "submission": 1230,
     "proposerMinirid": "6ff4a3e0-3764-464e-ba27-37e10197ee2a"
   },
   {
@@ -55097,6 +55230,19 @@
     "sha256": "b7e7715694ba613bf12ddf7dbff3c82782c5b37c6c9e4b188595420ba93918a5"
   },
   {
+    "md5": "ee4e21af8e9702365b76fd6e47e9a421",
+    "sha256": "5e7a6e307b7ac34fdb24b171eed3aa90be6437dfe57758aacaf24458e625cff9",
+    "title": "さよならダイヤモンド -長距離走-",
+    "artist": "メスガキに分からせられたい obj:汗かきメスガキ",
+    "url_diff": "",
+    "url": "https://drive.google.com/file/d/1xOXL8llmNlEYB8rsCcTL_FDmeR55tre2/view",
+    "level": "18",
+    "comment": "4~5?",
+    "proposer": "七海",
+    "submission": 1932,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "0b1e8ad76e0865cd0f58a6ebbd416cfa",
     "sha256": "cb91026fa4c54c66408cced4eefeb25897f38a4bf8dcc5453c531ff3bef56a5f",
     "title": "ぽっぷる！ [delay fantasy]",
@@ -55650,6 +55796,20 @@
     "proposer": "LUXURY♪",
     "submission": 1903,
     "proposerLr2id": 23110
+  },
+  {
+    "md5": "0c743a2d771c22f1d7a45e40a299c454",
+    "sha256": "b50da5f813bcdb943772a8611dfa266d981070db04ce117deed5d1ef25806073",
+    "title": "[line:theta] [HYPERLIMINAL]",
+    "artist": "nitro / obj. marie",
+    "url_diff": "https://stellabms.xyz/upload/1212",
+    "url": "https://dl.dropboxusercontent.com/s/1wbit5p08wqyxmm/%5Bline%EF%BC%9Atheta%5D%20%28by%20nitro%29.rar",
+    "level": "19",
+    "comment": "LN多め、ガチ押しとディレイ",
+    "zureCount": 0,
+    "proposer": "Mallow♪",
+    "submission": 1928,
+    "proposerLr2id": 154796
   },
   {
     "level": "19",
@@ -60162,6 +60322,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "f2ca8dc1923e46a8b9b7d848b9bbe5d9d71e22a5c789856e1c1e10fa267cf442"
+  },
+  {
+    "md5": "34019dad5bc2edbf7013f7f733cfabba",
+    "sha256": "e49be2f97bc06adde98d3c9f66455c676efe22c97ecc8b4658ff718a1aef05a8",
+    "title": "Ms. Steam [T]",
+    "artist": "MoVIIkA Movie: Nao_AnD / obj: GTNH hater",
+    "url_diff": "https://venue.bmssearch.net/bcel_pre/15",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=137",
+    "level": "22",
+    "comment": "BPM160 連打複合 微連打",
+    "proposer": "SHAX.",
+    "submission": 1931,
+    "proposerLr2id": 65624
   },
   {
     "md5": "367b33a91988e3a86a410391a97ee247",

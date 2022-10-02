@@ -708,6 +708,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "8b48716b42215c5f7686cf1c5be4f99a",
+    "title": "舞姫 ～buki～　 [ANOTHER]",
+    "level": "0.50...1.00",
+    "comment": "sl2"
+  },
+  {
     "md5": "7c31ece35a5b0839af9a31c9b2d7b961",
     "title": "#Za_illusory [DP-sagANOTHER]",
     "level": "1.00...1.50",
@@ -1256,6 +1262,12 @@
   {
     "md5": "22bf61d1f427eefe76ef02a3ba90ab81",
     "title": "ネコイチ(Lemon beads Remix) -BMS edit- [DP-sagANOTHER]",
+    "level": "2.00...2.50",
+    "comment": "sl4"
+  },
+  {
+    "md5": "cc93bbd824c93d07cab5b085bceb8bad",
+    "title": "フラッフィー・フォアキャスト [14key Another]",
     "level": "2.00...2.50",
     "comment": "sl4"
   },
@@ -2244,12 +2256,6 @@
     "comment": "sl6"
   },
   {
-    "md5": "656f84cbf4c6d02c2cff16cb5da8bdba",
-    "title": "Re:Sound Sing Step [DP-sagINSANE]",
-    "level": "4.50...5.00",
-    "comment": "sl7"
-  },
-  {
     "md5": "1e295122841391fb8cdd8531918ec13c",
     "title": "suffruti -DP ANOTHER-",
     "level": "4.50...5.00",
@@ -2598,6 +2604,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "656f84cbf4c6d02c2cff16cb5da8bdba",
+    "title": "Re:Sound Sing Step [DP-sagINSANE]",
+    "level": "5.50...6.00",
+    "comment": "sl8"
+  },
+  {
     "md5": "1f329ca4558051d0f582b5b1ecb29e7d",
     "title": "S.L.I. [W.I.S.H.]",
     "level": "5.50...6.00",
@@ -2846,6 +2858,12 @@
   {
     "md5": "2f80fc1c5428f5090808c2c2d8cc11f0",
     "title": "Non Return to Zero [DP ANOTHER]",
+    "level": "6.50...7.00",
+    "comment": "sl10"
+  },
+  {
+    "md5": "388e05189bdc0f964c474cb01dd1d27e",
+    "title": "Orillia [DP-sagINSANE]",
     "level": "6.50...7.00",
     "comment": "sl10"
   },

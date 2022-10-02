@@ -12,6 +12,12 @@
     "comment": "sl0"
   },
   {
+    "md5": "80fd6cd4adfe8f993757330a1f787a3c",
+    "title": "colorbar [Hi]",
+    "level": "3.00...3.50",
+    "comment": "sl0"
+  },
+  {
     "md5": "152868a80cee75a86411bdc60c68dd36",
     "title": "LAST PROPOZE [ANOTHER]",
     "level": "3.00...3.50",
@@ -54,6 +60,12 @@
     "comment": "sl0"
   },
   {
+    "md5": "6fac83c3c74236991cf12953a92d2a57",
+    "title": "-Never ending journey- [BLACKANOTHER]",
+    "level": "3.50...4.00",
+    "comment": "sl0"
+  },
+  {
     "md5": "ed82253af66391725dff3bf611056d33",
     "title": "Anger Control [ANOTHER]",
     "level": "3.50...4.00",
@@ -68,12 +80,6 @@
   {
     "md5": "b9e7e3c1d0f9e72f195bfe2e6f730616",
     "title": "Chit-Chat [7Key Another]",
-    "level": "3.50...4.00",
-    "comment": "sl0"
-  },
-  {
-    "md5": "80fd6cd4adfe8f993757330a1f787a3c",
-    "title": "colorbar [Hi]",
     "level": "3.50...4.00",
     "comment": "sl0"
   },
@@ -231,12 +237,6 @@
     "md5": "51b5613d5a3b783bc6b8a3bea5e8d7fc",
     "title": "黄昏のメロディア [ANOTHER7]",
     "level": "3.50...4.00",
-    "comment": "sl0"
-  },
-  {
-    "md5": "6fac83c3c74236991cf12953a92d2a57",
-    "title": "-Never ending journey- [BLACKANOTHER]",
-    "level": "4.00...4.50",
     "comment": "sl0"
   },
   {
@@ -1230,12 +1230,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "d8c9e5c278620e5f7f0f7031a758860a",
-    "title": "Janus [SP ANOTHER]",
-    "level": "5.50...6.00",
-    "comment": "sl1"
-  },
-  {
     "md5": "9747b4925b06dfcdb9bceda47825fa89",
     "title": "JUDGEMENT ARROWS -Luna-",
     "level": "5.50...6.00",
@@ -1598,6 +1592,12 @@
   {
     "md5": "83c9297665649c503a8a71bb391ba7a6",
     "title": "Jack o' Lantern [sagANOTHER]",
+    "level": "6.00...6.50",
+    "comment": "sl1"
+  },
+  {
+    "md5": "d8c9e5c278620e5f7f0f7031a758860a",
+    "title": "Janus [SP ANOTHER]",
     "level": "6.00...6.50",
     "comment": "sl1"
   },
@@ -3570,6 +3570,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "a8fcbea5d6357cbb69f3827ed0dfcdd3",
+    "title": "Disco Balls -Luna-",
+    "level": "9.50...10.00",
+    "comment": "sl4"
+  },
+  {
     "md5": "7ad9ee05094d6bd4e64ed4f65ad2476c",
     "title": "DistortedIntelligence [AntiArea]",
     "level": "9.50...10.00",
@@ -3926,12 +3932,6 @@
   {
     "md5": "02d946340db4001ec78b1e6b9af3a388",
     "title": "Destr0yer -Hope-",
-    "level": "10.00...10.50",
-    "comment": "sl4"
-  },
-  {
-    "md5": "a8fcbea5d6357cbb69f3827ed0dfcdd3",
-    "title": "Disco Balls -Luna-",
     "level": "10.00...10.50",
     "comment": "sl4"
   },
@@ -8025,7 +8025,7 @@
     "md5": "c16ad6046d2f0d5f65a66bbbba6aaaa8",
     "title": "Central GRAY [Crazy]",
     "level": "-",
-    "comment": "sl11"
+    "comment": "sl10"
   },
   {
     "md5": "213ce0b43c2b287e5f7d5bb30c8ec44f",
@@ -8049,7 +8049,7 @@
     "md5": "653345ae3589dd2ed93383f862b7d949",
     "title": "CRUSH THE PARTY [yumether]",
     "level": "-",
-    "comment": "sl11"
+    "comment": "sl12"
   },
   {
     "md5": "404937351f39007a7a211e154feebadb",
@@ -8440,6 +8440,12 @@
     "title": "レトロモダンの玩具工場 [INSANE]",
     "level": "-",
     "comment": "sl8"
+  },
+  {
+    "md5": "af0a9066c9fce98fc26611ec7237be00",
+    "title": "ロスト：ユートピアと真理と純粋の極彩世界 [DISTOPIA_Fix]",
+    "level": "-",
+    "comment": "sl12"
   },
   {
     "md5": "25fa6f793b02c300e1430864903fbb0b",

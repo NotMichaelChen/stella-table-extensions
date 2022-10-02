@@ -36,12 +36,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "030056b702515b5f64d6b557513293a0",
-    "title": "Summer White [DP ANOTHER]",
-    "level": "4.00...4.50",
-    "comment": "sl0"
-  },
-  {
     "md5": "72a47cbc96d28f623d821641ee913bf5",
     "title": "エリフィと白昏の夜",
     "level": "4.00...4.50",
@@ -194,6 +188,12 @@
   {
     "md5": "6c0bba1647785f2d79cc41896118b656",
     "title": "Save the Water",
+    "level": "4.50...5.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "030056b702515b5f64d6b557513293a0",
+    "title": "Summer White [DP ANOTHER]",
     "level": "4.50...5.00",
     "comment": "sl0"
   },
@@ -2568,6 +2568,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "388e05189bdc0f964c474cb01dd1d27e",
+    "title": "Orillia [DP-sagINSANE]",
+    "level": "-",
+    "comment": "sl10"
+  },
+  {
     "md5": "3d6408517abfa86af1f9c311adc3db3c",
     "title": "Our Dream, Our Justice [DP Sub Black Another+]",
     "level": "-",
@@ -2667,7 +2673,7 @@
     "md5": "656f84cbf4c6d02c2cff16cb5da8bdba",
     "title": "Re:Sound Sing Step [DP-sagINSANE]",
     "level": "-",
-    "comment": "sl7"
+    "comment": "sl8"
   },
   {
     "md5": "1e1c6839c85633f9d198686b98505bec",
@@ -3066,6 +3072,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "cc93bbd824c93d07cab5b085bceb8bad",
+    "title": "フラッフィー・フォアキャスト [14key Another]",
+    "level": "-",
+    "comment": "sl4"
+  },
+  {
     "md5": "d6ddb4b5816cf8a140e513927fb94b95",
     "title": "フロンティア↑↑エクスプローラー [nyamDPA]",
     "level": "-",
@@ -3274,6 +3286,12 @@
     "title": "空飛ぶニワトリ [M]",
     "level": "-",
     "comment": "sl8"
+  },
+  {
+    "md5": "8b48716b42215c5f7686cf1c5be4f99a",
+    "title": "舞姫 ～buki～　 [ANOTHER]",
+    "level": "-",
+    "comment": "sl2"
   },
   {
     "md5": "9efd3a958f5f34ddbbe9068262673652",

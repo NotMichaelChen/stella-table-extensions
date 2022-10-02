@@ -498,6 +498,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "8b48716b42215c5f7686cf1c5be4f99a",
+    "title": "舞姫 ～buki～　 [ANOTHER]",
+    "level": "2.00...2.50",
+    "comment": "sl2"
+  },
+  {
     "md5": "bc9f6970a45fa7fdefd7c2265b132651",
     "title": "黄昏のメロディア [DP ANOTHER]",
     "level": "2.00...2.50",
@@ -940,6 +946,12 @@
     "title": "ハニエルのうた DPA",
     "level": "3.50...4.00",
     "comment": "sl2"
+  },
+  {
+    "md5": "cc93bbd824c93d07cab5b085bceb8bad",
+    "title": "フラッフィー・フォアキャスト [14key Another]",
+    "level": "3.50...4.00",
+    "comment": "sl4"
   },
   {
     "md5": "298f183c1ae264b77f2a17861cbffbc2",
@@ -2316,12 +2328,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "656f84cbf4c6d02c2cff16cb5da8bdba",
-    "title": "Re:Sound Sing Step [DP-sagINSANE]",
-    "level": "8.00...8.50",
-    "comment": "sl7"
-  },
-  {
     "md5": "1e295122841391fb8cdd8531918ec13c",
     "title": "suffruti -DP ANOTHER-",
     "level": "8.00...8.50",
@@ -2562,8 +2568,20 @@
     "comment": "sl8"
   },
   {
+    "md5": "388e05189bdc0f964c474cb01dd1d27e",
+    "title": "Orillia [DP-sagINSANE]",
+    "level": "9.00...9.50",
+    "comment": "sl10"
+  },
+  {
     "md5": "143734dba02fd634d6a76c77509f8b85",
     "title": "Re:End of a Dream [DPH]",
+    "level": "9.00...9.50",
+    "comment": "sl8"
+  },
+  {
+    "md5": "656f84cbf4c6d02c2cff16cb5da8bdba",
+    "title": "Re:Sound Sing Step [DP-sagINSANE]",
     "level": "9.00...9.50",
     "comment": "sl8"
   },
@@ -2880,6 +2898,12 @@
     "comment": "sl9"
   },
   {
+    "md5": "0ba6de050ce06847b737564948b61654",
+    "title": "Sweet Little Chocolate [DP-soijoy]",
+    "level": "10.50...11.00",
+    "comment": "sl11"
+  },
+  {
     "md5": "8cc4f01e3855e3f0acbe26920762fe32",
     "title": "Toki (Sound piercer's Timesucker Remix) [DP ANOTHER]",
     "level": "10.50...11.00",
@@ -2926,12 +2950,6 @@
     "title": "Realize [starry 14]",
     "level": "11.00...11.50",
     "comment": "sl10"
-  },
-  {
-    "md5": "0ba6de050ce06847b737564948b61654",
-    "title": "Sweet Little Chocolate [DP-soijoy]",
-    "level": "11.00...11.50",
-    "comment": "sl11"
   },
   {
     "md5": "27a6ac517eb18cd3105be73818bc656b",
@@ -3004,6 +3022,12 @@
     "title": "Psalms [さよなら、ユートピア]",
     "level": "11.50...12.00",
     "comment": "sl10"
+  },
+  {
+    "md5": "2c8ca67a2198fbb13199b970210d1b20",
+    "title": "QUARTZ [BLACK ANOTHER]",
+    "level": "11.50...12.00",
+    "comment": "sl11"
   },
   {
     "md5": "7cdf0e379373303886ae2240879699a2",
@@ -3080,12 +3104,6 @@
   {
     "md5": "b7244f66328a360a34a6d6a66028fed9",
     "title": "myste`re　 [18keys]",
-    "level": "12.00...12.50",
-    "comment": "sl11"
-  },
-  {
-    "md5": "2c8ca67a2198fbb13199b970210d1b20",
-    "title": "QUARTZ [BLACK ANOTHER]",
     "level": "12.00...12.50",
     "comment": "sl11"
   },
@@ -3174,6 +3192,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "143c4aeb8ecf90fea57b54afef73f66b",
+    "title": "Cong＊Chu＊Jelly [DP-soijoy]",
+    "level": "13.00...13.50",
+    "comment": "sl12"
+  },
+  {
     "md5": "badd87bc03a1b5657c4f9061e3bbd083",
     "title": "Danse de Romani",
     "level": "13.00...13.50",
@@ -3214,12 +3238,6 @@
     "title": "Anti Function -DP INSANE-",
     "level": "13.50...14.00",
     "comment": "sl11"
-  },
-  {
-    "md5": "143c4aeb8ecf90fea57b54afef73f66b",
-    "title": "Cong＊Chu＊Jelly [DP-soijoy]",
-    "level": "13.50...14.00",
-    "comment": "sl12"
   },
   {
     "md5": "baa218833211f71a4a589528adbe184b",

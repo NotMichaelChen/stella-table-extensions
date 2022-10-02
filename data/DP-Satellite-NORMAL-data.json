@@ -18,12 +18,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "030056b702515b5f64d6b557513293a0",
-    "title": "Summer White [DP ANOTHER]",
-    "level": "-0.50...0.00",
-    "comment": "sl0"
-  },
-  {
     "md5": "2f73d7199984227a5565ac5da184b3ab",
     "title": "ALICE IN PICOPICO NIGHT (DP HYPER)",
     "level": "0.00...0.50",
@@ -90,14 +84,14 @@
     "comment": "sl0"
   },
   {
-    "md5": "f41a990d8137150f510e74468d9f2244",
-    "title": "resonance [DP Another]",
+    "md5": "7b803cec07b4ecac6069162fa2ad0c4e",
+    "title": "Stray Squall (BMS Edit)",
     "level": "0.00...0.50",
     "comment": "sl0"
   },
   {
-    "md5": "7b803cec07b4ecac6069162fa2ad0c4e",
-    "title": "Stray Squall (BMS Edit)",
+    "md5": "030056b702515b5f64d6b557513293a0",
+    "title": "Summer White [DP ANOTHER]",
     "level": "0.00...0.50",
     "comment": "sl0"
   },
@@ -242,6 +236,12 @@
   {
     "md5": "1ab2a0140e177fc8681b93cb6768093d",
     "title": "Reality [14keys Hyper]",
+    "level": "0.50...1.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "f41a990d8137150f510e74468d9f2244",
+    "title": "resonance [DP Another]",
     "level": "0.50...1.00",
     "comment": "sl0"
   },
@@ -414,6 +414,12 @@
     "comment": "sl0"
   },
   {
+    "md5": "5dc1cb5b9233d609d755fe314851d0fb",
+    "title": "バーチャルセラピー [DP ANOTHER]",
+    "level": "1.00...1.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "0cd0f1fd400d046f27423c3ceb750d5c",
     "title": "未来のコピヌ [DP ANOTHER]",
     "level": "1.00...1.50",
@@ -424,6 +430,12 @@
     "title": "私のヒトミ",
     "level": "1.00...1.50",
     "comment": "sl1"
+  },
+  {
+    "md5": "8b48716b42215c5f7686cf1c5be4f99a",
+    "title": "舞姫 ～buki～　 [ANOTHER]",
+    "level": "1.00...1.50",
+    "comment": "sl2"
   },
   {
     "md5": "190ef89f7c890d5ac3bf327acc4f6800",
@@ -554,12 +566,6 @@
   {
     "md5": "349ba985ad69368d8bc559c86d2fd256",
     "title": "ΦReboot [14key]",
-    "level": "1.50...2.00",
-    "comment": "sl1"
-  },
-  {
-    "md5": "5dc1cb5b9233d609d755fe314851d0fb",
-    "title": "バーチャルセラピー [DP ANOTHER]",
     "level": "1.50...2.00",
     "comment": "sl1"
   },
@@ -1006,6 +1012,12 @@
     "title": "RAVE NIGHTINGALE [Daybreak14]",
     "level": "3.00...3.50",
     "comment": "sl3"
+  },
+  {
+    "md5": "cc93bbd824c93d07cab5b085bceb8bad",
+    "title": "フラッフィー・フォアキャスト [14key Another]",
+    "level": "3.00...3.50",
+    "comment": "sl4"
   },
   {
     "md5": "bf3b35fd1f6361818a635d2130a31e69",
@@ -2238,18 +2250,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "e7b02a0c898847cccdef2db546e16c1b",
-    "title": "Nhelv [SRBOFU2017DP]",
-    "level": "6.50...7.00",
-    "comment": "sl7"
-  },
-  {
-    "md5": "656f84cbf4c6d02c2cff16cb5da8bdba",
-    "title": "Re:Sound Sing Step [DP-sagINSANE]",
-    "level": "6.50...7.00",
-    "comment": "sl7"
-  },
-  {
     "md5": "29218763f7b55ddf23d1f4e1ec112816",
     "title": "Stellaria -Veritas Lux Mea-",
     "level": "6.50...7.00",
@@ -2372,6 +2372,12 @@
   {
     "md5": "773951a8a13fcb7165d903e57a33ec18",
     "title": "Midnight Flux",
+    "level": "7.00...7.50",
+    "comment": "sl7"
+  },
+  {
+    "md5": "e7b02a0c898847cccdef2db546e16c1b",
+    "title": "Nhelv [SRBOFU2017DP]",
     "level": "7.00...7.50",
     "comment": "sl7"
   },
@@ -2520,6 +2526,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "388e05189bdc0f964c474cb01dd1d27e",
+    "title": "Orillia [DP-sagINSANE]",
+    "level": "7.50...8.00",
+    "comment": "sl10"
+  },
+  {
     "md5": "e5f9d247e647e0dbd6ad35ceb5df9224",
     "title": "ouroVoros [DP]",
     "level": "7.50...8.00",
@@ -2534,6 +2546,12 @@
   {
     "md5": "143734dba02fd634d6a76c77509f8b85",
     "title": "Re:End of a Dream [DPH]",
+    "level": "7.50...8.00",
+    "comment": "sl8"
+  },
+  {
+    "md5": "656f84cbf4c6d02c2cff16cb5da8bdba",
+    "title": "Re:Sound Sing Step [DP-sagINSANE]",
     "level": "7.50...8.00",
     "comment": "sl8"
   },
@@ -2910,6 +2928,12 @@
     "comment": "sl9"
   },
   {
+    "md5": "0ba6de050ce06847b737564948b61654",
+    "title": "Sweet Little Chocolate [DP-soijoy]",
+    "level": "9.00...9.50",
+    "comment": "sl11"
+  },
+  {
     "md5": "8cc4f01e3855e3f0acbe26920762fe32",
     "title": "Toki (Sound piercer's Timesucker Remix) [DP ANOTHER]",
     "level": "9.00...9.50",
@@ -2970,8 +2994,8 @@
     "comment": "sl10"
   },
   {
-    "md5": "0ba6de050ce06847b737564948b61654",
-    "title": "Sweet Little Chocolate [DP-soijoy]",
+    "md5": "2c8ca67a2198fbb13199b970210d1b20",
+    "title": "QUARTZ [BLACK ANOTHER]",
     "level": "9.50...10.00",
     "comment": "sl11"
   },
@@ -3066,12 +3090,6 @@
     "comment": "sl11"
   },
   {
-    "md5": "2c8ca67a2198fbb13199b970210d1b20",
-    "title": "QUARTZ [BLACK ANOTHER]",
-    "level": "10.00...10.50",
-    "comment": "sl11"
-  },
-  {
     "md5": "31c877e8022d80b63cc78eb42a4be921",
     "title": "QUESTING",
     "level": "10.00...10.50",
@@ -3162,12 +3180,6 @@
     "comment": "sl11"
   },
   {
-    "md5": "5319fd58fbb103bd6b6fadfc8aaafa0d",
-    "title": "テウメッサ [matrix]",
-    "level": "10.50...11.00",
-    "comment": "sl12"
-  },
-  {
     "md5": "584450308e2b02b3a71a3979c16cdb4f",
     "title": "プナイプナイげんそう [DP ☆NOTHER ~ 無限の彼方までおやすみプナイ ~]",
     "level": "10.50...11.00",
@@ -3202,6 +3214,12 @@
     "title": "STAGER [ONE MORE EXTRA]",
     "level": "11.00...11.50",
     "comment": "sl11"
+  },
+  {
+    "md5": "5319fd58fbb103bd6b6fadfc8aaafa0d",
+    "title": "テウメッサ [matrix]",
+    "level": "11.00...11.50",
+    "comment": "sl12"
   },
   {
     "md5": "37cc734cb35cc8f74fa0f36d2ae0e916",
