@@ -1062,12 +1062,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "4988380f70fe9c0d1a0197e8e5ef9643",
-    "title": "The Green Light [14KEYS INSANE]",
-    "level": "1.50...2.00",
-    "comment": "sl3"
-  },
-  {
     "md5": "8fda1f7edc956b0a390aa9c7ba1f8d6c",
     "title": "VALLISTA [DP VALLISTANDARD]",
     "level": "1.50...2.00",
@@ -1236,6 +1230,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "4988380f70fe9c0d1a0197e8e5ef9643",
+    "title": "The Green Light [14KEYS INSANE]",
+    "level": "2.00...2.50",
+    "comment": "sl3"
+  },
+  {
     "md5": "b6f635f6986a8ac6627accd79332df4d",
     "title": "the scenery [DP ANOTHER]",
     "level": "2.00...2.50",
@@ -1246,12 +1246,6 @@
     "title": "This Club is not 4 U [DP ANOTHER]",
     "level": "2.00...2.50",
     "comment": "sl3"
-  },
-  {
-    "md5": "82d6765227d050ddff2d4d930f9b0aec",
-    "title": "TURNDOWN [DPL]",
-    "level": "2.00...2.50",
-    "comment": "sl4"
   },
   {
     "md5": "aee587970d848afb5259956b8f184d2c",
@@ -1344,12 +1338,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "f373a2c55f04298fc77b7f397458a753",
-    "title": "B.B.K.K.B.K.K. -DP Busy-",
-    "level": "2.50...3.00",
-    "comment": "sl4"
-  },
-  {
     "md5": "23f0c411fc26c1e8aa82f3e5dda90dbe",
     "title": "Banhotta -黄昏-",
     "level": "2.50...3.00",
@@ -1440,6 +1428,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "82d6765227d050ddff2d4d930f9b0aec",
+    "title": "TURNDOWN [DPL]",
+    "level": "2.50...3.00",
+    "comment": "sl4"
+  },
+  {
     "md5": "d2aa974e5ba749ca8d27c5460c042437",
     "title": "Unfictioniam <DPA>",
     "level": "2.50...3.00",
@@ -1510,6 +1504,12 @@
     "title": "Armillary Sphere",
     "level": "3.00...3.50",
     "comment": "sl5"
+  },
+  {
+    "md5": "f373a2c55f04298fc77b7f397458a753",
+    "title": "B.B.K.K.B.K.K. -DP Busy-",
+    "level": "3.00...3.50",
+    "comment": "sl4"
   },
   {
     "md5": "76fd4bd3f9937e3880739fa116c7dcae",
@@ -1704,12 +1704,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "b8a1552944a45a43e14125a85cb9803f",
-    "title": "ametsuchi",
-    "level": "3.50...4.00",
-    "comment": "sl5"
-  },
-  {
     "md5": "b73c05f5bc653e4d2a801129d58f2297",
     "title": "Anti Function -DP ANOTHER-",
     "level": "3.50...4.00",
@@ -1770,12 +1764,6 @@
     "comment": "sl6"
   },
   {
-    "md5": "774d0a249b1f6eade39de8dfec32a5d8",
-    "title": "La souvenir [DPYoitherEASY]",
-    "level": "3.50...4.00",
-    "comment": "sl6"
-  },
-  {
     "md5": "a78261c3f9d531540e3f06a86f2d935d",
     "title": "Lily [DP-sagANOTHER]",
     "level": "3.50...4.00",
@@ -1818,12 +1806,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "1a8bf502c603ff2f2b9fca64a47de401",
-    "title": "Parallel Evolution (DP Very Hard)",
-    "level": "3.50...4.00",
-    "comment": "sl6"
-  },
-  {
     "md5": "e9e8b841292f7d176accabae9f09e313",
     "title": "Road to the future city [DP ANOTHER]",
     "level": "3.50...4.00",
@@ -1856,12 +1838,6 @@
   {
     "md5": "e95c45d5c8a175310c67d5b4640a990f",
     "title": "Telescope [DP-sagANOTHER]",
-    "level": "3.50...4.00",
-    "comment": "sl6"
-  },
-  {
-    "md5": "5dc019d3c327fb3e8adafc2bef02420a",
-    "title": "The Microbe [DP INSANE]",
     "level": "3.50...4.00",
     "comment": "sl6"
   },
@@ -1924,6 +1900,12 @@
     "title": "After Burner [Adventure]",
     "level": "4.00...4.50",
     "comment": "sl6"
+  },
+  {
+    "md5": "b8a1552944a45a43e14125a85cb9803f",
+    "title": "ametsuchi",
+    "level": "4.00...4.50",
+    "comment": "sl5"
   },
   {
     "md5": "7ae768f6387952fbee71272fb8cc33ab",
@@ -2004,6 +1986,12 @@
     "comment": "sl6"
   },
   {
+    "md5": "774d0a249b1f6eade39de8dfec32a5d8",
+    "title": "La souvenir [DPYoitherEASY]",
+    "level": "4.00...4.50",
+    "comment": "sl6"
+  },
+  {
     "md5": "bb648bb7b6d71d24ae931c3140cb806c",
     "title": "Noblesse Gloria [DP-sagANOTHER]",
     "level": "4.00...4.50",
@@ -2024,6 +2012,12 @@
   {
     "md5": "3d6408517abfa86af1f9c311adc3db3c",
     "title": "Our Dream, Our Justice [DP Sub Black Another+]",
+    "level": "4.00...4.50",
+    "comment": "sl6"
+  },
+  {
+    "md5": "1a8bf502c603ff2f2b9fca64a47de401",
+    "title": "Parallel Evolution (DP Very Hard)",
     "level": "4.00...4.50",
     "comment": "sl6"
   },
@@ -2072,6 +2066,12 @@
   {
     "md5": "15eaa69233d16b75adbaad6601eaddac",
     "title": "The Last Page [DP INSANE]",
+    "level": "4.00...4.50",
+    "comment": "sl6"
+  },
+  {
+    "md5": "5dc019d3c327fb3e8adafc2bef02420a",
+    "title": "The Microbe [DP INSANE]",
     "level": "4.00...4.50",
     "comment": "sl6"
   },
@@ -2718,12 +2718,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "57182e1504854ce3d6de10b813ce6abf",
-    "title": "Echoes from Pangaea",
-    "level": "6.00...6.50",
-    "comment": "sl9"
-  },
-  {
     "md5": "450912fa718ab2e6c6816a87ed2bad5e",
     "title": "Fading Star [kumanother]",
     "level": "6.00...6.50",
@@ -2828,6 +2822,12 @@
   {
     "md5": "0c38eafa5cf3a4440832242fd1bd2ef7",
     "title": "CYCLONE",
+    "level": "6.50...7.00",
+    "comment": "sl9"
+  },
+  {
+    "md5": "57182e1504854ce3d6de10b813ce6abf",
+    "title": "Echoes from Pangaea",
     "level": "6.50...7.00",
     "comment": "sl9"
   },

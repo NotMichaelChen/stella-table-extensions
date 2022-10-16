@@ -12,12 +12,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "80fd6cd4adfe8f993757330a1f787a3c",
-    "title": "colorbar [Hi]",
-    "level": "3.00...3.50",
-    "comment": "sl0"
-  },
-  {
     "md5": "152868a80cee75a86411bdc60c68dd36",
     "title": "LAST PROPOZE [ANOTHER]",
     "level": "3.00...3.50",
@@ -54,24 +48,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "ac6f43d502b675cf530b11823c6d8f8d",
-    "title": "じゃぱりぱー",
-    "level": "3.00...3.50",
-    "comment": "sl0"
-  },
-  {
-    "md5": "6fac83c3c74236991cf12953a92d2a57",
-    "title": "-Never ending journey- [BLACKANOTHER]",
-    "level": "3.50...4.00",
-    "comment": "sl0"
-  },
-  {
-    "md5": "ed82253af66391725dff3bf611056d33",
-    "title": "Anger Control [ANOTHER]",
-    "level": "3.50...4.00",
-    "comment": "sl0"
-  },
-  {
     "md5": "26eab7f5cfd2aa248c55334c3242e619",
     "title": "Bonus Time [ANOTHER]",
     "level": "3.50...4.00",
@@ -80,6 +56,12 @@
   {
     "md5": "b9e7e3c1d0f9e72f195bfe2e6f730616",
     "title": "Chit-Chat [7Key Another]",
+    "level": "3.50...4.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "80fd6cd4adfe8f993757330a1f787a3c",
+    "title": "colorbar [Hi]",
     "level": "3.50...4.00",
     "comment": "sl0"
   },
@@ -116,6 +98,12 @@
   {
     "md5": "271a8286f788ba1849aa0d2ae24a2df9",
     "title": "ice valley \"beyond the searoad\" [EXTRA]",
+    "level": "3.50...4.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "9a1050240165743af3fbaf82c41ebdbd",
+    "title": "Intercosmic travel",
     "level": "3.50...4.00",
     "comment": "sl0"
   },
@@ -204,6 +192,12 @@
     "comment": "sl0"
   },
   {
+    "md5": "ac6f43d502b675cf530b11823c6d8f8d",
+    "title": "じゃぱりぱー",
+    "level": "3.50...4.00",
+    "comment": "sl0"
+  },
+  {
     "md5": "395395d107bf2345d3a83c7fad7a3011",
     "title": "カウガールとおもちゃの拳銃 [Another]",
     "level": "3.50...4.00",
@@ -240,8 +234,20 @@
     "comment": "sl0"
   },
   {
+    "md5": "6fac83c3c74236991cf12953a92d2a57",
+    "title": "-Never ending journey- [BLACKANOTHER]",
+    "level": "4.00...4.50",
+    "comment": "sl0"
+  },
+  {
     "md5": "44702bc5018c59867114c7017bd0f361",
     "title": "010 [SKT]",
+    "level": "4.00...4.50",
+    "comment": "sl0"
+  },
+  {
+    "md5": "ed82253af66391725dff3bf611056d33",
+    "title": "Anger Control [ANOTHER]",
     "level": "4.00...4.50",
     "comment": "sl0"
   },
@@ -1068,12 +1074,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "4dc22308eb254f088ead286be4acecde",
-    "title": "Second Synthesis [7key Extra]",
-    "level": "5.00...5.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "cac5388ceda6ba492d87beece30f28f1",
     "title": "Seize the Day (inst ver.) [SP INSANE]",
     "level": "5.00...5.50",
@@ -1290,12 +1290,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "fe103a2c23a341a67154268007984727",
-    "title": "Rebirth of the MYTH [Beyond Fictional]",
-    "level": "5.50...6.00",
-    "comment": "sl1"
-  },
-  {
     "md5": "0cbc7b980f664e7e0eb2214c965c2180",
     "title": "Regain [EGO DEATH]",
     "level": "5.50...6.00",
@@ -1304,6 +1298,12 @@
   {
     "md5": "6e6b8fcc58523f177e532938b87bf8f4",
     "title": "rePrayer [7key EX]",
+    "level": "5.50...6.00",
+    "comment": "sl1"
+  },
+  {
+    "md5": "4dc22308eb254f088ead286be4acecde",
+    "title": "Second Synthesis [7key Extra]",
     "level": "5.50...6.00",
     "comment": "sl1"
   },
@@ -1460,6 +1460,12 @@
   {
     "md5": "54f438fa75188b54064e8bc983b264b4",
     "title": "見送る一星、無我のソラ [100 min]",
+    "level": "5.50...6.00",
+    "comment": "sl1"
+  },
+  {
+    "md5": "a876f5e44fa63f4b0ec59f0b0b066d8c",
+    "title": "鳥の詩 - Euro Techno Mix - [plume]",
     "level": "5.50...6.00",
     "comment": "sl1"
   },
@@ -1728,6 +1734,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "fe103a2c23a341a67154268007984727",
+    "title": "Rebirth of the MYTH [Beyond Fictional]",
+    "level": "6.00...6.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "37826032dd7655793d7c1b5054c33c94",
     "title": "Reimei [Futabather]",
     "level": "6.00...6.50",
@@ -1910,12 +1922,6 @@
   {
     "md5": "4d0abe87b84a32f220a125b2f379e29c",
     "title": "虹夜パレッド -SP HYPER-",
-    "level": "6.00...6.50",
-    "comment": "sl1"
-  },
-  {
-    "md5": "a876f5e44fa63f4b0ec59f0b0b066d8c",
-    "title": "鳥の詩 - Euro Techno Mix - [plume]",
     "level": "6.00...6.50",
     "comment": "sl1"
   },
@@ -2156,12 +2162,6 @@
   {
     "md5": "1f6c0e55e9ef55751b5262619a839dd3",
     "title": "fragile crystal [Amethyst]",
-    "level": "7.00...7.50",
-    "comment": "sl2"
-  },
-  {
-    "md5": "3e9b31de44a3285da50d61f29b768524",
-    "title": "Fungus Dance [INSANE]",
     "level": "7.00...7.50",
     "comment": "sl2"
   },
@@ -2576,6 +2576,12 @@
   {
     "md5": "a46392237bfa21a4f0e132fbeebeb008",
     "title": "Fiore Tempesta [HARD]",
+    "level": "7.50...8.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "3e9b31de44a3285da50d61f29b768524",
+    "title": "Fungus Dance [INSANE]",
     "level": "7.50...8.00",
     "comment": "sl2"
   },
@@ -5994,6 +6000,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "7ba0d771cc462499d97d20a537accdf6",
+    "title": "ユアンシェンは俺たちに何を伝えたかったのか [no idea]",
+    "level": "14.50...15.00",
+    "comment": "sl8"
+  },
+  {
     "md5": "bd575bc97e261118191d2f09721a34cf",
     "title": "僕が見た世界 [Believe My Shine!!]",
     "level": "14.50...15.00",
@@ -6266,12 +6278,6 @@
   {
     "md5": "47045de25d9d2f9d7a36fec1fa6b86af",
     "title": "ホーリーサンバランド [FIRST BOSS]",
-    "level": "15.00...15.50",
-    "comment": "sl8"
-  },
-  {
-    "md5": "7ba0d771cc462499d97d20a537accdf6",
-    "title": "ユアンシェンは俺たちに何を伝えたかったのか [no idea]",
     "level": "15.00...15.50",
     "comment": "sl8"
   },
@@ -6590,6 +6596,12 @@
   {
     "md5": "04358a9776ed6fb81fe30eaa930e6eb7",
     "title": "イナリッチ [MONEY]",
+    "level": "16.00...16.50",
+    "comment": "sl9"
+  },
+  {
+    "md5": "243ed9e410040cc2c16bb1ae77f6008b",
+    "title": "キミとボクへの葬送歌 [Requiem]",
     "level": "16.00...16.50",
     "comment": "sl9"
   },
@@ -7608,6 +7620,12 @@
     "comment": "sl12"
   },
   {
+    "md5": "b7b9f9b7d7be325d587f9797ccccbae4",
+    "title": "Deublithick [HARDEST]",
+    "level": "19.50...20.00",
+    "comment": "sl12"
+  },
+  {
     "md5": "2d034bffd18881fe6757706d6729eb33",
     "title": "Drop! [SABOTHER]",
     "level": "19.50...20.00",
@@ -7872,6 +7890,12 @@
     "comment": "sl12"
   },
   {
+    "md5": "25fa6f793b02c300e1430864903fbb0b",
+    "title": "天海原～あまみはら～ 【天穹】",
+    "level": "19.50...20.00",
+    "comment": "sl12"
+  },
+  {
     "md5": "780f8f98480b46643f34b59e91355586",
     "title": "失望Choco (-ω-)",
     "level": "19.50...20.00",
@@ -7896,12 +7920,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "eb25dca7e802ccac43477f9f6e3e9bee",
-    "title": "禁忌と緋色幻想 -The Primary Plasm- [SP ANOTHER]",
-    "level": "19.50...20.00",
-    "comment": "sl12"
-  },
-  {
     "md5": "687a49d3b6d25d8fac7b7879515ae83b",
     "title": "絵空事の世界と私 -aletheia-",
     "level": "19.50...20.00",
@@ -7916,6 +7934,12 @@
   {
     "md5": "a3053a25cb3c319260188fff4d006350",
     "title": "非徘徊主義 (-ω-)",
+    "level": "19.50...20.00",
+    "comment": "sl12"
+  },
+  {
+    "md5": "9af0353882897252567c09b0844543c5",
+    "title": "馴鹿之骸 [x2]",
     "level": "19.50...20.00",
     "comment": "sl12"
   },
@@ -7948,12 +7972,6 @@
     "title": "[line-epsilon] -DriFter-",
     "level": "-",
     "comment": "sl8"
-  },
-  {
-    "md5": "a0b3027ae8eb899fce45286c2d8f6e70",
-    "title": "^ [CIRCUMFLEX]",
-    "level": "-",
-    "comment": "sl12"
   },
   {
     "md5": "74b62e4ae1878268d33c5e328243a1dd",
@@ -8068,12 +8086,6 @@
     "title": "Demagogie [EX]",
     "level": "-",
     "comment": "sl11"
-  },
-  {
-    "md5": "b7b9f9b7d7be325d587f9797ccccbae4",
-    "title": "Deublithick [HARDEST]",
-    "level": "-",
-    "comment": "sl12"
   },
   {
     "md5": "02219fc200b7bbf9d068ac978f85188b",
@@ -8194,6 +8206,12 @@
     "title": "It's \"alice\" dream [HARDEST]",
     "level": "-",
     "comment": "sl11"
+  },
+  {
+    "md5": "d59c15046516a9609382838d4762cb55",
+    "title": "JOKER GAME [More you say?]",
+    "level": "-",
+    "comment": "sl8"
   },
   {
     "md5": "cfe8ad9b75ba72ca331755b14df24373",
@@ -8370,12 +8388,6 @@
     "comment": "sl11"
   },
   {
-    "md5": "243ed9e410040cc2c16bb1ae77f6008b",
-    "title": "キミとボクへの葬送歌 [Requiem]",
-    "level": "-",
-    "comment": "sl9"
-  },
-  {
     "md5": "a9e52da28747098fcc9f9a72a14b8a32",
     "title": "サカサマの空に在ったのは [SP XANADU]",
     "level": "-",
@@ -8448,10 +8460,10 @@
     "comment": "sl12"
   },
   {
-    "md5": "25fa6f793b02c300e1430864903fbb0b",
-    "title": "天海原～あまみはら～ 【天穹】",
+    "md5": "67a903768653ce5a8978d082efe4c680",
+    "title": "宇宙テレビ #Decimalized",
     "level": "-",
-    "comment": "sl12"
+    "comment": "sl10"
   },
   {
     "md5": "385343388eaacae49c441c3e5ef53d72",
@@ -8468,12 +8480,6 @@
   {
     "md5": "dd5f2c308821a2d218a6540692e65134",
     "title": "秩序の秋桜 [OVERHEAT]",
-    "level": "-",
-    "comment": "sl12"
-  },
-  {
-    "md5": "9af0353882897252567c09b0844543c5",
-    "title": "馴鹿之骸 [x2]",
     "level": "-",
     "comment": "sl12"
   }

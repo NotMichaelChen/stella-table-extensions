@@ -564,12 +564,6 @@
     "comment": "st0"
   },
   {
-    "md5": "38490fdc959ecfb13d943e1cc7cc7aaf",
-    "title": "Lovers, [Hoppers,]",
-    "level": "6.00...6.50",
-    "comment": "st1"
-  },
-  {
     "md5": "bf1d6e8f15d53bdd35c3160b1f4567a8",
     "title": "Luv of Magical Synth [サテラ×ステラ]",
     "level": "6.00...6.50",
@@ -782,6 +776,12 @@
   {
     "md5": "64dde592ef133610ebaa6664b60538f4",
     "title": "Love Blood [BLOODY+]",
+    "level": "6.50...7.00",
+    "comment": "st1"
+  },
+  {
+    "md5": "38490fdc959ecfb13d943e1cc7cc7aaf",
+    "title": "Lovers, [Hoppers,]",
     "level": "6.50...7.00",
     "comment": "st1"
   },
@@ -3888,6 +3888,12 @@
     "comment": "st2"
   },
   {
+    "md5": "8fd09653dcf95a09ecc7df8c87a35ade",
+    "title": "GET READY [尖兵]",
+    "level": "-",
+    "comment": "st3"
+  },
+  {
     "md5": "14e294a3859dc242034e9fb37006909e",
     "title": "Get the Pride -Xe-",
     "level": "-",
@@ -3988,6 +3994,12 @@
     "title": "Gravity -227 [Ω]",
     "level": "-",
     "comment": "st7"
+  },
+  {
+    "md5": "673d16d5c033aa6d86973681a3ae673c",
+    "title": "Grayed Out -Antifront- -Genocide-",
+    "level": "-",
+    "comment": "st4"
   },
   {
     "md5": "2d1de5a9ae740b3e00abceb41d737d69",
@@ -4294,6 +4306,12 @@
     "title": "Inherited World [DESPERATE]",
     "level": "-",
     "comment": "st8"
+  },
+  {
+    "md5": "f2bba8fd59b29034194c19cbbbe0c893",
+    "title": "INSANER [DELAYER]",
+    "level": "-",
+    "comment": "st6"
   },
   {
     "md5": "fb35fdadfba4ac0ee9f3b33a70846e92",
@@ -4672,6 +4690,12 @@
     "title": "MEPHISTO [DISASTER]",
     "level": "-",
     "comment": "st5"
+  },
+  {
+    "md5": "6225f647175f0f7b638376b0587d04fa",
+    "title": "Mercury [Radiation Poisoning]",
+    "level": "-",
+    "comment": "st3"
   },
   {
     "md5": "f3242efa149acd3ccd92a3a79af38c02",
@@ -5829,7 +5853,7 @@
     "md5": "c2cd4166bda5fc98d9f2a8fc5e2533f0",
     "title": "The ArcticLight [M]",
     "level": "-",
-    "comment": "st0"
+    "comment": "st1"
   },
   {
     "md5": "6c04278a8e45693e4128a8b7f3e0df24",
@@ -5864,6 +5888,12 @@
   {
     "md5": "bd2326f72f9586eb13f5f4f9d202ade2",
     "title": "The Last Page -LAST BOSS-",
+    "level": "-",
+    "comment": "st4"
+  },
+  {
+    "md5": "39efc3b790d07526f48649a93e76165a",
+    "title": "The Lizard Tail [Hexagon]",
     "level": "-",
     "comment": "st4"
   },

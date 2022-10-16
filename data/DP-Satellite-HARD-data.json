@@ -1,11 +1,5 @@
 [
   {
-    "md5": "5734e3760fa0f8e5925829d07b639af9",
-    "title": "Acacia [DP ANOTHER]",
-    "level": "0.00...0.50",
-    "comment": "sl0"
-  },
-  {
     "md5": "c80f82c866039e7f563ad6e2020e4980",
     "title": "Anger Control [14KEYS]",
     "level": "0.00...0.50",
@@ -15,6 +9,12 @@
     "md5": "80aa05db73ca35739b93df3f46afc440",
     "title": "Regain [DP HYPER]",
     "level": "0.00...0.50",
+    "comment": "sl0"
+  },
+  {
+    "md5": "5734e3760fa0f8e5925829d07b639af9",
+    "title": "Acacia [DP ANOTHER]",
+    "level": "0.50...1.00",
     "comment": "sl0"
   },
   {
@@ -240,6 +240,12 @@
     "comment": "sl0"
   },
   {
+    "md5": "feb8ba8b2575719616dced58a218a185",
+    "title": "Winter harbor",
+    "level": "1.00...1.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "e6daf926c0cf0bac383e7e24e09494da",
     "title": "タキオン",
     "level": "1.00...1.50",
@@ -306,12 +312,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "ab27e512bd93288306944f602d57e834",
-    "title": "JUGGLE [DP ANOTHER]",
-    "level": "1.50...2.00",
-    "comment": "sl1"
-  },
-  {
     "md5": "1fd4c1863f55d604fd48894af9f12a9c",
     "title": "JUMMER [DPA]",
     "level": "1.50...2.00",
@@ -342,14 +342,14 @@
     "comment": "sl0"
   },
   {
-    "md5": "5b6413abb8ab8b5dc428e9716f531331",
-    "title": "Sleet in the city [DP ANOTHER]",
+    "md5": "9175ecb4ebe55e11054e8e78e2464cf8",
+    "title": "Replace [DP ANOTHER]",
     "level": "1.50...2.00",
     "comment": "sl1"
   },
   {
-    "md5": "feb8ba8b2575719616dced58a218a185",
-    "title": "Winter harbor",
+    "md5": "5b6413abb8ab8b5dc428e9716f531331",
+    "title": "Sleet in the city [DP ANOTHER]",
     "level": "1.50...2.00",
     "comment": "sl1"
   },
@@ -432,6 +432,18 @@
     "comment": "sl1"
   },
   {
+    "md5": "ab27e512bd93288306944f602d57e834",
+    "title": "JUGGLE [DP ANOTHER]",
+    "level": "2.00...2.50",
+    "comment": "sl1"
+  },
+  {
+    "md5": "171abdcb2d11ec19a911b541313f7eb7",
+    "title": "Larix (BMS Edit) [DP ANOTHER]",
+    "level": "2.00...2.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "33dcbf24bf983f3a897ad45220e95754",
     "title": "LAST PROPOZE [DP 202THER]",
     "level": "2.00...2.50",
@@ -446,12 +458,6 @@
   {
     "md5": "24b84a5f70b67bb54b4da39bcead1e56",
     "title": "Orbitaloid [DP ANOTHER]",
-    "level": "2.00...2.50",
-    "comment": "sl1"
-  },
-  {
-    "md5": "9175ecb4ebe55e11054e8e78e2464cf8",
-    "title": "Replace [DP ANOTHER]",
     "level": "2.00...2.50",
     "comment": "sl1"
   },
@@ -582,12 +588,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "171abdcb2d11ec19a911b541313f7eb7",
-    "title": "Larix (BMS Edit) [DP ANOTHER]",
-    "level": "2.50...3.00",
-    "comment": "sl1"
-  },
-  {
     "md5": "af3c85b4d9ec0c7ef028affc2f1ba7bb",
     "title": "Linescape (14keys Maniac)",
     "level": "2.50...3.00",
@@ -666,12 +666,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "2981f0481ec485193832293599820e19",
-    "title": "Blooming [DP HYPER]",
-    "level": "3.00...3.50",
-    "comment": "sl2"
-  },
-  {
     "md5": "a883969ae8ae045218a5f5a8f846eaf4",
     "title": "Breeze [台風とそよ風の境目]",
     "level": "3.00...3.50",
@@ -738,12 +732,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "f6721d9e4ac564412ce520aae543290c",
-    "title": "WHIRLWIND [DP SHDMix]",
-    "level": "3.00...3.50",
-    "comment": "sl2"
-  },
-  {
     "md5": "74af66270ed14d3bb20f612768c97f07",
     "title": "☆ twinklesky ☆ 12",
     "level": "3.00...3.50",
@@ -782,6 +770,12 @@
   {
     "md5": "a2518553abe125f233d6d35e68c68d13",
     "title": "Bicolor Spirit [DP ANOTHER]",
+    "level": "3.50...4.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "2981f0481ec485193832293599820e19",
+    "title": "Blooming [DP HYPER]",
     "level": "3.50...4.00",
     "comment": "sl2"
   },
@@ -896,6 +890,12 @@
   {
     "md5": "5a3d872dcaae9b644d0cd06388c7124a",
     "title": "Suffering of screw [DP Another]",
+    "level": "3.50...4.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "f6721d9e4ac564412ce520aae543290c",
+    "title": "WHIRLWIND [DP SHDMix]",
     "level": "3.50...4.00",
     "comment": "sl2"
   },
@@ -1050,12 +1050,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "7350b957c0c4a5100ca6fca9b24b144e",
-    "title": "2anyFirst [14-A]",
-    "level": "4.50...5.00",
-    "comment": "sl3"
-  },
-  {
     "md5": "b3307a2f68b6f78db339ef05050a6e8e",
     "title": "Altostratus",
     "level": "4.50...5.00",
@@ -1122,12 +1116,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "e150aba33c57e4a8c35bb1daddee4fc1",
-    "title": "Ena (Radio edit) 虎のANOTHER14 (修正版)",
-    "level": "4.50...5.00",
-    "comment": "sl4"
-  },
-  {
     "md5": "0a7873bc384c10c0c88f5059efb04ec6",
     "title": "Fading Star [Sparkling]",
     "level": "4.50...5.00",
@@ -1190,12 +1178,6 @@
   {
     "md5": "3c4dbc85d18236ca08a8e95549415e9c",
     "title": "QTロジック [DPロジック]",
-    "level": "4.50...5.00",
-    "comment": "sl3"
-  },
-  {
-    "md5": "2e1d905b08d65ad49333586bfbc9a7b5",
-    "title": "Satellite in Heart",
     "level": "4.50...5.00",
     "comment": "sl3"
   },
@@ -1302,6 +1284,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "7350b957c0c4a5100ca6fca9b24b144e",
+    "title": "2anyFirst [14-A]",
+    "level": "5.00...5.50",
+    "comment": "sl3"
+  },
+  {
     "md5": "23f0c411fc26c1e8aa82f3e5dda90dbe",
     "title": "Banhotta -黄昏-",
     "level": "5.00...5.50",
@@ -1338,6 +1326,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "e150aba33c57e4a8c35bb1daddee4fc1",
+    "title": "Ena (Radio edit) 虎のANOTHER14 (修正版)",
+    "level": "5.00...5.50",
+    "comment": "sl4"
+  },
+  {
     "md5": "b5403179a9f3a205433bbd45673a8fff",
     "title": "Fakeover [DP ANOTHER]",
     "level": "5.00...5.50",
@@ -1362,6 +1356,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "2e1d905b08d65ad49333586bfbc9a7b5",
+    "title": "Satellite in Heart",
+    "level": "5.00...5.50",
+    "comment": "sl3"
+  },
+  {
     "md5": "103f559a7cecad6789109a21296d2371",
     "title": "searoad tracks =side blue= [DP MANIAC]",
     "level": "5.00...5.50",
@@ -1370,12 +1370,6 @@
   {
     "md5": "e80b8d644b47e94cda1c90ca27014a3b",
     "title": "Take Me Away [DPH]",
-    "level": "5.00...5.50",
-    "comment": "sl4"
-  },
-  {
-    "md5": "82d6765227d050ddff2d4d930f9b0aec",
-    "title": "TURNDOWN [DPL]",
     "level": "5.00...5.50",
     "comment": "sl4"
   },
@@ -1524,6 +1518,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "82d6765227d050ddff2d4d930f9b0aec",
+    "title": "TURNDOWN [DPL]",
+    "level": "5.50...6.00",
+    "comment": "sl4"
+  },
+  {
     "md5": "b33e89e037924cbb8417f6bdd3c80d8b",
     "title": "World Against 2 [DP sub another]",
     "level": "5.50...6.00",
@@ -1614,12 +1614,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "829a8cfe13136f18e25003bab8b7ba06",
-    "title": "Neurotoxin [toxic14]",
-    "level": "6.00...6.50",
-    "comment": "sl5"
-  },
-  {
     "md5": "d294adfc2a5ba6dbea9795ce7b226a15",
     "title": "orangegirl sentiment [DP-sagINSANE]",
     "level": "6.00...6.50",
@@ -1658,12 +1652,6 @@
   {
     "md5": "34687333636caf3ef26d5450bd1efae6",
     "title": "Simurgh [DP ANOTHER]",
-    "level": "6.00...6.50",
-    "comment": "sl5"
-  },
-  {
-    "md5": "51499867f8d8531220ebfec8074c116f",
-    "title": "Subjection Method [DPH]",
     "level": "6.00...6.50",
     "comment": "sl5"
   },
@@ -1824,6 +1812,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "829a8cfe13136f18e25003bab8b7ba06",
+    "title": "Neurotoxin [toxic14]",
+    "level": "6.50...7.00",
+    "comment": "sl5"
+  },
+  {
     "md5": "f933308f0963b29ad48b6fe249689560",
     "title": "QSHELL -拒色のシェルル- [DPA]",
     "level": "6.50...7.00",
@@ -1848,10 +1842,10 @@
     "comment": "sl6"
   },
   {
-    "md5": "5dc019d3c327fb3e8adafc2bef02420a",
-    "title": "The Microbe [DP INSANE]",
+    "md5": "51499867f8d8531220ebfec8074c116f",
+    "title": "Subjection Method [DPH]",
     "level": "6.50...7.00",
-    "comment": "sl6"
+    "comment": "sl5"
   },
   {
     "md5": "c3cce8a0c9843c032d23b9a51f33a800",
@@ -1870,12 +1864,6 @@
     "title": "スピカ [DP ANOTHER]",
     "level": "6.50...7.00",
     "comment": "sl5"
-  },
-  {
-    "md5": "144901283ee18aed261051dd0cd72713",
-    "title": "トルコ行進曲 (Hd-NRG mix) [Double]",
-    "level": "6.50...7.00",
-    "comment": "sl6"
   },
   {
     "md5": "c1bd86080023e6e353cf65a9871e737a",
@@ -1946,12 +1934,6 @@
   {
     "md5": "dd3b189fa0bc5e73f65a588ea89a4e47",
     "title": "dolosus [さくらむすび]",
-    "level": "7.00...7.50",
-    "comment": "sl6"
-  },
-  {
-    "md5": "972b10226fe6fb1cb39028570a1f34c1",
-    "title": "Electric Emotion [DP Extension Energy]",
     "level": "7.00...7.50",
     "comment": "sl6"
   },
@@ -2052,8 +2034,20 @@
     "comment": "sl6"
   },
   {
+    "md5": "5dc019d3c327fb3e8adafc2bef02420a",
+    "title": "The Microbe [DP INSANE]",
+    "level": "7.00...7.50",
+    "comment": "sl6"
+  },
+  {
     "md5": "b09b5e86185319b7e80ec54a37bd61b5",
     "title": "スナレ",
+    "level": "7.00...7.50",
+    "comment": "sl6"
+  },
+  {
+    "md5": "144901283ee18aed261051dd0cd72713",
+    "title": "トルコ行進曲 (Hd-NRG mix) [Double]",
     "level": "7.00...7.50",
     "comment": "sl6"
   },
@@ -2122,6 +2116,12 @@
     "title": "Divided Montage [14KEYS ANOTHER]",
     "level": "7.50...8.00",
     "comment": "sl7"
+  },
+  {
+    "md5": "972b10226fe6fb1cb39028570a1f34c1",
+    "title": "Electric Emotion [DP Extension Energy]",
+    "level": "7.50...8.00",
+    "comment": "sl6"
   },
   {
     "md5": "028d2eb267753e281eea1f23a2458492",

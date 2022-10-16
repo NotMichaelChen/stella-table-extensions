@@ -1,11 +1,5 @@
 [
   {
-    "md5": "5734e3760fa0f8e5925829d07b639af9",
-    "title": "Acacia [DP ANOTHER]",
-    "level": "-0.50...0.00",
-    "comment": "sl0"
-  },
-  {
     "md5": "c80f82c866039e7f563ad6e2020e4980",
     "title": "Anger Control [14KEYS]",
     "level": "-0.50...0.00",
@@ -18,14 +12,14 @@
     "comment": "sl0"
   },
   {
-    "md5": "2f73d7199984227a5565ac5da184b3ab",
-    "title": "ALICE IN PICOPICO NIGHT (DP HYPER)",
+    "md5": "5734e3760fa0f8e5925829d07b639af9",
+    "title": "Acacia [DP ANOTHER]",
     "level": "0.00...0.50",
     "comment": "sl0"
   },
   {
-    "md5": "c02de0206f910240a0b9ed86858969cd",
-    "title": "Dream in the girl -DP ANOTHER-",
+    "md5": "2f73d7199984227a5565ac5da184b3ab",
+    "title": "ALICE IN PICOPICO NIGHT (DP HYPER)",
     "level": "0.00...0.50",
     "comment": "sl0"
   },
@@ -134,6 +128,12 @@
   {
     "md5": "032f2470cdd02273a64a0aaa24d9a07f",
     "title": "Cutter [DP ANOTHER]",
+    "level": "0.50...1.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "c02de0206f910240a0b9ed86858969cd",
+    "title": "Dream in the girl -DP ANOTHER-",
     "level": "0.50...1.00",
     "comment": "sl0"
   },
@@ -366,12 +366,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "ab27e512bd93288306944f602d57e834",
-    "title": "JUGGLE [DP ANOTHER]",
-    "level": "1.00...1.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "171abdcb2d11ec19a911b541313f7eb7",
     "title": "Larix (BMS Edit) [DP ANOTHER]",
     "level": "1.00...1.50",
@@ -516,6 +510,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "ab27e512bd93288306944f602d57e834",
+    "title": "JUGGLE [DP ANOTHER]",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "af3c85b4d9ec0c7ef028affc2f1ba7bb",
     "title": "Linescape (14keys Maniac)",
     "level": "1.50...2.00",
@@ -612,18 +612,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "47794ff2186babd108ce7852478cda68",
-    "title": "06 (mknrmx)",
-    "level": "2.00...2.50",
-    "comment": "sl2"
-  },
-  {
-    "md5": "1754b47ff373aa71494bff859a6a0ba8",
-    "title": "c.s.q.n. [DP]",
-    "level": "2.00...2.50",
-    "comment": "sl2"
-  },
-  {
     "md5": "2332bbd8876a500af7e868f71192f9a9",
     "title": "Deus ex Machina [DPH]",
     "level": "2.00...2.50",
@@ -702,12 +690,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "f6721d9e4ac564412ce520aae543290c",
-    "title": "WHIRLWIND [DP SHDMix]",
-    "level": "2.00...2.50",
-    "comment": "sl2"
-  },
-  {
     "md5": "74af66270ed14d3bb20f612768c97f07",
     "title": "☆ twinklesky ☆ 12",
     "level": "2.00...2.50",
@@ -734,6 +716,12 @@
   {
     "md5": "7c31ece35a5b0839af9a31c9b2d7b961",
     "title": "#Za_illusory [DP-sagANOTHER]",
+    "level": "2.50...3.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "47794ff2186babd108ce7852478cda68",
+    "title": "06 (mknrmx)",
     "level": "2.50...3.00",
     "comment": "sl2"
   },
@@ -770,6 +758,12 @@
   {
     "md5": "a883969ae8ae045218a5f5a8f846eaf4",
     "title": "Breeze [台風とそよ風の境目]",
+    "level": "2.50...3.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "1754b47ff373aa71494bff859a6a0ba8",
+    "title": "c.s.q.n. [DP]",
     "level": "2.50...3.00",
     "comment": "sl2"
   },
@@ -894,14 +888,14 @@
     "comment": "sl2"
   },
   {
-    "md5": "dfecee0e19120dcdc4f92271699016fa",
-    "title": "XALICE [DP WONDERLAND]",
+    "md5": "f6721d9e4ac564412ce520aae543290c",
+    "title": "WHIRLWIND [DP SHDMix]",
     "level": "2.50...3.00",
     "comment": "sl2"
   },
   {
-    "md5": "ee994a213fd2e1bf9fda2cae96ba7c8a",
-    "title": "Yakumo >>JOINT STRUGGLE [DPA]",
+    "md5": "dfecee0e19120dcdc4f92271699016fa",
+    "title": "XALICE [DP WONDERLAND]",
     "level": "2.50...3.00",
     "comment": "sl2"
   },
@@ -1014,6 +1008,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "ee994a213fd2e1bf9fda2cae96ba7c8a",
+    "title": "Yakumo >>JOINT STRUGGLE [DPA]",
+    "level": "3.00...3.50",
+    "comment": "sl2"
+  },
+  {
     "md5": "cc93bbd824c93d07cab5b085bceb8bad",
     "title": "フラッフィー・フォアキャスト [14key Another]",
     "level": "3.00...3.50",
@@ -1062,12 +1062,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "4b09fc33f71a32e2c6bbc7602048ab21",
-    "title": "Central Nucleus [DP ANOTHER]",
-    "level": "3.50...4.00",
-    "comment": "sl3"
-  },
-  {
     "md5": "81c8fad166661b8609873553f32d09bb",
     "title": "Conviction [DP HYPER]",
     "level": "3.50...4.00",
@@ -1084,12 +1078,6 @@
     "title": "Destr0yer [DP HYP☆R]",
     "level": "3.50...4.00",
     "comment": "sl3"
-  },
-  {
-    "md5": "e150aba33c57e4a8c35bb1daddee4fc1",
-    "title": "Ena (Radio edit) 虎のANOTHER14 (修正版)",
-    "level": "3.50...4.00",
-    "comment": "sl4"
   },
   {
     "md5": "f59aedc595217b62eed54f5ecf663fba",
@@ -1194,12 +1182,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "bfa7329f23edce8d84f146018c220717",
-    "title": "シンフォニックライツ [HYPER]",
-    "level": "3.50...4.00",
-    "comment": "sl3"
-  },
-  {
     "md5": "22bf61d1f427eefe76ef02a3ba90ab81",
     "title": "ネコイチ(Lemon beads Remix) -BMS edit- [DP-sagANOTHER]",
     "level": "3.50...4.00",
@@ -1278,6 +1260,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "4b09fc33f71a32e2c6bbc7602048ab21",
+    "title": "Central Nucleus [DP ANOTHER]",
+    "level": "4.00...4.50",
+    "comment": "sl3"
+  },
+  {
     "md5": "74275b409e2bc00f51366a14c7e5d173",
     "title": "CG901B -7- [Short Ver.] [DPEX]",
     "level": "4.00...4.50",
@@ -1298,6 +1286,12 @@
   {
     "md5": "87b1773181907991e14826e2d5db07d5",
     "title": "Disorder [DPA]",
+    "level": "4.00...4.50",
+    "comment": "sl4"
+  },
+  {
+    "md5": "e150aba33c57e4a8c35bb1daddee4fc1",
+    "title": "Ena (Radio edit) 虎のANOTHER14 (修正版)",
     "level": "4.00...4.50",
     "comment": "sl4"
   },
@@ -1380,6 +1374,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "bfa7329f23edce8d84f146018c220717",
+    "title": "シンフォニックライツ [HYPER]",
+    "level": "4.00...4.50",
+    "comment": "sl3"
+  },
+  {
     "md5": "8a626400b635d2012988b072de442862",
     "title": "冰月冰花 (BMS edit) [DP-sagANOTHER]",
     "level": "4.00...4.50",
@@ -1456,12 +1456,6 @@
     "title": "Chasing Stars [DP Very Hard]",
     "level": "4.50...5.00",
     "comment": "sl4"
-  },
-  {
-    "md5": "d650ba8622f1f079681efb67dd7ee04e",
-    "title": "Cutter [DP INSANE]",
-    "level": "4.50...5.00",
-    "comment": "sl5"
   },
   {
     "md5": "ce7d6db9389dea40079e947f2d83a2c5",
@@ -1622,6 +1616,12 @@
   {
     "md5": "76fd4bd3f9937e3880739fa116c7dcae",
     "title": "Brandnew Mind [14A]",
+    "level": "5.00...5.50",
+    "comment": "sl5"
+  },
+  {
+    "md5": "d650ba8622f1f079681efb67dd7ee04e",
+    "title": "Cutter [DP INSANE]",
     "level": "5.00...5.50",
     "comment": "sl5"
   },
@@ -1938,12 +1938,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "144901283ee18aed261051dd0cd72713",
-    "title": "トルコ行進曲 (Hd-NRG mix) [Double]",
-    "level": "5.50...6.00",
-    "comment": "sl6"
-  },
-  {
     "md5": "c1bd86080023e6e353cf65a9871e737a",
     "title": "ミルキーベリー・スウィートタイム [DP ANOTHER]",
     "level": "5.50...6.00",
@@ -2126,6 +2120,12 @@
   {
     "md5": "b09b5e86185319b7e80ec54a37bd61b5",
     "title": "スナレ",
+    "level": "6.00...6.50",
+    "comment": "sl6"
+  },
+  {
+    "md5": "144901283ee18aed261051dd0cd72713",
+    "title": "トルコ行進曲 (Hd-NRG mix) [Double]",
     "level": "6.00...6.50",
     "comment": "sl6"
   },
@@ -2694,12 +2694,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "57182e1504854ce3d6de10b813ce6abf",
-    "title": "Echoes from Pangaea",
-    "level": "8.00...8.50",
-    "comment": "sl9"
-  },
-  {
     "md5": "09ddc29dfc8ac70ceba82c7755efd84f",
     "title": "Evanescent [DP ANOTHER]",
     "level": "8.00...8.50",
@@ -2816,6 +2810,12 @@
   {
     "md5": "3313af61d72229ebf2910b7d82108083",
     "title": "Destr0yer [DP ☆NOTHER]",
+    "level": "8.50...9.00",
+    "comment": "sl9"
+  },
+  {
+    "md5": "57182e1504854ce3d6de10b813ce6abf",
+    "title": "Echoes from Pangaea",
     "level": "8.50...9.00",
     "comment": "sl9"
   },
