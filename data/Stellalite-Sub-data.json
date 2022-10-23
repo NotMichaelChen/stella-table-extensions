@@ -2090,6 +2090,18 @@
     "proposerLr2id": 147895
   },
   {
+    "md5": "1f06ba6605bc7a3d32c85b44769f24a1",
+    "sha256": "236365c5670c138a0c1ee8c950263c224bb281a12d3ee6605511758f9b1c53f4",
+    "title": "NULL Foundation",
+    "artist": "circusson",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=67&event=104",
+    "level": "0",
+    "proposer": "Mary_Sue",
+    "submission": 2604,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "3c5063ddcf8f76728c5d6dd290bdc269",
     "sha256": "345f63c979f68aa65686034a18316c2576b5b2c0cb56fb25352d8c6b7fc2b5d7",
     "title": "Nyan-Nyan Naughty Night [HYPER]",
@@ -4132,6 +4144,18 @@
     "proposer": "DJ_Kuroakari",
     "submission": 2587,
     "proposerMinirid": "67a15542-ef23-4a97-82a0-cc6d74a114c1"
+  },
+  {
+    "md5": "7d7c74e83ba64229e12e6f6adb0baf59",
+    "sha256": "cf460b85dde186044c48dd6cab9a73e295e29c8c886457b5aeb3a39e3b0a3731",
+    "title": "漁火と倶に寂滅せし人",
+    "artist": "q/stol",
+    "url_diff": "",
+    "url": "http://yaruki0.sakura.ne.jp/event/wiredrockfes/impression.cgi?no=4",
+    "level": "0",
+    "proposer": "七海",
+    "submission": 2599,
+    "proposerLr2id": 84597
   },
   {
     "md5": "e1dfd68aab90337b91e2d107b3b29424",
@@ -9656,6 +9680,18 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "3c35944d1415841978e3e8197b62e1a4",
+    "sha256": "c3f4f490541414b8daf5bf670cc8ab63a54231baba5840d57d6902177e62afaa",
+    "title": "Jumbo",
+    "artist": "ポポス",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=91&event=65",
+    "level": "2",
+    "proposer": "Mary_Sue",
+    "submission": 2603,
+    "proposerLr2id": 147889
   },
   {
     "md5": "b426cd2d987a71be3342a68effe03511",
@@ -23327,6 +23363,19 @@
     "proposerLr2id": 84597
   },
   {
+    "md5": "767e2d772455e066237319b1fda9bdd0",
+    "sha256": "c72e205542eb00eea2c8a66e18e4ac00a0e6c1a98ce02cfeed6b253fa2ec33e6",
+    "title": "笑フ愉快逝輪唱 [SILLY]",
+    "artist": "道化師 / obj : Mary_Sue",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "url": "https://mega.nz/file/v5MTSapB#d32Au6zrKvL6wOI-WlyBQquzTwn3M4bA-zjrV3SkshQ",
+    "level": "6",
+    "comment": "03_warau_ex.pmsとズレなし",
+    "proposer": "七海",
+    "submission": 2600,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "fba46a8a1724cdd83c450defedb11334",
     "sha256": "39f8a48c51164313f4d3c332943a545a33fb11872fb7c5b86c1793df0950e48d",
     "title": "純子先輩 [VIP]",
@@ -27586,6 +27635,20 @@
     "proposerLr2id": 123475
   },
   {
+    "md5": "1e8a560a0488f10924a22332c5be2ca1",
+    "sha256": "17150f421229b4ae0b67aad341f4ab5883f8fda9e0ff04c1408a65d3b35f9eff",
+    "title": "Aloof Wolf -trysts-",
+    "artist": "idzuchi obj:3830",
+    "url_diff": "https://stellabms.xyz/upload/1982",
+    "url": "https://bms-mirror.com/pkg/2020/bofxvi/%5BSingin%27%20Rabbits%5Didzuchi%20-%20Aloof%20Wolf.zip",
+    "level": "9",
+    "comment": "sl 8～9？",
+    "zureCount": 0,
+    "proposer": "ii5",
+    "submission": 2602,
+    "proposerLr2id": 141043
+  },
+  {
     "md5": "d7f000e155172ab880f7be09769124cb",
     "sha256": "b9d9ee03882512e4306159717956334abe586f3d2110ebff798c989669ef151a",
     "title": "Andro [F]",
@@ -31748,6 +31811,20 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "03ddbf8fa7c7c32f0f75e2f7f4f99b23",
+    "sha256": "dea06f414e1e8b59207a1dd69c13b20ed5c34388cb9fc845ad0163a6a5d796ef",
+    "title": "Lemuria [Lost Technology]",
+    "artist": "Festa 鑓田(alpha complex)/obj.sitoras",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=00243",
+    "url": "http://daida.tv/bms/Festa_Lemuria_ogg.zip",
+    "level": "11",
+    "comment": "",
+    "zureCount": 0,
+    "proposer": "ii5",
+    "submission": 2601,
+    "proposerLr2id": 141043
   },
   {
     "md5": "12d8d9fe45566ce0c1b8b27ebfad2c2c",
@@ -45000,6 +45077,19 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "686819bf798507e6c1f6c484fba3b67a",
+    "sha256": "7dd0cd61ffdffa21c2f72f6d6b497299abd952d744965247807c8574e3632080",
+    "title": "secret:mirage (SP INSANE+)",
+    "artist": "かゆき / И Movie:Nao_AnD",
+    "url_diff": "https://venue.bmssearch.net/bcel_pre/2",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=84&event=137",
+    "level": "15",
+    "comment": "同梱Another基準、ソフラン除き以外のズレ抜けなし",
+    "proposer": "Mary_Sue",
+    "submission": 1941,
+    "proposerLr2id": 147889
+  },
+  {
     "title": "SERIOUS ERROR [INSANE]",
     "artist": "Laur",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=266&event=110",
@@ -49492,6 +49582,19 @@
     "proposerLr2id": 84597
   },
   {
+    "md5": "ac2ed62daa434c186da67dce788437aa",
+    "sha256": "358e76b6a4c75cf28a086562644104b88f806d5708628fbde0e1687a3cb0847d",
+    "title": "お前らどうせ「今回も『JUMP』とか『跳』とか関連の単語をタイトルの中に入れるんだろうなー」とか期待していたんだろう？残念だがそう何度もJUMPネタで行くと思うなよ！俺だってそう何度もJUMP、JUMP言い続けたら飽きられるってことぐらい分かってるんだ！JUMPって言い続け",
+    "artist": "もちろん桃山 / obj:sarao3",
+    "url_diff": "http://absolute.pv.land.to/uploader/src/up2896.zip",
+    "url": "https://dropbox.bms.ms/u/59483835/BMS/moudameda.rar",
+    "level": "16",
+    "comment": "皿複合と物量、ズレ抜けは全部1小節目を長くしている（恐らく最初の皿が降ってくるタイミングを後らせるため？）からでそれ以外のズレ抜けはなかったです",
+    "proposer": "ctc",
+    "submission": 1940,
+    "proposerLr2id": 31401
+  },
+  {
     "md5": "73a1144b713e3b0482d15dea84a5ab78",
     "title": "しぇる☆どっきんぐ ～だめ！このままじゃ溢れちゃう！～ [INFERNO]",
     "artist": "髭姫 feat.しゆ＆橘花音/ 差分 赤い人 LYRICS：やんばるん BGA：Milk_tya ILLUST：UNOQLO",
@@ -53902,6 +54005,18 @@
     "sha256": "589004056962432f3907494f7d7715d541558100770d7e2ac356db1768958c3a"
   },
   {
+    "md5": "ce8476d3196b346fbe41e161bbcd5cd1",
+    "sha256": "008e72fc550cb2a0abdaf2cb54ba37c9d5b07a3add692f1109296e921f458415",
+    "title": "DOTA-BATA Cooking Show!",
+    "artist": "kas_0120 BGA: かんてん",
+    "url_diff": "",
+    "url": "https://9domu46i.com/yuruyuru/package/YURUYURU_Phase_14.zip",
+    "level": "18",
+    "proposer": "七海",
+    "submission": 1938,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "2b1ae8441aeee72aaa68362edccd2601",
     "sha256": "4bbe8c8eb5fbbf2529aa4cb8b40537cc492e6807ad347325a9a1c1357a91d68e",
     "title": "Dstorv [undefined]",
@@ -54441,6 +54556,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "712bb0028cfe76f8c882656a4db64ad7d99132b76b4c9f85da9123be3caf19c5"
+  },
+  {
+    "md5": "3ac4bfca957201d374673f737f3aefa8",
+    "sha256": "8e0abe550375f7068f7691ae9dee497d4cec65efb8412d73876c49455ae14026",
+    "title": "Lonely Cat [大雨注意報]",
+    "artist": "* (Asterisk) / obj:スノート 前川みく×多田李衣菜",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04140",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=48&event=110",
+    "level": "18",
+    "comment": "128bpm ガチ押し",
+    "proposer": "和泉妃愛",
+    "submission": 1942,
+    "proposerLr2id": 177952
   },
   {
     "level": "18",
@@ -55904,6 +56032,19 @@
     "sha256": "3c0d5286ff284d302ce3b82ff101909632b6f92ef09f1cb525304d747352429a"
   },
   {
+    "md5": "77b284df71745b66f94e71db50961b3b",
+    "sha256": "b914f56e32e6d86b648948c947ee60eb934c1e1911887ae399aedd1ce926b476",
+    "title": "風時夏 [夏海記]",
+    "artist": "otoshi.b BGI:鈴木なるひ obj:BAECON",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/bmskanji2/23",
+    "level": "18",
+    "comment": "BPM140 ガチ押し",
+    "proposer": "垢伴次郎",
+    "submission": 1937,
+    "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
+  },
+  {
     "title": "魔法少女になるしかねぇ [ワルプルギスの夜]",
     "artist": "ねこみりん feat.小宮真央 / AAAA Movie:むらしん",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=430&event=116",
@@ -56648,6 +56789,19 @@
     "voteYes": 0,
     "voteNo": 0,
     "sha256": "1234672a8a0786ce9c98416dfa548c1f27d585c0f194def1249505e93fe2be6e"
+  },
+  {
+    "md5": "ae3386e69b12c5df3b5e96992d34468a",
+    "sha256": "afd97b5afd82d9d3f8ea716f67d36effe3014155b230044728f149567e3c75ef",
+    "title": "Mr.RENDA [Mr.DELAY]",
+    "artist": "縦連田 勝己 obj tyrcs",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05301",
+    "url": "https://venue.bmssearch.net/bmsshuin3/29",
+    "level": "19",
+    "comment": "ディレイなどのズレあり",
+    "proposer": "七海",
+    "submission": 1939,
+    "proposerLr2id": 84597
   },
   {
     "md5": "edecd9a13627a5a55feaf3be4b6a0724",
