@@ -12387,6 +12387,18 @@
     "submission": 544
   },
   {
+    "title": "スナレ",
+    "artist": "Zris feat. Green",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=475&event=137",
+    "url_diff": "",
+    "md5": "5a7d10be7fe321b9f3c793de37b2b6c3",
+    "sha256": "cb12d3772adf62bd7bb0ca43e71858b89d700c5497d57e14c6b0cccde9950a0c",
+    "level": "8",
+    "proposer": "mukyu--",
+    "comment": "BPM149 ディレイ",
+    "submission": 2559
+  },
+  {
     "title": "ナツイノ [涼風]",
     "artist": "Ino loves みずたま & 加藤裕幸(sweez) / obj:Sphere",
     "url": "https://dropbox.bms.ms/u/53751238/Ino_BOFU2016_Natsuino_OGG.zip",
@@ -13284,18 +13296,6 @@
     "proposer": "Restia",
     "comment": "AnzuTool検証 SPH基準ズレ無し (AnzuTool 기준 SPH 기준 오류 X)",
     "submission": 1822
-  },
-  {
-    "title": "スナレ",
-    "artist": "Zris feat. Green",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=475&event=137",
-    "url_diff": "",
-    "md5": "5a7d10be7fe321b9f3c793de37b2b6c3",
-    "sha256": "cb12d3772adf62bd7bb0ca43e71858b89d700c5497d57e14c6b0cccde9950a0c",
-    "level": "9",
-    "proposer": "mukyu--",
-    "comment": "BPM149 ディレイ",
-    "submission": 2559
   },
   {
     "title": "ニニ - ニサシゴ -",
@@ -14445,6 +14445,18 @@
     "submission": 65,
     "sha256": "978a6201d2aa5c34f4f68e4455289e40969d296ab48707475b2089111f4b4586",
     "proposerLr2id": 86559
+  },
+  {
+    "title": "風時夏 [晴海歌]",
+    "artist": "otoshi.b BGI:鈴木なるひ obj:BAECON",
+    "url": "https://venue.bmssearch.net/bmskanji2/23",
+    "url_diff": "",
+    "md5": "8a4355653ba3f0b5c437bf0e67761c13",
+    "sha256": "07d787c15e3e5c2ebf7f0e0db9e6401f4f47e1b15ccd26552c532d5582100482",
+    "level": "10",
+    "proposer": "EGRET.",
+    "comment": "BPM140の乱打譜面",
+    "submission": 2580
   },
   {
     "title": "7 colors* -To The Future-",
@@ -15940,6 +15952,18 @@
     "proposer": "ふかけん",
     "comment": "BPM228の16分乱打、打鍵速度を上げたい人へ",
     "submission": 2385
+  },
+  {
+    "title": "DJおっさん 尻削り節 remix [...!?]",
+    "artist": "kireji remixed by s-don obj : qtp13",
+    "url": "https://dropbox.bms.ms/u/33464123/DJ_Ossan.zip",
+    "url_diff": "https://venue.bmssearch.net/bcel_pre/18",
+    "md5": "bf32bfe637da0b321e8ff27b225901b5",
+    "sha256": "18a226f9b77155f01eeb93b93dac873e84882f039d7f4ce9ec4c555602ca5f6d",
+    "level": "12",
+    "proposer": "SHAX.",
+    "comment": "BPM140 ガチ押し",
+    "submission": 2591
   },
   {
     "title": "Drop! [SABOTHER]",
@@ -17953,18 +17977,6 @@
     "submission": 1232
   },
   {
-    "title": "Y [yumether]",
-    "artist": "ヲルバ＝田中・ヴァニラ / obj:夢瑠",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=172&event=96",
-    "url_diff": "http://yumerusabun.web.fc2.com/nue.html",
-    "md5": "aff8a5db8910bfeb24966931a4cfacdf",
-    "sha256": "fa5804e9cddeee504f2f829105da2a7287c16c0464f1ecade77a9ba31ea38c0b",
-    "level": "13",
-    "proposer": "LUXURY♪",
-    "comment": "sl12",
-    "submission": 893
-  },
-  {
     "title": "YAKUI [SA]",
     "artist": "はがね bgi.ばんぶー OBJ : ランダマイザ",
     "url": "http://drive.google.com/file/d/0B8Buw0z19S9DU0hUQnJTWE5vRzA/view?usp=sharing",
@@ -19685,17 +19697,6 @@
     "submission": 1568
   },
   {
-    "title": "RIE-CHAN MADNESS ~ Director's Cut: hitoGoroshi_no_yoha.ogg (?)",
-    "artist": "plastic / Remix: AYhaz / BGI: Loni Voice : 來香 滄 & 些櫻 深月 / obj : tyrcs",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=121",
-    "url_diff": "https://venue.bmssearch.net/bcel_pre/16",
-    "md5": "db9c15fc7083e943879f0959a1373e89",
-    "sha256": "be41be7555a8690090e7e226970591734a14bbc2d9578a893ffd08926d3edc2f",
-    "level": "14",
-    "proposer": "七海",
-    "submission": 1888
-  },
-  {
     "title": "SAVE The World -starlight,more Colors- [Who has lost his tail?]",
     "artist": "Is-m BGA:Y.A.B.tutidama / obj:nullest",
     "url": "http://www.is-m.jp/bms/song/em42.html",
@@ -20031,6 +20032,18 @@
     "level": "14",
     "proposer": "七海",
     "submission": 1893
+  },
+  {
+    "title": "Y [yumether]",
+    "artist": "ヲルバ＝田中・ヴァニラ / obj:夢瑠",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=172&event=96",
+    "url_diff": "http://yumerusabun.web.fc2.com/nue.html",
+    "md5": "aff8a5db8910bfeb24966931a4cfacdf",
+    "sha256": "fa5804e9cddeee504f2f829105da2a7287c16c0464f1ecade77a9ba31ea38c0b",
+    "level": "14",
+    "proposer": "LUXURY♪",
+    "comment": "sl12",
+    "submission": 893
   },
   {
     "title": "your gaze [nightscape]",
@@ -21677,6 +21690,17 @@
     "level": "15",
     "proposer": "歳納京子",
     "submission": 1497
+  },
+  {
+    "title": "RIE-CHAN MADNESS ~ Director's Cut: hitoGoroshi_no_yoha.ogg (?)",
+    "artist": "plastic / Remix: AYhaz / BGI: Loni Voice : 來香 滄 & 些櫻 深月 / obj : tyrcs",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=121",
+    "url_diff": "https://venue.bmssearch.net/bcel_pre/16",
+    "md5": "db9c15fc7083e943879f0959a1373e89",
+    "sha256": "be41be7555a8690090e7e226970591734a14bbc2d9578a893ffd08926d3edc2f",
+    "level": "15",
+    "proposer": "七海",
+    "submission": 1888
   },
   {
     "title": "Rockstar [KOZUExtra]",
@@ -27390,6 +27414,18 @@
     "submission": 1687
   },
   {
+    "title": "Lonely Cat [大雨注意報]",
+    "artist": "* (Asterisk) / obj:スノート 前川みく×多田李衣菜",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=48&event=110",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04140",
+    "md5": "3ac4bfca957201d374673f737f3aefa8",
+    "sha256": "8e0abe550375f7068f7691ae9dee497d4cec65efb8412d73876c49455ae14026",
+    "level": "18",
+    "proposer": "和泉妃愛",
+    "comment": "128bpm ガチ押し",
+    "submission": 1942
+  },
+  {
     "title": "Lonely One Christmas [Hexagon]",
     "artist": "SUPER STAR 健人 obj.hex",
     "url": "https://onedrive.live.com/?cid=F61C1F8825F0CF46&id=F61C1F8825F0CF46%21344&parId=F61C1F8825F0CF46%21159&o=OneUp",
@@ -28310,6 +28346,18 @@
     "sha256": "3c0d5286ff284d302ce3b82ff101909632b6f92ef09f1cb525304d747352429a"
   },
   {
+    "title": "風時夏 [夏海記]",
+    "artist": "otoshi.b BGI:鈴木なるひ obj:BAECON",
+    "url": "https://venue.bmssearch.net/bmskanji2/23",
+    "url_diff": "",
+    "md5": "77b284df71745b66f94e71db50961b3b",
+    "sha256": "b914f56e32e6d86b648948c947ee60eb934c1e1911887ae399aedd1ce926b476",
+    "level": "18",
+    "proposer": "垢伴次郎",
+    "comment": "BPM140 ガチ押し",
+    "submission": 1937
+  },
+  {
     "title": "魔法少女になるしかねぇ [ワルプルギスの夜]",
     "artist": "ねこみりん feat.小宮真央 / AAAA Movie:むらしん",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=430&event=116",
@@ -28658,18 +28706,6 @@
     "proposer": "qtp13",
     "comment": "st5~6? (hard ending)",
     "submission": 1355
-  },
-  {
-    "title": "INSANER [DELAYER]",
-    "artist": "saaa obj: qtp13",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=123",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02811",
-    "md5": "f2bba8fd59b29034194c19cbbbe0c893",
-    "sha256": "9326822a028363af602272d42b343a3dc26aaaab624da9f3d7d4b03bcc1fdcc6",
-    "level": "19",
-    "proposer": "七海",
-    "comment": "#90.25からディレイの表現なのでズレがあります",
-    "submission": 1914
   },
   {
     "title": "Kalte [Heimweh]",
@@ -29619,6 +29655,18 @@
     "comment": "00191",
     "submission": 112,
     "sha256": "b343170410ef9fdbd60e555c1ffa85161a7cd8c29ccb39283ec92efbcf637c93"
+  },
+  {
+    "title": "INSANER [DELAYER]",
+    "artist": "saaa obj: qtp13",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=123",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02811",
+    "md5": "f2bba8fd59b29034194c19cbbbe0c893",
+    "sha256": "9326822a028363af602272d42b343a3dc26aaaab624da9f3d7d4b03bcc1fdcc6",
+    "level": "20",
+    "proposer": "七海",
+    "comment": "#90.25からディレイの表現なのでズレがあります",
+    "submission": 1914
   },
   {
     "title": "Jasmine Tea Girl",
@@ -30974,6 +31022,18 @@
     "comment": "ごまかし系",
     "submission": 178,
     "sha256": "bba7bfaeb8bc3d4edcd7f45e3573bc70656c036688e6f573325d5c0b45861418"
+  },
+  {
+    "title": "Electric Emotion [Extreme Enthusiasm]",
+    "artist": "nmk feat.橘花音 BGA:わっふゑ / obj : Lapis vs BAECON",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=181&event=123",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?",
+    "md5": "5cabdb40c68323c6b567ec0507f4804e",
+    "sha256": "d4fcb5afc4766d9c42933f50bf2745986a064787cd6ec244da3bc214b1fb1199",
+    "level": "22",
+    "proposer": "七海",
+    "comment": "連打ー",
+    "submission": 817
   },
   {
     "title": "Finixe -Ragnarok-",

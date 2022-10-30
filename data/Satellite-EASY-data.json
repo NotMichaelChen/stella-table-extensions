@@ -1080,6 +1080,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "a0f64c8af8621f4fdce97e24193a76cb",
+    "title": "Brave My Soul -Flareness Heart-",
+    "level": "0.00...0.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "759408e8a0549292963b2948f67111f3",
     "title": "Burning Beat [B-Fight]",
     "level": "0.00...0.50",
@@ -1872,12 +1878,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "a0f64c8af8621f4fdce97e24193a76cb",
-    "title": "Brave My Soul -Flareness Heart-",
-    "level": "0.50...1.00",
-    "comment": "sl1"
-  },
-  {
     "md5": "415c224cfdae9249d2170aae72f53868",
     "title": "Celestial Axes [Intermediate Drill]",
     "level": "0.50...1.00",
@@ -2030,6 +2030,12 @@
   {
     "md5": "dffc4992285e5d5022952dd62e4236c0",
     "title": "Unidentified New Emotion -7Keys Another-",
+    "level": "0.50...1.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "b1b29a6af94bd1792f248499aa61a9fc",
+    "title": "Unleashed World [ANOTHER-]",
     "level": "0.50...1.00",
     "comment": "sl2"
   },
@@ -2588,12 +2594,6 @@
   {
     "md5": "f8222717e5b28238c41458d591e284ae",
     "title": "Under the starry sky [ZOI]",
-    "level": "1.00...1.50",
-    "comment": "sl2"
-  },
-  {
-    "md5": "b1b29a6af94bd1792f248499aa61a9fc",
-    "title": "Unleashed World [ANOTHER-]",
     "level": "1.00...1.50",
     "comment": "sl2"
   },
@@ -4716,6 +4716,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "666f8b142728e934bb096a8028241591",
+    "title": "Animatronics [Freddy]",
+    "level": "3.50...4.00",
+    "comment": "sl6"
+  },
+  {
     "md5": "ae1f33b3beeb299dc9a775437b5e0a1b",
     "title": "ATHAZA [ANOTHER]",
     "level": "3.50...4.00",
@@ -5034,12 +5040,6 @@
     "comment": "sl6"
   },
   {
-    "md5": "666f8b142728e934bb096a8028241591",
-    "title": "Animatronics [Freddy]",
-    "level": "4.00...4.50",
-    "comment": "sl6"
-  },
-  {
     "md5": "60d05af40aa26dfed7424d2f2809d158",
     "title": "Bad Cycle [ZOI]",
     "level": "4.00...4.50",
@@ -5240,6 +5240,12 @@
   {
     "md5": "c982becdce32626a23083d798b02ede1",
     "title": "Total Eclipse of the Sun -Howling-",
+    "level": "4.00...4.50",
+    "comment": "sl6"
+  },
+  {
+    "md5": "93b312dfa1860a001b620d2a4e3d8e5c",
+    "title": "Trick or Treat? [Extra]",
     "level": "4.00...4.50",
     "comment": "sl6"
   },
@@ -5646,12 +5652,6 @@
     "comment": "sl6"
   },
   {
-    "md5": "93b312dfa1860a001b620d2a4e3d8e5c",
-    "title": "Trick or Treat? [Extra]",
-    "level": "4.50...5.00",
-    "comment": "sl6"
-  },
-  {
     "md5": "336e9a2e6d55e6a1ab452507361c368a",
     "title": "VECTOR",
     "level": "4.50...5.00",
@@ -5940,12 +5940,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "99d8a05101d4200464c66a4ccc8596f8",
-    "title": "Shannon's Theorem [MIMO]",
-    "level": "5.00...5.50",
-    "comment": "sl8"
-  },
-  {
     "md5": "86c1799a5b2bcf6eeda15c1b0854d814",
     "title": "Trane [SP ELIXIR]",
     "level": "5.00...5.50",
@@ -5964,12 +5958,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "a90eb3c6478ba53cfffa6c47b8e3e2ca",
-    "title": "じゃぱりぱー [sagINSANE]",
-    "level": "5.00...5.50",
-    "comment": "sl8"
-  },
-  {
     "md5": "77a5d9bf3c392d80dda6cbc3b5945507",
     "title": "ひめはじめ～おとこのこ編～ -Hopeless-",
     "level": "5.00...5.50",
@@ -5978,6 +5966,12 @@
   {
     "md5": "4c1ca130592c2b0d1bd0b55cceb94f5c",
     "title": "クロートーと星の観測者 [MANIAC]",
+    "level": "5.00...5.50",
+    "comment": "sl8"
+  },
+  {
+    "md5": "5a7d10be7fe321b9f3c793de37b2b6c3",
+    "title": "スナレ",
     "level": "5.00...5.50",
     "comment": "sl8"
   },
@@ -6014,12 +6008,6 @@
   {
     "md5": "bd575bc97e261118191d2f09721a34cf",
     "title": "僕が見た世界 [Believe My Shine!!]",
-    "level": "5.00...5.50",
-    "comment": "sl8"
-  },
-  {
-    "md5": "7e751589bee7ce5987f0d44cf251459e",
-    "title": "劇場版 うぉーる☆くらっしゃー！ [恋人なんていらない]",
     "level": "5.00...5.50",
     "comment": "sl8"
   },
@@ -6276,6 +6264,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "99d8a05101d4200464c66a4ccc8596f8",
+    "title": "Shannon's Theorem [MIMO]",
+    "level": "5.50...6.00",
+    "comment": "sl8"
+  },
+  {
     "md5": "1922023d01ef953493c15342a4c418ca",
     "title": "Stokesia [NEXT]",
     "level": "5.50...6.00",
@@ -6330,10 +6324,10 @@
     "comment": "sl9"
   },
   {
-    "md5": "8be565db62cb59739c827c5ee0884801",
-    "title": "Zero Feet [INSANE]",
+    "md5": "a90eb3c6478ba53cfffa6c47b8e3e2ca",
+    "title": "じゃぱりぱー [sagINSANE]",
     "level": "5.50...6.00",
-    "comment": "sl9"
+    "comment": "sl8"
   },
   {
     "md5": "04358a9776ed6fb81fe30eaa930e6eb7",
@@ -6362,6 +6356,12 @@
   {
     "md5": "3e40449140978a7124ba7ef29c3d4a18",
     "title": "レトロモダンの玩具工場 [INSANE]",
+    "level": "5.50...6.00",
+    "comment": "sl8"
+  },
+  {
+    "md5": "7e751589bee7ce5987f0d44cf251459e",
+    "title": "劇場版 うぉーる☆くらっしゃー！ [恋人なんていらない]",
     "level": "5.50...6.00",
     "comment": "sl8"
   },
@@ -6666,14 +6666,14 @@
     "comment": "sl9"
   },
   {
-    "md5": "243ed9e410040cc2c16bb1ae77f6008b",
-    "title": "キミとボクへの葬送歌 [Requiem]",
+    "md5": "8be565db62cb59739c827c5ee0884801",
+    "title": "Zero Feet [INSANE]",
     "level": "6.00...6.50",
     "comment": "sl9"
   },
   {
-    "md5": "5a7d10be7fe321b9f3c793de37b2b6c3",
-    "title": "スナレ",
+    "md5": "243ed9e410040cc2c16bb1ae77f6008b",
+    "title": "キミとボクへの葬送歌 [Requiem]",
     "level": "6.00...6.50",
     "comment": "sl9"
   },
@@ -6746,6 +6746,12 @@
   {
     "md5": "b3d6a32e0b0a817c6b77bdde37fb60eb",
     "title": "Absolute Future [INSANE]",
+    "level": "6.50...7.00",
+    "comment": "sl10"
+  },
+  {
+    "md5": "08cd57615b032334aea711bff8392254",
+    "title": "All is fair in Rage [Toasty Fatality]",
     "level": "6.50...7.00",
     "comment": "sl10"
   },
@@ -6906,6 +6912,12 @@
     "comment": "sl10"
   },
   {
+    "md5": "22a8d3bd25179ffd2450ac877a6bb82a",
+    "title": "The sinking world [sagINSANE]",
+    "level": "6.50...7.00",
+    "comment": "sl10"
+  },
+  {
     "md5": "91af75ea55575ca9864a7647206ebacd",
     "title": "Unleashed World -Luna-",
     "level": "6.50...7.00",
@@ -7010,12 +7022,6 @@
   {
     "md5": "e7df53f94805d0d2a1976855eaded1c4",
     "title": "Affection [Appreciation]",
-    "level": "7.00...7.50",
-    "comment": "sl10"
-  },
-  {
-    "md5": "08cd57615b032334aea711bff8392254",
-    "title": "All is fair in Rage [Toasty Fatality]",
     "level": "7.00...7.50",
     "comment": "sl10"
   },
@@ -7158,12 +7164,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "67f4387cb513c9242b919df282e89fbe",
-    "title": "LiVEMeTAL [HEROIC]",
-    "level": "7.00...7.50",
-    "comment": "sl11"
-  },
-  {
     "md5": "b1abccc7683703378fe49ebb00358399",
     "title": "Love☆Spellcard -Luna-",
     "level": "7.00...7.50",
@@ -7234,12 +7234,6 @@
     "title": "SYNTHETICS [CYBERTIC ETUDE]",
     "level": "7.00...7.50",
     "comment": "sl11"
-  },
-  {
-    "md5": "22a8d3bd25179ffd2450ac877a6bb82a",
-    "title": "The sinking world [sagINSANE]",
-    "level": "7.00...7.50",
-    "comment": "sl10"
   },
   {
     "md5": "4cc2c2ecc2bc384b0e8e4628c8fa208d",
@@ -7356,12 +7350,6 @@
     "comment": "sl11"
   },
   {
-    "md5": "ad6d4631747d7aa03530a5db4b9120c7",
-    "title": "Bloody Scarlet Nightmare [Li]",
-    "level": "7.50...8.00",
-    "comment": "sl11"
-  },
-  {
     "md5": "6f0f43196764fedcbbdd8d480b26ab15",
     "title": "Blue-White Crazystars [HARDEST]",
     "level": "7.50...8.00",
@@ -7370,6 +7358,12 @@
   {
     "md5": "e446e497aa6d2b60f14a001f49cf2ecc",
     "title": "Brave My Soul [B.M.S.]",
+    "level": "7.50...8.00",
+    "comment": "sl11"
+  },
+  {
+    "md5": "243a6ba83bc2f291a2a9bc9736b833bd",
+    "title": "Calamity Fortune [HARDEST]",
     "level": "7.50...8.00",
     "comment": "sl11"
   },
@@ -7508,6 +7502,12 @@
   {
     "md5": "c9d0d8001a2ad32ddbc086b793c5af78",
     "title": "LIGHTNING STAIRWAY [SPIRAL++]",
+    "level": "7.50...8.00",
+    "comment": "sl11"
+  },
+  {
+    "md5": "67f4387cb513c9242b919df282e89fbe",
+    "title": "LiVEMeTAL [HEROIC]",
     "level": "7.50...8.00",
     "comment": "sl11"
   },
@@ -7722,6 +7722,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "97f65f3a8bd34961ddc95983e4494661",
+    "title": "コモリヌ [リンネ]",
+    "level": "7.50...8.00",
+    "comment": "sl11"
+  },
+  {
     "md5": "afe8cdbcaa8f6edeba182ecb9b266fb5",
     "title": "テウメッサ [にゃーん]",
     "level": "7.50...8.00",
@@ -7836,16 +7842,16 @@
     "comment": "sl12"
   },
   {
+    "md5": "ad6d4631747d7aa03530a5db4b9120c7",
+    "title": "Bloody Scarlet Nightmare [Li]",
+    "level": "8.00...8.50",
+    "comment": "sl11"
+  },
+  {
     "md5": "71c1d1a5c09eb16dfe722414ed70f658",
     "title": "c.s.q.n. -Modus ponens-",
     "level": "8.00...8.50",
     "comment": "sl12"
-  },
-  {
-    "md5": "243a6ba83bc2f291a2a9bc9736b833bd",
-    "title": "Calamity Fortune [HARDEST]",
-    "level": "8.00...8.50",
-    "comment": "sl11"
   },
   {
     "md5": "c1a869dbb132dbfc87b87c220240276a",
@@ -8004,12 +8010,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "fedde5c969d7b2162e363aa18311a166",
-    "title": "Orbital Period [INFINITY]",
-    "level": "8.00...8.50",
-    "comment": "sl12"
-  },
-  {
     "md5": "56ef487b38517cae523b4720d6898dd3",
     "title": "Poisonous Peach [Eb]",
     "level": "8.00...8.50",
@@ -8118,6 +8118,12 @@
     "comment": "sl12"
   },
   {
+    "md5": "38d22090860f2d21c184ac70dd2d8dae",
+    "title": "アナログ横丁 [ディレイ六斎市]",
+    "level": "8.00...8.50",
+    "comment": "sl12"
+  },
+  {
     "md5": "c7f384d33fd08da0fda97112354a834c",
     "title": "ドキッ！けふぃーとひ・み・つｖのサッカータイム☆☆ニャホニャホしても、いいんですよ･･･？　 ～KEFIFAワールドカップ編 We love 汚滝健太郎～",
     "level": "8.00...8.50",
@@ -8132,12 +8138,6 @@
   {
     "md5": "af0a9066c9fce98fc26611ec7237be00",
     "title": "ロスト：ユートピアと真理と純粋の極彩世界 [DISTOPIA_Fix]",
-    "level": "8.00...8.50",
-    "comment": "sl12"
-  },
-  {
-    "md5": "9d5809ec143b89b4af366f8f1872f676",
-    "title": "哀の羽音色 [Maryther]",
     "level": "8.00...8.50",
     "comment": "sl12"
   },
@@ -8162,12 +8162,6 @@
   {
     "md5": "f0dc5e4a4c8351e915567f49d14eb718",
     "title": "片翼のライカ [超越者]",
-    "level": "8.00...8.50",
-    "comment": "sl12"
-  },
-  {
-    "md5": "dd5f2c308821a2d218a6540692e65134",
-    "title": "秩序の秋桜 [OVERHEAT]",
     "level": "8.00...8.50",
     "comment": "sl12"
   },
@@ -8316,6 +8310,12 @@
     "comment": "sl12"
   },
   {
+    "md5": "fedde5c969d7b2162e363aa18311a166",
+    "title": "Orbital Period [INFINITY]",
+    "level": "8.50...9.00",
+    "comment": "sl12"
+  },
+  {
     "md5": "0f5b2b2df091b511e311873204203dcc",
     "title": "Psychedelic Ritual -Despair-",
     "level": "8.50...9.00",
@@ -8442,6 +8442,12 @@
     "comment": "sl12"
   },
   {
+    "md5": "9d5809ec143b89b4af366f8f1872f676",
+    "title": "哀の羽音色 [Maryther]",
+    "level": "8.50...9.00",
+    "comment": "sl12"
+  },
+  {
     "md5": "780f8f98480b46643f34b59e91355586",
     "title": "失望Choco (-ω-)",
     "level": "8.50...9.00",
@@ -8456,6 +8462,12 @@
   {
     "md5": "c2b6dfa3ff970186fc81a074cd193d1d",
     "title": "硬核機動 -Assault 01-",
+    "level": "8.50...9.00",
+    "comment": "sl12"
+  },
+  {
+    "md5": "dd5f2c308821a2d218a6540692e65134",
+    "title": "秩序の秋桜 [OVERHEAT]",
     "level": "8.50...9.00",
     "comment": "sl12"
   },

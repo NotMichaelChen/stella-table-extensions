@@ -12,8 +12,8 @@
     "comment": "sl0"
   },
   {
-    "md5": "032f2470cdd02273a64a0aaa24d9a07f",
-    "title": "Cutter [DP ANOTHER]",
+    "md5": "927c7acd74be6c41415b540fcdec89a0",
+    "title": "Night view [DP ANOTHER]",
     "level": "4.00...4.50",
     "comment": "sl0"
   },
@@ -74,6 +74,12 @@
   {
     "md5": "37f8adb59640710ad6ff0aadb3367ea2",
     "title": "Celeste [DP ANOTHER]",
+    "level": "4.50...5.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "032f2470cdd02273a64a0aaa24d9a07f",
+    "title": "Cutter [DP ANOTHER]",
     "level": "4.50...5.00",
     "comment": "sl0"
   },
@@ -152,12 +158,6 @@
   {
     "md5": "191a530a966d7f4cb956bcce8548fc5c",
     "title": "Marion",
-    "level": "4.50...5.00",
-    "comment": "sl0"
-  },
-  {
-    "md5": "927c7acd74be6c41415b540fcdec89a0",
-    "title": "Night view [DP ANOTHER]",
     "level": "4.50...5.00",
     "comment": "sl0"
   },
@@ -480,12 +480,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "224ce2a5d7ac3a808e2c859aa0575eac",
-    "title": "GET ON WiTH FUNKOT [DP HARD]",
-    "level": "6.00...6.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "5471160f9a467ee2893a290138285380",
     "title": "Gypsy gets the Tek",
     "level": "6.00...6.50",
@@ -642,6 +636,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "224ce2a5d7ac3a808e2c859aa0575eac",
+    "title": "GET ON WiTH FUNKOT [DP HARD]",
+    "level": "6.50...7.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "f63b86f6bbf6c3105d579d9b4324a351",
     "title": "Hot Jupiter",
     "level": "6.50...7.00",
@@ -678,12 +678,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "81ed3f5c9df93ce4e98a623052a526ac",
-    "title": "Event Horizon [DP ANOTHER]",
-    "level": "7.00...7.50",
-    "comment": "sl2"
-  },
-  {
     "md5": "65fca2949626b80fb8f21359cf0799aa",
     "title": "GIN TONIC FLAVOR",
     "level": "7.00...7.50",
@@ -708,14 +702,8 @@
     "comment": "sl2"
   },
   {
-    "md5": "9c5cf59e831eb9fdf7efae0e7613547d",
-    "title": "Sky Ride -dpa-",
-    "level": "7.00...7.50",
-    "comment": "sl2"
-  },
-  {
-    "md5": "5a3d872dcaae9b644d0cd06388c7124a",
-    "title": "Suffering of screw [DP Another]",
+    "md5": "ee7a87f0a729e2713e5c9660d7f6c5d1",
+    "title": "The Microbe [DP ANOTHER]",
     "level": "7.00...7.50",
     "comment": "sl2"
   },
@@ -816,6 +804,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "81ed3f5c9df93ce4e98a623052a526ac",
+    "title": "Event Horizon [DP ANOTHER]",
+    "level": "7.50...8.00",
+    "comment": "sl2"
+  },
+  {
     "md5": "f47dd3cd5f16c3e5f0372d6a35f4e5fc",
     "title": "fall down",
     "level": "7.50...8.00",
@@ -876,6 +870,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "9c5cf59e831eb9fdf7efae0e7613547d",
+    "title": "Sky Ride -dpa-",
+    "level": "7.50...8.00",
+    "comment": "sl2"
+  },
+  {
     "md5": "25da20674b6cdacd770bf3c4dfafbd25",
     "title": "STAGER [DP-sagANOTHER]",
     "level": "7.50...8.00",
@@ -888,14 +888,14 @@
     "comment": "sl2"
   },
   {
-    "md5": "2482ac7cf9fa98806ed15e0a1643eb4c",
-    "title": "Teleportation [Another14]",
+    "md5": "5a3d872dcaae9b644d0cd06388c7124a",
+    "title": "Suffering of screw [DP Another]",
     "level": "7.50...8.00",
     "comment": "sl2"
   },
   {
-    "md5": "ee7a87f0a729e2713e5c9660d7f6c5d1",
-    "title": "The Microbe [DP ANOTHER]",
+    "md5": "2482ac7cf9fa98806ed15e0a1643eb4c",
+    "title": "Teleportation [Another14]",
     "level": "7.50...8.00",
     "comment": "sl2"
   },
@@ -1506,26 +1506,26 @@
     "comment": "sl6"
   },
   {
-    "md5": "bb648bb7b6d71d24ae931c3140cb806c",
-    "title": "Noblesse Gloria [DP-sagANOTHER]",
-    "level": "12.00...12.50",
-    "comment": "sl6"
-  },
-  {
-    "md5": "d03436d07bc8913d5abd8157887e8327",
-    "title": "physalis [14KEYS ANOTHER]",
-    "level": "12.00...12.50",
-    "comment": "sl6"
-  },
-  {
     "md5": "c3cce8a0c9843c032d23b9a51f33a800",
     "title": "Απομνημονευμαι [DP ANOTHER]",
     "level": "12.00...12.50",
     "comment": "sl6"
   },
   {
+    "md5": "bb648bb7b6d71d24ae931c3140cb806c",
+    "title": "Noblesse Gloria [DP-sagANOTHER]",
+    "level": "12.50...13.00",
+    "comment": "sl6"
+  },
+  {
     "md5": "696db350374daf33a376b5a1e56863e4",
     "title": "Ocean Memory [DP Hyper]",
+    "level": "12.50...13.00",
+    "comment": "sl6"
+  },
+  {
+    "md5": "d03436d07bc8913d5abd8157887e8327",
+    "title": "physalis [14KEYS ANOTHER]",
     "level": "12.50...13.00",
     "comment": "sl6"
   },
@@ -3012,6 +3012,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "ff344cb441cdfd5a343b05f7f5d930ab",
+    "title": "キユビック [(d+p)^3]",
+    "level": "-",
+    "comment": "sl10"
+  },
+  {
     "md5": "7679043f39f8106c6584eeb43851553b",
     "title": "サンバランド [Rio de DP]",
     "level": "-",
@@ -3028,6 +3034,12 @@
     "title": "スナレ",
     "level": "-",
     "comment": "sl6"
+  },
+  {
+    "md5": "59bee181c697177bc186fdde396c0cc9",
+    "title": "タマモッチ -ダイエット-",
+    "level": "-",
+    "comment": "sl12"
   },
   {
     "md5": "5319fd58fbb103bd6b6fadfc8aaafa0d",

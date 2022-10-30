@@ -1032,6 +1032,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "99424f8ed89f058e609493a11f2c0b77",
+    "title": "Ovital [DP HYPER]",
+    "level": "1.50...2.00",
+    "comment": "sl3"
+  },
+  {
     "md5": "3c4dbc85d18236ca08a8e95549415e9c",
     "title": "QTロジック [DPロジック]",
     "level": "1.50...2.00",
@@ -1206,12 +1212,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "99424f8ed89f058e609493a11f2c0b77",
-    "title": "Ovital [DP HYPER]",
-    "level": "2.00...2.50",
-    "comment": "sl3"
-  },
-  {
     "md5": "c8165d170ccb541a766ce33a74d284a7",
     "title": "S'il vous plait! [DP_Li]",
     "level": "2.00...2.50",
@@ -1338,6 +1338,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "f373a2c55f04298fc77b7f397458a753",
+    "title": "B.B.K.K.B.K.K. -DP Busy-",
+    "level": "2.50...3.00",
+    "comment": "sl4"
+  },
+  {
     "md5": "23f0c411fc26c1e8aa82f3e5dda90dbe",
     "title": "Banhotta -黄昏-",
     "level": "2.50...3.00",
@@ -1376,6 +1382,12 @@
   {
     "md5": "ce7d6db9389dea40079e947f2d83a2c5",
     "title": "Eisenschweif (DPA)",
+    "level": "2.50...3.00",
+    "comment": "sl4"
+  },
+  {
+    "md5": "7f20ad48088c7932002b15bb9a6189de",
+    "title": "Electric Emotion [DPYoitherEASY]",
     "level": "2.50...3.00",
     "comment": "sl4"
   },
@@ -1506,12 +1518,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "f373a2c55f04298fc77b7f397458a753",
-    "title": "B.B.K.K.B.K.K. -DP Busy-",
-    "level": "3.00...3.50",
-    "comment": "sl4"
-  },
-  {
     "md5": "76fd4bd3f9937e3880739fa116c7dcae",
     "title": "Brandnew Mind [14A]",
     "level": "3.00...3.50",
@@ -1522,12 +1528,6 @@
     "title": "Cutter [DP INSANE]",
     "level": "3.00...3.50",
     "comment": "sl5"
-  },
-  {
-    "md5": "7f20ad48088c7932002b15bb9a6189de",
-    "title": "Electric Emotion [DPYoitherEASY]",
-    "level": "3.00...3.50",
-    "comment": "sl4"
   },
   {
     "md5": "4d4a132f107ac41bb901e43f8c809f9d",
@@ -1638,6 +1638,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "a770062c765839e1e2e35273397b3577",
+    "title": "Wonderful Tomorrow [14Wonderful Today]",
+    "level": "3.00...3.50",
+    "comment": "sl5"
+  },
+  {
     "md5": "b33e89e037924cbb8417f6bdd3c80d8b",
     "title": "World Against 2 [DP sub another]",
     "level": "3.00...3.50",
@@ -1698,8 +1704,20 @@
     "comment": "sl6"
   },
   {
+    "md5": "a6f82198424691c199e5163f49506554",
+    "title": "After Burner [Adventure]",
+    "level": "3.50...4.00",
+    "comment": "sl6"
+  },
+  {
     "md5": "1d1e81a86e148848f1ba08789e90827e",
     "title": "Altostratus [DP EXTRA]",
+    "level": "3.50...4.00",
+    "comment": "sl5"
+  },
+  {
+    "md5": "b8a1552944a45a43e14125a85cb9803f",
+    "title": "ametsuchi",
     "level": "3.50...4.00",
     "comment": "sl5"
   },
@@ -1714,6 +1732,12 @@
     "title": "Catharsis again [DP ANOTHER]",
     "level": "3.50...4.00",
     "comment": "sl5"
+  },
+  {
+    "md5": "11c50f76c098e858c2b61e04db177ecc",
+    "title": "DESPERATE [DP ANOTHER]",
+    "level": "3.50...4.00",
+    "comment": "sl6"
   },
   {
     "md5": "ba7157e746a5ce67473fd39b52b491da",
@@ -1842,14 +1866,14 @@
     "comment": "sl6"
   },
   {
-    "md5": "a770062c765839e1e2e35273397b3577",
-    "title": "Wonderful Tomorrow [14Wonderful Today]",
+    "md5": "910681db5dfded14ac907e0cfe9122e2",
+    "title": "Zero Dimension [ANOTHER14]",
     "level": "3.50...4.00",
     "comment": "sl5"
   },
   {
-    "md5": "910681db5dfded14ac907e0cfe9122e2",
-    "title": "Zero Dimension [ANOTHER14]",
+    "md5": "3c810e083b74b323b84593d52a78e1c9",
+    "title": "あのね、涙は。 [DP-sagINSANE]",
     "level": "3.50...4.00",
     "comment": "sl5"
   },
@@ -1862,6 +1886,12 @@
   {
     "md5": "bbfda0f6a39370401e99a89ab0747034",
     "title": "スピカ [DP ANOTHER]",
+    "level": "3.50...4.00",
+    "comment": "sl5"
+  },
+  {
+    "md5": "c1bd86080023e6e353cf65a9871e737a",
+    "title": "ミルキーベリー・スウィートタイム [DP ANOTHER]",
     "level": "3.50...4.00",
     "comment": "sl5"
   },
@@ -1896,18 +1926,6 @@
     "comment": "sl6"
   },
   {
-    "md5": "a6f82198424691c199e5163f49506554",
-    "title": "After Burner [Adventure]",
-    "level": "4.00...4.50",
-    "comment": "sl6"
-  },
-  {
-    "md5": "b8a1552944a45a43e14125a85cb9803f",
-    "title": "ametsuchi",
-    "level": "4.00...4.50",
-    "comment": "sl5"
-  },
-  {
     "md5": "7ae768f6387952fbee71272fb8cc33ab",
     "title": "Amplifying Effect -DP ANOTHER-",
     "level": "4.00...4.50",
@@ -1930,12 +1948,6 @@
     "title": "Dance revolution [DP ANOTHER]",
     "level": "4.00...4.50",
     "comment": "sl7"
-  },
-  {
-    "md5": "11c50f76c098e858c2b61e04db177ecc",
-    "title": "DESPERATE [DP ANOTHER]",
-    "level": "4.00...4.50",
-    "comment": "sl6"
   },
   {
     "md5": "15254743d61a5c1b52e1d2d6471f6902",
@@ -2082,22 +2094,10 @@
     "comment": "sl6"
   },
   {
-    "md5": "3c810e083b74b323b84593d52a78e1c9",
-    "title": "あのね、涙は。 [DP-sagINSANE]",
-    "level": "4.00...4.50",
-    "comment": "sl5"
-  },
-  {
     "md5": "144901283ee18aed261051dd0cd72713",
     "title": "トルコ行進曲 (Hd-NRG mix) [Double]",
     "level": "4.00...4.50",
     "comment": "sl6"
-  },
-  {
-    "md5": "c1bd86080023e6e353cf65a9871e737a",
-    "title": "ミルキーベリー・スウィートタイム [DP ANOTHER]",
-    "level": "4.00...4.50",
-    "comment": "sl5"
   },
   {
     "md5": "5a71ac30e80907739a14741a8c26ca5d",
@@ -2160,6 +2160,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "7bd33f48e9c11b9062297d8ac8df31ab",
+    "title": "Calamity Fortune (DPA)",
+    "level": "4.50...5.00",
+    "comment": "sl7"
+  },
+  {
     "md5": "66f2263a8e854298029231c872c3e14b",
     "title": "Deepsea Moonlight [Cuvelia14]",
     "level": "4.50...5.00",
@@ -2184,8 +2190,20 @@
     "comment": "sl7"
   },
   {
+    "md5": "a0514d8ed746ca43bac5ec626593269f",
+    "title": "Fascinating Laser -14keys-",
+    "level": "4.50...5.00",
+    "comment": "sl7"
+  },
+  {
     "md5": "d33783021b1df12952eecdf2c1eadde7",
     "title": "frozen over",
+    "level": "4.50...5.00",
+    "comment": "sl7"
+  },
+  {
+    "md5": "8f4c529cc67018c14ffe0463efce9e25",
+    "title": "Galaxy in Toybox [DP >▽<]",
     "level": "4.50...5.00",
     "comment": "sl7"
   },
@@ -2340,12 +2358,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "7bd33f48e9c11b9062297d8ac8df31ab",
-    "title": "Calamity Fortune (DPA)",
-    "level": "5.00...5.50",
-    "comment": "sl7"
-  },
-  {
     "md5": "4a6b5a4ad9ef995ca2ae8560094e7b7b",
     "title": "ClowN CrowN [DP Li]",
     "level": "5.00...5.50",
@@ -2366,18 +2378,6 @@
   {
     "md5": "c53e377d470cfd492d635447c9efd615",
     "title": "electric butterfly [A14]",
-    "level": "5.00...5.50",
-    "comment": "sl7"
-  },
-  {
-    "md5": "a0514d8ed746ca43bac5ec626593269f",
-    "title": "Fascinating Laser -14keys-",
-    "level": "5.00...5.50",
-    "comment": "sl7"
-  },
-  {
-    "md5": "8f4c529cc67018c14ffe0463efce9e25",
-    "title": "Galaxy in Toybox [DP >▽<]",
     "level": "5.00...5.50",
     "comment": "sl7"
   },
@@ -2532,12 +2532,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "350003c6ab10ac0b7551e8a2ea02b5d3",
-    "title": "Amusing Reflection Rag. (DP CHALLENGE)",
-    "level": "5.50...6.00",
-    "comment": "sl8"
-  },
-  {
     "md5": "d0c0d58f4d0c382c3cf4da04f3f6ab0f",
     "title": "Bad Apple!! -YH mix-",
     "level": "5.50...6.00",
@@ -2552,6 +2546,12 @@
   {
     "md5": "53c2074d26127be0f7586e8def386cac",
     "title": "Blue Shock [DPA.NOTHER+]",
+    "level": "5.50...6.00",
+    "comment": "sl8"
+  },
+  {
+    "md5": "ffa8beca32b6552e6fd003183a074faf",
+    "title": "Bogus of True (DPA)",
     "level": "5.50...6.00",
     "comment": "sl8"
   },
@@ -2670,6 +2670,12 @@
     "comment": "sl9"
   },
   {
+    "md5": "350003c6ab10ac0b7551e8a2ea02b5d3",
+    "title": "Amusing Reflection Rag. (DP CHALLENGE)",
+    "level": "6.00...6.50",
+    "comment": "sl8"
+  },
+  {
     "md5": "7008ff0237c4c9c65809950654b8c01c",
     "title": "Bicolor Spirit [DP INSANE]",
     "level": "6.00...6.50",
@@ -2678,12 +2684,6 @@
   {
     "md5": "a32ec19da96aa8391db09874ea30544f",
     "title": "Blooming [DP ANOTHER]",
-    "level": "6.00...6.50",
-    "comment": "sl8"
-  },
-  {
-    "md5": "ffa8beca32b6552e6fd003183a074faf",
-    "title": "Bogus of True (DPA)",
     "level": "6.00...6.50",
     "comment": "sl8"
   },
@@ -2910,6 +2910,12 @@
     "comment": "sl9"
   },
   {
+    "md5": "ff344cb441cdfd5a343b05f7f5d930ab",
+    "title": "キユビック [(d+p)^3]",
+    "level": "6.50...7.00",
+    "comment": "sl10"
+  },
+  {
     "md5": "67717946ae51422ad272a230f39c76eb",
     "title": "現実をカットアップしてみた [DPINSA.NE]",
     "level": "6.50...7.00",
@@ -3114,6 +3120,12 @@
     "comment": "sl10"
   },
   {
+    "md5": "59bee181c697177bc186fdde396c0cc9",
+    "title": "タマモッチ -ダイエット-",
+    "level": "7.50...8.00",
+    "comment": "sl12"
+  },
+  {
     "md5": "5319fd58fbb103bd6b6fadfc8aaafa0d",
     "title": "テウメッサ [matrix]",
     "level": "7.50...8.00",
@@ -3152,6 +3164,12 @@
   {
     "md5": "aa389df1f9b142c58e1fd9204df74278",
     "title": "摩訶幻想マジトリク [DP INSANE]",
+    "level": "7.50...8.00",
+    "comment": "sl11"
+  },
+  {
+    "md5": "27a6ac517eb18cd3105be73818bc656b",
+    "title": "玉響サーチライト [DP INSANE]",
     "level": "7.50...8.00",
     "comment": "sl11"
   },
@@ -3228,12 +3246,6 @@
     "comment": "sl11"
   },
   {
-    "md5": "27a6ac517eb18cd3105be73818bc656b",
-    "title": "玉響サーチライト [DP INSANE]",
-    "level": "8.00...8.50",
-    "comment": "sl11"
-  },
-  {
     "md5": "badd87bc03a1b5657c4f9061e3bbd083",
     "title": "Danse de Romani",
     "level": "8.50...9.00",
@@ -3306,12 +3318,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "56dee1bccba7f5505d2076e4c5ac2b9b",
-    "title": "私のヒトミ",
-    "level": "9.50...10.00",
-    "comment": "sl12"
-  },
-  {
     "md5": "b1ca95e12d38a70429a166db3e93dc9b",
     "title": "Angel dust",
     "level": "10.00...10.50",
@@ -3320,6 +3326,12 @@
   {
     "md5": "7a26d0eda820c694576926482b5ef5a6",
     "title": "FIONA [Enjoy]",
+    "level": "10.00...10.50",
+    "comment": "sl12"
+  },
+  {
+    "md5": "56dee1bccba7f5505d2076e4c5ac2b9b",
+    "title": "私のヒトミ",
     "level": "10.00...10.50",
     "comment": "sl12"
   }

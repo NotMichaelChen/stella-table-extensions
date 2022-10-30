@@ -2908,6 +2908,19 @@
     "votePercent": 0
   },
   {
+    "md5": "1d006915f1ecd17968d95b963728f78f",
+    "sha256": "5e574a5fe2a12e6bd658c61d784dbffb01c2c02512412c506dc60bfc31e4f07b",
+    "title": "Stand Up!! Stand Up!! [ANOTHER]",
+    "artist": "69 de 74 feat.小宮真央 BG:ユーロビートたけし(西野武)",
+    "url_diff": "",
+    "url": "http://qstol.info/events/venue/detail?event=3&id=3",
+    "level": "0",
+    "comment": "乱打、ジャリ、二重トリル",
+    "proposer": "GRASS",
+    "submission": 2605,
+    "proposerMinirid": "6ed5d1e2-61fa-471c-8fdc-da298113ba77"
+  },
+  {
     "md5": "fafd17fa06178649e35c74815edf76d8",
     "sha256": "ee25534a56ed93b36f234e433ed802c04d8076b7a3b4d0287cb847df6b53aee5",
     "title": "starlove",
@@ -27032,6 +27045,19 @@
     "votePercent": 0
   },
   {
+    "md5": "5a7d10be7fe321b9f3c793de37b2b6c3",
+    "sha256": "cb12d3772adf62bd7bb0ca43e71858b89d700c5497d57e14c6b0cccde9950a0c",
+    "title": "スナレ",
+    "artist": "Zris feat. Green",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=475&event=137",
+    "level": "8",
+    "comment": "BPM149 ディレイ",
+    "proposer": "mukyu--",
+    "submission": 2559,
+    "proposerLr2id": 71314
+  },
+  {
     "md5": "011e9d21d0abc62b37d396c721433e45",
     "sha256": "5a1e311b25d0a6b774a64c19e98a83b6b7dde42b673f4b23d58c20f0c6e4a992",
     "title": "トンガ・トング・トンゴ [KF7]",
@@ -28689,19 +28715,6 @@
     "proposer": "Restia",
     "submission": 1822,
     "proposerLr2id": 115265
-  },
-  {
-    "md5": "5a7d10be7fe321b9f3c793de37b2b6c3",
-    "sha256": "cb12d3772adf62bd7bb0ca43e71858b89d700c5497d57e14c6b0cccde9950a0c",
-    "title": "スナレ",
-    "artist": "Zris feat. Green",
-    "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=475&event=137",
-    "level": "9",
-    "comment": "BPM149 ディレイ",
-    "proposer": "mukyu--",
-    "submission": 2559,
-    "proposerLr2id": 71314
   },
   {
     "md5": "1bc98542eaf7f0cccfb4026bb3c25f49",
@@ -37838,6 +37851,20 @@
     "proposerLr2id": 147889
   },
   {
+    "md5": "4f050ea8f59ecb5b567d8d75c41fa799",
+    "sha256": "d65f2f55a90b5836ae6c02655c4eff93994da5050f312f3dc96d3f09b55f1dd6",
+    "title": "TRI-TECH -Xe-",
+    "artist": "ixi's Movie : TAKRIDER / obj:LindBlum",
+    "url_diff": "https://venue.bmssearch.net/bcel_pre/28",
+    "url": "https://drive.google.com/file/d/1H2MDi13btEfXRL02ZuCFVttqQTbGjQYr/view",
+    "level": "13",
+    "comment": "BPM132 ガチ押し ディレイ",
+    "zureCount": 0,
+    "proposer": "fuko",
+    "submission": 1944,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
+  },
+  {
     "md5": "0d5d3ab9ce8bc463d51b5e1fd00c82f8",
     "sha256": "81bcd8220835b0d50d2cf7d1f15f4fb726bee4ac09f0c880010c02e988be52aa",
     "title": "TYR [Nemesis]",
@@ -37977,23 +38004,6 @@
     "proposer": "Restia",
     "submission": 1232,
     "proposerLr2id": 115265
-  },
-  {
-    "md5": "aff8a5db8910bfeb24966931a4cfacdf",
-    "sha256": "fa5804e9cddeee504f2f829105da2a7287c16c0464f1ecade77a9ba31ea38c0b",
-    "title": "Y [yumether]",
-    "artist": "ヲルバ＝田中・ヴァニラ / obj:夢瑠",
-    "url_diff": "http://yumerusabun.web.fc2.com/nue.html",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=172&event=96",
-    "level": "13",
-    "comment": "sl12",
-    "proposer": "LUXURY♪",
-    "proposerLr2id": 23110,
-    "submission": 893,
-    "voteYes": 0,
-    "voteNeutral": 0,
-    "voteNo": 0,
-    "votePercent": 0
   },
   {
     "md5": "bc6cf4791e30e04f0079c806981840f9",
@@ -41244,18 +41254,6 @@
     "proposerLr2id": 147889
   },
   {
-    "md5": "db9c15fc7083e943879f0959a1373e89",
-    "sha256": "be41be7555a8690090e7e226970591734a14bbc2d9578a893ffd08926d3edc2f",
-    "title": "RIE-CHAN MADNESS ~ Director's Cut: hitoGoroshi_no_yoha.ogg (?)",
-    "artist": "plastic / Remix: AYhaz / BGI: Loni Voice : 來香 滄 & 些櫻 深月 / obj : tyrcs",
-    "url_diff": "https://venue.bmssearch.net/bcel_pre/16",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=121",
-    "level": "14",
-    "proposer": "七海",
-    "submission": 1888,
-    "proposerLr2id": 84597
-  },
-  {
     "md5": "98235538f28e0be71bcd18a221a4c5a3",
     "title": "SAVE The World -starlight,more Colors- [Who has lost his tail?]",
     "artist": "Is-m BGA:Y.A.B.tutidama / obj:nullest",
@@ -41827,6 +41825,23 @@
     "proposer": "moka",
     "submission": 1662,
     "proposerLr2id": 167326
+  },
+  {
+    "md5": "aff8a5db8910bfeb24966931a4cfacdf",
+    "sha256": "fa5804e9cddeee504f2f829105da2a7287c16c0464f1ecade77a9ba31ea38c0b",
+    "title": "Y [yumether]",
+    "artist": "ヲルバ＝田中・ヴァニラ / obj:夢瑠",
+    "url_diff": "http://yumerusabun.web.fc2.com/nue.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=172&event=96",
+    "level": "14",
+    "comment": "sl12",
+    "proposer": "LUXURY♪",
+    "proposerLr2id": 23110,
+    "submission": 893,
+    "voteYes": 0,
+    "voteNeutral": 0,
+    "voteNo": 0,
+    "votePercent": 0
   },
   {
     "md5": "8710b19ab6a04c3a6a54389abb1bceed",
@@ -44922,6 +44937,18 @@
     "sha256": "b89d9956b8d1c1bf0decd976eb10fb676e0f5d138ec27a8a6fe182f2abc69ee8"
   },
   {
+    "md5": "db9c15fc7083e943879f0959a1373e89",
+    "sha256": "be41be7555a8690090e7e226970591734a14bbc2d9578a893ffd08926d3edc2f",
+    "title": "RIE-CHAN MADNESS ~ Director's Cut: hitoGoroshi_no_yoha.ogg (?)",
+    "artist": "plastic / Remix: AYhaz / BGI: Loni Voice : 來香 滄 & 些櫻 深月 / obj : tyrcs",
+    "url_diff": "https://venue.bmssearch.net/bcel_pre/16",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=121",
+    "level": "15",
+    "proposer": "七海",
+    "submission": 1888,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "1706b5d59b7c09ea492b76747cd3593f",
     "title": "Rockstar [KOZUExtra]",
     "artist": "前川みく + 多田李衣菜 / さぶん : ゆさ こずえ",
@@ -46848,6 +46875,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "49f787f72312867816d8a61eda9eb626699f44ac3c1bac5c22c7b924c04e6718"
+  },
+  {
+    "md5": "0fe38c3c1a7b5f341555dc9180e30471",
+    "sha256": "921f4641cc10871c24f5783758c592440fc558490f1725de17aa5ea5227a9e67",
+    "title": "ametsuchi [Hexagon]",
+    "artist": "stereoberry/zero img teritory obj.hex",
+    "url_diff": "http://bms.hexlataia.xyz/tables/hexajoy.html",
+    "url": "http://stereoberry.sakura.tv/music.htm",
+    "level": "16",
+    "comment": "gachi",
+    "proposer": "歳納京子",
+    "submission": 1943,
+    "proposerLr2id": 75332
   },
   {
     "md5": "00bce21870fbde432759b6f401b7c0fe",
@@ -56622,19 +56662,6 @@
     "proposerLr2id": 86559
   },
   {
-    "md5": "f2bba8fd59b29034194c19cbbbe0c893",
-    "sha256": "9326822a028363af602272d42b343a3dc26aaaab624da9f3d7d4b03bcc1fdcc6",
-    "title": "INSANER [DELAYER]",
-    "artist": "saaa obj: qtp13",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02811",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=123",
-    "level": "19",
-    "comment": "#90.25からディレイの表現なのでズレがあります",
-    "proposer": "七海",
-    "submission": 1914,
-    "proposerLr2id": 84597
-  },
-  {
     "md5": "91c72bd5a5df77367c66e3cf98c6e941",
     "title": "Kalte [Heimweh]",
     "artist": "Dachs Movie : mi / obj:otoshi.b",
@@ -58249,6 +58276,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "386cae1d473c470a8e33a96d2e93d673f3becfc280c20d5c78f2db21685d7896"
+  },
+  {
+    "md5": "f2bba8fd59b29034194c19cbbbe0c893",
+    "sha256": "9326822a028363af602272d42b343a3dc26aaaab624da9f3d7d4b03bcc1fdcc6",
+    "title": "INSANER [DELAYER]",
+    "artist": "saaa obj: qtp13",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02811",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=123",
+    "level": "20",
+    "comment": "#90.25からディレイの表現なのでズレがあります",
+    "proposer": "七海",
+    "submission": 1914,
+    "proposerLr2id": 84597
   },
   {
     "md5": "842f844587597c0725c3ac2df2bd9019",
