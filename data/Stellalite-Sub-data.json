@@ -13926,6 +13926,20 @@
     "proposerLr2id": 145158
   },
   {
+    "md5": "739168d15704d3e8166ac9347e959b84",
+    "sha256": "30327e81b6e0876746fd54e1bce9eb698c6e6613190920dc292a4a8ad92e36d1",
+    "title": "Pumpkin ◇ Magic [ZOI]",
+    "artist": "M-UE ◇ sak Illust: はし◇たか / obj:SUZUKAZEΛ",
+    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+    "url": "https://venue.bmssearch.net/mutualfaith3/13",
+    "level": "3",
+    "comment": "4~5?",
+    "zureCount": 0,
+    "proposer": "MineC24",
+    "submission": 1559,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "0803bf98ebfd8392ca1cf50ddfc369cd",
     "sha256": "a3ff65ad0b9a9725ae803a06e5e303eb5ee84c69611f98924f0f9caf0fc2ef3b",
     "title": "queer -Hyper-",
@@ -17503,20 +17517,6 @@
     "proposerLr2id": 172027
   },
   {
-    "md5": "739168d15704d3e8166ac9347e959b84",
-    "sha256": "30327e81b6e0876746fd54e1bce9eb698c6e6613190920dc292a4a8ad92e36d1",
-    "title": "Pumpkin ◇ Magic [ZOI]",
-    "artist": "M-UE ◇ sak Illust: はし◇たか / obj:SUZUKAZEΛ",
-    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-    "url": "https://venue.bmssearch.net/mutualfaith3/13",
-    "level": "4",
-    "comment": "4~5?",
-    "zureCount": 0,
-    "proposer": "MineC24",
-    "submission": 1559,
-    "proposerLr2id": 84597
-  },
-  {
     "md5": "32eacd8032ca8155a1cc80e39753aabb",
     "sha256": "1219a1f601d5c0ef10d71994434675ce1934f5ada7b46156992d2214d2bbde6e",
     "title": "Pusha Plucka!! -SWAGGER-",
@@ -20069,6 +20069,19 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "db51ec910de65e837109b5b6670ace6f",
+    "sha256": "4b5805488a74b5a69e7fdfa1076069c35ef8c391fc06f7280d51d76be588dfd6",
+    "title": "R4T5 [EX]",
+    "artist": "KaKi / И BGA:kokodoko",
+    "url_diff": "https://darksabun.github.io/bceg/event/bofxv/",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=127",
+    "level": "5",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 2610,
+    "proposerLr2id": 147889
   },
   {
     "md5": "c39ac8cf82d1bc55fe36863f09569838",
@@ -23513,6 +23526,19 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "abfc09028fc360357eb1b531e3e7cb9c",
+    "sha256": "0da2b97e31bfb59a1a062b6b574f1d154bcf45d1286b415f910f634a4d745d79",
+    "title": "010 [KOCHITHER]",
+    "artist": "eoll Visual : HEART OF MIND  Sequence : hi-low obj：東風谷早苗",
+    "url_diff": "https://drive.google.com/file/d/1V6q2wKCKgkrdY3rcxmGl3QUf6guFc7Eh/view?usp=sharing",
+    "url": "https://onedrive.live.com/?authkey=%21AIr4v9MWBYrS9h8&cid=FC95A680740CA8C9&id=FC95A680740CA8C9%2117757&parId=FC95A680740CA8C9%21111&o=OneUp&sw=bypassConfig",
+    "level": "7",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 2611,
+    "proposerLr2id": 84597
   },
   {
     "level": "7",
@@ -29018,6 +29044,19 @@
     "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
+    "md5": "3f055cc6d0e7b394b3952b5927235860",
+    "sha256": "41b0ff027fb2445a10f634fd9138efb635191ba470f8869f3cf570573df64b98",
+    "title": "蒼く爽昧な夢のようで [BlackAnother]",
+    "artist": "ポロロッカ",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=131",
+    "level": "9",
+    "comment": "ころねすきーです",
+    "proposer": "七海",
+    "submission": 2122,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "d39da85f9f9a356c7da81aa1baf37fb8",
     "sha256": "ded3b3b5764e5323f383ae5dc3b5a01e79172e05e09ebba2ae630bdca29cc39b",
     "title": "詠訣へ連れる [UNITHER]",
@@ -30926,19 +30965,6 @@
     "proposer": "파이어",
     "submission": 1865,
     "proposerLr2id": 7290
-  },
-  {
-    "md5": "3f055cc6d0e7b394b3952b5927235860",
-    "sha256": "41b0ff027fb2445a10f634fd9138efb635191ba470f8869f3cf570573df64b98",
-    "title": "蒼く爽昧な夢のようで [BlackAnother]",
-    "artist": "ポロロッカ",
-    "url_diff": "",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=131",
-    "level": "10",
-    "comment": "ころねすきーです",
-    "proposer": "七海",
-    "submission": 2122,
-    "proposerLr2id": 84597
   },
   {
     "md5": "540ad15cb16c6a7f4e5f5e3613135bfc",
@@ -39409,6 +39435,20 @@
     "sha256": "3e9888ad66161252f00a40acac2715081e708f73ca7f35251113242bc9bed5ad"
   },
   {
+    "md5": "2af37ac8096e58659f14d6af115591fa",
+    "sha256": "aa161fe686847c386c6d4941284f47a4d64574e5eb60a74bf4fe1dd0c7450e1f",
+    "title": "Bad Beat! [EXTREME]",
+    "artist": "あとぅす / obj.fuko",
+    "url_diff": "https://stellabms.xyz/upload/1687",
+    "url": "https://venue.bmssearch.net/bmstukuru2022/44",
+    "level": "14",
+    "comment": "2弱? BPM200 高速乱打",
+    "zureCount": 0,
+    "proposer": "mukyu--",
+    "submission": 1820,
+    "proposerLr2id": 71314
+  },
+  {
     "level": "14",
     "comment": "st7,st4の弱体版",
     "md5": "7c5d9a794a1450d0cdd77c5d37f56295",
@@ -43253,20 +43293,6 @@
     "votePercent": 0
   },
   {
-    "md5": "2af37ac8096e58659f14d6af115591fa",
-    "sha256": "aa161fe686847c386c6d4941284f47a4d64574e5eb60a74bf4fe1dd0c7450e1f",
-    "title": "Bad Beat! [EXTREME]",
-    "artist": "あとぅす / obj.fuko",
-    "url_diff": "https://stellabms.xyz/upload/1687",
-    "url": "https://venue.bmssearch.net/bmstukuru2022/44",
-    "level": "15",
-    "comment": "2弱? BPM200 高速乱打",
-    "zureCount": 0,
-    "proposer": "mukyu--",
-    "submission": 1820,
-    "proposerLr2id": 71314
-  },
-  {
     "md5": "adee09690fd41706427c4d0a7d9016d1",
     "sha256": "02fa2e7ce366497d792eff6d6b3621ef731c8fd209803e68459c91910f76ca08",
     "title": "BADSECRET [BADEXPOSURE]",
@@ -46970,19 +46996,6 @@
     "sha256": "49f787f72312867816d8a61eda9eb626699f44ac3c1bac5c22c7b924c04e6718"
   },
   {
-    "md5": "0fe38c3c1a7b5f341555dc9180e30471",
-    "sha256": "921f4641cc10871c24f5783758c592440fc558490f1725de17aa5ea5227a9e67",
-    "title": "ametsuchi [Hexagon]",
-    "artist": "stereoberry/zero img teritory obj.hex",
-    "url_diff": "http://bms.hexlataia.xyz/tables/hexajoy.html",
-    "url": "http://stereoberry.sakura.tv/music.htm",
-    "level": "16",
-    "comment": "gachi",
-    "proposer": "歳納京子",
-    "submission": 1943,
-    "proposerLr2id": 75332
-  },
-  {
     "md5": "00bce21870fbde432759b6f401b7c0fe",
     "sha256": "1a7b8581b2ba648b8a7946ee4f398af988e367eafc7e72e0beb1d24b1c4b8b69",
     "title": "Ancient Memory [MASTER]",
@@ -50564,6 +50577,19 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "0fe38c3c1a7b5f341555dc9180e30471",
+    "sha256": "921f4641cc10871c24f5783758c592440fc558490f1725de17aa5ea5227a9e67",
+    "title": "ametsuchi [Hexagon]",
+    "artist": "stereoberry/zero img teritory obj.hex",
+    "url_diff": "http://bms.hexlataia.xyz/tables/hexajoy.html",
+    "url": "http://stereoberry.sakura.tv/music.htm",
+    "level": "17",
+    "comment": "gachi",
+    "proposer": "歳納京子",
+    "submission": 1943,
+    "proposerLr2id": 75332
   },
   {
     "md5": "fb7a747a5115a4a4739397d17ccb26bb",
@@ -55765,6 +55791,19 @@
     "proposerLr2id": 86559
   },
   {
+    "md5": "915ea0341a6a33bcc399356000359308",
+    "sha256": "07baedd6d15a3e9b64b7abca5c19a878fe1190babe881354bb50208a7ee6c5a4",
+    "title": "ナツイノ [ガチオシ]",
+    "artist": "Ino loves みずたま & 加藤裕幸(sweez) obj.Mallow♪",
+    "url_diff": "https://stellabms.xyz/upload/2053",
+    "url": "https://dropbox.bms.ms/u/53751238/Ino_BOFU2016_Natsuino_OGG.zip",
+    "level": "18",
+    "comment": "gachi",
+    "proposer": "歳納京子",
+    "submission": 1949,
+    "proposerLr2id": 75332
+  },
+  {
     "md5": "8c9f968797e05e308bdd5d9e0dac9c1a",
     "sha256": "8896dd26cff30d08fc0aee94c2bfef55eb2844bea667992bac7e32a28d5af1e3",
     "title": "ハッピーフェイクショー [I'm the crazy bitch around here]",
@@ -58928,6 +58967,19 @@
     "sha256": "7e0f6dd9fb44e89ed9ead411a320098f43318276319f3571533473904269c839"
   },
   {
+    "md5": "c332e5a6c1e22d9244a7663c8f2194d9",
+    "sha256": "a47d19fcd06c282b3b07619adae7959139c451c8650a5305dd4cd28977da1393",
+    "title": "ゴフェルの木棺 [Cupressus]",
+    "artist": "Sentire / obj:夢瑠",
+    "url_diff": "https://dl.dropboxusercontent.com/s/uw75148cam8ury7/_Gopher_yume.zip",
+    "url": "https://drive.google.com/uc?id=1-GXrhUE_xYGDDuG8vSBkinyc_LUxXPqd&export=download",
+    "level": "20",
+    "comment": "6~7? BPM180 ディレイ 微縦 3連打",
+    "proposer": "mukyu--",
+    "submission": 1950,
+    "proposerLr2id": 71314
+  },
+  {
     "md5": "2ef13e2092c83543862c03babeaccc4b",
     "sha256": "c739becf2dfd2da3db8ab4772b7bddf3105b3bb8cddb11b57541cd2fc9312a50",
     "title": "シレノ [Tidal wave]",
@@ -61993,6 +62045,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "f6390e176efd1f7ced29cb3b4792144f012b0149c0a9b12e3dfd187e0f3c697e"
+  },
+  {
+    "md5": "076ef0e0468d823044db025600ee5410",
+    "sha256": "bdd4db17efcedd5bd5ef45fb5c3fb5d9652d3266f8ab75816788cafd2ce3c48a",
+    "title": "XIII Charlotte [Indigo]",
+    "artist": "m108 BGA:メツヤ Illust:flap / Obj.Triforce",
+    "url_diff": "https://www.dropbox.com/s/na5cbpcfl59n8qm/_SPTriforce.bme?dl=0",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=116",
+    "level": "23",
+    "comment": "ディレイ",
+    "proposer": "七海",
+    "submission": 1951,
+    "proposerLr2id": 84597
   },
   {
     "md5": "581e369f1d1e40ac70c053df5452751b",

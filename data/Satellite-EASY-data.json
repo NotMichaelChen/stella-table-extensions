@@ -1938,12 +1938,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "6dd9bc5c6c7f506cb2a8a4705c42e334",
-    "title": "Meaning of Existence [niche]",
-    "level": "0.50...1.00",
-    "comment": "sl2"
-  },
-  {
     "md5": "e27a5d3958df862a2fb38a8fa393a18f",
     "title": "Natullary [Hi]",
     "level": "0.50...1.00",
@@ -1992,12 +1986,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "7cda74bdd1200b49a77a802ec3772f64",
-    "title": "Shining Stage",
-    "level": "0.50...1.00",
-    "comment": "sl2"
-  },
-  {
     "md5": "c1a5b071d1c654750ef8d6d902274e43",
     "title": "Shore in the Rain [SP ANOTHER]",
     "level": "0.50...1.00",
@@ -2014,12 +2002,6 @@
     "title": "Smiling",
     "level": "0.50...1.00",
     "comment": "sl1"
-  },
-  {
-    "md5": "883e105c2aa9a81108b3c4bf5d571c41",
-    "title": "Snowfairy -naughty-",
-    "level": "0.50...1.00",
-    "comment": "sl2"
   },
   {
     "md5": "30c1993623dcda955b497b356077c34b",
@@ -2430,6 +2412,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "6dd9bc5c6c7f506cb2a8a4705c42e334",
+    "title": "Meaning of Existence [niche]",
+    "level": "1.00...1.50",
+    "comment": "sl2"
+  },
+  {
     "md5": "666945fc86b26493aa6908bd6e74cb06",
     "title": "Mermaid [7key Extra]",
     "level": "1.00...1.50",
@@ -2544,6 +2532,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "7cda74bdd1200b49a77a802ec3772f64",
+    "title": "Shining Stage",
+    "level": "1.00...1.50",
+    "comment": "sl2"
+  },
+  {
     "md5": "fb554add7b146c080cd4cdd6b6afb32d",
     "title": "Silver Eater -Sharira-",
     "level": "1.00...1.50",
@@ -2558,6 +2552,12 @@
   {
     "md5": "2d658e3b35abde484248a948cd55cd7e",
     "title": "Snow Black -Vendetta- [Finale]",
+    "level": "1.00...1.50",
+    "comment": "sl2"
+  },
+  {
+    "md5": "883e105c2aa9a81108b3c4bf5d571c41",
+    "title": "Snowfairy -naughty-",
     "level": "1.00...1.50",
     "comment": "sl2"
   },
@@ -2922,12 +2922,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "4c756edeb68d70960989daf1d1aae9ed",
-    "title": "Fly up to : the Sky [Insane]",
-    "level": "1.50...2.00",
-    "comment": "sl3"
-  },
-  {
     "md5": "03a9fa5af9ab65bf403777ad3ee43909",
     "title": "fly*high*five [ZOI]",
     "level": "1.50...2.00",
@@ -2960,6 +2954,12 @@
   {
     "md5": "f02c2f2d2c436647b7773e08c13b2c82",
     "title": "Ice Festival",
+    "level": "1.50...2.00",
+    "comment": "sl3"
+  },
+  {
+    "md5": "e19b38273e6b5d2bb8f4bf1da01dcbaf",
+    "title": "Iolite Quintz",
     "level": "1.50...2.00",
     "comment": "sl3"
   },
@@ -3044,6 +3044,12 @@
   {
     "md5": "6b1d939c32e49543b500f47ac20fda0f",
     "title": "Precious!!! [ANOTHER+]",
+    "level": "1.50...2.00",
+    "comment": "sl3"
+  },
+  {
+    "md5": "739168d15704d3e8166ac9347e959b84",
+    "title": "Pumpkin ◇ Magic [ZOI]",
     "level": "1.50...2.00",
     "comment": "sl3"
   },
@@ -3438,12 +3444,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "2bde44b71cb7fb75c267397da7838b3d",
-    "title": "Dystopia High [ZOI]",
-    "level": "2.00...2.50",
-    "comment": "sl4"
-  },
-  {
     "md5": "5a7f422b05a7867ccdd47f10ebe31907",
     "title": "ENERGY SYNERGY MATRIX",
     "level": "2.00...2.50",
@@ -3460,6 +3460,12 @@
     "title": "First Super-Skullcat [cat's walk]",
     "level": "2.00...2.50",
     "comment": "sl4"
+  },
+  {
+    "md5": "4c756edeb68d70960989daf1d1aae9ed",
+    "title": "Fly up to : the Sky [Insane]",
+    "level": "2.00...2.50",
+    "comment": "sl3"
   },
   {
     "md5": "938acecd03ff1f0a178abfebb1ed1f2b",
@@ -3490,12 +3496,6 @@
     "title": "Impulse of destruction [AbNormal]",
     "level": "2.00...2.50",
     "comment": "sl4"
-  },
-  {
-    "md5": "e19b38273e6b5d2bb8f4bf1da01dcbaf",
-    "title": "Iolite Quintz",
-    "level": "2.00...2.50",
-    "comment": "sl3"
   },
   {
     "md5": "c56c046eb75eee143e825ac045208f5a",
@@ -3562,12 +3562,6 @@
     "title": "PASERI [7keys EX]",
     "level": "2.00...2.50",
     "comment": "sl3"
-  },
-  {
-    "md5": "739168d15704d3e8166ac9347e959b84",
-    "title": "Pumpkin ◇ Magic [ZOI]",
-    "level": "2.00...2.50",
-    "comment": "sl4"
   },
   {
     "md5": "9ce00182078600ac9cc8b2460e4f7761",
@@ -3866,6 +3860,12 @@
   {
     "md5": "e5e812b03f7a723a1f511f6be5eb9059",
     "title": "Dstorv [Another+]",
+    "level": "2.50...3.00",
+    "comment": "sl4"
+  },
+  {
+    "md5": "2bde44b71cb7fb75c267397da7838b3d",
+    "title": "Dystopia High [ZOI]",
     "level": "2.50...3.00",
     "comment": "sl4"
   },
@@ -4256,6 +4256,12 @@
   {
     "md5": "7287cd222a638655c5a81e951d624d39",
     "title": "Behind you [Lunatic]",
+    "level": "3.00...3.50",
+    "comment": "sl5"
+  },
+  {
+    "md5": "ff3d28488f7c8a4c66869a740fb149ed",
+    "title": "Between Sanity and Insanity -Luna-",
     "level": "3.00...3.50",
     "comment": "sl5"
   },
@@ -4728,18 +4734,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "fe2fbfefcdf57b56bb6aaa89d6ee11cc",
-    "title": "Awaking Beat-From the next generation- [W]",
-    "level": "3.50...4.00",
-    "comment": "sl6"
-  },
-  {
-    "md5": "ff3d28488f7c8a4c66869a740fb149ed",
-    "title": "Between Sanity and Insanity -Luna-",
-    "level": "3.50...4.00",
-    "comment": "sl5"
-  },
-  {
     "md5": "93af02381f41d62535f555431a2dcbc8",
     "title": "BiBiRi [Electric Mouse]",
     "level": "3.50...4.00",
@@ -4902,6 +4896,12 @@
     "comment": "sl6"
   },
   {
+    "md5": "c982becdce32626a23083d798b02ede1",
+    "title": "Total Eclipse of the Sun -Howling-",
+    "level": "3.50...4.00",
+    "comment": "sl6"
+  },
+  {
     "md5": "5c40b8f89acb174231f3cba614a67279",
     "title": "Triton [HARDEST]",
     "level": "3.50...4.00",
@@ -5036,6 +5036,12 @@
   {
     "md5": "83855e7be644eef3af16b58a704fc77b",
     "title": "Alastor [Nigh]",
+    "level": "4.00...4.50",
+    "comment": "sl6"
+  },
+  {
+    "md5": "fe2fbfefcdf57b56bb6aaa89d6ee11cc",
+    "title": "Awaking Beat-From the next generation- [W]",
     "level": "4.00...4.50",
     "comment": "sl6"
   },
@@ -5234,12 +5240,6 @@
   {
     "md5": "ed4600ce4d6f06e0c4fbcc800f1e9255",
     "title": "Snowy Light(BMS Edit) [I'm Already Tracer]",
-    "level": "4.00...4.50",
-    "comment": "sl6"
-  },
-  {
-    "md5": "c982becdce32626a23083d798b02ede1",
-    "title": "Total Eclipse of the Sun -Howling-",
     "level": "4.00...4.50",
     "comment": "sl6"
   },
@@ -5928,6 +5928,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "637acc81a4774e365973d0badca5fa4e",
+    "title": "ReviXy [SP AMETHER-A]",
+    "level": "5.00...5.50",
+    "comment": "sl8"
+  },
+  {
     "md5": "55b5fd5b7708647f80141a00c22231e0",
     "title": "Scaffold -Luna-",
     "level": "5.00...5.50",
@@ -5946,6 +5952,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "695fb1cbc6d11fd35d019c9112355349",
+    "title": "Upshift [Futabather]",
+    "level": "5.00...5.50",
+    "comment": "sl8"
+  },
+  {
     "md5": "f474ba68a8b00bf6c18815540da6593c",
     "title": "WHIRLWIND [Wind Rush]",
     "level": "5.00...5.50",
@@ -5954,6 +5966,12 @@
   {
     "md5": "f6fcf9d49a05f48ccc495a632d626c7f",
     "title": "XIX [MM]",
+    "level": "5.00...5.50",
+    "comment": "sl8"
+  },
+  {
+    "md5": "a90eb3c6478ba53cfffa6c47b8e3e2ca",
+    "title": "じゃぱりぱー [sagINSANE]",
     "level": "5.00...5.50",
     "comment": "sl8"
   },
@@ -6008,6 +6026,12 @@
   {
     "md5": "bd575bc97e261118191d2f09721a34cf",
     "title": "僕が見た世界 [Believe My Shine!!]",
+    "level": "5.00...5.50",
+    "comment": "sl8"
+  },
+  {
+    "md5": "7e751589bee7ce5987f0d44cf251459e",
+    "title": "劇場版 うぉーる☆くらっしゃー！ [恋人なんていらない]",
     "level": "5.00...5.50",
     "comment": "sl8"
   },
@@ -6246,12 +6270,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "637acc81a4774e365973d0badca5fa4e",
-    "title": "ReviXy [SP AMETHER-A]",
-    "level": "5.50...6.00",
-    "comment": "sl8"
-  },
-  {
     "md5": "af4f6e14957bfe52449ac9ce07a4c300",
     "title": "SAVE The World -starlight,more Colors- [Did you catch that?]",
     "level": "5.50...6.00",
@@ -6312,22 +6330,10 @@
     "comment": "sl8"
   },
   {
-    "md5": "695fb1cbc6d11fd35d019c9112355349",
-    "title": "Upshift [Futabather]",
-    "level": "5.50...6.00",
-    "comment": "sl8"
-  },
-  {
     "md5": "6365227660e0056c8809e4a3e31c2459",
     "title": "WE ARE HARDCORE [Gang]",
     "level": "5.50...6.00",
     "comment": "sl9"
-  },
-  {
-    "md5": "a90eb3c6478ba53cfffa6c47b8e3e2ca",
-    "title": "じゃぱりぱー [sagINSANE]",
-    "level": "5.50...6.00",
-    "comment": "sl8"
   },
   {
     "md5": "04358a9776ed6fb81fe30eaa930e6eb7",
@@ -6356,12 +6362,6 @@
   {
     "md5": "3e40449140978a7124ba7ef29c3d4a18",
     "title": "レトロモダンの玩具工場 [INSANE]",
-    "level": "5.50...6.00",
-    "comment": "sl8"
-  },
-  {
-    "md5": "7e751589bee7ce5987f0d44cf251459e",
-    "title": "劇場版 うぉーる☆くらっしゃー！ [恋人なんていらない]",
     "level": "5.50...6.00",
     "comment": "sl8"
   },
@@ -6418,6 +6418,12 @@
     "title": "自強號 [333]",
     "level": "5.50...6.00",
     "comment": "sl8"
+  },
+  {
+    "md5": "3f055cc6d0e7b394b3952b5927235860",
+    "title": "蒼く爽昧な夢のようで [BlackAnother]",
+    "level": "5.50...6.00",
+    "comment": "sl9"
   },
   {
     "md5": "d39da85f9f9a356c7da81aa1baf37fb8",
@@ -6996,14 +7002,14 @@
     "comment": "sl10"
   },
   {
-    "md5": "3f055cc6d0e7b394b3952b5927235860",
-    "title": "蒼く爽昧な夢のようで [BlackAnother]",
+    "md5": "fd76b7d207db6c3942bfac0af6fac8db",
+    "title": "踊る水飛沫 [KF7]",
     "level": "6.50...7.00",
     "comment": "sl10"
   },
   {
-    "md5": "fd76b7d207db6c3942bfac0af6fac8db",
-    "title": "踊る水飛沫 [KF7]",
+    "md5": "8a4355653ba3f0b5c437bf0e67761c13",
+    "title": "風時夏 [晴海歌]",
     "level": "6.50...7.00",
     "comment": "sl10"
   },
@@ -7402,6 +7408,12 @@
     "title": "Demagogie [EX]",
     "level": "7.50...8.00",
     "comment": "sl11"
+  },
+  {
+    "md5": "bf32bfe637da0b321e8ff27b225901b5",
+    "title": "DJおっさん 尻削り節 remix [...!?]",
+    "level": "7.50...8.00",
+    "comment": "sl12"
   },
   {
     "md5": "4faa5ba5f76078757c24bdb0cd5c3731",
@@ -8004,6 +8016,12 @@
     "comment": "sl12"
   },
   {
+    "md5": "1aa6618d671728be96004e3a00173be7",
+    "title": "mom [サレン]",
+    "level": "8.00...8.50",
+    "comment": "sl12"
+  },
+  {
     "md5": "e92ce30d9e82822adcab89a3ea20c314",
     "title": "MOREЯAVES [EX]",
     "level": "8.00...8.50",
@@ -8042,6 +8060,12 @@
   {
     "md5": "fbd038dac2047b6f277a64c605f0ca57",
     "title": "Suffering of screw [chaotic world]",
+    "level": "8.00...8.50",
+    "comment": "sl12"
+  },
+  {
+    "md5": "1c9c574853c87a09e03ee40d372ecc36",
+    "title": "sunken azure world [マヨマヨ]",
     "level": "8.00...8.50",
     "comment": "sl12"
   },
@@ -8166,10 +8190,22 @@
     "comment": "sl12"
   },
   {
+    "md5": "dd5f2c308821a2d218a6540692e65134",
+    "title": "秩序の秋桜 [OVERHEAT]",
+    "level": "8.00...8.50",
+    "comment": "sl12"
+  },
+  {
     "md5": "306bf3bbe1367a629e4efb519f29178e",
     "title": "結ばれる奇跡の願い [Shining]",
     "level": "8.00...8.50",
     "comment": "sl11"
+  },
+  {
+    "md5": "12fbbbc30ea8fbe85c3a27ad35eed419",
+    "title": "織姫 -EX-",
+    "level": "8.00...8.50",
+    "comment": "sl12"
   },
   {
     "md5": "a3053a25cb3c319260188fff4d006350",
@@ -8216,12 +8252,6 @@
   {
     "md5": "9ce344c90254fae923d002757511fb87",
     "title": "Castorpollux [G2]",
-    "level": "8.50...9.00",
-    "comment": "sl12"
-  },
-  {
-    "md5": "0f61440742426aa49fc016b49a441d8a",
-    "title": "cold planet (HOT COCOA)",
     "level": "8.50...9.00",
     "comment": "sl12"
   },
@@ -8298,12 +8328,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "1aa6618d671728be96004e3a00173be7",
-    "title": "mom [サレン]",
-    "level": "8.50...9.00",
-    "comment": "sl12"
-  },
-  {
     "md5": "8c5fad5786d67093ef4d4a35f462a031",
     "title": "My Little Sweet Kitty [Append+]",
     "level": "8.50...9.00",
@@ -8348,12 +8372,6 @@
   {
     "md5": "35682ac66614d84018472b04957f387c",
     "title": "subconsciousness [Traumdeutung]",
-    "level": "8.50...9.00",
-    "comment": "sl12"
-  },
-  {
-    "md5": "1c9c574853c87a09e03ee40d372ecc36",
-    "title": "sunken azure world [マヨマヨ]",
     "level": "8.50...9.00",
     "comment": "sl12"
   },
@@ -8466,20 +8484,8 @@
     "comment": "sl12"
   },
   {
-    "md5": "dd5f2c308821a2d218a6540692e65134",
-    "title": "秩序の秋桜 [OVERHEAT]",
-    "level": "8.50...9.00",
-    "comment": "sl12"
-  },
-  {
     "md5": "687a49d3b6d25d8fac7b7879515ae83b",
     "title": "絵空事の世界と私 -aletheia-",
-    "level": "8.50...9.00",
-    "comment": "sl12"
-  },
-  {
-    "md5": "12fbbbc30ea8fbe85c3a27ad35eed419",
-    "title": "織姫 -EX-",
     "level": "8.50...9.00",
     "comment": "sl12"
   },
@@ -8487,6 +8493,12 @@
     "md5": "9af0353882897252567c09b0844543c5",
     "title": "馴鹿之骸 [x2]",
     "level": "8.50...9.00",
+    "comment": "sl12"
+  },
+  {
+    "md5": "0f61440742426aa49fc016b49a441d8a",
+    "title": "cold planet (HOT COCOA)",
+    "level": "9.00...9.50",
     "comment": "sl12"
   },
   {

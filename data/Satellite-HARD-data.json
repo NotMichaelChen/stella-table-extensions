@@ -996,12 +996,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "fe103a2c23a341a67154268007984727",
-    "title": "Rebirth of the MYTH [Beyond Fictional]",
-    "level": "1.00...1.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "0cbc7b980f664e7e0eb2214c965c2180",
     "title": "Regain [EGO DEATH]",
     "level": "1.00...1.50",
@@ -1338,12 +1332,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "eb70f10e25ae2c02146f8512bbb8ab79",
-    "title": "JUGGLE -SPINNER-",
-    "level": "1.50...2.00",
-    "comment": "sl1"
-  },
-  {
     "md5": "9f03d0a2965b56338d6fa975777662be",
     "title": "JULIAN \"for B.O.F. 2009\" [SP-RX INSANE]",
     "level": "1.50...2.00",
@@ -1376,12 +1364,6 @@
   {
     "md5": "77c5bd7c18b55002b8549dd50c331965",
     "title": "Lepontinia",
-    "level": "1.50...2.00",
-    "comment": "sl1"
-  },
-  {
-    "md5": "560e1aa9a647a420606c7a9b781f5ba7",
-    "title": "Life Style [INSANE]",
     "level": "1.50...2.00",
     "comment": "sl1"
   },
@@ -1488,12 +1470,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "30b0810f6c9be2ff9748e696f21c43fd",
-    "title": "Pain Continues [SP Cloudy]",
-    "level": "1.50...2.00",
-    "comment": "sl1"
-  },
-  {
     "md5": "4c086e143deaf315f8f4d0cf1bf8b527",
     "title": "Pandora [ANOTHER]",
     "level": "1.50...2.00",
@@ -1526,6 +1502,12 @@
   {
     "md5": "5218c51ab40bf345c74cd399f7b88fdb",
     "title": "Psalms ～魂の還るばしょ～ [SP ANOTHER]",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
+    "md5": "fe103a2c23a341a67154268007984727",
+    "title": "Rebirth of the MYTH [Beyond Fictional]",
     "level": "1.50...2.00",
     "comment": "sl1"
   },
@@ -1914,6 +1896,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "d22b1e2a3e758c4d4627d230eb90e8f5",
+    "title": "Diachronic Reflection (SP Insane)",
+    "level": "2.00...2.50",
+    "comment": "sl2"
+  },
+  {
     "md5": "9a50c8e205ac779944a6855b9c003b6f",
     "title": "F [F]",
     "level": "2.00...2.50",
@@ -1932,8 +1920,20 @@
     "comment": "sl2"
   },
   {
+    "md5": "eb70f10e25ae2c02146f8512bbb8ab79",
+    "title": "JUGGLE -SPINNER-",
+    "level": "2.00...2.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "02af89d2c76d4494b6561ee2c94b15cd",
     "title": "Latch (Flip-Flop) [Spinner+]",
+    "level": "2.00...2.50",
+    "comment": "sl1"
+  },
+  {
+    "md5": "560e1aa9a647a420606c7a9b781f5ba7",
+    "title": "Life Style [INSANE]",
     "level": "2.00...2.50",
     "comment": "sl1"
   },
@@ -1948,6 +1948,12 @@
     "title": "Orbital Drive",
     "level": "2.00...2.50",
     "comment": "sl2"
+  },
+  {
+    "md5": "30b0810f6c9be2ff9748e696f21c43fd",
+    "title": "Pain Continues [SP Cloudy]",
+    "level": "2.00...2.50",
+    "comment": "sl1"
   },
   {
     "md5": "889f9a6b4361412b29b5604a7922a78a",
@@ -2154,12 +2160,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "d22b1e2a3e758c4d4627d230eb90e8f5",
-    "title": "Diachronic Reflection (SP Insane)",
-    "level": "2.50...3.00",
-    "comment": "sl2"
-  },
-  {
     "md5": "29f5eb984d14420f053407d20c1f14d1",
     "title": "DOLL [F]",
     "level": "2.50...3.00",
@@ -2312,6 +2312,12 @@
   {
     "md5": "3a10aef50c5bedf5dde0653bc44b1ac6",
     "title": "Like an Orange -Hope-",
+    "level": "2.50...3.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "e3175508e73af1949ae3bad83bdfe750",
+    "title": "locked girl@Scarlet-Devils Palace -Luna-",
     "level": "2.50...3.00",
     "comment": "sl2"
   },
@@ -2784,6 +2790,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "eac3481c7a80014579da0b2816b279ff",
+    "title": "Kaleidoscope [SP ANOTHER]",
+    "level": "3.00...3.50",
+    "comment": "sl3"
+  },
+  {
     "md5": "5fc698f8ae2b9c5f45d0e7a3d156240a",
     "title": "Laplace",
     "level": "3.00...3.50",
@@ -2796,12 +2808,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "e3175508e73af1949ae3bad83bdfe750",
-    "title": "locked girl@Scarlet-Devils Palace -Luna-",
-    "level": "3.00...3.50",
-    "comment": "sl2"
-  },
-  {
     "md5": "e1f07bdc8f336c18afa025ff978b6b4a",
     "title": "miracle romance [reasonable]",
     "level": "3.00...3.50",
@@ -2810,6 +2816,12 @@
   {
     "md5": "1ce4647af15a4a40410f9309b0d37378",
     "title": "Postliminium [SP INSANE]",
+    "level": "3.00...3.50",
+    "comment": "sl3"
+  },
+  {
+    "md5": "739168d15704d3e8166ac9347e959b84",
+    "title": "Pumpkin ◇ Magic [ZOI]",
     "level": "3.00...3.50",
     "comment": "sl3"
   },
@@ -2852,12 +2864,6 @@
   {
     "md5": "10f14321a847e8a28d5ff60bb6b1ab17",
     "title": "田中 [ANOTHER]",
-    "level": "3.00...3.50",
-    "comment": "sl3"
-  },
-  {
-    "md5": "6152ed43269ead2d8a53584f1d70424e",
-    "title": "白き星姫-Принцесса белая звезда- [Another]",
     "level": "3.00...3.50",
     "comment": "sl3"
   },
@@ -3068,12 +3074,6 @@
   {
     "md5": "e19b38273e6b5d2bb8f4bf1da01dcbaf",
     "title": "Iolite Quintz",
-    "level": "3.50...4.00",
-    "comment": "sl3"
-  },
-  {
-    "md5": "eac3481c7a80014579da0b2816b279ff",
-    "title": "Kaleidoscope [SP ANOTHER]",
     "level": "3.50...4.00",
     "comment": "sl3"
   },
@@ -3432,6 +3432,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "6152ed43269ead2d8a53584f1d70424e",
+    "title": "白き星姫-Принцесса белая звезда- [Another]",
+    "level": "3.50...4.00",
+    "comment": "sl3"
+  },
+  {
     "md5": "9fcd8ed5738eeafee02f4261a29c2b58",
     "title": "空 [ZOI]",
     "level": "3.50...4.00",
@@ -3566,12 +3572,6 @@
   {
     "md5": "7014bc052006f52b398c038017a7527a",
     "title": "pp-hunk [Phunny]",
-    "level": "4.00...4.50",
-    "comment": "sl4"
-  },
-  {
-    "md5": "739168d15704d3e8166ac9347e959b84",
-    "title": "Pumpkin ◇ Magic [ZOI]",
     "level": "4.00...4.50",
     "comment": "sl4"
   },
@@ -4152,12 +4152,6 @@
     "comment": "sl4"
   },
   {
-    "md5": "7a7ef296e6725c244884a513819918d8",
-    "title": "聖戦ものがたり [yumether]",
-    "level": "4.50...5.00",
-    "comment": "sl4"
-  },
-  {
     "md5": "038cf0248a84abb1579cfefd8cdad050",
     "title": "赤 [W]",
     "level": "4.50...5.00",
@@ -4228,12 +4222,6 @@
     "title": "Dreadnought [Bravery]",
     "level": "5.00...5.50",
     "comment": "sl4"
-  },
-  {
-    "md5": "6204c87e5dc49ecb674f0d50c6ec6755",
-    "title": "enamel [SP INSANE]",
-    "level": "5.00...5.50",
-    "comment": "sl5"
   },
   {
     "md5": "012acdf138ea86da12cb86f95d8735f5",
@@ -4322,6 +4310,12 @@
   {
     "md5": "8faa0fc06a989fdb3f153e38ac7efddd",
     "title": "Strahv -Encore-",
+    "level": "5.00...5.50",
+    "comment": "sl5"
+  },
+  {
+    "md5": "31d94f9c12d00a95b059e0a0629232a0",
+    "title": "The Last Page [Endgame]",
     "level": "5.00...5.50",
     "comment": "sl5"
   },
@@ -4420,6 +4414,12 @@
     "title": "炎花 - flameflower - [ClimaX]",
     "level": "5.00...5.50",
     "comment": "sl5"
+  },
+  {
+    "md5": "7a7ef296e6725c244884a513819918d8",
+    "title": "聖戦ものがたり [yumether]",
+    "level": "5.00...5.50",
+    "comment": "sl4"
   },
   {
     "md5": "ff481b9a016e9c2e3a72787ab14d5c1c",
@@ -4536,6 +4536,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "6204c87e5dc49ecb674f0d50c6ec6755",
+    "title": "enamel [SP INSANE]",
+    "level": "5.50...6.00",
+    "comment": "sl5"
+  },
+  {
     "md5": "e38b9f0a8f66d25966207f24f7b030f5",
     "title": "Fading Star -Canopus-",
     "level": "5.50...6.00",
@@ -4596,6 +4602,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "c2584057469480172479f0b166aff5fa",
+    "title": "My Hardcore [Difficult]",
+    "level": "5.50...6.00",
+    "comment": "sl5"
+  },
+  {
     "md5": "5dda8688e245ec4dfd377a44fe6cc6c5",
     "title": "My Little Sweet Kitty [Append]",
     "level": "5.50...6.00",
@@ -4646,12 +4658,6 @@
   {
     "md5": "b31259505ed8a18dd1e9be924308aa45",
     "title": "Term of Atrophy [ANOTHER]",
-    "level": "5.50...6.00",
-    "comment": "sl5"
-  },
-  {
-    "md5": "31d94f9c12d00a95b059e0a0629232a0",
-    "title": "The Last Page [Endgame]",
     "level": "5.50...6.00",
     "comment": "sl5"
   },
@@ -4850,12 +4856,6 @@
   {
     "md5": "ff9466e1b9fe2f8f703ab33f80c4803d",
     "title": "LivedaM (imagination)",
-    "level": "6.00...6.50",
-    "comment": "sl5"
-  },
-  {
-    "md5": "c2584057469480172479f0b166aff5fa",
-    "title": "My Hardcore [Difficult]",
     "level": "6.00...6.50",
     "comment": "sl5"
   },
@@ -5078,6 +5078,12 @@
   {
     "md5": "081f3e162b1d88f0f0e59a44593af6e4",
     "title": "HEXPERUS [SP INSANE]",
+    "level": "6.50...7.00",
+    "comment": "sl6"
+  },
+  {
+    "md5": "b6d071c80ab9bb84f3280264e4c616c3",
+    "title": "INSANER [ANOTHER]",
     "level": "6.50...7.00",
     "comment": "sl6"
   },
@@ -5380,12 +5386,6 @@
     "title": "IDOLL [DOLLISH]",
     "level": "7.00...7.50",
     "comment": "sl7"
-  },
-  {
-    "md5": "b6d071c80ab9bb84f3280264e4c616c3",
-    "title": "INSANER [ANOTHER]",
-    "level": "7.00...7.50",
-    "comment": "sl6"
   },
   {
     "md5": "49621b1c35f5a086fe2377c5e4a6af0e",
@@ -5910,6 +5910,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "5a7d10be7fe321b9f3c793de37b2b6c3",
+    "title": "スナレ",
+    "level": "8.00...8.50",
+    "comment": "sl8"
+  },
+  {
     "md5": "dc77bd7acccaeb391ea39043736cb72c",
     "title": "ナツイノ [涼風]",
     "level": "8.00...8.50",
@@ -6246,12 +6252,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "5a7d10be7fe321b9f3c793de37b2b6c3",
-    "title": "スナレ",
-    "level": "8.50...9.00",
-    "comment": "sl8"
-  },
-  {
     "md5": "e4a166ee1dff77b12925bbcc725814aa",
     "title": "ネコイチ(Lemon beads Remix) [Pollux]",
     "level": "8.50...9.00",
@@ -6460,6 +6460,12 @@
     "title": "和鸞 [紅翼鳥]",
     "level": "9.00...9.50",
     "comment": "sl8"
+  },
+  {
+    "md5": "3f055cc6d0e7b394b3952b5927235860",
+    "title": "蒼く爽昧な夢のようで [BlackAnother]",
+    "level": "9.00...9.50",
+    "comment": "sl9"
   },
   {
     "md5": "d39da85f9f9a356c7da81aa1baf37fb8",
@@ -6756,12 +6762,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "07d0643bd73d5aba7415b513003b38cf",
-    "title": "ENERGY SYNERGY MATRIX [Nemesis]",
-    "level": "10.00...10.50",
-    "comment": "sl10"
-  },
-  {
     "md5": "988010f041bbd81cda28bacd9e151350",
     "title": "EOS -Last Hope-",
     "level": "10.00...10.50",
@@ -6788,6 +6788,12 @@
   {
     "md5": "9507a703aa2aee86c21c69abef0c9bc3",
     "title": "Seiren [Siren]",
+    "level": "10.00...10.50",
+    "comment": "sl10"
+  },
+  {
+    "md5": "32384e2ce36d8da907072a4a70f42497",
+    "title": "ぱぴぽ？ -でぃすぺあ-",
     "level": "10.00...10.50",
     "comment": "sl10"
   },
@@ -6834,8 +6840,8 @@
     "comment": "sl10"
   },
   {
-    "md5": "3f055cc6d0e7b394b3952b5927235860",
-    "title": "蒼く爽昧な夢のようで [BlackAnother]",
+    "md5": "8a4355653ba3f0b5c437bf0e67761c13",
+    "title": "風時夏 [晴海歌]",
     "level": "10.00...10.50",
     "comment": "sl10"
   },
@@ -6950,6 +6956,12 @@
   {
     "md5": "02219fc200b7bbf9d068ac978f85188b",
     "title": "Emptiness 【Klarheit】",
+    "level": "10.50...11.00",
+    "comment": "sl10"
+  },
+  {
+    "md5": "07d0643bd73d5aba7415b513003b38cf",
+    "title": "ENERGY SYNERGY MATRIX [Nemesis]",
     "level": "10.50...11.00",
     "comment": "sl10"
   },
@@ -7166,12 +7178,6 @@
   {
     "md5": "23108f44859ef37e013fa9bd4df08b72",
     "title": "your wind, my blind [Etude]",
-    "level": "10.50...11.00",
-    "comment": "sl10"
-  },
-  {
-    "md5": "32384e2ce36d8da907072a4a70f42497",
-    "title": "ぱぴぽ？ -でぃすぺあ-",
     "level": "10.50...11.00",
     "comment": "sl10"
   },
@@ -7476,6 +7482,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "62c4774f7c7a0cf0c8ffe36bd8868f7e",
+    "title": "Giselle -Despair-",
+    "level": "11.50...12.00",
+    "comment": "sl11"
+  },
+  {
     "md5": "40f931bdce724586b1545ea80eb7fde4",
     "title": "GOODRAGE [#MAGiCVL_R4G3]",
     "level": "11.50...12.00",
@@ -7540,12 +7552,6 @@
     "title": "MASAMUNE [MANIAQ]",
     "level": "11.50...12.00",
     "comment": "sl11"
-  },
-  {
-    "md5": "24b3d27b614f51a0e317027f7eca93b6",
-    "title": "Metropolis [7key,BITTER]",
-    "level": "11.50...12.00",
-    "comment": "sl12"
   },
   {
     "md5": "cb8de500653a3c8259966d635774827c",
@@ -7728,6 +7734,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "38d22090860f2d21c184ac70dd2d8dae",
+    "title": "アナログ横丁 [ディレイ六斎市]",
+    "level": "11.50...12.00",
+    "comment": "sl12"
+  },
+  {
     "md5": "4c4e384172c5eb1cdea72752430bebae",
     "title": "インフィニット・パラダイムシフト [yumether]",
     "level": "11.50...12.00",
@@ -7842,12 +7854,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "9b3b8e98a362e86546551d5a16052364",
-    "title": "Daydreamer [EX]",
-    "level": "12.00...12.50",
-    "comment": "sl12"
-  },
-  {
     "md5": "adf72e8b37dcbb5af2078914a6b273b1",
     "title": "Demagogie [EX]",
     "level": "12.00...12.50",
@@ -7856,6 +7862,12 @@
   {
     "md5": "b7b9f9b7d7be325d587f9797ccccbae4",
     "title": "Deublithick [HARDEST]",
+    "level": "12.00...12.50",
+    "comment": "sl12"
+  },
+  {
+    "md5": "bf32bfe637da0b321e8ff27b225901b5",
+    "title": "DJおっさん 尻削り節 remix [...!?]",
     "level": "12.00...12.50",
     "comment": "sl12"
   },
@@ -7890,12 +7902,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "62c4774f7c7a0cf0c8ffe36bd8868f7e",
-    "title": "Giselle -Despair-",
-    "level": "12.00...12.50",
-    "comment": "sl11"
-  },
-  {
     "md5": "8f1bfa14a5bb435b315d364ee2c785c8",
     "title": "hemorrhoids",
     "level": "12.00...12.50",
@@ -7916,6 +7922,12 @@
   {
     "md5": "7a0fe0b4cdb584755ead99ec9d4479cf",
     "title": "Megalovania HardRockArrange [決意]",
+    "level": "12.00...12.50",
+    "comment": "sl12"
+  },
+  {
+    "md5": "24b3d27b614f51a0e317027f7eca93b6",
+    "title": "Metropolis [7key,BITTER]",
     "level": "12.00...12.50",
     "comment": "sl12"
   },
@@ -7976,12 +7988,6 @@
   {
     "md5": "e2b2d2cfa8f25daa1818bdb08a29dec6",
     "title": "We Are CrazyBackDancerz!!!!! [Dance Evolution]",
-    "level": "12.00...12.50",
-    "comment": "sl12"
-  },
-  {
-    "md5": "38d22090860f2d21c184ac70dd2d8dae",
-    "title": "アナログ横丁 [ディレイ六斎市]",
     "level": "12.00...12.50",
     "comment": "sl12"
   },
@@ -8096,6 +8102,12 @@
   {
     "md5": "a0ae63d5d9ee29663ecb68f3f63c0f60",
     "title": "DataErr0r [EXCEED GEAR -LIGHTNING MODEL-]",
+    "level": "12.50...13.00",
+    "comment": "sl12"
+  },
+  {
+    "md5": "9b3b8e98a362e86546551d5a16052364",
+    "title": "Daydreamer [EX]",
     "level": "12.50...13.00",
     "comment": "sl12"
   },

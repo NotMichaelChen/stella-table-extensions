@@ -564,12 +564,6 @@
     "comment": "st0"
   },
   {
-    "md5": "5227a17ac5adf4f1785a181079446b66",
-    "title": "After The Rain [Drops]",
-    "level": "6.00...6.50",
-    "comment": "st1"
-  },
-  {
     "md5": "bf1d6e8f15d53bdd35c3160b1f4567a8",
     "title": "Luv of Magical Synth [サテラ×ステラ]",
     "level": "6.00...6.50",
@@ -596,6 +590,12 @@
   {
     "md5": "be5a994241230cc2c991a6db8cc80290",
     "title": "adolescent person [depressive]",
+    "level": "6.50...7.00",
+    "comment": "st1"
+  },
+  {
+    "md5": "5227a17ac5adf4f1785a181079446b66",
+    "title": "After The Rain [Drops]",
     "level": "6.50...7.00",
     "comment": "st1"
   },
@@ -632,6 +632,12 @@
   {
     "md5": "8a7745023425643f2114f084ec4ad898",
     "title": "Babel -The Tower-",
+    "level": "6.50...7.00",
+    "comment": "st1"
+  },
+  {
+    "md5": "2af37ac8096e58659f14d6af115591fa",
+    "title": "Bad Beat! [EXTREME]",
     "level": "6.50...7.00",
     "comment": "st1"
   },
@@ -674,6 +680,12 @@
   {
     "md5": "26b6fd6c0757ec7e4d9e95b0d6156b0e",
     "title": "Colorful Dream [紫外線]",
+    "level": "6.50...7.00",
+    "comment": "st1"
+  },
+  {
+    "md5": "949989af49f5de175895edc0e81f832c",
+    "title": "Crazy Watermelon [Pentagon]",
     "level": "6.50...7.00",
     "comment": "st1"
   },
@@ -1130,12 +1142,6 @@
   {
     "md5": "91b0a169e6cde78b058fda8a404240a0",
     "title": "B e l i - R - G O D",
-    "level": "7.50...8.00",
-    "comment": "st2"
-  },
-  {
-    "md5": "2af37ac8096e58659f14d6af115591fa",
-    "title": "Bad Beat! [EXTREME]",
     "level": "7.50...8.00",
     "comment": "st2"
   },
@@ -1704,6 +1710,12 @@
     "comment": "st3"
   },
   {
+    "md5": "cbd09eb559169246ba03cbda820c48ef",
+    "title": "Time files [GOD]",
+    "level": "9.00...9.50",
+    "comment": "st3"
+  },
+  {
     "md5": "ff52797ef9b4e23b460228e374524a6f",
     "title": "tinnitus [load]",
     "level": "9.00...9.50",
@@ -1932,6 +1944,12 @@
     "comment": "st5"
   },
   {
+    "md5": "d8355db1f45727bcd468242ba751c307",
+    "title": "puppies [Pentagon]",
+    "level": "11.00...11.50",
+    "comment": "st5"
+  },
+  {
     "md5": "69e76ecdfd8064c934bc8a5aaad6a17a",
     "title": "Sparkling☆Sunshine!! [Last Resort]",
     "level": "11.00...11.50",
@@ -2048,6 +2066,12 @@
   {
     "md5": "0c44de22eaf1ac81895773e217f48ee8",
     "title": "NS18 [Plus]",
+    "level": "13.50...14.00",
+    "comment": "st7"
+  },
+  {
+    "md5": "5267eb8a7dde7bced341bd0e261d4008",
+    "title": "Valkyrie Revolutia [Super Hexagon]",
     "level": "13.50...14.00",
     "comment": "st7"
   },
@@ -3006,12 +3030,6 @@
     "comment": "st9"
   },
   {
-    "md5": "949989af49f5de175895edc0e81f832c",
-    "title": "Crazy Watermelon [Pentagon]",
-    "level": "-",
-    "comment": "st1"
-  },
-  {
     "md5": "04e3d569f934712e5511ddd69983d49c",
     "title": "Crimson Liar(\"Sadistic girl\" Mix) -Nightmare-",
     "level": "-",
@@ -3382,6 +3400,12 @@
     "title": "electric butterfly/side:A",
     "level": "-",
     "comment": "st3"
+  },
+  {
+    "md5": "5cabdb40c68323c6b567ec0507f4804e",
+    "title": "Electric Emotion [Extreme Enthusiasm]",
+    "level": "-",
+    "comment": "st9"
   },
   {
     "md5": "bea09a3c942e4118bc626924b16ed7bd",
@@ -4584,6 +4608,12 @@
     "comment": "st9"
   },
   {
+    "md5": "3ac4bfca957201d374673f737f3aefa8",
+    "title": "Lonely Cat [大雨注意報]",
+    "level": "-",
+    "comment": "st5"
+  },
+  {
     "md5": "786018f3e6ed69ec70441d2316a5dbe1",
     "title": "Lonely One Christmas [Hexagon]",
     "level": "-",
@@ -5148,12 +5178,6 @@
     "comment": "st7"
   },
   {
-    "md5": "5d0c727823b1cbea3e738958acafb687",
-    "title": "plentifulness [SP FLOWER]",
-    "level": "-",
-    "comment": "st3"
-  },
-  {
     "md5": "3a81a248c028249d2672f1164566c556",
     "title": "Poison AND÷OR Affection -PANDORA-",
     "level": "-",
@@ -5242,12 +5266,6 @@
     "title": "PUPA -Destiny-",
     "level": "-",
     "comment": "st7"
-  },
-  {
-    "md5": "d8355db1f45727bcd468242ba751c307",
-    "title": "puppies [Pentagon]",
-    "level": "-",
-    "comment": "st5"
   },
   {
     "md5": "6f7efa0cc8600ea75ebef16b89e39bd2",
@@ -6006,12 +6024,6 @@
     "comment": "st3"
   },
   {
-    "md5": "cbd09eb559169246ba03cbda820c48ef",
-    "title": "Time files [GOD]",
-    "level": "-",
-    "comment": "st3"
-  },
-  {
     "md5": "a4ec37bd57910cbb6649f6f376322db0",
     "title": "Time shrinker [PARADOX]",
     "level": "-",
@@ -6154,12 +6166,6 @@
     "title": "Valkyrie Revolutia [Hexagon]",
     "level": "-",
     "comment": "st2"
-  },
-  {
-    "md5": "5267eb8a7dde7bced341bd0e261d4008",
-    "title": "Valkyrie Revolutia [Super Hexagon]",
-    "level": "-",
-    "comment": "st7"
   },
   {
     "md5": "bfe3c76fb81102273929e641233b7eeb",
@@ -7544,6 +7550,12 @@
   {
     "md5": "9f2963c62b959ff2b0204d5d4c1386b5",
     "title": "霧雨魔理沙は独りで嘲う [(^^)OVERDRIVE]",
+    "level": "-",
+    "comment": "st5"
+  },
+  {
+    "md5": "77b284df71745b66f94e71db50961b3b",
+    "title": "風時夏 [夏海記]",
     "level": "-",
     "comment": "st5"
   },
