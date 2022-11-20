@@ -1,5 +1,18 @@
 [
   {
+    "md5": "176c2b2db4efd66cf186caae7923d477",
+    "sha256": "9d91220250962fc64006b2eb5f3bd642361c721e904708701ea43a562f80d89b",
+    "title": "\"Fresco\" [ANOTHER]",
+    "artist": "Lemi. obj:69 de 74",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/bmsshuin3/75",
+    "level": "0",
+    "comment": "",
+    "proposer": "ИиИ",
+    "submission": 2612,
+    "proposerLr2id": 147895
+  },
+  {
     "level": "0",
     "comment": "BOFXV、皿同時押し",
     "md5": "6fac83c3c74236991cf12953a92d2a57",
@@ -1432,6 +1445,19 @@
     "proposer": "Hyparpax",
     "submission": 1742,
     "proposerLr2id": 107037
+  },
+  {
+    "md5": "c90b92d35f4e7c95cb287dffb74212c1",
+    "sha256": "4664557120e80a02926af6fb60d56aff281c53c4897e8148cddbc6f5be8908d4",
+    "title": "Hello",
+    "artist": "sakusou_",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=157&event=116",
+    "level": "0",
+    "comment": "",
+    "proposer": "ИиИ",
+    "submission": 2613,
+    "proposerLr2id": 147895
   },
   {
     "md5": "72f6d513a7f399c1d63181e079a54ba6",
@@ -14640,6 +14666,19 @@
     "proposerLr2id": 147642
   },
   {
+    "md5": "80046cfbdc869429853c52fc59816a72",
+    "sha256": "a13075d3481440036e21715f2be0129a3bb8725e8c8af8eea24236526c302231",
+    "title": "Xhroria [Veil]",
+    "artist": "AcuticNotes(An/レク） obj : dfsty",
+    "url_diff": "https://stellabms.xyz/upload/1878",
+    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/8cNBib7D",
+    "level": "3",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 2616,
+    "proposerLr2id": 84597
+  },
+  {
     "level": "3",
     "comment": "ガチ押し,少しの連打,個人差ない皿",
     "md5": "503fa3c8a93f4000b19857443e9edbf1",
@@ -25300,6 +25339,20 @@
     "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
+    "md5": "57f34b07c061a98a7d922bfe4e064bf0",
+    "sha256": "c4b3054d57d00863290cf1fba99399ddfef931972f798b84c5ac0e52539b2b53",
+    "title": "フロンティア↑↑エクスプローラー [Heliopause]",
+    "artist": "kei_iwata Illust:morph / BGA:qfeileadh / obj:83929",
+    "url_diff": "https://stellabms.xyz/upload/1958",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=132",
+    "level": "7",
+    "comment": "BPM200 乱打 同時 ディレイ",
+    "zureCount": 0,
+    "proposer": "fuko",
+    "submission": 2614,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
+  },
+  {
     "md5": "9d70d0f80d97d0143f86dec260216f8b",
     "sha256": "0005d24b3b94c2bd6af580fe6e46f4fa5ee38a49149875b008fcd31f74899c74",
     "title": "プナイプナイせんそう [LITTLE DAEMON]",
@@ -33462,6 +33515,20 @@
     "votePercent": 0
   },
   {
+    "md5": "6d8eaee3a48b7e560a49daf7fadc60fa",
+    "sha256": "900443e401b63c5f27b4820185e1d2e485d2be079c8c6918338d46fb2aba73cf",
+    "title": "Aztec Altar [spicy]",
+    "artist": "Gymholax BGI:paraneumann / obj.hex",
+    "url_diff": "https://venue.bmssearch.net/bcel_pre/38",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=137",
+    "level": "12",
+    "comment": "BPM155 連打",
+    "zureCount": 0,
+    "proposer": "fuko",
+    "submission": 2615,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
+  },
+  {
     "md5": "e4caeb4936707106b95983ebbd028f81",
     "sha256": "4ba2ecd20851a9dce77a3d01a5a051976504735e709449d40f6812bf20db9852",
     "title": "Bad Elixir -Eclipse-",
@@ -37984,6 +38051,20 @@
     "proposerLr2id": 167326
   },
   {
+    "md5": "36bf33133a3c2f9eb93e812a4c547986",
+    "sha256": "c361ed60ca71596c7a64815e3a0d75f7e58f400f7248f8c427834090b82e3596",
+    "title": "Under The Red Moon -Despair-",
+    "artist": "midori obj:七海",
+    "url_diff": "https://venue.bmssearch.net/bcel_pre/23",
+    "url": "https://dl.dropboxusercontent.com/s/rhrjtry15ssta7p/%5Bmidori%5DUnder%20The%20Red%20Moon.zip",
+    "level": "13",
+    "comment": "ハネ 微連打",
+    "zureCount": 0,
+    "proposer": "fuko",
+    "submission": 1952,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
+  },
+  {
     "md5": "513a3d5f613632ce688627a31a636756",
     "sha256": "2dfa93be25c6739f740a6c7afd4f76d4171d3b0b9ce5c2a7ea7f5d8f8fddb0d1",
     "title": "Virtual mode [Lucid Dreaming]",
@@ -38304,6 +38385,20 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "e62ec67da1159944997281d8004856bd",
+    "sha256": "318c15db38f73c1cc07726e32e690e7e1aa0b9b42d292d189c96f0355a7c86ce",
+    "title": "イナリッチ -Future-",
+    "artist": "LisicA movie : 自動車原付 / illust : Orphee / obj:七海+Mary_Sue",
+    "url_diff": "https://www.dropbox.com/s/q2h45bf835jdhw8/inarich_nanamary.zip?dl=1",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=137",
+    "level": "13",
+    "comment": "delay",
+    "zureCount": 0,
+    "proposer": "歳納京子",
+    "submission": 1954,
+    "proposerLr2id": 75332
   },
   {
     "title": "オカ研 [Four-Dimensional Space]",
@@ -39180,6 +39275,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "9944aa6b1bd454f39f78720d151b4e16633a71aca2c58f7f3d49ab3ab722e415"
+  },
+  {
+    "md5": "381691eb04c31daeb1b5375915652f4c",
+    "sha256": "f4c153919f6be1b2d5c4bc5193391244a67138fd2877c70576bc1f71c05f4437",
+    "title": "Aerial [Godspeed]",
+    "artist": "Kucchi obj.meta",
+    "url_diff": "https://stellabms.xyz/upload/1965",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=137",
+    "level": "14",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 1953,
+    "proposerLr2id": 84597
   },
   {
     "md5": "5227a17ac5adf4f1785a181079446b66",
