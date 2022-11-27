@@ -12,32 +12,8 @@
     "comment": "sl0"
   },
   {
-    "md5": "032f2470cdd02273a64a0aaa24d9a07f",
-    "title": "Cutter [DP ANOTHER]",
-    "level": "4.00...4.50",
-    "comment": "sl0"
-  },
-  {
     "md5": "c02de0206f910240a0b9ed86858969cd",
     "title": "Dream in the girl -DP ANOTHER-",
-    "level": "4.00...4.50",
-    "comment": "sl0"
-  },
-  {
-    "md5": "0a5033e3081589ffd65a6293f6421b14",
-    "title": "Forgot Ya [LEGGENDARIA]",
-    "level": "4.00...4.50",
-    "comment": "sl0"
-  },
-  {
-    "md5": "1ce0d95e27aab50479e3a726ef27b157",
-    "title": "IMPULSE [DP ANOTHER]",
-    "level": "4.00...4.50",
-    "comment": "sl0"
-  },
-  {
-    "md5": "0dd86631a775185e6c5a51d1a4d85fb8",
-    "title": "LOVE [DP Another LOVE]",
     "level": "4.00...4.50",
     "comment": "sl0"
   },
@@ -68,12 +44,6 @@
   {
     "md5": "7b803cec07b4ecac6069162fa2ad0c4e",
     "title": "Stray Squall (BMS Edit)",
-    "level": "4.00...4.50",
-    "comment": "sl0"
-  },
-  {
-    "md5": "030056b702515b5f64d6b557513293a0",
-    "title": "Summer White [DP ANOTHER]",
     "level": "4.00...4.50",
     "comment": "sl0"
   },
@@ -120,6 +90,12 @@
     "comment": "sl0"
   },
   {
+    "md5": "032f2470cdd02273a64a0aaa24d9a07f",
+    "title": "Cutter [DP ANOTHER]",
+    "level": "4.50...5.00",
+    "comment": "sl0"
+  },
+  {
     "md5": "5589dc6b48dfa1d345b8ff06457f51dd",
     "title": "endemize [E-ANOTHER]",
     "level": "4.50...5.00",
@@ -134,6 +110,12 @@
   {
     "md5": "1706ce9300f42a8989e68f8124076bda",
     "title": "Fanciful False -DP HYPER-",
+    "level": "4.50...5.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "0a5033e3081589ffd65a6293f6421b14",
+    "title": "Forgot Ya [LEGGENDARIA]",
     "level": "4.50...5.00",
     "comment": "sl0"
   },
@@ -162,6 +144,12 @@
     "comment": "sl0"
   },
   {
+    "md5": "1ce0d95e27aab50479e3a726ef27b157",
+    "title": "IMPULSE [DP ANOTHER]",
+    "level": "4.50...5.00",
+    "comment": "sl0"
+  },
+  {
     "md5": "a74da5531a74770fa8dd841cd271454f",
     "title": "In a dream [DP-sagANOTHER]",
     "level": "4.50...5.00",
@@ -170,6 +158,12 @@
   {
     "md5": "1fd4c1863f55d604fd48894af9f12a9c",
     "title": "JUMMER [DPA]",
+    "level": "4.50...5.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "0dd86631a775185e6c5a51d1a4d85fb8",
+    "title": "LOVE [DP Another LOVE]",
     "level": "4.50...5.00",
     "comment": "sl0"
   },
@@ -224,6 +218,12 @@
   {
     "md5": "6c0bba1647785f2d79cc41896118b656",
     "title": "Save the Water",
+    "level": "4.50...5.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "030056b702515b5f64d6b557513293a0",
+    "title": "Summer White [DP ANOTHER]",
     "level": "4.50...5.00",
     "comment": "sl0"
   },
@@ -714,8 +714,8 @@
     "comment": "sl2"
   },
   {
-    "md5": "73e1a67c683004e499d6a40e91fcc0d6",
-    "title": "あなた [DP HYPER]",
+    "md5": "bcf1bb11c0174bb2deafc9dfc64d9254",
+    "title": "すばらきしこのせかい [for Beginner]",
     "level": "7.00...7.50",
     "comment": "sl2"
   },
@@ -924,12 +924,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "bcf1bb11c0174bb2deafc9dfc64d9254",
-    "title": "すばらきしこのせかい [for Beginner]",
-    "level": "7.50...8.00",
-    "comment": "sl2"
-  },
-  {
     "md5": "9616428365252530dc3ac6b994e21443",
     "title": "ハニエルのうた DPA",
     "level": "7.50...8.00",
@@ -1086,12 +1080,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "386b1e2c965fd5feb15e82e6cced53ca",
-    "title": "The Crack of Dawn [SUNRISE]",
-    "level": "8.50...9.00",
-    "comment": "sl3"
-  },
-  {
     "md5": "b6f635f6986a8ac6627accd79332df4d",
     "title": "the scenery [DP ANOTHER]",
     "level": "8.50...9.00",
@@ -1106,6 +1094,12 @@
   {
     "md5": "fdc6f8e3e78e78f45e763ef20ef848a6",
     "title": "☆ウィンドサンバランド☆ -DP ANOTHER-",
+    "level": "8.50...9.00",
+    "comment": "sl3"
+  },
+  {
+    "md5": "73e1a67c683004e499d6a40e91fcc0d6",
+    "title": "あなた [DP HYPER]",
     "level": "8.50...9.00",
     "comment": "sl3"
   },
@@ -1176,14 +1170,8 @@
     "comment": "sl3"
   },
   {
-    "md5": "8de20bc4c3b218c140bdbbf71287b1b6",
-    "title": "Angelic Snow (kumanother)",
-    "level": "9.50...10.00",
-    "comment": "sl4"
-  },
-  {
-    "md5": "e80b8d644b47e94cda1c90ca27014a3b",
-    "title": "Take Me Away [DPH]",
+    "md5": "d06fdb6b500818662f2054e0cbc47533",
+    "title": "A D D i c T i O N 4 5 0 0 0 0 0 [ D P H ]",
     "level": "9.50...10.00",
     "comment": "sl4"
   },
@@ -1212,8 +1200,8 @@
     "comment": "sl4"
   },
   {
-    "md5": "d06fdb6b500818662f2054e0cbc47533",
-    "title": "A D D i c T i O N 4 5 0 0 0 0 0 [ D P H ]",
+    "md5": "8de20bc4c3b218c140bdbbf71287b1b6",
+    "title": "Angelic Snow (kumanother)",
     "level": "10.00...10.50",
     "comment": "sl4"
   },
@@ -1298,6 +1286,18 @@
   {
     "md5": "77049e33fcbb6a4472d562a11a4fa5e0",
     "title": "sola [DP ANOTHER]",
+    "level": "10.00...10.50",
+    "comment": "sl4"
+  },
+  {
+    "md5": "e80b8d644b47e94cda1c90ca27014a3b",
+    "title": "Take Me Away [DPH]",
+    "level": "10.00...10.50",
+    "comment": "sl4"
+  },
+  {
+    "md5": "386b1e2c965fd5feb15e82e6cced53ca",
+    "title": "The Crack of Dawn [SUNRISE]",
     "level": "10.00...10.50",
     "comment": "sl4"
   },
@@ -1608,12 +1608,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "9758bfe64fd9e0f4b1a2906e482e4f24",
-    "title": "Beyond the Lightning -King's tragedy- [DP INSANE]",
-    "level": "14.50...15.00",
-    "comment": "sl8"
-  },
-  {
     "md5": "401c87a84d6d6396a970d2d73416af98",
     "title": "Kronos [Choronos]",
     "level": "14.50...15.00",
@@ -1653,6 +1647,12 @@
     "md5": "1def279d7874b586b26ed30a3c1233af",
     "title": "藍煉の人形 [DPINSA.NE]",
     "level": "14.50...15.00",
+    "comment": "sl8"
+  },
+  {
+    "md5": "9758bfe64fd9e0f4b1a2906e482e4f24",
+    "title": "Beyond the Lightning -King's tragedy- [DP INSANE]",
+    "level": "15.00...15.50",
     "comment": "sl8"
   },
   {

@@ -12,6 +12,12 @@
     "comment": "sl0"
   },
   {
+    "md5": "c1e94d7f7bc7a6f140d70f2df8d27069",
+    "title": "Stream Amalgamate [SP ANOTHER]",
+    "level": "0.00...0.50",
+    "comment": "sl0"
+  },
+  {
     "md5": "32f15e4a324ab1a2450913da7f121295",
     "title": "Sunset Toybox [ANOTHER]",
     "level": "0.00...0.50",
@@ -188,6 +194,12 @@
   {
     "md5": "448ccb9a5dfcd9a96d81123b53e1d29f",
     "title": "Break Through The Barrier [HYPER]",
+    "level": "0.50...1.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "dfd0e46b94c7bb62e72fb128a24f3d5e",
+    "title": "Caffeine Overdose Girl [Another]",
     "level": "0.50...1.00",
     "comment": "sl0"
   },
@@ -732,12 +744,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "c1e94d7f7bc7a6f140d70f2df8d27069",
-    "title": "Stream Amalgamate [SP ANOTHER]",
-    "level": "0.50...1.00",
-    "comment": "sl0"
-  },
-  {
     "md5": "9e8e5eab10786acf2c4418aa63b6ab4d",
     "title": "subconsciousness [Freud]",
     "level": "0.50...1.00",
@@ -990,6 +996,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "b434d831df082ccdd560d0bf82bb1797",
+    "title": "DIGITAL DIVER 20XX［FUTURE］",
+    "level": "1.00...1.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "259c6ff7871efb0492d1dac5d16fda17",
     "title": "PEACE BREAKER [HYPER]",
     "level": "1.00...1.50",
@@ -998,6 +1010,12 @@
   {
     "md5": "0cbc7b980f664e7e0eb2214c965c2180",
     "title": "Regain [EGO DEATH]",
+    "level": "1.00...1.50",
+    "comment": "sl1"
+  },
+  {
+    "md5": "5ca3bf72d4a03fa8823b102762ec98e5",
+    "title": "Speed of Light [Another]",
     "level": "1.00...1.50",
     "comment": "sl1"
   },
@@ -1212,12 +1230,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "b434d831df082ccdd560d0bf82bb1797",
-    "title": "DIGITAL DIVER 20XX［FUTURE］",
-    "level": "1.50...2.00",
-    "comment": "sl1"
-  },
-  {
     "md5": "5493f9a488c8d3ae64742b74770d9fa3",
     "title": "Dirge in Magenta [SP ANOTHER]",
     "level": "1.50...2.00",
@@ -1332,6 +1344,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "eb70f10e25ae2c02146f8512bbb8ab79",
+    "title": "JUGGLE -SPINNER-",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "9f03d0a2965b56338d6fa975777662be",
     "title": "JULIAN \"for B.O.F. 2009\" [SP-RX INSANE]",
     "level": "1.50...2.00",
@@ -1364,6 +1382,12 @@
   {
     "md5": "77c5bd7c18b55002b8549dd50c331965",
     "title": "Lepontinia",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
+    "md5": "560e1aa9a647a420606c7a9b781f5ba7",
+    "title": "Life Style [INSANE]",
     "level": "1.50...2.00",
     "comment": "sl1"
   },
@@ -1466,6 +1490,12 @@
   {
     "md5": "78913c122c82dccd0f2d74a703246d98",
     "title": "overtrue",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
+    "md5": "30b0810f6c9be2ff9748e696f21c43fd",
+    "title": "Pain Continues [SP Cloudy]",
     "level": "1.50...2.00",
     "comment": "sl1"
   },
@@ -1604,12 +1634,6 @@
   {
     "md5": "ecd5b0b707442793384011b1713b5203",
     "title": "Smiling",
-    "level": "1.50...2.00",
-    "comment": "sl1"
-  },
-  {
-    "md5": "5ca3bf72d4a03fa8823b102762ec98e5",
-    "title": "Speed of Light [Another]",
     "level": "1.50...2.00",
     "comment": "sl1"
   },
@@ -1884,12 +1908,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "393690659885f5d73e838b43a6345333",
-    "title": "BEYOND [ANOTHER7]",
-    "level": "2.00...2.50",
-    "comment": "sl2"
-  },
-  {
     "md5": "16b3656f142cfe1531e2bd5e4cd9d2c3",
     "title": "Black Lair [ANOTHER]",
     "level": "2.00...2.50",
@@ -1908,32 +1926,14 @@
     "comment": "sl2"
   },
   {
-    "md5": "fb96465e52ad031e66a38181cdb0d991",
-    "title": "Feel Mixture [IR]",
-    "level": "2.00...2.50",
-    "comment": "sl2"
-  },
-  {
     "md5": "e247ba36d83176a89304c39a8be5b876",
     "title": "Hypertext Transfer Protocol -418-",
     "level": "2.00...2.50",
     "comment": "sl2"
   },
   {
-    "md5": "eb70f10e25ae2c02146f8512bbb8ab79",
-    "title": "JUGGLE -SPINNER-",
-    "level": "2.00...2.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "02af89d2c76d4494b6561ee2c94b15cd",
     "title": "Latch (Flip-Flop) [Spinner+]",
-    "level": "2.00...2.50",
-    "comment": "sl1"
-  },
-  {
-    "md5": "560e1aa9a647a420606c7a9b781f5ba7",
-    "title": "Life Style [INSANE]",
     "level": "2.00...2.50",
     "comment": "sl1"
   },
@@ -1948,12 +1948,6 @@
     "title": "Orbital Drive",
     "level": "2.00...2.50",
     "comment": "sl2"
-  },
-  {
-    "md5": "30b0810f6c9be2ff9748e696f21c43fd",
-    "title": "Pain Continues [SP Cloudy]",
-    "level": "2.00...2.50",
-    "comment": "sl1"
   },
   {
     "md5": "889f9a6b4361412b29b5604a7922a78a",
@@ -2066,6 +2060,12 @@
   {
     "md5": "fffcdd50280873a3a6a8efb584b5454b",
     "title": "Apocaliptix [Doomsayer]",
+    "level": "2.50...3.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "393690659885f5d73e838b43a6345333",
+    "title": "BEYOND [ANOTHER7]",
     "level": "2.50...3.00",
     "comment": "sl2"
   },
@@ -2198,6 +2198,12 @@
   {
     "md5": "3293b614002e85c8a230287b1876b67b",
     "title": "Feast of Lights [SP Natsumatsuri]",
+    "level": "2.50...3.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "fb96465e52ad031e66a38181cdb0d991",
+    "title": "Feel Mixture [IR]",
     "level": "2.50...3.00",
     "comment": "sl2"
   },
@@ -2790,12 +2796,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "eac3481c7a80014579da0b2816b279ff",
-    "title": "Kaleidoscope [SP ANOTHER]",
-    "level": "3.00...3.50",
-    "comment": "sl3"
-  },
-  {
     "md5": "5fc698f8ae2b9c5f45d0e7a3d156240a",
     "title": "Laplace",
     "level": "3.00...3.50",
@@ -3074,6 +3074,12 @@
   {
     "md5": "e19b38273e6b5d2bb8f4bf1da01dcbaf",
     "title": "Iolite Quintz",
+    "level": "3.50...4.00",
+    "comment": "sl3"
+  },
+  {
+    "md5": "eac3481c7a80014579da0b2816b279ff",
+    "title": "Kaleidoscope [SP ANOTHER]",
     "level": "3.50...4.00",
     "comment": "sl3"
   },
@@ -3948,6 +3954,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "f66eb341ffa5988d50d67226fadc91c6",
+    "title": "Panic! Pop'n! Picnic! [abysmal weather]",
+    "level": "4.50...5.00",
+    "comment": "sl4"
+  },
+  {
     "md5": "92ff773f69e452df0784064d3dd29fb7",
     "title": "Paracelestia [ZOI]",
     "level": "4.50...5.00",
@@ -4152,6 +4164,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "7a7ef296e6725c244884a513819918d8",
+    "title": "聖戦ものがたり [yumether]",
+    "level": "4.50...5.00",
+    "comment": "sl4"
+  },
+  {
     "md5": "038cf0248a84abb1579cfefd8cdad050",
     "title": "赤 [W]",
     "level": "4.50...5.00",
@@ -4278,12 +4296,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "f66eb341ffa5988d50d67226fadc91c6",
-    "title": "Panic! Pop'n! Picnic! [abysmal weather]",
-    "level": "5.00...5.50",
-    "comment": "sl4"
-  },
-  {
     "md5": "3c1afbf443ce5d57f6b2b3db9e7af82a",
     "title": "Reawaken (Millennium)",
     "level": "5.00...5.50",
@@ -4362,12 +4374,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "235a67455f943d4d5f6adbd40dba8568",
-    "title": "カリオストロの穿孔 [Key]",
-    "level": "5.00...5.50",
-    "comment": "sl5"
-  },
-  {
     "md5": "6c857d6b6c87782e698f0b6610d3d2b6",
     "title": "ゼイタクするまで抱きしめて [サエザー]",
     "level": "5.00...5.50",
@@ -4416,10 +4422,10 @@
     "comment": "sl5"
   },
   {
-    "md5": "7a7ef296e6725c244884a513819918d8",
-    "title": "聖戦ものがたり [yumether]",
+    "md5": "b603ef4f751ad6c845fc6b296e545068",
+    "title": "薄雲 [7KEYS TRISTANOTHER]",
     "level": "5.00...5.50",
-    "comment": "sl4"
+    "comment": "sl5"
   },
   {
     "md5": "ff481b9a016e9c2e3a72787ab14d5c1c",
@@ -4740,6 +4746,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "235a67455f943d4d5f6adbd40dba8568",
+    "title": "カリオストロの穿孔 [Key]",
+    "level": "5.50...6.00",
+    "comment": "sl5"
+  },
+  {
     "md5": "2ccbf2841e848eed9a2c6a8e1ceeec4c",
     "title": "クォークの海を泳いで [Photonica]",
     "level": "5.50...6.00",
@@ -4796,12 +4808,6 @@
   {
     "md5": "7e18f7763e6ff8b09bf3280bde1fa22b",
     "title": "茜の旅人 [twilight]",
-    "level": "5.50...6.00",
-    "comment": "sl5"
-  },
-  {
-    "md5": "b603ef4f751ad6c845fc6b296e545068",
-    "title": "薄雲 [7KEYS TRISTANOTHER]",
     "level": "5.50...6.00",
     "comment": "sl5"
   },
@@ -5346,12 +5352,6 @@
     "comment": "sl6"
   },
   {
-    "md5": "55701926ca12fa81683b1147e8b7b806",
-    "title": "7SP:雪の少女-MorningDash!Mix- [MANIAQ]",
-    "level": "7.00...7.50",
-    "comment": "sl7"
-  },
-  {
     "md5": "2628a66883179a6d9316f3e9de72a51d",
     "title": "AMOLTAMISS [月の女神]",
     "level": "7.00...7.50",
@@ -5430,9 +5430,15 @@
     "comment": "sl7"
   },
   {
-    "md5": "f1040af1f00fa49ea68ed6e9ab3aa2e9",
-    "title": "ハッピーフェイクショー [ホントノシアワセ]",
+    "md5": "8d5f4dac753571c8d448463dc9302406",
+    "title": "シュリ [あははははははははははははははははは]",
     "level": "7.00...7.50",
+    "comment": "sl7"
+  },
+  {
+    "md5": "55701926ca12fa81683b1147e8b7b806",
+    "title": "7SP:雪の少女-MorningDash!Mix- [MANIAQ]",
+    "level": "7.50...8.00",
     "comment": "sl7"
   },
   {
@@ -5754,14 +5760,14 @@
     "comment": "sl7"
   },
   {
-    "md5": "8d5f4dac753571c8d448463dc9302406",
-    "title": "シュリ [あははははははははははははははははは]",
+    "md5": "502f2e31b37878df952c8bcd54b4e1b3",
+    "title": "スーパーイザナギオブジェクト [yumether]",
     "level": "7.50...8.00",
     "comment": "sl7"
   },
   {
-    "md5": "502f2e31b37878df952c8bcd54b4e1b3",
-    "title": "スーパーイザナギオブジェクト [yumether]",
+    "md5": "f1040af1f00fa49ea68ed6e9ab3aa2e9",
+    "title": "ハッピーフェイクショー [ホントノシアワセ]",
     "level": "7.50...8.00",
     "comment": "sl7"
   },
@@ -5862,14 +5868,32 @@
     "comment": "sl8"
   },
   {
+    "md5": "0f16db4d8c083957cdb5fc4f1a773be5",
+    "title": "Heilenwelt [SP N/A]",
+    "level": "8.00...8.50",
+    "comment": "sl8"
+  },
+  {
     "md5": "378b71bc443728456a39432f381f9d3d",
     "title": "I'M HERE NOW [Sink Down a Frozen Atlantis]",
     "level": "8.00...8.50",
     "comment": "sl8"
   },
   {
+    "md5": "6940ad2ab7812fcbc1a26b83035b49f6",
+    "title": "Impulse of destruction [Insane]",
+    "level": "8.00...8.50",
+    "comment": "sl8"
+  },
+  {
     "md5": "12465f3ced547f6a6735f94c9f6751b1",
     "title": "Kaleidoscope [SP INSANE]",
+    "level": "8.00...8.50",
+    "comment": "sl8"
+  },
+  {
+    "md5": "386b4eca3306d3a3b1c7726ff1f4c8b5",
+    "title": "LOSTSILVER .EXE",
     "level": "8.00...8.50",
     "comment": "sl8"
   },
@@ -6036,12 +6060,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "0f16db4d8c083957cdb5fc4f1a773be5",
-    "title": "Heilenwelt [SP N/A]",
-    "level": "8.50...9.00",
-    "comment": "sl8"
-  },
-  {
     "md5": "17d791e5152acc1cd4bfdd4ca7b725f8",
     "title": "Holiday Ocean Resort [SP HOLIDAY]",
     "level": "8.50...9.00",
@@ -6060,20 +6078,8 @@
     "comment": "sl8"
   },
   {
-    "md5": "6940ad2ab7812fcbc1a26b83035b49f6",
-    "title": "Impulse of destruction [Insane]",
-    "level": "8.50...9.00",
-    "comment": "sl8"
-  },
-  {
     "md5": "e0a0385dd8f4a0d4960d0e8c12c4324e",
     "title": "JK★REVOLUTION!!!!!! -Hope-",
-    "level": "8.50...9.00",
-    "comment": "sl8"
-  },
-  {
-    "md5": "386b4eca3306d3a3b1c7726ff1f4c8b5",
-    "title": "LOSTSILVER .EXE",
     "level": "8.50...9.00",
     "comment": "sl8"
   },
@@ -6762,12 +6768,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "988010f041bbd81cda28bacd9e151350",
-    "title": "EOS -Last Hope-",
-    "level": "10.00...10.50",
-    "comment": "sl10"
-  },
-  {
     "md5": "465d418e371077e71c08ebcfc1200e1d",
     "title": "Evanescent [Realitat]",
     "level": "10.00...10.50",
@@ -6782,6 +6782,12 @@
   {
     "md5": "aa0df8bed54cbcc7dfa10d7347c8730b",
     "title": "Ninja's betrayal [アイエエエ！？]",
+    "level": "10.00...10.50",
+    "comment": "sl10"
+  },
+  {
+    "md5": "1ebf61990256b79628c9dee6a926ad39",
+    "title": "PEACE BREAKER [HARDEST]",
     "level": "10.00...10.50",
     "comment": "sl10"
   },
@@ -6836,12 +6842,6 @@
   {
     "md5": "d1de0153f52ea4a6dd3a37e898b05eb5",
     "title": "玉響サーチライト [SP INSANE]",
-    "level": "10.00...10.50",
-    "comment": "sl10"
-  },
-  {
-    "md5": "8a4355653ba3f0b5c437bf0e67761c13",
-    "title": "風時夏 [晴海歌]",
     "level": "10.00...10.50",
     "comment": "sl10"
   },
@@ -6966,6 +6966,12 @@
     "comment": "sl10"
   },
   {
+    "md5": "988010f041bbd81cda28bacd9e151350",
+    "title": "EOS -Last Hope-",
+    "level": "10.50...11.00",
+    "comment": "sl10"
+  },
+  {
     "md5": "bcb25c89f7d006eec25a4f8436f65218",
     "title": "Epic Bellum -universum- [Stardust]",
     "level": "10.50...11.00",
@@ -7082,12 +7088,6 @@
   {
     "md5": "0076b2ce2cee05999a524712c128740f",
     "title": "NS20 [7key CHAOSDEATH]",
-    "level": "10.50...11.00",
-    "comment": "sl10"
-  },
-  {
-    "md5": "1ebf61990256b79628c9dee6a926ad39",
-    "title": "PEACE BREAKER [HARDEST]",
     "level": "10.50...11.00",
     "comment": "sl10"
   },
@@ -7256,6 +7256,12 @@
   {
     "md5": "b9cc5bd4194b74c2b8420a4f5c8d2ea8",
     "title": "運命論 [Atropos]",
+    "level": "10.50...11.00",
+    "comment": "sl10"
+  },
+  {
+    "md5": "8a4355653ba3f0b5c437bf0e67761c13",
+    "title": "風時夏 [晴海歌]",
     "level": "10.50...11.00",
     "comment": "sl10"
   },
@@ -7478,12 +7484,6 @@
   {
     "md5": "50266131ce611676b71929a1d0eea1f2",
     "title": "GaRaKuTic Dream [Maniac+]",
-    "level": "11.50...12.00",
-    "comment": "sl11"
-  },
-  {
-    "md5": "62c4774f7c7a0cf0c8ffe36bd8868f7e",
-    "title": "Giselle -Despair-",
     "level": "11.50...12.00",
     "comment": "sl11"
   },
@@ -7734,12 +7734,6 @@
     "comment": "sl11"
   },
   {
-    "md5": "38d22090860f2d21c184ac70dd2d8dae",
-    "title": "アナログ横丁 [ディレイ六斎市]",
-    "level": "11.50...12.00",
-    "comment": "sl12"
-  },
-  {
     "md5": "4c4e384172c5eb1cdea72752430bebae",
     "title": "インフィニット・パラダイムシフト [yumether]",
     "level": "11.50...12.00",
@@ -7836,6 +7830,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "c1a869dbb132dbfc87b87c220240276a",
+    "title": "Ceebu Yapp",
+    "level": "12.00...12.50",
+    "comment": "sl12"
+  },
+  {
     "md5": "3b3d206a284b5b246b3b413b75e41582",
     "title": "Charlotte, -To The Future-",
     "level": "12.00...12.50",
@@ -7850,6 +7850,18 @@
   {
     "md5": "1bc3c15a4c40d87dbffa8be429140478",
     "title": "DANCING KIWI [WARK]",
+    "level": "12.00...12.50",
+    "comment": "sl12"
+  },
+  {
+    "md5": "a0ae63d5d9ee29663ecb68f3f63c0f60",
+    "title": "DataErr0r [EXCEED GEAR -LIGHTNING MODEL-]",
+    "level": "12.00...12.50",
+    "comment": "sl12"
+  },
+  {
+    "md5": "9b3b8e98a362e86546551d5a16052364",
+    "title": "Daydreamer [EX]",
     "level": "12.00...12.50",
     "comment": "sl12"
   },
@@ -7902,8 +7914,20 @@
     "comment": "sl12"
   },
   {
+    "md5": "62c4774f7c7a0cf0c8ffe36bd8868f7e",
+    "title": "Giselle -Despair-",
+    "level": "12.00...12.50",
+    "comment": "sl11"
+  },
+  {
     "md5": "8f1bfa14a5bb435b315d364ee2c785c8",
     "title": "hemorrhoids",
+    "level": "12.00...12.50",
+    "comment": "sl12"
+  },
+  {
+    "md5": "daabea71e949e92d5718ae7ba27ca0a5",
+    "title": "Hi-Fi-Story [SP EXTRA]",
     "level": "12.00...12.50",
     "comment": "sl12"
   },
@@ -7992,6 +8016,18 @@
     "comment": "sl12"
   },
   {
+    "md5": "de47ec858496f28f2f07e97ca211c0d5",
+    "title": "わるいコ -絶望-",
+    "level": "12.00...12.50",
+    "comment": "sl12"
+  },
+  {
+    "md5": "38d22090860f2d21c184ac70dd2d8dae",
+    "title": "アナログ横丁 [ディレイ六斎市]",
+    "level": "12.00...12.50",
+    "comment": "sl12"
+  },
+  {
     "md5": "af0a9066c9fce98fc26611ec7237be00",
     "title": "ロスト：ユートピアと真理と純粋の極彩世界 [DISTOPIA_Fix]",
     "level": "12.00...12.50",
@@ -8000,6 +8036,18 @@
   {
     "md5": "387808dd59ddd66ec7c3660889c42ba1",
     "title": "円環の理 [ＱＢTHER]",
+    "level": "12.00...12.50",
+    "comment": "sl12"
+  },
+  {
+    "md5": "6a631229fb332f69cc97b12c87991f34",
+    "title": "星少女ステラユニオン -叛逆の物語-",
+    "level": "12.00...12.50",
+    "comment": "sl12"
+  },
+  {
+    "md5": "f0dc5e4a4c8351e915567f49d14eb718",
+    "title": "片翼のライカ [超越者]",
     "level": "12.00...12.50",
     "comment": "sl12"
   },
@@ -8018,6 +8066,12 @@
   {
     "md5": "b53162a6ed6659406cae48612e943faf",
     "title": "7SP:雪の少女-MorningDash!Mix- [EXTREME]",
+    "level": "12.50...13.00",
+    "comment": "sl12"
+  },
+  {
+    "md5": "2f8beb8e0b2472121ec9c5f774f8fcef",
+    "title": "A D D i c T i O N 4 5 0 0 0 0 0 -L u N A-",
     "level": "12.50...13.00",
     "comment": "sl12"
   },
@@ -8064,12 +8118,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "c1a869dbb132dbfc87b87c220240276a",
-    "title": "Ceebu Yapp",
-    "level": "12.50...13.00",
-    "comment": "sl12"
-  },
-  {
     "md5": "de6b8516132614b665aa8cdd46c654dc",
     "title": "Chase Mission [INSANE]",
     "level": "12.50...13.00",
@@ -8096,18 +8144,6 @@
   {
     "md5": "653345ae3589dd2ed93383f862b7d949",
     "title": "CRUSH THE PARTY [yumether]",
-    "level": "12.50...13.00",
-    "comment": "sl12"
-  },
-  {
-    "md5": "a0ae63d5d9ee29663ecb68f3f63c0f60",
-    "title": "DataErr0r [EXCEED GEAR -LIGHTNING MODEL-]",
-    "level": "12.50...13.00",
-    "comment": "sl12"
-  },
-  {
-    "md5": "9b3b8e98a362e86546551d5a16052364",
-    "title": "Daydreamer [EX]",
     "level": "12.50...13.00",
     "comment": "sl12"
   },
@@ -8144,12 +8180,6 @@
   {
     "md5": "70e3cfdbdcc317103ad3a00f30e5046d",
     "title": "Faurie [unmeasured]",
-    "level": "12.50...13.00",
-    "comment": "sl12"
-  },
-  {
-    "md5": "daabea71e949e92d5718ae7ba27ca0a5",
-    "title": "Hi-Fi-Story [SP EXTRA]",
     "level": "12.50...13.00",
     "comment": "sl12"
   },
@@ -8310,12 +8340,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "de47ec858496f28f2f07e97ca211c0d5",
-    "title": "わるいコ -絶望-",
-    "level": "12.50...13.00",
-    "comment": "sl12"
-  },
-  {
     "md5": "c0c26f2d6d1cb83daefea3098a409cb7",
     "title": "アジサイ -Xe-",
     "level": "12.50...13.00",
@@ -8382,20 +8406,8 @@
     "comment": "sl12"
   },
   {
-    "md5": "6a631229fb332f69cc97b12c87991f34",
-    "title": "星少女ステラユニオン -叛逆の物語-",
-    "level": "12.50...13.00",
-    "comment": "sl12"
-  },
-  {
     "md5": "385343388eaacae49c441c3e5ef53d72",
     "title": "煉獄-Priestess -Hopeless-",
-    "level": "12.50...13.00",
-    "comment": "sl12"
-  },
-  {
-    "md5": "f0dc5e4a4c8351e915567f49d14eb718",
-    "title": "片翼のライカ [超越者]",
     "level": "12.50...13.00",
     "comment": "sl12"
   },
@@ -8426,12 +8438,6 @@
   {
     "md5": "bca300b454c8d993060712e8ebdef243",
     "title": "-+　 -EX-",
-    "level": "13.00...13.50",
-    "comment": "sl12"
-  },
-  {
-    "md5": "2f8beb8e0b2472121ec9c5f774f8fcef",
-    "title": "A D D i c T i O N 4 5 0 0 0 0 0 -L u N A-",
     "level": "13.00...13.50",
     "comment": "sl12"
   },
