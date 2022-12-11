@@ -636,6 +636,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "47794ff2186babd108ce7852478cda68",
+    "title": "06 (mknrmx)",
+    "level": "2.00...2.50",
+    "comment": "sl2"
+  },
+  {
     "md5": "a883969ae8ae045218a5f5a8f846eaf4",
     "title": "Breeze [台風とそよ風の境目]",
     "level": "2.00...2.50",
@@ -664,6 +670,12 @@
     "title": "Extinction and reproduction [DP Hyper]",
     "level": "2.00...2.50",
     "comment": "sl1"
+  },
+  {
+    "md5": "197f79072827b1c0c329edbe85fee7cd",
+    "title": "H.S : Hadron Strike [DP1104H]",
+    "level": "2.00...2.50",
+    "comment": "sl2"
   },
   {
     "md5": "1846c9f8536ece051e4471ce365aa5fb",
@@ -744,12 +756,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "47794ff2186babd108ce7852478cda68",
-    "title": "06 (mknrmx)",
-    "level": "2.50...3.00",
-    "comment": "sl2"
-  },
-  {
     "md5": "6357e029a3092291369717c4f7554849",
     "title": "Azure Emotion [DP ANOTHER]",
     "level": "2.50...3.00",
@@ -818,12 +824,6 @@
   {
     "md5": "65fca2949626b80fb8f21359cf0799aa",
     "title": "GIN TONIC FLAVOR",
-    "level": "2.50...3.00",
-    "comment": "sl2"
-  },
-  {
-    "md5": "197f79072827b1c0c329edbe85fee7cd",
-    "title": "H.S : Hadron Strike [DP1104H]",
     "level": "2.50...3.00",
     "comment": "sl2"
   },
@@ -1182,12 +1182,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "dac9501eb6e44e30a8ef7c08ab857e1d",
-    "title": "This Club is not 4 U [DP ANOTHER]",
-    "level": "3.50...4.00",
-    "comment": "sl3"
-  },
-  {
     "md5": "8fda1f7edc956b0a390aa9c7ba1f8d6c",
     "title": "VALLISTA [DP VALLISTANDARD]",
     "level": "3.50...4.00",
@@ -1294,6 +1288,12 @@
     "title": "Altostratus",
     "level": "4.00...4.50",
     "comment": "sl3"
+  },
+  {
+    "md5": "f373a2c55f04298fc77b7f397458a753",
+    "title": "B.B.K.K.B.K.K. -DP Busy-",
+    "level": "4.00...4.50",
+    "comment": "sl4"
   },
   {
     "md5": "23f0c411fc26c1e8aa82f3e5dda90dbe",
@@ -1410,6 +1410,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "dac9501eb6e44e30a8ef7c08ab857e1d",
+    "title": "This Club is not 4 U [DP ANOTHER]",
+    "level": "4.00...4.50",
+    "comment": "sl3"
+  },
+  {
     "md5": "82d6765227d050ddff2d4d930f9b0aec",
     "title": "TURNDOWN [DPL]",
     "level": "4.00...4.50",
@@ -1490,12 +1496,6 @@
   {
     "md5": "8de20bc4c3b218c140bdbbf71287b1b6",
     "title": "Angelic Snow (kumanother)",
-    "level": "4.50...5.00",
-    "comment": "sl4"
-  },
-  {
-    "md5": "f373a2c55f04298fc77b7f397458a753",
-    "title": "B.B.K.K.B.K.K. -DP Busy-",
     "level": "4.50...5.00",
     "comment": "sl4"
   },
@@ -1788,6 +1788,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "c1bd86080023e6e353cf65a9871e737a",
+    "title": "ミルキーベリー・スウィートタイム [DP ANOTHER]",
+    "level": "5.00...5.50",
+    "comment": "sl5"
+  },
+  {
     "md5": "71e18a6179ad7854b517a59409254926",
     "title": "ラケシスと永遠の祈祷者 [sub black another]",
     "level": "5.00...5.50",
@@ -1908,14 +1914,14 @@
     "comment": "sl6"
   },
   {
-    "md5": "bbfda0f6a39370401e99a89ab0747034",
-    "title": "スピカ [DP ANOTHER]",
+    "md5": "c3cce8a0c9843c032d23b9a51f33a800",
+    "title": "Απομνημονευμαι [DP ANOTHER]",
     "level": "5.50...6.00",
-    "comment": "sl5"
+    "comment": "sl6"
   },
   {
-    "md5": "c1bd86080023e6e353cf65a9871e737a",
-    "title": "ミルキーベリー・スウィートタイム [DP ANOTHER]",
+    "md5": "bbfda0f6a39370401e99a89ab0747034",
+    "title": "スピカ [DP ANOTHER]",
     "level": "5.50...6.00",
     "comment": "sl5"
   },
@@ -1978,6 +1984,12 @@
     "title": "Electric Emotion [DP Extension Energy]",
     "level": "6.00...6.50",
     "comment": "sl6"
+  },
+  {
+    "md5": "c0f3911088dcb6f705bbd850b7fd8de4",
+    "title": "FAKE LIFE",
+    "level": "6.00...6.50",
+    "comment": "sl7"
   },
   {
     "md5": "04a0afae2e165a4676c777d9bb9b55db",
@@ -2076,8 +2088,8 @@
     "comment": "sl6"
   },
   {
-    "md5": "c3cce8a0c9843c032d23b9a51f33a800",
-    "title": "Απομνημονευμαι [DP ANOTHER]",
+    "md5": "b09b5e86185319b7e80ec54a37bd61b5",
+    "title": "スナレ",
     "level": "6.00...6.50",
     "comment": "sl6"
   },
@@ -2090,6 +2102,12 @@
   {
     "md5": "aaf4a1eef238223c67d96994b66a66f1",
     "title": "新月舞踏 -DP ANOTHER-",
+    "level": "6.00...6.50",
+    "comment": "sl6"
+  },
+  {
+    "md5": "24479651932a5b101b055744d32ba529",
+    "title": "田中 -KATAKATA-",
     "level": "6.00...6.50",
     "comment": "sl6"
   },
@@ -2142,12 +2160,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "c0f3911088dcb6f705bbd850b7fd8de4",
-    "title": "FAKE LIFE",
-    "level": "6.50...7.00",
-    "comment": "sl7"
-  },
-  {
     "md5": "d33783021b1df12952eecdf2c1eadde7",
     "title": "frozen over",
     "level": "6.50...7.00",
@@ -2196,6 +2208,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "8060e0d74d653ee380c684caae0656b0",
+    "title": "Summer White [DP NOSTALGIC]",
+    "level": "6.50...7.00",
+    "comment": "sl7"
+  },
+  {
     "md5": "905126444a0d449d2b089502fcc1ac27",
     "title": "Thaumaturgy",
     "level": "6.50...7.00",
@@ -2218,12 +2236,6 @@
     "title": "◇スト [DP ANOTHER]",
     "level": "6.50...7.00",
     "comment": "sl7"
-  },
-  {
-    "md5": "b09b5e86185319b7e80ec54a37bd61b5",
-    "title": "スナレ",
-    "level": "6.50...7.00",
-    "comment": "sl6"
   },
   {
     "md5": "7e4ba12362bced1950dd4ba13c9d66f8",
@@ -2254,12 +2266,6 @@
     "title": "温泉大作戦 [DP_Li]",
     "level": "6.50...7.00",
     "comment": "sl7"
-  },
-  {
-    "md5": "24479651932a5b101b055744d32ba529",
-    "title": "田中 -KATAKATA-",
-    "level": "6.50...7.00",
-    "comment": "sl6"
   },
   {
     "md5": "9efd3a958f5f34ddbbe9068262673652",
@@ -2394,12 +2400,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "8060e0d74d653ee380c684caae0656b0",
-    "title": "Summer White [DP NOSTALGIC]",
-    "level": "7.00...7.50",
-    "comment": "sl7"
-  },
-  {
     "md5": "e349061cb23d580c6979503d08a674ef",
     "title": "Trichterwinde [DP ANOTHER]",
     "level": "7.00...7.50",
@@ -2512,6 +2512,12 @@
     "title": "Og Dermed Var Det Ingen [DP ANOTHER]",
     "level": "7.50...8.00",
     "comment": "sl8"
+  },
+  {
+    "md5": "388e05189bdc0f964c474cb01dd1d27e",
+    "title": "Orillia [DP-sagINSANE]",
+    "level": "7.50...8.00",
+    "comment": "sl10"
   },
   {
     "md5": "83532297a527618c5a3b90da74f56d15",
@@ -2700,6 +2706,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "450912fa718ab2e6c6816a87ed2bad5e",
+    "title": "Fading Star [kumanother]",
+    "level": "8.00...8.50",
+    "comment": "sl9"
+  },
+  {
     "md5": "fab011bc0c8eb78acecb02fe1d5ff2d1",
     "title": "furioso melodia -forbidden fruta-",
     "level": "8.00...8.50",
@@ -2730,8 +2742,26 @@
     "comment": "sl9"
   },
   {
+    "md5": "de1b0b31e2a9a2d5eef92f2395f13c26",
+    "title": "Kaleidoscope [DP_Li]",
+    "level": "8.00...8.50",
+    "comment": "sl10"
+  },
+  {
     "md5": "c6b4fe5b81e4ce532bea1f60ae06f1f4",
     "title": "rise to R -overdrive 14-",
+    "level": "8.00...8.50",
+    "comment": "sl9"
+  },
+  {
+    "md5": "1f329ca4558051d0f582b5b1ecb29e7d",
+    "title": "S.L.I. [W.I.S.H.]",
+    "level": "8.00...8.50",
+    "comment": "sl9"
+  },
+  {
+    "md5": "a964333aca00bfd678e0daff013d7dac",
+    "title": "squartatrice -dpex-",
     "level": "8.00...8.50",
     "comment": "sl9"
   },
@@ -2796,16 +2826,10 @@
     "comment": "sl9"
   },
   {
-    "md5": "450912fa718ab2e6c6816a87ed2bad5e",
-    "title": "Fading Star [kumanother]",
+    "md5": "3313af61d72229ebf2910b7d82108083",
+    "title": "Destr0yer [DP ☆NOTHER]",
     "level": "8.50...9.00",
     "comment": "sl9"
-  },
-  {
-    "md5": "de1b0b31e2a9a2d5eef92f2395f13c26",
-    "title": "Kaleidoscope [DP_Li]",
-    "level": "8.50...9.00",
-    "comment": "sl10"
   },
   {
     "md5": "091001b3a2865a7c463f882de5377679",
@@ -2826,32 +2850,14 @@
     "comment": "sl10"
   },
   {
-    "md5": "388e05189bdc0f964c474cb01dd1d27e",
-    "title": "Orillia [DP-sagINSANE]",
-    "level": "8.50...9.00",
-    "comment": "sl10"
-  },
-  {
     "md5": "d69afec5896d7e9963869d1b0247edaf",
     "title": "rainy beauty [ワイルドシ　ョット14]",
     "level": "8.50...9.00",
     "comment": "sl9"
   },
   {
-    "md5": "1f329ca4558051d0f582b5b1ecb29e7d",
-    "title": "S.L.I. [W.I.S.H.]",
-    "level": "8.50...9.00",
-    "comment": "sl9"
-  },
-  {
     "md5": "a9069d6f170641ede5204a5a7ea42920",
     "title": "sola [DP LUNATIC]",
-    "level": "8.50...9.00",
-    "comment": "sl9"
-  },
-  {
-    "md5": "a964333aca00bfd678e0daff013d7dac",
-    "title": "squartatrice -dpex-",
     "level": "8.50...9.00",
     "comment": "sl9"
   },
@@ -2910,12 +2916,6 @@
     "comment": "sl9"
   },
   {
-    "md5": "3313af61d72229ebf2910b7d82108083",
-    "title": "Destr0yer [DP ☆NOTHER]",
-    "level": "9.00...9.50",
-    "comment": "sl9"
-  },
-  {
     "md5": "19dd7514996c1d83396cf79d33dd0b03",
     "title": "Love☆Spellcard",
     "level": "9.00...9.50",
@@ -2950,6 +2950,12 @@
     "title": "Wizdomiot [DP INSANE]",
     "level": "9.00...9.50",
     "comment": "sl9"
+  },
+  {
+    "md5": "71c548fdce2718d3ca4ffef88e1b2bcd",
+    "title": "Armageddon [DP]",
+    "level": "9.50...10.00",
+    "comment": "sl10"
   },
   {
     "md5": "2d1d397efcd45ec665c5d82b19bc3601",
@@ -3040,12 +3046,6 @@
     "title": "#be_fortunate [DPYoitherEASY]",
     "level": "10.00...10.50",
     "comment": "sl11"
-  },
-  {
-    "md5": "71c548fdce2718d3ca4ffef88e1b2bcd",
-    "title": "Armageddon [DP]",
-    "level": "10.00...10.50",
-    "comment": "sl10"
   },
   {
     "md5": "5f5be91b44b0108d91c48e01b0e27c41",

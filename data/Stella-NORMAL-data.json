@@ -12,8 +12,8 @@
     "comment": "st0"
   },
   {
-    "md5": "4f050ea8f59ecb5b567d8d75c41fa799",
-    "title": "TRI-TECH -Xe-",
+    "md5": "36bf33133a3c2f9eb93e812a4c547986",
+    "title": "Under The Red Moon -Despair-",
     "level": "0.50...1.00",
     "comment": "st0"
   },
@@ -224,6 +224,12 @@
   {
     "md5": "349bc491ec40d5595412637d8a4c8d2e",
     "title": "The NightScape [marienother]",
+    "level": "1.00...1.50",
+    "comment": "st0"
+  },
+  {
+    "md5": "4f050ea8f59ecb5b567d8d75c41fa799",
+    "title": "TRI-TECH -Xe-",
     "level": "1.00...1.50",
     "comment": "st0"
   },
@@ -642,12 +648,6 @@
     "comment": "st0"
   },
   {
-    "md5": "2b6640d408f8a7f10bea55b35d8f82f5",
-    "title": "Tangerine Dawn -IR-",
-    "level": "1.50...2.00",
-    "comment": "st1"
-  },
-  {
     "md5": "363f5744e85c161d49986b3e7197fbca",
     "title": "Theme of \"ULTIMATE IRIS\" [FINAL-BATTLE]",
     "level": "1.50...2.00",
@@ -812,12 +812,6 @@
   {
     "md5": "4a5c06c56de19b8450a955ee6b746b9b",
     "title": "!nterroban(?, [ !)ualit'? ]",
-    "level": "2.00...2.50",
-    "comment": "st1"
-  },
-  {
-    "md5": "792b8daa37dea9193a0e3d92ecc6da75",
-    "title": "Absolute Future [Fortunately]",
     "level": "2.00...2.50",
     "comment": "st1"
   },
@@ -1104,6 +1098,12 @@
     "comment": "st1"
   },
   {
+    "md5": "2b6640d408f8a7f10bea55b35d8f82f5",
+    "title": "Tangerine Dawn -IR-",
+    "level": "2.00...2.50",
+    "comment": "st1"
+  },
+  {
     "md5": "9dca6ac3593eae46ec68f92f922e154d",
     "title": "The deepest place cannot be above the sky [loud scream]",
     "level": "2.00...2.50",
@@ -1280,6 +1280,12 @@
   {
     "md5": "252bcf5a72f440bcedd74e65350b1ca2",
     "title": "A-chasing-Y [Madness]",
+    "level": "2.50...3.00",
+    "comment": "st1"
+  },
+  {
+    "md5": "792b8daa37dea9193a0e3d92ecc6da75",
+    "title": "Absolute Future [Fortunately]",
     "level": "2.50...3.00",
     "comment": "st1"
   },
@@ -2046,6 +2052,12 @@
     "comment": "st2"
   },
   {
+    "md5": "5f799c4338e7cfaa332ebe85a7714dbc",
+    "title": "Palette Of The Life [Leggenderia]",
+    "level": "3.00...3.50",
+    "comment": "st2"
+  },
+  {
     "md5": "d9fd6bccd0ef9a523a988d886610a8f6",
     "title": "perfume of reunion -SP LOVESICK-",
     "level": "3.00...3.50",
@@ -2340,12 +2352,6 @@
     "comment": "st2"
   },
   {
-    "md5": "d5c120e449dc9b663c741c84c84b9042",
-    "title": "Crossion [X-TREME]",
-    "level": "3.50...4.00",
-    "comment": "st2"
-  },
-  {
     "md5": "b6aba5810b09bc6af607c3eb299f4053",
     "title": "End Time A⇒Side [Hexagon]",
     "level": "3.50...4.00",
@@ -2474,12 +2480,6 @@
   {
     "md5": "dc0c62e5c809c1a75460edb5f4640006",
     "title": "NS22 [Snother]",
-    "level": "3.50...4.00",
-    "comment": "st2"
-  },
-  {
-    "md5": "5f799c4338e7cfaa332ebe85a7714dbc",
-    "title": "Palette Of The Life [Leggenderia]",
     "level": "3.50...4.00",
     "comment": "st2"
   },
@@ -2808,22 +2808,28 @@
     "comment": "st2"
   },
   {
+    "md5": "eca9b88bf38ea3bd5ab234c04453a65d",
+    "title": "Bohemian Chic [Eloise]",
+    "level": "4.00...4.50",
+    "comment": "st3"
+  },
+  {
     "md5": "9df6c993453aae1bc08b5272c15bf436",
     "title": "boxiv! on! fight! [or! flight!]",
     "level": "4.00...4.50",
     "comment": "st2"
   },
   {
-    "md5": "d0a980bc42189d7a726f12591e51492d",
-    "title": "Chasing Stars -Xe-",
-    "level": "4.00...4.50",
-    "comment": "st3"
-  },
-  {
     "md5": "4e8f460102a15b8b885955cf3e094a4d",
     "title": "Cong＊Chu＊Jelly [mint flavor]",
     "level": "4.00...4.50",
     "comment": "st3"
+  },
+  {
+    "md5": "d5c120e449dc9b663c741c84c84b9042",
+    "title": "Crossion [X-TREME]",
+    "level": "4.00...4.50",
+    "comment": "st2"
   },
   {
     "md5": "fca11c514339e449f50c40de1f877349",
@@ -3042,12 +3048,6 @@
     "comment": "st3"
   },
   {
-    "md5": "acfbf9f671497b20b7226754beba4fc6",
-    "title": "トレジャーフェスティバル!!! [wide]",
-    "level": "4.00...4.50",
-    "comment": "st3"
-  },
-  {
     "md5": "3d460b72527d59879b9c7a78f8504289",
     "title": "ハートマークとエンドロール [Finale]",
     "level": "4.00...4.50",
@@ -3174,12 +3174,6 @@
     "comment": "st3"
   },
   {
-    "md5": "eca9b88bf38ea3bd5ab234c04453a65d",
-    "title": "Bohemian Chic [Eloise]",
-    "level": "4.50...5.00",
-    "comment": "st3"
-  },
-  {
     "md5": "b3cb3cb61f7f1de982223ef4e037e02e",
     "title": "Catalinesie -Luna-",
     "level": "4.50...5.00",
@@ -3188,6 +3182,12 @@
   {
     "md5": "ad4381ec0ffe5a76d18c03bf715c9d5c",
     "title": "ceu [WHITE ANOTHER]",
+    "level": "4.50...5.00",
+    "comment": "st3"
+  },
+  {
+    "md5": "d0a980bc42189d7a726f12591e51492d",
+    "title": "Chasing Stars -Xe-",
     "level": "4.50...5.00",
     "comment": "st3"
   },
@@ -3284,6 +3284,12 @@
   {
     "md5": "a9375e12d23080e77fb58f717eeb5c9e",
     "title": "F13 [つよい]",
+    "level": "4.50...5.00",
+    "comment": "st3"
+  },
+  {
+    "md5": "ff8b3ddd39a2963428a11d3f68b2aa0f",
+    "title": "Funky Anthem \"F\" [SP INSANE]",
     "level": "4.50...5.00",
     "comment": "st3"
   },
@@ -3636,6 +3642,12 @@
     "comment": "st3"
   },
   {
+    "md5": "acfbf9f671497b20b7226754beba4fc6",
+    "title": "トレジャーフェスティバル!!! [wide]",
+    "level": "4.50...5.00",
+    "comment": "st3"
+  },
+  {
     "md5": "68c58f701bf7317c934c9019299be170",
     "title": "フロンティア↑↑エクスプローラー [UNIVERSE]",
     "level": "4.50...5.00",
@@ -3822,22 +3834,10 @@
     "comment": "st3"
   },
   {
-    "md5": "16e2b3ea625c3ea794d593e878ae35c2",
-    "title": "Fragments of Toybox [Pentagon]",
-    "level": "5.00...5.50",
-    "comment": "st3"
-  },
-  {
     "md5": "48781dd8c716418d15045b590cd8e854",
     "title": "Fungus Dance [Maryther]",
     "level": "5.00...5.50",
     "comment": "st4"
-  },
-  {
-    "md5": "ff8b3ddd39a2963428a11d3f68b2aa0f",
-    "title": "Funky Anthem \"F\" [SP INSANE]",
-    "level": "5.00...5.50",
-    "comment": "st3"
   },
   {
     "md5": "340fe7012f7c80abdc531e33a5df209b",
@@ -3860,12 +3860,6 @@
   {
     "md5": "695543c1fa363b783d7a749524663102",
     "title": "HAMMER the TANGRAM　（ボケ+）",
-    "level": "5.00...5.50",
-    "comment": "st3"
-  },
-  {
-    "md5": "515ef0685a13ed7432702bde38011112",
-    "title": "Happy Ending Story☆ -TrueEND-",
     "level": "5.00...5.50",
     "comment": "st3"
   },
@@ -3956,12 +3950,6 @@
   {
     "md5": "201d63bb3bb44abd0e71d251574e3c0d",
     "title": "TENTEN",
-    "level": "5.00...5.50",
-    "comment": "st4"
-  },
-  {
-    "md5": "39efc3b790d07526f48649a93e76165a",
-    "title": "The Lizard Tail [Hexagon]",
     "level": "5.00...5.50",
     "comment": "st4"
   },
@@ -4062,12 +4050,6 @@
     "comment": "st4"
   },
   {
-    "md5": "77b284df71745b66f94e71db50961b3b",
-    "title": "風時夏 [夏海記]",
-    "level": "5.00...5.50",
-    "comment": "st4"
-  },
-  {
     "md5": "2b5c45cbbe5ce2539c8548d5d523e11f",
     "title": "Absolute Future [Infinity]",
     "level": "5.50...6.00",
@@ -4112,6 +4094,12 @@
   {
     "md5": "092512fc826da66f52b9144b9632a4a3",
     "title": "BRAIN BREAKER [INCENTIVE]",
+    "level": "5.50...6.00",
+    "comment": "st4"
+  },
+  {
+    "md5": "db997115d7fa04a058adfc846ed60b1d",
+    "title": "Buuuuuuurstraffic [Congestion]",
     "level": "5.50...6.00",
     "comment": "st4"
   },
@@ -4218,6 +4206,12 @@
     "comment": "st4"
   },
   {
+    "md5": "16e2b3ea625c3ea794d593e878ae35c2",
+    "title": "Fragments of Toybox [Pentagon]",
+    "level": "5.50...6.00",
+    "comment": "st4"
+  },
+  {
     "md5": "2ddf93339d130c3993c5d2567b33c8ba",
     "title": "Function Generator (Overflow)",
     "level": "5.50...6.00",
@@ -4232,6 +4226,12 @@
   {
     "md5": "673d16d5c033aa6d86973681a3ae673c",
     "title": "Grayed Out -Antifront- -Genocide-",
+    "level": "5.50...6.00",
+    "comment": "st4"
+  },
+  {
+    "md5": "515ef0685a13ed7432702bde38011112",
+    "title": "Happy Ending Story☆ -TrueEND-",
     "level": "5.50...6.00",
     "comment": "st4"
   },
@@ -4374,12 +4374,6 @@
     "comment": "st4"
   },
   {
-    "md5": "ee6db9f00c7971cd0e736fc1dffc6fe2",
-    "title": "Overdrive Power [Hexagon]",
-    "level": "5.50...6.00",
-    "comment": "st5"
-  },
-  {
     "md5": "e73457a90730035c6178f9f339eea553",
     "title": "Plastic Mind [DERAY]",
     "level": "5.50...6.00",
@@ -4410,6 +4404,12 @@
     "comment": "st4"
   },
   {
+    "md5": "cd23bf9461293a207a045afbc92c333f",
+    "title": "SEKIDO [Catastrophe]",
+    "level": "5.50...6.00",
+    "comment": "st4"
+  },
+  {
     "md5": "580445780f746df771efb28d25a4c03b",
     "title": "SINGURIZE",
     "level": "5.50...6.00",
@@ -4436,6 +4436,12 @@
   {
     "md5": "bd2326f72f9586eb13f5f4f9d202ade2",
     "title": "The Last Page -LAST BOSS-",
+    "level": "5.50...6.00",
+    "comment": "st4"
+  },
+  {
+    "md5": "39efc3b790d07526f48649a93e76165a",
+    "title": "The Lizard Tail [Hexagon]",
     "level": "5.50...6.00",
     "comment": "st4"
   },
@@ -4508,12 +4514,6 @@
   {
     "md5": "0e9e71da1f89a803d60b75319b21b9f5",
     "title": "にじいろクレヨン [GOD]",
-    "level": "5.50...6.00",
-    "comment": "st4"
-  },
-  {
-    "md5": "3056ea6c325121c4d3488bb28d51fac0",
-    "title": "ぼうけんの森 [Hexagon]",
     "level": "5.50...6.00",
     "comment": "st4"
   },
@@ -4614,16 +4614,16 @@
     "comment": "st4"
   },
   {
+    "md5": "77b284df71745b66f94e71db50961b3b",
+    "title": "風時夏 [夏海記]",
+    "level": "5.50...6.00",
+    "comment": "st4"
+  },
+  {
     "md5": "83f00578264e48fd02f27e5b117abd65",
     "title": "88D",
     "level": "6.00...6.50",
     "comment": "st4"
-  },
-  {
-    "md5": "0c743a2d771c22f1d7a45e40a299c454",
-    "title": "[line:theta] [HYPERLIMINAL]",
-    "level": "6.00...6.50",
-    "comment": "st6"
   },
   {
     "md5": "530bb8a64ae5718c7485b28a8a930779",
@@ -4652,12 +4652,6 @@
   {
     "md5": "a129e26fb60d6381fd44b07fd0ab9725",
     "title": "Bittersweet Magic -To The Future-",
-    "level": "6.00...6.50",
-    "comment": "st4"
-  },
-  {
-    "md5": "db997115d7fa04a058adfc846ed60b1d",
-    "title": "Buuuuuuurstraffic [Congestion]",
     "level": "6.00...6.50",
     "comment": "st4"
   },
@@ -4788,6 +4782,12 @@
     "comment": "st4"
   },
   {
+    "md5": "ee6db9f00c7971cd0e736fc1dffc6fe2",
+    "title": "Overdrive Power [Hexagon]",
+    "level": "6.00...6.50",
+    "comment": "st5"
+  },
+  {
     "md5": "71380a9a6608851fcddcb7956c46b0ea",
     "title": "perfume of reunion [Hexagon]",
     "level": "6.00...6.50",
@@ -4822,12 +4822,6 @@
     "title": "Retronika [RETROACTIVE]",
     "level": "6.00...6.50",
     "comment": "st5"
-  },
-  {
-    "md5": "cd23bf9461293a207a045afbc92c333f",
-    "title": "SEKIDO [Catastrophe]",
-    "level": "6.00...6.50",
-    "comment": "st4"
   },
   {
     "md5": "f02ed8c8f032a9a7dad2f6bd7d7efd61",
@@ -4932,6 +4926,12 @@
     "comment": "st5"
   },
   {
+    "md5": "3056ea6c325121c4d3488bb28d51fac0",
+    "title": "ぼうけんの森 [Hexagon]",
+    "level": "6.00...6.50",
+    "comment": "st4"
+  },
+  {
     "md5": "2a7771401fc0fdae9419bd2c42473ee1",
     "title": "スーパーイザナギオブジェクト [Other]",
     "level": "6.00...6.50",
@@ -4942,6 +4942,12 @@
     "title": "ダーク・アヴァターラ・ビーム †LEGGENDARIA†",
     "level": "6.00...6.50",
     "comment": "st4"
+  },
+  {
+    "md5": "915ea0341a6a33bcc399356000359308",
+    "title": "ナツイノ [ガチオシ]",
+    "level": "6.00...6.50",
+    "comment": "st5"
   },
   {
     "md5": "eb9f348737f6c474233d8b9de32d8f8f",
@@ -5002,6 +5008,12 @@
     "title": "1516 [3032]",
     "level": "6.50...7.00",
     "comment": "st5"
+  },
+  {
+    "md5": "0c743a2d771c22f1d7a45e40a299c454",
+    "title": "[line:theta] [HYPERLIMINAL]",
+    "level": "6.50...7.00",
+    "comment": "st6"
   },
   {
     "md5": "86df34816407e605e82a8371a00536e6",
@@ -5376,6 +5388,12 @@
     "comment": "st5"
   },
   {
+    "md5": "fbfdc2671b94dee5da97cfaf127b0a40",
+    "title": "遠声 (VOICE)",
+    "level": "6.50...7.00",
+    "comment": "st6"
+  },
+  {
     "md5": "766706da0e9c5fbcc76f421e4ba99cf3",
     "title": "雪解け色フラワーズ [WHITEOUT]",
     "level": "6.50...7.00",
@@ -5716,12 +5734,6 @@
     "title": "貴女と秘密の… (ヤンデレ)",
     "level": "7.00...7.50",
     "comment": "st5"
-  },
-  {
-    "md5": "fbfdc2671b94dee5da97cfaf127b0a40",
-    "title": "遠声 (VOICE)",
-    "level": "7.00...7.50",
-    "comment": "st6"
   },
   {
     "md5": "198b8bad9f67cfb3784f2afb9052d193",
@@ -6192,6 +6204,12 @@
     "comment": "st7"
   },
   {
+    "md5": "c332e5a6c1e22d9244a7663c8f2194d9",
+    "title": "ゴフェルの木棺 [Cupressus]",
+    "level": "8.00...8.50",
+    "comment": "st7"
+  },
+  {
     "md5": "82aeb140cc56a5618c14cffc97c60d47",
     "title": "スナレ",
     "level": "8.00...8.50",
@@ -6326,12 +6344,6 @@
   {
     "md5": "3a64127bd72f4c6d24ee1b22d6c9fa1b",
     "title": "Frozen Maiden [Disaster]",
-    "level": "8.50...9.00",
-    "comment": "st7"
-  },
-  {
-    "md5": "28689db862df9559dac34717a22a0ea3",
-    "title": "Fusionik [Meteorswarm]",
     "level": "8.50...9.00",
     "comment": "st7"
   },
@@ -6528,6 +6540,12 @@
     "comment": "st7"
   },
   {
+    "md5": "6c6a66565aed72bf10a57fa60007db34",
+    "title": "CO5M1C R4ILR0AD [B3Y0ND DE5CRIP7ION]",
+    "level": "9.00...9.50",
+    "comment": "st8"
+  },
+  {
     "md5": "209c34ac793b048927dcea64b051aef2",
     "title": "Durandal -Magical Freezing- (Radio Edit) [for 9]",
     "level": "9.00...9.50",
@@ -6568,6 +6586,12 @@
     "title": "Fragments of Toybox [Hexagon]",
     "level": "9.00...9.50",
     "comment": "st8"
+  },
+  {
+    "md5": "28689db862df9559dac34717a22a0ea3",
+    "title": "Fusionik [Meteorswarm]",
+    "level": "9.00...9.50",
+    "comment": "st7"
   },
   {
     "md5": "c81fdc8cfc6e066e0162bc763ecf8c0c",
@@ -6632,6 +6656,12 @@
   {
     "md5": "809eb5f660e9f231688d906458c7d6a0",
     "title": "ハニエルのうた [GOD]",
+    "level": "9.00...9.50",
+    "comment": "st8"
+  },
+  {
+    "md5": "14c8320608ce1609a8824558cdd64631",
+    "title": "フロンティア↑↑エクスプローラー [Frontier]",
     "level": "9.00...9.50",
     "comment": "st8"
   },
@@ -6704,12 +6734,6 @@
   {
     "md5": "a06c88e7421b463a9d2d8b0e606eea97",
     "title": "Chronostasis [Reincarnation]",
-    "level": "9.50...10.00",
-    "comment": "st8"
-  },
-  {
-    "md5": "6c6a66565aed72bf10a57fa60007db34",
-    "title": "CO5M1C R4ILR0AD [B3Y0ND DE5CRIP7ION]",
     "level": "9.50...10.00",
     "comment": "st8"
   },
@@ -6884,12 +6908,6 @@
   {
     "md5": "b2a686e09393dbcce8992e8813fdf437",
     "title": "ハッピーフェイクショー [Alternative Break]",
-    "level": "9.50...10.00",
-    "comment": "st8"
-  },
-  {
-    "md5": "14c8320608ce1609a8824558cdd64631",
-    "title": "フロンティア↑↑エクスプローラー [Frontier]",
     "level": "9.50...10.00",
     "comment": "st8"
   },

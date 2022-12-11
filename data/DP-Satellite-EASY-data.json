@@ -966,6 +966,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "e7aa5f8ab95ef3a74f177ba966693079",
+    "title": "carnation [for pianist]",
+    "level": "1.50...2.00",
+    "comment": "sl3"
+  },
+  {
     "md5": "81c8fad166661b8609873553f32d09bb",
     "title": "Conviction [DP HYPER]",
     "level": "1.50...2.00",
@@ -1118,12 +1124,6 @@
   {
     "md5": "eed0b50b688f8e5c1bbb21a9a45b47e1",
     "title": "Amusing Colorful Pudding. (DP sweet)",
-    "level": "2.00...2.50",
-    "comment": "sl3"
-  },
-  {
-    "md5": "e7aa5f8ab95ef3a74f177ba966693079",
-    "title": "carnation [for pianist]",
     "level": "2.00...2.50",
     "comment": "sl3"
   },
@@ -1536,12 +1536,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "09d1c8ce11ca00865862fd4a94d00250",
-    "title": "Granblaze [DP ANOTHER]",
-    "level": "3.00...3.50",
-    "comment": "sl5"
-  },
-  {
     "md5": "22aecf56d1de614852af9d27b3693984",
     "title": "H.S : Hadron Strike [DP HYPER]",
     "level": "3.00...3.50",
@@ -1604,6 +1598,12 @@
   {
     "md5": "0c5f9d1948d964fb20696261f632a199",
     "title": "reverieland [DPYoither]",
+    "level": "3.00...3.50",
+    "comment": "sl5"
+  },
+  {
+    "md5": "e9e8b841292f7d176accabae9f09e313",
+    "title": "Road to the future city [DP ANOTHER]",
     "level": "3.00...3.50",
     "comment": "sl5"
   },
@@ -1764,6 +1764,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "7ae768f6387952fbee71272fb8cc33ab",
+    "title": "Amplifying Effect -DP ANOTHER-",
+    "level": "3.50...4.00",
+    "comment": "sl6"
+  },
+  {
     "md5": "b73c05f5bc653e4d2a801129d58f2297",
     "title": "Anti Function -DP ANOTHER-",
     "level": "3.50...4.00",
@@ -1792,6 +1798,12 @@
     "title": "fragile crystal -14keys-",
     "level": "3.50...4.00",
     "comment": "sl6"
+  },
+  {
+    "md5": "09d1c8ce11ca00865862fd4a94d00250",
+    "title": "Granblaze [DP ANOTHER]",
+    "level": "3.50...4.00",
+    "comment": "sl5"
   },
   {
     "md5": "a2768a96f3d26adb6e076192b1a9976e",
@@ -1848,12 +1860,6 @@
     "comment": "sl6"
   },
   {
-    "md5": "e9e8b841292f7d176accabae9f09e313",
-    "title": "Road to the future city [DP ANOTHER]",
-    "level": "3.50...4.00",
-    "comment": "sl5"
-  },
-  {
     "md5": "48bf710c8828c3a056a3d07432dde747",
     "title": "Sacrificio [DP ANOTHER]",
     "level": "3.50...4.00",
@@ -1904,12 +1910,6 @@
   {
     "md5": "0ac8c71c69c6f6d4305b967b07f1c217",
     "title": "8bit Voyager [DPBF]",
-    "level": "4.00...4.50",
-    "comment": "sl6"
-  },
-  {
-    "md5": "7ae768f6387952fbee71272fb8cc33ab",
-    "title": "Amplifying Effect -DP ANOTHER-",
     "level": "4.00...4.50",
     "comment": "sl6"
   },
@@ -2042,6 +2042,12 @@
   {
     "md5": "5dc019d3c327fb3e8adafc2bef02420a",
     "title": "The Microbe [DP INSANE]",
+    "level": "4.00...4.50",
+    "comment": "sl6"
+  },
+  {
+    "md5": "c3cce8a0c9843c032d23b9a51f33a800",
+    "title": "Απομνημονευμαι [DP ANOTHER]",
     "level": "4.00...4.50",
     "comment": "sl6"
   },
@@ -2262,6 +2268,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "8060e0d74d653ee380c684caae0656b0",
+    "title": "Summer White [DP NOSTALGIC]",
+    "level": "4.50...5.00",
+    "comment": "sl7"
+  },
+  {
     "md5": "66590d9d44d410d0c22868eed08bc3a4",
     "title": "take me to the moon [DP Insane]",
     "level": "4.50...5.00",
@@ -2278,12 +2290,6 @@
     "title": "The SkyScrapers [DP-sagINSANE]",
     "level": "4.50...5.00",
     "comment": "sl7"
-  },
-  {
-    "md5": "c3cce8a0c9843c032d23b9a51f33a800",
-    "title": "Απομνημονευμαι [DP ANOTHER]",
-    "level": "4.50...5.00",
-    "comment": "sl6"
   },
   {
     "md5": "dd8ebb81bb16e19d54c31c4d8cdb7b96",
@@ -2444,12 +2450,6 @@
   {
     "md5": "c0df391328b3f4984fc53307236efdda",
     "title": "Skull & Witch [DP]",
-    "level": "5.00...5.50",
-    "comment": "sl7"
-  },
-  {
-    "md5": "8060e0d74d653ee380c684caae0656b0",
-    "title": "Summer White [DP NOSTALGIC]",
     "level": "5.00...5.50",
     "comment": "sl7"
   },
@@ -3078,6 +3078,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "889439f50329c7d90a071e6dba4a3d17",
+    "title": "EXTRAPHANTASM [DP INSANE]",
+    "level": "7.50...8.00",
+    "comment": "sl11"
+  },
+  {
     "md5": "0e05593e0b01c2fa57281cc42c22cdb0",
     "title": "H.S : Hadron Strike [DP ANOTHER]",
     "level": "7.50...8.00",
@@ -3104,6 +3110,12 @@
   {
     "md5": "b7244f66328a360a34a6d6a66028fed9",
     "title": "myste`re　 [18keys]",
+    "level": "7.50...8.00",
+    "comment": "sl11"
+  },
+  {
+    "md5": "2c8ca67a2198fbb13199b970210d1b20",
+    "title": "QUARTZ [BLACK ANOTHER]",
     "level": "7.50...8.00",
     "comment": "sl11"
   },
@@ -3144,6 +3156,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "23a2dc41098afccba3f4e207fa4f8bb1",
+    "title": "少女監獄ヴァンパイアフィリア -DP ANOTHER-",
+    "level": "7.50...8.00",
+    "comment": "sl11"
+  },
+  {
     "md5": "aa389df1f9b142c58e1fd9204df74278",
     "title": "摩訶幻想マジトリク [DP INSANE]",
     "level": "7.50...8.00",
@@ -3174,12 +3192,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "889439f50329c7d90a071e6dba4a3d17",
-    "title": "EXTRAPHANTASM [DP INSANE]",
-    "level": "8.00...8.50",
-    "comment": "sl11"
-  },
-  {
     "md5": "ea5235baeae69655cb8d81fabe2c599e",
     "title": "FREAKOUT [14KEYS ANOTHER]",
     "level": "8.00...8.50",
@@ -3198,12 +3210,6 @@
     "comment": "sl11"
   },
   {
-    "md5": "2c8ca67a2198fbb13199b970210d1b20",
-    "title": "QUARTZ [BLACK ANOTHER]",
-    "level": "8.00...8.50",
-    "comment": "sl11"
-  },
-  {
     "md5": "40f0c8314e93ea572f5ab6e0e2a81eda",
     "title": "STAGER [ONE MORE EXTRA]",
     "level": "8.00...8.50",
@@ -3218,12 +3224,6 @@
   {
     "md5": "37cc734cb35cc8f74fa0f36d2ae0e916",
     "title": "夜間飛行トラベラー [DP MANIAC]",
-    "level": "8.00...8.50",
-    "comment": "sl11"
-  },
-  {
-    "md5": "23a2dc41098afccba3f4e207fa4f8bb1",
-    "title": "少女監獄ヴァンパイアフィリア -DP ANOTHER-",
     "level": "8.00...8.50",
     "comment": "sl11"
   },

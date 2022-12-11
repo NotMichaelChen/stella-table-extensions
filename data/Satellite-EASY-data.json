@@ -1332,12 +1332,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "560e1aa9a647a420606c7a9b781f5ba7",
-    "title": "Life Style [INSANE]",
-    "level": "0.00...0.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "65a926686bbee479123628e78018893a",
     "title": "Linkager [EX]",
     "level": "0.00...0.50",
@@ -1668,12 +1662,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "34aa8b9d669442d347dfd42833b67d6a",
-    "title": "はるいろ こみち [春]",
-    "level": "0.00...0.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "26dd7c6a5377f4200f279afcc25770c9",
     "title": "アイム・マイヒーロー [覚醒]",
     "level": "0.00...0.50",
@@ -1938,8 +1926,20 @@
     "comment": "sl1"
   },
   {
+    "md5": "560e1aa9a647a420606c7a9b781f5ba7",
+    "title": "Life Style [INSANE]",
+    "level": "0.50...1.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "c660ba7698940e75a9ff45af488cc2e0",
     "title": "Luminaria [ANOTHER7]",
+    "level": "0.50...1.00",
+    "comment": "sl2"
+  },
+  {
+    "md5": "6dd9bc5c6c7f506cb2a8a4705c42e334",
+    "title": "Meaning of Existence [niche]",
     "level": "0.50...1.00",
     "comment": "sl2"
   },
@@ -2028,12 +2028,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "b1b29a6af94bd1792f248499aa61a9fc",
-    "title": "Unleashed World [ANOTHER-]",
-    "level": "0.50...1.00",
-    "comment": "sl2"
-  },
-  {
     "md5": "4b6a3ed9cc78b8bc0f9ae76eba17b21f",
     "title": "WAYLAID (Additional)",
     "level": "0.50...1.00",
@@ -2062,6 +2056,12 @@
     "title": "☆ウィンドサンバランド☆ -ANOTHER-",
     "level": "0.50...1.00",
     "comment": "sl2"
+  },
+  {
+    "md5": "34aa8b9d669442d347dfd42833b67d6a",
+    "title": "はるいろ こみち [春]",
+    "level": "0.50...1.00",
+    "comment": "sl1"
   },
   {
     "md5": "a5558c79adeaeccca3955e150304a139",
@@ -2418,12 +2418,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "6dd9bc5c6c7f506cb2a8a4705c42e334",
-    "title": "Meaning of Existence [niche]",
-    "level": "1.00...1.50",
-    "comment": "sl2"
-  },
-  {
     "md5": "666945fc86b26493aa6908bd6e74cb06",
     "title": "Mermaid [7key Extra]",
     "level": "1.00...1.50",
@@ -2598,6 +2592,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "b1b29a6af94bd1792f248499aa61a9fc",
+    "title": "Unleashed World [ANOTHER-]",
+    "level": "1.00...1.50",
+    "comment": "sl2"
+  },
+  {
     "md5": "49c7b1064f1c35cc3e269280ee7f6900",
     "title": "VISTA [windows]",
     "level": "1.00...1.50",
@@ -2720,6 +2720,12 @@
   {
     "md5": "ef54e973b67578f913f93d32b3d5efcb",
     "title": "村 [正]",
+    "level": "1.00...1.50",
+    "comment": "sl2"
+  },
+  {
+    "md5": "4477569e9d0bee33ad929ec1cf0de878",
+    "title": "杪冬の願い [ANOTHER]",
     "level": "1.00...1.50",
     "comment": "sl2"
   },
@@ -4560,12 +4566,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "6be2b837d15a10983c6b26248a6b75a9",
-    "title": "もぺもぺ [ZOI-SC]",
-    "level": "3.00...3.50",
-    "comment": "sl5"
-  },
-  {
     "md5": "5cd695e773e6760949cb4588a2e6b408",
     "title": "わたしはうたう -Hope-",
     "level": "3.00...3.50",
@@ -4658,6 +4658,12 @@
   {
     "md5": "4f49e165b2222bab7afd1015c62f7940",
     "title": "炎花 - flameflower - [ClimaX]",
+    "level": "3.00...3.50",
+    "comment": "sl5"
+  },
+  {
+    "md5": "cbd93fbc5c7272714e90bb46f82ee575",
+    "title": "白き星姫-Принцесса белая звезда- [декабристов]",
     "level": "3.00...3.50",
     "comment": "sl5"
   },
@@ -4902,12 +4908,6 @@
     "comment": "sl6"
   },
   {
-    "md5": "c982becdce32626a23083d798b02ede1",
-    "title": "Total Eclipse of the Sun -Howling-",
-    "level": "3.50...4.00",
-    "comment": "sl6"
-  },
-  {
     "md5": "5c40b8f89acb174231f3cba614a67279",
     "title": "Triton [HARDEST]",
     "level": "3.50...4.00",
@@ -4934,6 +4934,12 @@
   {
     "md5": "29b0684e44c96d385748fca44f5533b9",
     "title": "XIII Charlotte -BLACK ANOTHER-",
+    "level": "3.50...4.00",
+    "comment": "sl5"
+  },
+  {
+    "md5": "6be2b837d15a10983c6b26248a6b75a9",
+    "title": "もぺもぺ [ZOI-SC]",
     "level": "3.50...4.00",
     "comment": "sl5"
   },
@@ -4984,12 +4990,6 @@
     "title": "水の螺旋 [TOWER]",
     "level": "3.50...4.00",
     "comment": "sl6"
-  },
-  {
-    "md5": "cbd93fbc5c7272714e90bb46f82ee575",
-    "title": "白き星姫-Принцесса белая звезда- [декабристов]",
-    "level": "3.50...4.00",
-    "comment": "sl5"
   },
   {
     "md5": "fba46a8a1724cdd83c450defedb11334",
@@ -5246,6 +5246,12 @@
   {
     "md5": "ed4600ce4d6f06e0c4fbcc800f1e9255",
     "title": "Snowy Light(BMS Edit) [I'm Already Tracer]",
+    "level": "4.00...4.50",
+    "comment": "sl6"
+  },
+  {
+    "md5": "c982becdce32626a23083d798b02ede1",
+    "title": "Total Eclipse of the Sun -Howling-",
     "level": "4.00...4.50",
     "comment": "sl6"
   },
@@ -5814,12 +5820,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "28e74356833a56b4673905fa2940a205",
-    "title": "3.14 @`・ ω ・´@",
-    "level": "5.00...5.50",
-    "comment": "sl8"
-  },
-  {
     "md5": "ceedcf9712b3018c1fd7e7bf87454139",
     "title": "Alitatrieb [Insanity]",
     "level": "5.00...5.50",
@@ -5952,20 +5952,14 @@
     "comment": "sl8"
   },
   {
-    "md5": "99d8a05101d4200464c66a4ccc8596f8",
-    "title": "Shannon's Theorem [MIMO]",
+    "md5": "1922023d01ef953493c15342a4c418ca",
+    "title": "Stokesia [NEXT]",
     "level": "5.00...5.50",
     "comment": "sl8"
   },
   {
     "md5": "86c1799a5b2bcf6eeda15c1b0854d814",
     "title": "Trane [SP ELIXIR]",
-    "level": "5.00...5.50",
-    "comment": "sl8"
-  },
-  {
-    "md5": "695fb1cbc6d11fd35d019c9112355349",
-    "title": "Upshift [Futabather]",
     "level": "5.00...5.50",
     "comment": "sl8"
   },
@@ -6024,12 +6018,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "47045de25d9d2f9d7a36fec1fa6b86af",
-    "title": "ホーリーサンバランド [FIRST BOSS]",
-    "level": "5.00...5.50",
-    "comment": "sl8"
-  },
-  {
     "md5": "7ba0d771cc462499d97d20a537accdf6",
     "title": "ユアンシェンは俺たちに何を伝えたかったのか [no idea]",
     "level": "5.00...5.50",
@@ -6069,6 +6057,12 @@
     "md5": "3552818cd88efdc32f60c2ae3b5862c3",
     "title": "夢と現 [real]",
     "level": "5.00...5.50",
+    "comment": "sl8"
+  },
+  {
+    "md5": "28e74356833a56b4673905fa2940a205",
+    "title": "3.14 @`・ ω ・´@",
+    "level": "5.50...6.00",
     "comment": "sl8"
   },
   {
@@ -6300,8 +6294,8 @@
     "comment": "sl8"
   },
   {
-    "md5": "1922023d01ef953493c15342a4c418ca",
-    "title": "Stokesia [NEXT]",
+    "md5": "99d8a05101d4200464c66a4ccc8596f8",
+    "title": "Shannon's Theorem [MIMO]",
     "level": "5.50...6.00",
     "comment": "sl8"
   },
@@ -6342,6 +6336,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "695fb1cbc6d11fd35d019c9112355349",
+    "title": "Upshift [Futabather]",
+    "level": "5.50...6.00",
+    "comment": "sl8"
+  },
+  {
     "md5": "6365227660e0056c8809e4a3e31c2459",
     "title": "WE ARE HARDCORE [Gang]",
     "level": "5.50...6.00",
@@ -6356,6 +6356,12 @@
   {
     "md5": "d9d07d57467a46047e2c2db104151b3a",
     "title": "パブロペトリの泡影",
+    "level": "5.50...6.00",
+    "comment": "sl8"
+  },
+  {
+    "md5": "47045de25d9d2f9d7a36fec1fa6b86af",
+    "title": "ホーリーサンバランド [FIRST BOSS]",
     "level": "5.50...6.00",
     "comment": "sl8"
   },
@@ -7008,6 +7014,12 @@
     "comment": "sl10"
   },
   {
+    "md5": "e2cc2a2fbc4fb4a62536e499d5ab0890",
+    "title": "異説彼岸花 第一 -原初のアマリリス- [HARDEST]",
+    "level": "6.50...7.00",
+    "comment": "sl10"
+  },
+  {
     "md5": "fd76b7d207db6c3942bfac0af6fac8db",
     "title": "踊る水飛沫 [KF7]",
     "level": "6.50...7.00",
@@ -7274,12 +7286,6 @@
   {
     "md5": "4971f11e2d0c0831f8ef83054ed843e4",
     "title": "円環の理 [HARDEST]",
-    "level": "7.00...7.50",
-    "comment": "sl10"
-  },
-  {
-    "md5": "e2cc2a2fbc4fb4a62536e499d5ab0890",
-    "title": "異説彼岸花 第一 -原初のアマリリス- [HARDEST]",
     "level": "7.00...7.50",
     "comment": "sl10"
   },
@@ -8082,12 +8088,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "1c9c574853c87a09e03ee40d372ecc36",
-    "title": "sunken azure world [マヨマヨ]",
-    "level": "8.00...8.50",
-    "comment": "sl12"
-  },
-  {
     "md5": "25eaf10ef0085443932317c03a65f333",
     "title": "Sunny [ディレイ&物量]",
     "level": "8.00...8.50",
@@ -8180,6 +8180,12 @@
   {
     "md5": "af0a9066c9fce98fc26611ec7237be00",
     "title": "ロスト：ユートピアと真理と純粋の極彩世界 [DISTOPIA_Fix]",
+    "level": "8.00...8.50",
+    "comment": "sl12"
+  },
+  {
+    "md5": "9d5809ec143b89b4af366f8f1872f676",
+    "title": "哀の羽音色 [Maryther]",
     "level": "8.00...8.50",
     "comment": "sl12"
   },
@@ -8382,6 +8388,12 @@
     "comment": "sl12"
   },
   {
+    "md5": "1c9c574853c87a09e03ee40d372ecc36",
+    "title": "sunken azure world [マヨマヨ]",
+    "level": "8.50...9.00",
+    "comment": "sl12"
+  },
+  {
     "md5": "4648b0a5679acf21bc8102ac95e50585",
     "title": "Terpsichore [Li]",
     "level": "8.50...9.00",
@@ -8462,12 +8474,6 @@
   {
     "md5": "387808dd59ddd66ec7c3660889c42ba1",
     "title": "円環の理 [ＱＢTHER]",
-    "level": "8.50...9.00",
-    "comment": "sl12"
-  },
-  {
-    "md5": "9d5809ec143b89b4af366f8f1872f676",
-    "title": "哀の羽音色 [Maryther]",
     "level": "8.50...9.00",
     "comment": "sl12"
   },
