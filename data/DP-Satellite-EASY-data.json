@@ -468,6 +468,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "d02c8e12c4678a01566f42937444eb79",
+    "title": "Prismrose [DP ANOTHER]",
+    "level": "0.00...0.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "9175ecb4ebe55e11054e8e78e2464cf8",
     "title": "Replace [DP ANOTHER]",
     "level": "0.00...0.50",
@@ -644,12 +650,6 @@
   {
     "md5": "c7a7a7a5dd1985f680783d6cad0e66a3",
     "title": "Precious!!! [14key,Another]",
-    "level": "0.50...1.00",
-    "comment": "sl1"
-  },
-  {
-    "md5": "d02c8e12c4678a01566f42937444eb79",
-    "title": "Prismrose [DP ANOTHER]",
     "level": "0.50...1.00",
     "comment": "sl1"
   },
@@ -2874,6 +2874,12 @@
     "comment": "sl10"
   },
   {
+    "md5": "2f80fc1c5428f5090808c2c2d8cc11f0",
+    "title": "Non Return to Zero [DP ANOTHER]",
+    "level": "6.50...7.00",
+    "comment": "sl10"
+  },
+  {
     "md5": "388e05189bdc0f964c474cb01dd1d27e",
     "title": "Orillia [DP-sagINSANE]",
     "level": "6.50...7.00",
@@ -3006,12 +3012,6 @@
     "comment": "sl11"
   },
   {
-    "md5": "2f80fc1c5428f5090808c2c2d8cc11f0",
-    "title": "Non Return to Zero [DP ANOTHER]",
-    "level": "7.00...7.50",
-    "comment": "sl10"
-  },
-  {
     "md5": "e2e430faf05b6a5d2b0ab301cb03657a",
     "title": "Only Diversity [DPA]",
     "level": "7.00...7.50",
@@ -3130,6 +3130,12 @@
     "title": "Unleashed World [Fairytale]",
     "level": "7.50...8.00",
     "comment": "sl10"
+  },
+  {
+    "md5": "59bee181c697177bc186fdde396c0cc9",
+    "title": "タマモッチ -ダイエット-",
+    "level": "7.50...8.00",
+    "comment": "sl12"
   },
   {
     "md5": "470c74d414f15d5f2ae9b4c3f65ca787",
@@ -3254,12 +3260,6 @@
   {
     "md5": "f2659eb48724603adf9e548ec9be5c04",
     "title": "whence [DP FingerDance]",
-    "level": "8.50...9.00",
-    "comment": "sl12"
-  },
-  {
-    "md5": "59bee181c697177bc186fdde396c0cc9",
-    "title": "タマモッチ -ダイエット-",
     "level": "8.50...9.00",
     "comment": "sl12"
   },

@@ -1165,6 +1165,19 @@
     "proposerLr2id": 129162
   },
   {
+    "md5": "6f00896a24953aee0a0962eb712be9ac",
+    "sha256": "857b0dcf2ef58f5f0bd46ebf2332d7b5124306a930bfd02850113ada06ef3b85",
+    "title": "Fall Apart [SP INSANE]",
+    "artist": "ohon BGA:TRAF obj:BAECON",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=140",
+    "level": "0",
+    "comment": "同梱譜面",
+    "proposer": "scytheplus",
+    "submission": 2660,
+    "proposerLr2id": 150696
+  },
+  {
     "md5": "55c7fbfff822d38cdd2fbf6d81520f37",
     "sha256": "9ad6f3f0cd53e48ea2ec4a17848d1fba8b2c13805bec5859e2c0d5b5e6532b93",
     "title": "False Friend [ANOTHER]",
@@ -9305,6 +9318,19 @@
     "proposerLr2id": 19425
   },
   {
+    "md5": "510a26c813c41de416268278d1a1adfe",
+    "sha256": "16c9d2a79d5423ac5140a5d0585afdba68b0aec1ef9254a1f09ae9c205d07c15",
+    "title": "Elixir [BITTER7]",
+    "artist": "Lime / Kankitsu",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=457&event=140",
+    "level": "2",
+    "comment": "sl 2～3？",
+    "proposer": "ii5",
+    "submission": 2655,
+    "proposerLr2id": 141043
+  },
+  {
     "md5": "4bc6cf9081034e5bfd006d101da9c232",
     "sha256": "f81c80198139322d3c0f37bb728fdd4b9ced87cf28eb35a1283f8d13447aeab7",
     "title": "enchanted love [ZOI]",
@@ -12124,6 +12150,19 @@
     "votePercent": 0
   },
   {
+    "md5": "10f14321a847e8a28d5ff60bb6b1ab17",
+    "sha256": "211b0edc5f02575840fc7e436a6b5ac2260445ed80d75c6fd3d396ac99970c27",
+    "title": "田中 [ANOTHER]",
+    "artist": "立秋 feat.ちょこ",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=361&event=137",
+    "level": "2",
+    "comment": "同梱譜面",
+    "proposer": "nozomi",
+    "submission": 2308,
+    "proposerLr2id": 115265
+  },
+  {
     "level": "2",
     "comment": "乱打、皿絡み",
     "md5": "7d28ad5b1249d3e9536da0060fbffd25",
@@ -14564,6 +14603,19 @@
     "proposerLr2id": 124809
   },
   {
+    "md5": "0aac92a00ca6da2f65d18c69d3a5533f",
+    "sha256": "1bc55509dcecd955344f32ca8c9e62e9512af2ed9c8794d2682aaa136ea9087f",
+    "title": "take me to the moon [K2]",
+    "artist": "uma feat. ましろ / 14",
+    "url_diff": "https://stellabms.xyz/upload/2291",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=129",
+    "level": "3",
+    "comment": "at #35 (1/2) M6 is duplicated at #43 after(1/2) the sabun maker slightly change melody arp which turn it from Semiquaver into 24th note(can be considered as delay?)",
+    "proposer": "Reiaki",
+    "submission": 2657,
+    "proposerMinirid": "5a65c230-776b-4597-8670-0390e9a2d474"
+  },
+  {
     "level": "3",
     "comment": "１４の下位交換であり同梱譜面 ★4~5ぐらい",
     "md5": "ac8db2d116a1879bda19f6f9b0fc9d25",
@@ -15711,19 +15763,6 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
-  },
-  {
-    "md5": "10f14321a847e8a28d5ff60bb6b1ab17",
-    "sha256": "211b0edc5f02575840fc7e436a6b5ac2260445ed80d75c6fd3d396ac99970c27",
-    "title": "田中 [ANOTHER]",
-    "artist": "立秋 feat.ちょこ",
-    "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=361&event=137",
-    "level": "3",
-    "comment": "同梱譜面",
-    "proposer": "nozomi",
-    "submission": 2308,
-    "proposerLr2id": 115265
   },
   {
     "md5": "6ad63bdfce1072784d7903ca542e7608",
@@ -18948,6 +18987,20 @@
     "votePercent": 0
   },
   {
+    "md5": "288c12d5d8e25d7c1de69de42a2a544b",
+    "sha256": "ed1c62c777e4391be4ded01007d0e27aaad8d789727757fb73c75a4f04c68f38",
+    "title": "飛翔するG [Flying \"C\"]",
+    "artist": "HALLPBE.S (Obj: ReiOW)",
+    "url_diff": "https://darksabun.github.io/event/bofet/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=480&event=140",
+    "level": "4",
+    "comment": "BPM145 乱打+α",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 2658,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "583a5917b490dd2fba72f1df7b1bcaaf",
     "sha256": "4161e1da52e9d193abfb3fdceb162258865683cccba6002695f4ef9ddbddf253",
     "title": "黒い絵 (MAS-B)",
@@ -20883,6 +20936,20 @@
     "voteYes": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "531b646233a9bbb38aec58dbd2d91937",
+    "sha256": "791788deb68a3f32043ae750f6c789404b99584092bec356bcb295cf922379d4",
+    "title": "お兄火 [ヤンデレの女の子に死ぬほど愛されて眠れないお兄ちゃん]",
+    "artist": "Ponchi♪ feat.はぁち obj.nozomi",
+    "url_diff": "https://1drv.ms/u/s!ApwaJAUHJdpyml22QXQM-mZuIs2Z?e=OQv90Z",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=208&event=140",
+    "level": "5",
+    "comment": "ハネ",
+    "zureCount": 0,
+    "proposer": "fuko",
+    "submission": 2661,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "fd77c0d3bd1f52d6c21c98ed9450d4a5",
@@ -22898,6 +22965,20 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "0cbbb890dd63a20938f97edd2db42e4c",
+    "sha256": "aa2853f692aa1d5bd646ba38c7d0a8227a1989dc3d3f961c11af6ddd2c81500f",
+    "title": "Sesame Kingdom [Cumin Flavor]",
+    "artist": "VeetaCrush / nbunnyuwu BGA: linglvz",
+    "url_diff": "https://stellabms.xyz/upload/2207",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=140",
+    "level": "6",
+    "comment": "sl 6～7？",
+    "zureCount": 0,
+    "proposer": "ii5",
+    "submission": 2656,
+    "proposerLr2id": 141043
   },
   {
     "md5": "10170f67b2581759c9f21533ba8f8a0c",
@@ -27007,6 +27088,20 @@
     "votePercent": 0
   },
   {
+    "md5": "f9e68106c11b80a66ca4fe24e2e1d2e1",
+    "sha256": "c6ba944dc72afb177ebe146c6ebd5152dd0f799a06d99ab23e2781524e9241a2",
+    "title": "reveL -Xe-",
+    "artist": "Orange Vox+ ft.AKA Movie:AiLANE / obj:LindBlum",
+    "url_diff": "https://darksabun.github.io/event/bofet/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=158&event=140",
+    "level": "8",
+    "comment": "BPM140 総合力",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 2659,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "1707fb95ad042704d6883f56049235f1",
     "sha256": "68779330bc42db3e953054bc24b05f2b57c1324ae41fbd0e7c69cfe089319260",
     "title": "Revival of Kalpa [HARDEST]",
@@ -29366,6 +29461,20 @@
     "proposerLr2id": 138185
   },
   {
+    "md5": "67a903768653ce5a8978d082efe4c680",
+    "sha256": "8f6230fe4d6a862e780d65c752f611cdf47955b247fa9a2e8d435dd4e317e7c8",
+    "title": "宇宙テレビ #Decimalized",
+    "artist": "Ｋａｏｒｕ feat. ゆきね /Naoki Yotsube 差分:Decimal",
+    "url_diff": "https://stellabms.xyz/upload/1911",
+    "url": "https://onedrive.live.com/?cid=2E0B6A331309387C&id=2E0B6A331309387C%21107#cid=2E0B6A331309387C&id=2E0B6A331309387C%21159&parId=2E0B6A331309387C%21107&action=defaultclick",
+    "level": "9",
+    "comment": "sl12~st0?",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 2564,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "40332a570fe97c487da227a7bdcf28a2",
     "sha256": "17b7bac5d9e45c4c650fd8e802dcd88b4b7d99c9fe932540d0cd056f2a2951f2",
     "title": "新たなる決意 -黎明-",
@@ -31304,20 +31413,6 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
-  },
-  {
-    "md5": "67a903768653ce5a8978d082efe4c680",
-    "sha256": "8f6230fe4d6a862e780d65c752f611cdf47955b247fa9a2e8d435dd4e317e7c8",
-    "title": "宇宙テレビ #Decimalized",
-    "artist": "Ｋａｏｒｕ feat. ゆきね /Naoki Yotsube 差分:Decimal",
-    "url_diff": "https://stellabms.xyz/upload/1911",
-    "url": "https://onedrive.live.com/?cid=2E0B6A331309387C&id=2E0B6A331309387C%21107#cid=2E0B6A331309387C&id=2E0B6A331309387C%21159&parId=2E0B6A331309387C%21107&action=defaultclick",
-    "level": "10",
-    "comment": "sl12~st0?",
-    "zureCount": 0,
-    "proposer": "七海",
-    "submission": 2564,
-    "proposerLr2id": 84597
   },
   {
     "md5": "6544dd7b7465eea7ba15c29b46e3b561",
@@ -37047,6 +37142,20 @@
     "sha256": "91b3a847523711627ef67b2633bf7e396c44a67b64c0c3ca25b87da2ace05ef0"
   },
   {
+    "md5": "f40774dd1adf0ee56ee7a1bfa049c608",
+    "sha256": "21a10bd9e0a988af796be51aa26f63dad69c640d5727fa8fa711fadb45c93dfd",
+    "title": "Conclusio Catastropha -BMS edit- [zugrunde richten Aufstand]",
+    "artist": "Ice obj.14年産電子ペンギン",
+    "url_diff": "https://1drv.ms/u/s!ApwaJAUHJdpyml9UF9-E1KnOg_zJ?e=b2b81a",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=450&event=140",
+    "level": "13",
+    "comment": "BPM180 がんばれ",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 1990,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "50bc3fa82a285a269fec54490af80c52",
     "sha256": "cdc453d146d04e9278ebd733bd0062391cc05bbdfc8fbad85a1ff1a680c46d72",
     "title": "Cryonix [Assault_fix]",
@@ -37129,6 +37238,20 @@
     "proposer": "LUXURY♪",
     "submission": 1740,
     "proposerLr2id": 23110
+  },
+  {
+    "md5": "5a633d146e329cf0e6c826964672d021",
+    "sha256": "0c54c00068f88a0c3bdd8b03890296f4821389fab81cb5e1cc5d7688f9dca2de",
+    "title": "DJおっさん 尻削り節 remix -準備体操-",
+    "artist": "kireji remixed by s-don obj:LindBlum",
+    "url_diff": "https://venue.bmssearch.net/bcel_pre/52",
+    "url": "https://dropbox.bms.ms/u/33464123/DJ_Ossan.zip",
+    "level": "13",
+    "comment": "ガチ押し準備体操",
+    "zureCount": 0,
+    "proposer": "fuko",
+    "submission": 1994,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "3bc50ae766596c725d4aad5db93968a0",
@@ -49155,19 +49278,6 @@
     "proposerLr2id": 84597
   },
   {
-    "md5": "2913190c27ed8c73c5b9221a4d9b2b07",
-    "sha256": "31e7971a63af7f51ce86a1f05b54863adb347ee64711f5d924832ddb6a84141f",
-    "title": "kyrka [Haereticum]",
-    "artist": "MILK / И",
-    "url_diff": "https://bms.parksulab.xyz",
-    "url": "http://diverse.jp/dbhtml/",
-    "level": "16",
-    "comment": "音源が追加されたので同梱差分とはズレチェックができません。代わりに差分ファイル同梱のmilk-kyrka-addsound-0noteとはズレなし。",
-    "proposer": "MarySue",
-    "submission": 1391,
-    "proposerLr2id": 147889
-  },
-  {
     "md5": "4354df349b18f050f6d73515e4c58b1e",
     "sha256": "941e5dfbe80e41ccd5a93b5cb16b350db2b9b2547a215d1edd2083d7b74fa3c0",
     "title": "Lamellibrachia [laner+]",
@@ -50283,6 +50393,20 @@
     "proposer": "antimongen",
     "submission": 1926,
     "proposerMinirid": "af2f6447-aabe-41ef-95a6-cd7d7618e9b3"
+  },
+  {
+    "md5": "8d5ebc797f1e8b758e2eee1e73dce9db",
+    "sha256": "44abd6320936eb912ae660cb224b17c83a6427a5c00f8d8decbcc03bb173f6c3",
+    "title": "The Photons of Music [SP ECSTATIC]",
+    "artist": "Heinz Schweers / obj. Mary_Sue Vocal. Jessica O'Donoghue",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=140",
+    "level": "16",
+    "comment": "BPM135 ガチ押し",
+    "zureCount": 0,
+    "proposer": "kai",
+    "submission": 1985,
+    "proposerLr2id": 9235
   },
   {
     "level": "16",
@@ -52620,6 +52744,19 @@
     "proposerLr2id": 84597
   },
   {
+    "md5": "2913190c27ed8c73c5b9221a4d9b2b07",
+    "sha256": "31e7971a63af7f51ce86a1f05b54863adb347ee64711f5d924832ddb6a84141f",
+    "title": "kyrka [Haereticum]",
+    "artist": "MILK / И",
+    "url_diff": "https://bms.parksulab.xyz",
+    "url": "http://diverse.jp/dbhtml/",
+    "level": "17",
+    "comment": "音源が追加されたので同梱差分とはズレチェックができません。代わりに差分ファイル同梱のmilk-kyrka-addsound-0noteとはズレなし。",
+    "proposer": "MarySue",
+    "submission": 1391,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "d15fa5e17826c126357f03aca678ccbb",
     "sha256": "c5ff2ccb71ea741f7515db41dbc9c06e9ab3e177c01d34f48ca402e8ece333d7",
     "title": "L (LOKINOTHER)",
@@ -52876,6 +53013,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "27e21aae177765bf0136a96cc973693c135174eaac08c0f22e0e7c60f5b830c2"
+  },
+  {
+    "md5": "3661ecd6136f9a452b7914a02c980286",
+    "sha256": "da90952f95fe8169a54a005bc68f32dd0c462c8ee0bbca225b695c6f2b8954f6",
+    "title": "MMXI [ULTIMATE]",
+    "artist": "Lian",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=190&event=140",
+    "level": "17",
+    "comment": "BPM152 微連打",
+    "proposer": "SHAX.",
+    "submission": 1993,
+    "proposerLr2id": 65624
   },
   {
     "level": "17",
@@ -53450,6 +53600,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "f5faf5f37f25c396e94b87af6cb711d7ac311de99a4e08d4de1bbfeb9e7fe5ef"
+  },
+  {
+    "md5": "d3d3d08067a47805d093c6fc48762e1c",
+    "sha256": "0e23d2a08eda6de429cb0516053d679f60d1565c5c42250013d9514891154d8f",
+    "title": "SYNCHRO BUSTER [Scarlet]",
+    "artist": "あとぅす feat.橘花音 / obj.fuko BGI:さのり",
+    "url_diff": "https://stellabms.xyz/upload/2227",
+    "url": "https://venue.bmssearch.net/bmstukuru2022/41",
+    "level": "17",
+    "comment": "BPM163 微縦連",
+    "zureCount": 0,
+    "proposer": "kai",
+    "submission": 1986,
+    "proposerLr2id": 9235
   },
   {
     "md5": "575a09f7bd5d6e22f91e01fdff83ff38",
@@ -54115,6 +54279,20 @@
     "proposerLr2id": 147889
   },
   {
+    "md5": "5a0de010eadb870bcf112c00ee0f2e0b",
+    "sha256": "81768baa578821b0ba86880299821aa85d1e426d43a17deecec8bc9131d9793d",
+    "title": "シャトヤンシーにくちづけを",
+    "artist": "Rner Pattern: M-SPIN",
+    "url_diff": "https://darksabun.github.io/event/bofet/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=251&event=140",
+    "level": "17",
+    "comment": "BPM1633 休憩なしの譜面",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 1992,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "7fe01a23d2acd2c5236a00e33141cfa6",
     "sha256": "c7ed5571f2e68824ed96e1aae0e37cd27be9e563fcbf48579ee005ec339cc55f",
     "title": "シロヒトリサマ > ○◎○ <",
@@ -54196,6 +54374,18 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "220796536d445d4d0eabf9c8eb7ef2b87c76c406e2a097de00cc4094730044f4"
+  },
+  {
+    "md5": "aeb0d6f426e59e54efdcfce3cd22b5f6",
+    "sha256": "ed9d1b4e55e31755f61c26ff59dfccdb8216b1567e76792151f6f38bb9438348",
+    "title": "ヒュブリスの頂に聳えるのは [XANADU]",
+    "artist": "qfeileadh feat.のあ Movie:Maeus / Illust:linglvz / obj:BAECON",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=140",
+    "level": "17",
+    "proposer": "qtp13",
+    "submission": 1989,
+    "proposerLr2id": 86559
   },
   {
     "md5": "4c75dba922510d566b65005480678041",
@@ -56302,6 +56492,19 @@
     "proposer": "垢伴次郎",
     "submission": 1633,
     "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
+  },
+  {
+    "md5": "90bf3bad2c3a9bf7518fc17ef64a0b4b",
+    "sha256": "08584c88fdfb54ae02206023ec0404a44a5fa867194283e1e51d4965e1173d75",
+    "title": "SYNTHETICS [Excelsior]",
+    "artist": "Soba Yamamori",
+    "url_diff": "https://bms.parksulab.xyz",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=285&event=123",
+    "level": "18",
+    "comment": "st4 Egyptの上位互換的譜面。ズレがありますが、差分製作者のサイトによると「差分に存在するすべてのズレとノーツが抜けているのは意図的です。」とのことです。",
+    "proposer": "なうもとわんたろう",
+    "submission": 1987,
+    "proposerMinirid": "3b715e5b-6a45-4156-913c-5109a62f4512"
   },
   {
     "md5": "330ec2f7f8a8cf46455d331706e84c88",
@@ -59545,6 +59748,19 @@
     "sha256": "201d8332ce10e339ed5ef90ebb84ab7b16cb4f02e88625e92f327e017381a065"
   },
   {
+    "md5": "bd42752b04f3a53d24fae87fe6d1c069",
+    "sha256": "5a42b446943e9b5815940c568494ce240a96d94f8a9b578cee69c2b952d3f54f",
+    "title": "NS31 [Dance Music]",
+    "artist": "3034 remixed by 0310 obj. tyrcs",
+    "url_diff": "https://darksabun.github.io/event/bofet/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=382&event=140",
+    "level": "20",
+    "comment": "BPM310 微連打",
+    "proposer": "SHAX.",
+    "submission": 1991,
+    "proposerLr2id": 65624
+  },
+  {
     "level": "20",
     "comment": "st?? 皿+ディレイ",
     "md5": "517419512764f988d11ce932c0a19111",
@@ -61426,6 +61642,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "5d6481d0a53185e4bc1b6c5a37fc54c72b03c1a3fd22c0f07be139f403e4d051"
+  },
+  {
+    "md5": "d54adbb688c55cef07571c29de98c6ce",
+    "sha256": "58e490a840597861602e72edc9c8e9b069a548409097d6d1fd41c7ed9755cd2c",
+    "title": "\"Fishpot\"",
+    "artist": "Lemi.",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=140",
+    "level": "22",
+    "comment": "st9~10?",
+    "proposer": "qtp13",
+    "submission": 1988,
+    "proposerLr2id": 86559
   },
   {
     "md5": "e50ee2da76698a7a60ee7ae14d91263b",

@@ -366,20 +366,8 @@
     "comment": "sl1"
   },
   {
-    "md5": "38116a6bf6c3efdf6bd03c34b57c320a",
-    "title": "Highleg Mermaid [DP ANOTHER]",
-    "level": "5.50...6.00",
-    "comment": "sl1"
-  },
-  {
     "md5": "ab27e512bd93288306944f602d57e834",
     "title": "JUGGLE [DP ANOTHER]",
-    "level": "5.50...6.00",
-    "comment": "sl1"
-  },
-  {
-    "md5": "9175ecb4ebe55e11054e8e78e2464cf8",
-    "title": "Replace [DP ANOTHER]",
     "level": "5.50...6.00",
     "comment": "sl1"
   },
@@ -480,6 +468,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "38116a6bf6c3efdf6bd03c34b57c320a",
+    "title": "Highleg Mermaid [DP ANOTHER]",
+    "level": "6.00...6.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "87a99be482ff03fe37134265827aabf0",
     "title": "IKAROS [DPA]",
     "level": "6.00...6.50",
@@ -546,6 +540,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "9175ecb4ebe55e11054e8e78e2464cf8",
+    "title": "Replace [DP ANOTHER]",
+    "level": "6.00...6.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "c2af423792c9067475fce7d4fa9c4436",
     "title": "Say A Vengeance [DP ANOTHER]",
     "level": "6.00...6.50",
@@ -606,12 +606,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "79a8aa96ba12ec9b6b7c0ab0153ad39f",
-    "title": "白と臙脂のオモチャバコ [ムズカシイ 14]",
-    "level": "6.00...6.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "1c8c39a9a94d6f5cf13616fbefaed119",
     "title": "私のヒトミ",
     "level": "6.00...6.50",
@@ -650,6 +644,12 @@
   {
     "md5": "f63b86f6bbf6c3105d579d9b4324a351",
     "title": "Hot Jupiter",
+    "level": "6.50...7.00",
+    "comment": "sl1"
+  },
+  {
+    "md5": "79a8aa96ba12ec9b6b7c0ab0153ad39f",
+    "title": "白と臙脂のオモチャバコ [ムズカシイ 14]",
     "level": "6.50...7.00",
     "comment": "sl1"
   },

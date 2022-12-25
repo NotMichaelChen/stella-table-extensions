@@ -318,6 +318,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "190ef89f7c890d5ac3bf327acc4f6800",
+    "title": "-Never ending journey- [Forever]",
+    "level": "1.00...1.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "ffbe7d2200a82384f2d3a29c003a24e2",
     "title": "A.O. [DP]",
     "level": "1.00...1.50",
@@ -438,12 +444,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "190ef89f7c890d5ac3bf327acc4f6800",
-    "title": "-Never ending journey- [Forever]",
-    "level": "1.50...2.00",
-    "comment": "sl1"
-  },
-  {
     "md5": "7f27fe2186cfbc66556fcef06f985727",
     "title": "Animatronics [14KEY ERROR]",
     "level": "1.50...2.00",
@@ -546,6 +546,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "c7a7a7a5dd1985f680783d6cad0e66a3",
+    "title": "Precious!!! [14key,Another]",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "d02c8e12c4678a01566f42937444eb79",
     "title": "Prismrose [DP ANOTHER]",
     "level": "1.50...2.00",
@@ -560,6 +566,12 @@
   {
     "md5": "ce8c05ca35de4b2816e34e34757eac44",
     "title": "soda ocean",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
+    "md5": "3d91b783248f05141bcaaf6410ac860c",
+    "title": "Stargazer [EXTRA]",
     "level": "1.50...2.00",
     "comment": "sl1"
   },
@@ -588,16 +600,16 @@
     "comment": "sl2"
   },
   {
-    "md5": "304a55cf280f9875efb248773dc42a0f",
-    "title": "ドキドキ☆夏休み直前スペシャル [DP ANOTHER]",
-    "level": "1.50...2.00",
-    "comment": "sl1"
-  },
-  {
     "md5": "9c709acbc81e788da0b5ecc033746635",
     "title": "ミライトコネクト [DP ANOTHER]",
     "level": "1.50...2.00",
     "comment": "sl2"
+  },
+  {
+    "md5": "c6a5d271001d48fcccecffd6b2f8ad5b",
+    "title": "ラケシスと永遠の祈祷者 [sub another]",
+    "level": "1.50...2.00",
+    "comment": "sl1"
   },
   {
     "md5": "388426e945942e01ac07b0ff81503690",
@@ -638,6 +650,12 @@
   {
     "md5": "47794ff2186babd108ce7852478cda68",
     "title": "06 (mknrmx)",
+    "level": "2.00...2.50",
+    "comment": "sl2"
+  },
+  {
+    "md5": "6357e029a3092291369717c4f7554849",
+    "title": "Azure Emotion [DP ANOTHER]",
     "level": "2.00...2.50",
     "comment": "sl2"
   },
@@ -708,20 +726,8 @@
     "comment": "sl2"
   },
   {
-    "md5": "c7a7a7a5dd1985f680783d6cad0e66a3",
-    "title": "Precious!!! [14key,Another]",
-    "level": "2.00...2.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "c2af423792c9067475fce7d4fa9c4436",
     "title": "Say A Vengeance [DP ANOTHER]",
-    "level": "2.00...2.50",
-    "comment": "sl1"
-  },
-  {
-    "md5": "3d91b783248f05141bcaaf6410ac860c",
-    "title": "Stargazer [EXTRA]",
     "level": "2.00...2.50",
     "comment": "sl1"
   },
@@ -744,20 +750,20 @@
     "comment": "sl2"
   },
   {
-    "md5": "c6a5d271001d48fcccecffd6b2f8ad5b",
-    "title": "ラケシスと永遠の祈祷者 [sub another]",
+    "md5": "3662c764b23ca91edf7df310537d5b03",
+    "title": "インフェルノシティ [DP Another]",
+    "level": "2.00...2.50",
+    "comment": "sl2"
+  },
+  {
+    "md5": "304a55cf280f9875efb248773dc42a0f",
+    "title": "ドキドキ☆夏休み直前スペシャル [DP ANOTHER]",
     "level": "2.00...2.50",
     "comment": "sl1"
   },
   {
     "md5": "7c31ece35a5b0839af9a31c9b2d7b961",
     "title": "#Za_illusory [DP-sagANOTHER]",
-    "level": "2.50...3.00",
-    "comment": "sl2"
-  },
-  {
-    "md5": "6357e029a3092291369717c4f7554849",
-    "title": "Azure Emotion [DP ANOTHER]",
     "level": "2.50...3.00",
     "comment": "sl2"
   },
@@ -932,12 +938,6 @@
   {
     "md5": "fde2c480967f93727ce4c8bc87b6759d",
     "title": "ふしぎなおくりもの [DPH]",
-    "level": "2.50...3.00",
-    "comment": "sl2"
-  },
-  {
-    "md5": "3662c764b23ca91edf7df310537d5b03",
-    "title": "インフェルノシティ [DP Another]",
     "level": "2.50...3.00",
     "comment": "sl2"
   },
@@ -2838,6 +2838,12 @@
     "comment": "sl9"
   },
   {
+    "md5": "a9d1c94124f0b6956fe2abb4a1c44c90",
+    "title": "Moon-gate [Waning]",
+    "level": "8.50...9.00",
+    "comment": "sl9"
+  },
+  {
     "md5": "5716fa9af418d60d552390de80cb0b3e",
     "title": "Nice Magicgirls VS scary Walpurgis [Insane14]",
     "level": "8.50...9.00",
@@ -2928,12 +2934,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "a9d1c94124f0b6956fe2abb4a1c44c90",
-    "title": "Moon-gate [Waning]",
-    "level": "9.00...9.50",
-    "comment": "sl9"
-  },
-  {
     "md5": "88c3f3fb8a5d2587fc78735155e33509",
     "title": "Parasitize Your Head [DP INSANE]",
     "level": "9.00...9.50",
@@ -2984,6 +2984,12 @@
   {
     "md5": "4a4fbf7e7c9a95a0b1dd34685331b9a3",
     "title": "Illusion of Mind [DP Another]",
+    "level": "9.50...10.00",
+    "comment": "sl10"
+  },
+  {
+    "md5": "581dfb81c885d9b7b6ea868bf3524a47",
+    "title": "Jack o' Lantern ≧w≦",
     "level": "9.50...10.00",
     "comment": "sl10"
   },
@@ -3074,12 +3080,6 @@
   {
     "md5": "61296a55d89ae86f957873df1cd011f1",
     "title": "IKAROS [DP Nymph]",
-    "level": "10.00...10.50",
-    "comment": "sl10"
-  },
-  {
-    "md5": "581dfb81c885d9b7b6ea868bf3524a47",
-    "title": "Jack o' Lantern ≧w≦",
     "level": "10.00...10.50",
     "comment": "sl10"
   },
