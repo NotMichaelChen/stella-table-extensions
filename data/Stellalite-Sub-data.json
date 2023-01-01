@@ -1713,6 +1713,19 @@
     "votePercent": 0
   },
   {
+    "md5": "047dc9964d43fc12bed0f818f01c6e73",
+    "sha256": "e07191a454461d6badceac969e999ba0556f480af2f2414cfd9eedd3f376ff91",
+    "title": "Jemdet [JemJAM]",
+    "artist": "SOMON obj:hecando",
+    "url_diff": "https://stellabms.xyz/upload/2130",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=280&event=140",
+    "level": "0",
+    "comment": "No_pattern基準ズレ抜けなし。",
+    "proposer": "Mary_Sue",
+    "submission": 2666,
+    "proposerLr2id": 147889
+  },
+  {
     "level": "0",
     "comment": "名曲良譜面",
     "md5": "1d9834fb66f9775aaecbffd36b4a171f",
@@ -3308,6 +3321,18 @@
     "proposerLr2id": 146726
   },
   {
+    "md5": "480154c946d89835fe37efc995894127",
+    "sha256": "6c43cb9fbf3b3e9cf531e05db217c0643c732e3ed60c110278cf7b1c50be8f7f",
+    "title": "Time to beat the odds [SP ANOTHER]",
+    "artist": "影虎。 BMS:Qayo BGA:yan / illust:Viosgit",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=198&event=140",
+    "level": "0",
+    "proposer": "桧尃遬",
+    "submission": 2662,
+    "proposerMinirid": "8102c922-ebdd-4d9b-8094-7be2e7f38acb"
+  },
+  {
     "md5": "8b0521f918724898e96e79fcc2ab448c",
     "sha256": "574597d13e0d99424f6030c9205298b78e9bfbc45460d1b3015a1caf62abac2d",
     "title": "Trane [SP ANOTHER]",
@@ -3505,6 +3530,19 @@
     "proposer": "bluemouse",
     "submission": 1806,
     "proposerMinirid": "38b6fd3c-5f86-4e87-aef8-3f9952471580"
+  },
+  {
+    "md5": "443b6682de1490599f0935586613b32e",
+    "sha256": "9a84d05ddc3f7ecd6085269439058c75d1205953715ba030d7d7d97b51efbf62",
+    "title": "Vital Sign [ICU]",
+    "artist": "Yusuke Takeuchi",
+    "url_diff": "https://bms.parksulab.xyz",
+    "url": "https://web.archive.org/web/20110906051956/http://www.commonsense.nu/songs/vital_sign.zip",
+    "level": "0",
+    "comment": "キー音追加・アレンジによるズレがいくつかあります。(_add_vital_sign_mihaiti.bmx基準ではズレ抜けなし）",
+    "proposer": "Mary_Sue",
+    "submission": 2665,
+    "proposerLr2id": 147889
   },
   {
     "md5": "596b027f2a75e9c05dfd53798d26e232",
@@ -6617,7 +6655,8 @@
     "level": "1",
     "comment": "低速ズレ乱打 / 後殺",
     "proposer": "DK",
-    "proposerLr2id": 46697
+    "proposerLr2id": 46697,
+    "submission": 1101
   },
   {
     "md5": "87090edb5ff8c32c20635f500db5d98c",
@@ -27500,7 +27539,8 @@
     "level": "8",
     "comment": "最後半 連打、低速、LN注意",
     "proposer": "Haze*",
-    "proposerLr2id": 112076
+    "proposerLr2id": 112076,
+    "submission": 1207
   },
   {
     "md5": "cea103a95debd51c88c4ce50fa672c16",
@@ -29274,6 +29314,19 @@
     "proposer": "Mallow♪",
     "submission": 2297,
     "proposerLr2id": 154796
+  },
+  {
+    "md5": "f162a877bcaffed5146a5a1a46a1d2d5",
+    "sha256": "d3440585a8318d2ed20f40936f5ffdd7c25a82eb48629a6462a7e321aa4fe522",
+    "title": "わーにんぴーぽー [Warning!]",
+    "artist": "nekomimi_STRaw / obj.rat",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=293&event=140",
+    "level": "9",
+    "comment": "わーにん",
+    "proposer": "七海",
+    "submission": 2664,
+    "proposerLr2id": 84597
   },
   {
     "md5": "04358a9776ed6fb81fe30eaa930e6eb7",
@@ -31977,6 +32030,19 @@
     "votePercent": 0
   },
   {
+    "md5": "51616f7b026c69c08f2b874d073b5f85",
+    "sha256": "5f27768c26a919a51fdc467aefe4f1bd7429f949d13eaeda6ae4ca3606704d02",
+    "title": "Cockroach Cooking [SP 10万回再生]",
+    "artist": "Yosk!",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=192&event=140",
+    "level": "11",
+    "comment": "11~12?",
+    "proposer": "七海",
+    "submission": 2663,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "404937351f39007a7a211e154feebadb",
     "sha256": "c74e85422c0e7691309a4c5188c5c4942e251299c62a843d440965de3112c7d9",
     "title": "cycedelica (7KEY-END)",
@@ -32699,7 +32765,8 @@
     "level": "11",
     "comment": "from Stella",
     "proposer": "LUXURY♪",
-    "proposerLr2id": 23110
+    "proposerLr2id": 23110,
+    "submission": 1131
   },
   {
     "md5": "87f4bdeda2791196264bdbb1a588e6b2",
@@ -34423,7 +34490,8 @@
     "level": "12",
     "comment": "from Stella",
     "proposer": "LUXURY♪",
-    "proposerLr2id": 23110
+    "proposerLr2id": 23110,
+    "submission": 630
   },
   {
     "md5": "1bc3c15a4c40d87dbffa8be429140478",
@@ -37367,6 +37435,7 @@
     "level": "13",
     "comment": "up0685",
     "proposer": "LUXURY♪",
+    "submission": 359,
     "proposerLr2id": 23110
   },
   {
@@ -38368,6 +38437,19 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "b005c8b58c23dacee95b9b4a6fea6e26",
+    "sha256": "e6c8f42c50a327634c878c0e40fec266f9d4949c600d7db0af0bb02461672207",
+    "title": "Rottfill [7K R-SHOCK]",
+    "artist": "NIKANON / obj. Mary_Sue",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=140",
+    "level": "13",
+    "comment": "0~1?",
+    "proposer": "七海",
+    "submission": 1996,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "7eedbaf6cd676513de0b0d3575da3fac",
     "sha256": "ac4d3576313f43e9efaf5cd4b2f26625947c5e1d090c07bdc69bec9c132c002e",
     "title": "SERIOUS ERROR [#DIV/0!]",
@@ -38390,7 +38472,8 @@
     "level": "13",
     "comment": "are you banana?",
     "proposer": "七海",
-    "proposerLr2id": 84597
+    "proposerLr2id": 84597,
+    "submission": 552
   },
   {
     "md5": "ece21e503c88708c4ac0d99b19aa30a1",
@@ -40114,7 +40197,8 @@
     "level": "14",
     "comment": "地力,Abyss-",
     "proposer": "LUXURY♪",
-    "proposerLr2id": 23110
+    "proposerLr2id": 23110,
+    "submission": 383
   },
   {
     "md5": "94c934c04e2c8f842da4b761220d776a",
@@ -42776,7 +42860,8 @@
     "level": "14",
     "comment": "高速トリル、ずれ、発狂",
     "proposer": "Mary_Sue",
-    "proposerLr2id": 147889
+    "proposerLr2id": 147889,
+    "submission": 1223
   },
   {
     "md5": "96a9c4d3238d82b057cefb31c564fc7f",
@@ -42919,7 +43004,8 @@
     "level": "14",
     "comment": "物量",
     "proposer": "LUXURY♪",
-    "proposerLr2id": 23110
+    "proposerLr2id": 23110,
+    "submission": 502
   },
   {
     "md5": "d4b83bba2acba96689fab73253bca103",
@@ -43465,7 +43551,8 @@
     "level": "14",
     "comment": "つみきちゃんかわいい",
     "proposer": "MEES-♬",
-    "proposerLr2id": 39693
+    "proposerLr2id": 39693,
+    "submission": 598
   },
   {
     "title": "心壊のアガルマトフィリア [despair]",
@@ -43520,7 +43607,8 @@
     "level": "14",
     "comment": "A little forgotten chart",
     "proposer": "Skalim",
-    "proposerLr2id": 69073
+    "proposerLr2id": 69073,
+    "submission": 923
   },
   {
     "md5": "84e1db1ff8c5d2cd1e4543cc811866fa",
@@ -46919,7 +47007,8 @@
     "url": "http://1drv.ms/1FHRtpc",
     "level": "15",
     "proposer": "qtp13",
-    "proposerLr2id": 86559
+    "proposerLr2id": 86559,
+    "submission": 331
   },
   {
     "md5": "1278a7f680f3438cf5c753a5637e6e7b",
@@ -47199,7 +47288,8 @@
     "level": "15",
     "comment": "st2~3? ディレイ",
     "proposer": "七海",
-    "proposerLr2id": 84597
+    "proposerLr2id": 84597,
+    "submission": 1084
   },
   {
     "md5": "6d414db9614a750bbb097c2f8661723e",
@@ -48948,7 +49038,8 @@
     "level": "16",
     "comment": "NORMAL判定、ラストが難しい",
     "proposer": "七海",
-    "proposerLr2id": 84597
+    "proposerLr2id": 84597,
+    "submission": 1042
   },
   {
     "md5": "718c41af9ff148a9833489cedd1d43dd",
@@ -49476,7 +49567,8 @@
     "level": "16",
     "comment": "細かい発狂",
     "proposer": "Masa",
-    "proposerLr2id": 106155
+    "proposerLr2id": 106155,
+    "submission": 203
   },
   {
     "md5": "61ab1f8adbe61611895954855a3f78a3",
@@ -52818,7 +52910,8 @@
     "level": "17",
     "comment": "DELAY",
     "proposer": "LUXURY♪",
-    "proposerLr2id": 23110
+    "proposerLr2id": 23110,
+    "submission": 723
   },
   {
     "md5": "59ee16a8325b5fc5978f1e465b76d844",
@@ -52939,7 +53032,8 @@
     "level": "17",
     "comment": "原曲を後半のみカット、微連打、物量",
     "proposer": "七海",
-    "proposerLr2id": 84597
+    "proposerLr2id": 84597,
+    "submission": 368
   },
   {
     "level": "17",
@@ -55949,7 +56043,8 @@
     "level": "18",
     "comment": "物量-乱打",
     "proposer": "はしたかさん",
-    "proposerLr2id": 120169
+    "proposerLr2id": 120169,
+    "submission": 1720
   },
   {
     "md5": "55608d3ca34e95dfebbe874babe0c536",
@@ -56544,7 +56639,7 @@
     "level": "18",
     "comment": "後半部にdrrキー音が追加されている。",
     "proposer": "오수출신고수",
-    "submission": 1210,
+    "submission": 181,
     "proposerLr2id": 73333
   },
   {
@@ -56645,6 +56740,19 @@
     "proposer": "氷城つるぎ",
     "submission": 1092,
     "proposerLr2id": 151185
+  },
+  {
+    "md5": "daf577f25dbc5e27d52e8f134ae3ed4d",
+    "sha256": "9f0e6ce3fa7060175181943c669df5a7896563ec036440e1eb9e6b42c5def9f5",
+    "title": "Twin☆kle Snowglobe [SP INSANE]",
+    "artist": "翡乃イスカ × otoshi.b Illust:TOYCAT obj:BAECON",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=444&event=140",
+    "level": "18",
+    "comment": "BPM185 乱打 ディレイ 微縦",
+    "proposer": "mukyu--",
+    "submission": 1995,
+    "proposerLr2id": 71314
   },
   {
     "md5": "1e363649c9762aa94c4b7f4a6eb92302",
@@ -58508,7 +58616,8 @@
     "level": "19",
     "comment": "00610",
     "proposer": "LUXURY♪",
-    "proposerLr2id": 23110
+    "proposerLr2id": 23110,
+    "submission": 98
   },
   {
     "md5": "b9450a30141bb6669f289147d6f003aa",
@@ -59328,7 +59437,8 @@
     "level": "20",
     "comment": "Will I go to the heaven...?",
     "proposer": "qtp13",
-    "proposerLr2id": 86559
+    "proposerLr2id": 86559,
+    "submission": 914
   },
   {
     "md5": "4734dfe0cc9a169269dda03c6f8f11e5",
@@ -59812,7 +59922,8 @@
     "level": "20",
     "comment": "ズレガチ押し・ディレイ・だんだん難しくなる",
     "proposer": "otoshi.b",
-    "proposerLr2id": 87474
+    "proposerLr2id": 87474,
+    "submission": 483
   },
   {
     "md5": "3bbc99a15d6b60533e512134b5ade036",
@@ -59824,7 +59935,8 @@
     "level": "20",
     "comment": "皆伝が 倒 せ な い",
     "proposer": "LUXURY♪",
-    "proposerLr2id": 23110
+    "proposerLr2id": 23110,
+    "submission": 29
   },
   {
     "md5": "bbfb7717ccb42799b8d78bbab877d292",
@@ -60294,7 +60406,8 @@
     "level": "20",
     "comment": "might be fun, might be not (high total)",
     "proposer": "qtp13",
-    "proposerLr2id": 86559
+    "proposerLr2id": 86559,
+    "submission": 1471
   },
   {
     "md5": "e2f21245d0f3e96a7de51b1766d33959",
@@ -60409,7 +60522,8 @@
     "level": "21",
     "comment": "???????",
     "proposer": "MEES-♬",
-    "proposerLr2id": 39693
+    "proposerLr2id": 39693,
+    "submission": 859
   },
   {
     "title": "AIWS [Other]",
@@ -61269,7 +61383,8 @@
     "level": "21",
     "comment": "ディレイ",
     "proposer": "MEES-♬",
-    "proposerLr2id": 39693
+    "proposerLr2id": 39693,
+    "submission": 464
   },
   {
     "title": "Trinity [Heaven]",
@@ -61352,7 +61467,8 @@
     "level": "21",
     "comment": "kachifushi",
     "proposer": "LUXURY♪",
-    "proposerLr2id": 23110
+    "proposerLr2id": 23110,
+    "submission": 550
   },
   {
     "md5": "7ebfc565cc63f70e25ce4ab8eb054c00",
@@ -61449,7 +61565,8 @@
     "level": "21",
     "comment": "総合難　同梱譜面",
     "proposer": "APRICOT",
-    "proposerLr2id": 109350
+    "proposerLr2id": 109350,
+    "submission": 116
   },
   {
     "title": "ヒメタイプ -Finale-",
@@ -61601,7 +61718,8 @@
     "level": "21",
     "comment": "BPM224のゴチャゴチャ系 同梱譜面",
     "proposer": "kai",
-    "proposerLr2id": 9235
+    "proposerLr2id": 9235,
+    "submission": 1418
   },
   {
     "title": "超おにコア",
@@ -61751,7 +61869,8 @@
     "level": "22",
     "comment": "THE END",
     "proposer": "LUXURY♪",
-    "proposerLr2id": 23110
+    "proposerLr2id": 23110,
+    "submission": 399
   },
   {
     "md5": "02580b5c353eac65db38470fee32bd4f",
@@ -61904,7 +62023,8 @@
     "level": "22",
     "comment": "FDFD強 9上位か10下位か微妙かも",
     "proposer": "sepe",
-    "proposerLr2id": 101193
+    "proposerLr2id": 101193,
+    "submission": 266
   },
   {
     "level": "22",
@@ -62285,7 +62405,8 @@
     "level": "22",
     "comment": "ディレイ4U",
     "proposer": "MEES-♬",
-    "proposerLr2id": 39693
+    "proposerLr2id": 39693,
+    "submission": 1231
   },
   {
     "md5": "4920e601bc093e6bc627babb06763cc6",
@@ -62491,7 +62612,8 @@
     "level": "22",
     "comment": "lolicore 真ん中に超発狂降ってきて最後回復できる奴",
     "proposer": "onmaco",
-    "proposerLr2id": 47467
+    "proposerLr2id": 47467,
+    "submission": 429
   },
   {
     "title": "キミとボクへの葬送歌 [Absolutely kill]",
@@ -62612,7 +62734,8 @@
     "level": "22",
     "comment": "ラス殺し、ディレイ",
     "proposer": "Razuurene",
-    "proposerLr2id": 121666
+    "proposerLr2id": 121666,
+    "submission": 1026
   },
   {
     "md5": "d0d976b650b4b0586cbb2b2d38dbb922",
@@ -63586,7 +63709,8 @@
     "url": "http://nekonotsuka.com/?page_id=14",
     "level": "24",
     "proposer": "♪♪",
-    "proposerLr2id": 7290
+    "proposerLr2id": 7290,
+    "submission": 766
   },
   {
     "level": "24",
