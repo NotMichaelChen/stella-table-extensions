@@ -1,19 +1,13 @@
 [
   {
-    "md5": "c80f82c866039e7f563ad6e2020e4980",
-    "title": "Anger Control [14KEYS]",
-    "level": "-0.50...0.00",
-    "comment": "sl0"
-  },
-  {
     "md5": "2f73d7199984227a5565ac5da184b3ab",
     "title": "ALICE IN PICOPICO NIGHT (DP HYPER)",
     "level": "0.00...0.50",
     "comment": "sl0"
   },
   {
-    "md5": "5589dc6b48dfa1d345b8ff06457f51dd",
-    "title": "endemize [E-ANOTHER]",
+    "md5": "c80f82c866039e7f563ad6e2020e4980",
+    "title": "Anger Control [14KEYS]",
     "level": "0.00...0.50",
     "comment": "sl0"
   },
@@ -60,20 +54,14 @@
     "comment": "sl0"
   },
   {
-    "md5": "80aa05db73ca35739b93df3f46afc440",
-    "title": "Regain [DP HYPER]",
+    "md5": "f41a990d8137150f510e74468d9f2244",
+    "title": "resonance [DP Another]",
     "level": "0.00...0.50",
     "comment": "sl0"
   },
   {
     "md5": "030056b702515b5f64d6b557513293a0",
     "title": "Summer White [DP ANOTHER]",
-    "level": "0.00...0.50",
-    "comment": "sl0"
-  },
-  {
-    "md5": "72a47cbc96d28f623d821641ee913bf5",
-    "title": "エリフィと白昏の夜",
     "level": "0.00...0.50",
     "comment": "sl0"
   },
@@ -92,6 +80,12 @@
   {
     "md5": "5734e3760fa0f8e5925829d07b639af9",
     "title": "Acacia [DP ANOTHER]",
+    "level": "0.50...1.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "ce58d3735220aaaff7183eb44e5b1f6b",
+    "title": "Amnehilesie [DP Hyper]",
     "level": "0.50...1.00",
     "comment": "sl0"
   },
@@ -134,6 +128,12 @@
   {
     "md5": "d65aa7b67d31d9b20a87b47c92d02058",
     "title": "Encrux [DP]",
+    "level": "0.50...1.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "5589dc6b48dfa1d345b8ff06457f51dd",
+    "title": "endemize [E-ANOTHER]",
     "level": "0.50...1.00",
     "comment": "sl0"
   },
@@ -240,8 +240,8 @@
     "comment": "sl0"
   },
   {
-    "md5": "f41a990d8137150f510e74468d9f2244",
-    "title": "resonance [DP Another]",
+    "md5": "80aa05db73ca35739b93df3f46afc440",
+    "title": "Regain [DP HYPER]",
     "level": "0.50...1.00",
     "comment": "sl0"
   },
@@ -272,6 +272,12 @@
   {
     "md5": "abd68c1b5f68fd2604e0231db13d7a03",
     "title": "Where To Feel [A14]",
+    "level": "0.50...1.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "72a47cbc96d28f623d821641ee913bf5",
+    "title": "エリフィと白昏の夜",
     "level": "0.50...1.00",
     "comment": "sl0"
   },
@@ -330,12 +336,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "ce58d3735220aaaff7183eb44e5b1f6b",
-    "title": "Amnehilesie [DP Hyper]",
-    "level": "1.00...1.50",
-    "comment": "sl0"
-  },
-  {
     "md5": "e19cc99225c0ad52cba5c5a7c3a2b76f",
     "title": "Battle TechniX [DP ANOTHER]",
     "level": "1.00...1.50",
@@ -378,6 +378,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "f63b86f6bbf6c3105d579d9b4324a351",
+    "title": "Hot Jupiter",
+    "level": "1.00...1.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "171abdcb2d11ec19a911b541313f7eb7",
     "title": "Larix (BMS Edit) [DP ANOTHER]",
     "level": "1.00...1.50",
@@ -398,18 +404,6 @@
   {
     "md5": "24b84a5f70b67bb54b4da39bcead1e56",
     "title": "Orbitaloid [DP ANOTHER]",
-    "level": "1.00...1.50",
-    "comment": "sl1"
-  },
-  {
-    "md5": "b23ba65f405ebfea72637abfe90e981e",
-    "title": "Resolution Trigger [DP INSANE]",
-    "level": "1.00...1.50",
-    "comment": "sl1"
-  },
-  {
-    "md5": "5b6413abb8ab8b5dc428e9716f531331",
-    "title": "Sleet in the city [DP ANOTHER]",
     "level": "1.00...1.50",
     "comment": "sl1"
   },
@@ -504,12 +498,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "f63b86f6bbf6c3105d579d9b4324a351",
-    "title": "Hot Jupiter",
-    "level": "1.50...2.00",
-    "comment": "sl1"
-  },
-  {
     "md5": "51480d58ea703c56178cbf4aa1818ab2",
     "title": "introspect [DP Another]",
     "level": "1.50...2.00",
@@ -564,6 +552,18 @@
     "comment": "sl1"
   },
   {
+    "md5": "b23ba65f405ebfea72637abfe90e981e",
+    "title": "Resolution Trigger [DP INSANE]",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
+    "md5": "5b6413abb8ab8b5dc428e9716f531331",
+    "title": "Sleet in the city [DP ANOTHER]",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "ce8c05ca35de4b2816e34e34757eac44",
     "title": "soda ocean",
     "level": "1.50...2.00",
@@ -574,6 +574,12 @@
     "title": "Stargazer [EXTRA]",
     "level": "1.50...2.00",
     "comment": "sl1"
+  },
+  {
+    "md5": "2482ac7cf9fa98806ed15e0a1643eb4c",
+    "title": "Teleportation [Another14]",
+    "level": "1.50...2.00",
+    "comment": "sl2"
   },
   {
     "md5": "0f02f3d09fa7218c97d49358b50539e7",
@@ -630,12 +636,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "8b48716b42215c5f7686cf1c5be4f99a",
-    "title": "舞姫 ～buki～　 [ANOTHER]",
-    "level": "1.50...2.00",
-    "comment": "sl2"
-  },
-  {
     "md5": "bc9f6970a45fa7fdefd7c2265b132651",
     "title": "黄昏のメロディア [DP ANOTHER]",
     "level": "1.50...2.00",
@@ -690,12 +690,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "197f79072827b1c0c329edbe85fee7cd",
-    "title": "H.S : Hadron Strike [DP1104H]",
-    "level": "2.00...2.50",
-    "comment": "sl2"
-  },
-  {
     "md5": "1846c9f8536ece051e4471ce365aa5fb",
     "title": "HEXPERUS [DP ANOTHER]",
     "level": "2.00...2.50",
@@ -732,8 +726,14 @@
     "comment": "sl1"
   },
   {
-    "md5": "2482ac7cf9fa98806ed15e0a1643eb4c",
-    "title": "Teleportation [Another14]",
+    "md5": "6ec13a59a0f84b46799fe459363a2737",
+    "title": "Soul of Deep-sea Fish [A14]",
+    "level": "2.00...2.50",
+    "comment": "sl2"
+  },
+  {
+    "md5": "25da20674b6cdacd770bf3c4dfafbd25",
+    "title": "STAGER [DP-sagANOTHER]",
     "level": "2.00...2.50",
     "comment": "sl2"
   },
@@ -760,6 +760,12 @@
     "title": "ドキドキ☆夏休み直前スペシャル [DP ANOTHER]",
     "level": "2.00...2.50",
     "comment": "sl1"
+  },
+  {
+    "md5": "8b48716b42215c5f7686cf1c5be4f99a",
+    "title": "舞姫 ～buki～　 [ANOTHER]",
+    "level": "2.00...2.50",
+    "comment": "sl2"
   },
   {
     "md5": "7c31ece35a5b0839af9a31c9b2d7b961",
@@ -834,6 +840,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "197f79072827b1c0c329edbe85fee7cd",
+    "title": "H.S : Hadron Strike [DP1104H]",
+    "level": "2.50...3.00",
+    "comment": "sl2"
+  },
+  {
     "md5": "2a4637a353bcd5d35b1ecfbbccefb383",
     "title": "High-Priestess [SLAUGHER]",
     "level": "2.50...3.00",
@@ -878,18 +890,6 @@
   {
     "md5": "9c5cf59e831eb9fdf7efae0e7613547d",
     "title": "Sky Ride -dpa-",
-    "level": "2.50...3.00",
-    "comment": "sl2"
-  },
-  {
-    "md5": "6ec13a59a0f84b46799fe459363a2737",
-    "title": "Soul of Deep-sea Fish [A14]",
-    "level": "2.50...3.00",
-    "comment": "sl2"
-  },
-  {
-    "md5": "25da20674b6cdacd770bf3c4dfafbd25",
-    "title": "STAGER [DP-sagANOTHER]",
     "level": "2.50...3.00",
     "comment": "sl2"
   },
@@ -954,12 +954,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "7b00521bff9a8275d02b71a4f2a5086a",
-    "title": "Caelumize [MG]",
-    "level": "3.00...3.50",
-    "comment": "sl3"
-  },
-  {
     "md5": "49c7d8aa17853816883a710abc557fd0",
     "title": "Elina (feat. Reislaufer) [DP UDong Mix]",
     "level": "3.00...3.50",
@@ -1020,6 +1014,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "75c837f639a0d5cc70a378c0c0b7c6ec",
+    "title": "Sweety Sweety Sweet feat. Ryunka [DP Another]",
+    "level": "3.00...3.50",
+    "comment": "sl3"
+  },
+  {
     "md5": "bf3b35fd1f6361818a635d2130a31e69",
     "title": "夢、幻。 [DP ANOTHER]",
     "level": "3.00...3.50",
@@ -1052,6 +1052,12 @@
   {
     "md5": "1542e4cd8301369334457d3c6f4960bd",
     "title": "Blacksphere [DP Noise mix]",
+    "level": "3.50...4.00",
+    "comment": "sl3"
+  },
+  {
+    "md5": "7b00521bff9a8275d02b71a4f2a5086a",
+    "title": "Caelumize [MG]",
     "level": "3.50...4.00",
     "comment": "sl3"
   },
@@ -1164,12 +1170,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "75c837f639a0d5cc70a378c0c0b7c6ec",
-    "title": "Sweety Sweety Sweet feat. Ryunka [DP Another]",
-    "level": "3.50...4.00",
-    "comment": "sl3"
-  },
-  {
     "md5": "4988380f70fe9c0d1a0197e8e5ef9643",
     "title": "The Green Light [14KEYS INSANE]",
     "level": "3.50...4.00",
@@ -1208,12 +1208,6 @@
   {
     "md5": "22bf61d1f427eefe76ef02a3ba90ab81",
     "title": "ネコイチ(Lemon beads Remix) -BMS edit- [DP-sagANOTHER]",
-    "level": "3.50...4.00",
-    "comment": "sl4"
-  },
-  {
-    "md5": "cc93bbd824c93d07cab5b085bceb8bad",
-    "title": "フラッフィー・フォアキャスト [14key Another]",
     "level": "3.50...4.00",
     "comment": "sl4"
   },
@@ -1288,12 +1282,6 @@
     "title": "Altostratus",
     "level": "4.00...4.50",
     "comment": "sl3"
-  },
-  {
-    "md5": "f373a2c55f04298fc77b7f397458a753",
-    "title": "B.B.K.K.B.K.K. -DP Busy-",
-    "level": "4.00...4.50",
-    "comment": "sl4"
   },
   {
     "md5": "23f0c411fc26c1e8aa82f3e5dda90dbe",
@@ -1374,6 +1362,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "b770fb13db6e5ce43f9ad78a3460908c",
+    "title": "METATRON [MG]",
+    "level": "4.00...4.50",
+    "comment": "sl5"
+  },
+  {
     "md5": "b2d8e66f68e22dfa5d7b41bbb17d22a1",
     "title": "Prayer [LEGGENDARIA]",
     "level": "4.00...4.50",
@@ -1452,6 +1446,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "cc93bbd824c93d07cab5b085bceb8bad",
+    "title": "フラッフィー・フォアキャスト [14key Another]",
+    "level": "4.00...4.50",
+    "comment": "sl4"
+  },
+  {
     "md5": "347e728cf787c9eddcb2986abe6c028e",
     "title": "月時計　Last・Dial (DPA)",
     "level": "4.00...4.50",
@@ -1500,6 +1500,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "f373a2c55f04298fc77b7f397458a753",
+    "title": "B.B.K.K.B.K.K. -DP Busy-",
+    "level": "4.50...5.00",
+    "comment": "sl4"
+  },
+  {
     "md5": "76fd4bd3f9937e3880739fa116c7dcae",
     "title": "Brandnew Mind [14A]",
     "level": "4.50...5.00",
@@ -1542,12 +1548,6 @@
     "comment": "sl4"
   },
   {
-    "md5": "b770fb13db6e5ce43f9ad78a3460908c",
-    "title": "METATRON [MG]",
-    "level": "4.50...5.00",
-    "comment": "sl5"
-  },
-  {
     "md5": "7413baf27804bd657cb0e8aea502ba7c",
     "title": "Midnight o'clock [sub another]",
     "level": "4.50...5.00",
@@ -1588,6 +1588,12 @@
     "title": "SCARY BANQUET [DP ANOTHER]",
     "level": "4.50...5.00",
     "comment": "sl4"
+  },
+  {
+    "md5": "34687333636caf3ef26d5450bd1efae6",
+    "title": "Simurgh [DP ANOTHER]",
+    "level": "4.50...5.00",
+    "comment": "sl5"
   },
   {
     "md5": "b041534da1958a77fd427b6954f1b410",
@@ -1734,12 +1740,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "34687333636caf3ef26d5450bd1efae6",
-    "title": "Simurgh [DP ANOTHER]",
-    "level": "5.00...5.50",
-    "comment": "sl5"
-  },
-  {
     "md5": "a834afeda75511a304fd9584a86e4602",
     "title": "squartatrice -dpa-",
     "level": "5.00...5.50",
@@ -1838,12 +1838,6 @@
   {
     "md5": "11c50f76c098e858c2b61e04db177ecc",
     "title": "DESPERATE [DP ANOTHER]",
-    "level": "5.50...6.00",
-    "comment": "sl6"
-  },
-  {
-    "md5": "ba7157e746a5ce67473fd39b52b491da",
-    "title": "Disaster -14A-",
     "level": "5.50...6.00",
     "comment": "sl6"
   },
@@ -1976,6 +1970,12 @@
   {
     "md5": "ba42bf286f04905a967a4007c39eecd8",
     "title": "cold world [DP ANOTHER]",
+    "level": "6.00...6.50",
+    "comment": "sl6"
+  },
+  {
+    "md5": "ba7157e746a5ce67473fd39b52b491da",
+    "title": "Disaster -14A-",
     "level": "6.00...6.50",
     "comment": "sl6"
   },
@@ -3018,6 +3018,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "7cdf0e379373303886ae2240879699a2",
+    "title": "ふしぎなおくりもの [DPA]",
+    "level": "9.50...10.00",
+    "comment": "sl10"
+  },
+  {
     "md5": "d6ddb4b5816cf8a140e513927fb94b95",
     "title": "フロンティア↑↑エクスプローラー [nyamDPA]",
     "level": "9.50...10.00",
@@ -3114,12 +3120,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "7cdf0e379373303886ae2240879699a2",
-    "title": "ふしぎなおくりもの [DPA]",
-    "level": "10.00...10.50",
-    "comment": "sl10"
-  },
-  {
     "md5": "470c74d414f15d5f2ae9b4c3f65ca787",
     "title": "トココ21 ⊂㌍㌢⊃",
     "level": "10.00...10.50",
@@ -3186,6 +3186,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "59bee181c697177bc186fdde396c0cc9",
+    "title": "タマモッチ -ダイエット-",
+    "level": "10.50...11.00",
+    "comment": "sl12"
+  },
+  {
     "md5": "584450308e2b02b3a71a3979c16cdb4f",
     "title": "プナイプナイげんそう [DP ☆NOTHER ~ 無限の彼方までおやすみプナイ ~]",
     "level": "10.50...11.00",
@@ -3232,12 +3238,6 @@
     "title": "STAGER [ONE MORE EXTRA]",
     "level": "11.00...11.50",
     "comment": "sl11"
-  },
-  {
-    "md5": "59bee181c697177bc186fdde396c0cc9",
-    "title": "タマモッチ -ダイエット-",
-    "level": "11.00...11.50",
-    "comment": "sl12"
   },
   {
     "md5": "5319fd58fbb103bd6b6fadfc8aaafa0d",
