@@ -216,12 +216,6 @@
     "comment": "st0"
   },
   {
-    "md5": "e167ad43d9c1cfc7f322590f8af1955c",
-    "title": "KIRBY-CHAN'D CANYON [SUPER STAR]",
-    "level": "5.00...5.50",
-    "comment": "st0"
-  },
-  {
     "md5": "3446b35b6a81083d79665abffb0f0a79",
     "title": "KRAKEN -Poseidon-",
     "level": "5.00...5.50",
@@ -2172,6 +2166,12 @@
     "comment": "st1"
   },
   {
+    "md5": "d54adbb688c55cef07571c29de98c6ce",
+    "title": "\"Fishpot\"",
+    "level": "-",
+    "comment": "st9"
+  },
+  {
     "md5": "bb353d5079ada6a9d0e9a90964a11ee0",
     "title": "#be_fortunate [unfortunate]",
     "level": "-",
@@ -2798,12 +2798,6 @@
   {
     "md5": "5a3f37c7a2ca6e8445d74a30420e3297",
     "title": "BRAIN HACKER [IMMORTAL]",
-    "level": "-",
-    "comment": "st1"
-  },
-  {
-    "md5": "c16806baa62156c5819a029d5bd69fcb",
-    "title": "Break Through The Barrier [LIMITLESS]",
     "level": "-",
     "comment": "st1"
   },
@@ -5109,7 +5103,7 @@
     "md5": "6c09438da4eddf4b17ef0bb1a781d4ad",
     "title": "Orbitaloid [Milkyway]",
     "level": "-",
-    "comment": "st5"
+    "comment": "st6"
   },
   {
     "md5": "8d53c01af779f3f237f5e1b243f8d4d7",
@@ -7191,7 +7185,7 @@
     "md5": "acfcae3ce064e20e13883f70c8cc47cf",
     "title": "ミライのオト [SP FUTURE]",
     "level": "-",
-    "comment": "st2"
+    "comment": "st1"
   },
   {
     "md5": "3ed6b472ccab01db2a23bbfe6b1ae190",

@@ -1686,12 +1686,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "07584f43a50e661ac3f8c1319d68e3d7",
-    "title": "twinkle white* [snow memory]",
-    "level": "0.00...0.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "a69797e5735be285a032d519788f2424",
     "title": "Valedict",
     "level": "0.00...0.50",
@@ -1950,12 +1944,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "510a26c813c41de416268278d1a1adfe",
-    "title": "Elixir [BITTER7]",
-    "level": "0.50...1.00",
-    "comment": "sl2"
-  },
-  {
     "md5": "23de949aa3a025f62e2c78216ef98e1c",
     "title": "Elnath [Memory]",
     "level": "0.50...1.00",
@@ -2018,12 +2006,6 @@
   {
     "md5": "6dd9bc5c6c7f506cb2a8a4705c42e334",
     "title": "Meaning of Existence [niche]",
-    "level": "0.50...1.00",
-    "comment": "sl2"
-  },
-  {
-    "md5": "010492dbce773e39992651ce11a146d5",
-    "title": "mom [insane]",
     "level": "0.50...1.00",
     "comment": "sl2"
   },
@@ -2106,6 +2088,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "07584f43a50e661ac3f8c1319d68e3d7",
+    "title": "twinkle white* [snow memory]",
+    "level": "0.50...1.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "dffc4992285e5d5022952dd62e4236c0",
     "title": "Unidentified New Emotion -7Keys Another-",
     "level": "0.50...1.00",
@@ -2156,12 +2144,6 @@
   {
     "md5": "63c4789599805bd446e3fdeb397658fc",
     "title": "スナレ [Medium Size]",
-    "level": "0.50...1.00",
-    "comment": "sl2"
-  },
-  {
-    "md5": "b41a7bbe0b6e15540739fb9573e24fb3",
-    "title": "ネコノテ・カリタガール [Virtual]",
     "level": "0.50...1.00",
     "comment": "sl2"
   },
@@ -2318,6 +2300,12 @@
   {
     "md5": "1c3cb845983b4be58c3f05cfd941fc0a",
     "title": "ELECTRiCiTY [7_another]",
+    "level": "1.00...1.50",
+    "comment": "sl2"
+  },
+  {
+    "md5": "510a26c813c41de416268278d1a1adfe",
+    "title": "Elixir [BITTER7]",
     "level": "1.00...1.50",
     "comment": "sl2"
   },
@@ -2516,6 +2504,12 @@
   {
     "md5": "03180c94e63bfd223a50366bb58051f2",
     "title": "MIMAKARU [SP ANOTHER]",
+    "level": "1.00...1.50",
+    "comment": "sl2"
+  },
+  {
+    "md5": "010492dbce773e39992651ce11a146d5",
+    "title": "mom [insane]",
     "level": "1.00...1.50",
     "comment": "sl2"
   },
@@ -2766,6 +2760,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "b41a7bbe0b6e15540739fb9573e24fb3",
+    "title": "ネコノテ・カリタガール [Virtual]",
+    "level": "1.00...1.50",
+    "comment": "sl2"
+  },
+  {
     "md5": "df9cca9b79c4e1e016238731ad516328",
     "title": "パステルプラネット [ZOI]",
     "level": "1.00...1.50",
@@ -2940,12 +2940,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "30328d88399777767bdd19ce5d11bac9",
-    "title": "Call Me Murasa [Lunatic]",
-    "level": "1.50...2.00",
-    "comment": "sl3"
-  },
-  {
     "md5": "198c2df7b246b1795f6de14a101463d1",
     "title": "Castor(BMS edit) [QuintetStar]",
     "level": "1.50...2.00",
@@ -3092,6 +3086,12 @@
   {
     "md5": "f3b5d6531dbeeb57329dde6beb620d1c",
     "title": "Lilith ambivalence lovers [ANOTHER+]",
+    "level": "1.50...2.00",
+    "comment": "sl3"
+  },
+  {
+    "md5": "edf3b5d7f64ea23cf04f70443632b782",
+    "title": "Luca [ABNORMAL]",
     "level": "1.50...2.00",
     "comment": "sl3"
   },
@@ -3534,6 +3534,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "30328d88399777767bdd19ce5d11bac9",
+    "title": "Call Me Murasa [Lunatic]",
+    "level": "2.00...2.50",
+    "comment": "sl3"
+  },
+  {
     "md5": "c26bae73f146ea538b8a52966e68c36a",
     "title": "Chinese Tea -Re:O2ther-",
     "level": "2.00...2.50",
@@ -3542,6 +3548,12 @@
   {
     "md5": "eec9756065dc22ea19310758a1559c9c",
     "title": "Coda [★]",
+    "level": "2.00...2.50",
+    "comment": "sl4"
+  },
+  {
+    "md5": "7c71a716ac4059867275b7bd721b4a0b",
+    "title": "Cosmo Memory [sLunatic]",
     "level": "2.00...2.50",
     "comment": "sl4"
   },
@@ -3556,6 +3568,12 @@
     "title": "Disorder -ANOTHER-",
     "level": "2.00...2.50",
     "comment": "sl3"
+  },
+  {
+    "md5": "2bde44b71cb7fb75c267397da7838b3d",
+    "title": "Dystopia High [ZOI]",
+    "level": "2.00...2.50",
+    "comment": "sl4"
   },
   {
     "md5": "5a7f422b05a7867ccdd47f10ebe31907",
@@ -3626,12 +3644,6 @@
   {
     "md5": "bb51e06228e7279b47120b9a5c527421",
     "title": "Love☆Spellcard [ZOI]",
-    "level": "2.00...2.50",
-    "comment": "sl3"
-  },
-  {
-    "md5": "edf3b5d7f64ea23cf04f70443632b782",
-    "title": "Luca [ABNORMAL]",
     "level": "2.00...2.50",
     "comment": "sl3"
   },
@@ -3918,12 +3930,6 @@
     "comment": "sl4"
   },
   {
-    "md5": "7c71a716ac4059867275b7bd721b4a0b",
-    "title": "Cosmo Memory [sLunatic]",
-    "level": "2.50...3.00",
-    "comment": "sl4"
-  },
-  {
     "md5": "12e0c7293d57dbbdad503f48bbfb5fea",
     "title": "deg w∧v chu doc [W]",
     "level": "2.50...3.00",
@@ -3962,12 +3968,6 @@
   {
     "md5": "e5e812b03f7a723a1f511f6be5eb9059",
     "title": "Dstorv [Another+]",
-    "level": "2.50...3.00",
-    "comment": "sl4"
-  },
-  {
-    "md5": "2bde44b71cb7fb75c267397da7838b3d",
-    "title": "Dystopia High [ZOI]",
     "level": "2.50...3.00",
     "comment": "sl4"
   },
@@ -4336,6 +4336,12 @@
     "title": "＊CinnamoN＊",
     "level": "2.50...3.00",
     "comment": "sl4"
+  },
+  {
+    "md5": "906ea3be1e23273830fe5a1405200e52",
+    "title": "8bit Adventurer",
+    "level": "3.00...3.50",
+    "comment": "sl5"
   },
   {
     "md5": "cb0df340f38adb86fbb2e20648d11045",
@@ -4812,12 +4818,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "906ea3be1e23273830fe5a1405200e52",
-    "title": "8bit Adventurer",
-    "level": "3.50...4.00",
-    "comment": "sl5"
-  },
-  {
     "md5": "65fa688141dd67732864f9c19fdeb6e9",
     "title": "al fine [INSANE]",
     "level": "3.50...4.00",
@@ -5100,12 +5100,6 @@
     "comment": "sl6"
   },
   {
-    "md5": "22850b3b023918b76b9eb2a7c7172a1f",
-    "title": "浮世絵横丁 -凱風快晴-",
-    "level": "3.50...4.00",
-    "comment": "sl6"
-  },
-  {
     "md5": "cbd93fbc5c7272714e90bb46f82ee575",
     "title": "白き星姫-Принцесса белая звезда- [декабристов]",
     "level": "3.50...4.00",
@@ -5146,12 +5140,6 @@
     "title": "88D [大きい]",
     "level": "4.00...4.50",
     "comment": "sl6"
-  },
-  {
-    "md5": "d1ff9cc14f0b508afc4ddb5ff5837a03",
-    "title": "[line:theta] -Hopeless-",
-    "level": "4.00...4.50",
-    "comment": "sl7"
   },
   {
     "md5": "7d8b3dcd63e6adea25807ab25ea1544c",
@@ -5442,8 +5430,8 @@
     "comment": "sl6"
   },
   {
-    "md5": "c18e2c5a8d7d45e7a9b83afc97697c17",
-    "title": "サンシュート・シーサイド [HVY-NRG]",
+    "md5": "5a7d10be7fe321b9f3c793de37b2b6c3",
+    "title": "スナレ",
     "level": "4.00...4.50",
     "comment": "sl7"
   },
@@ -5490,6 +5478,12 @@
     "comment": "sl6"
   },
   {
+    "md5": "22850b3b023918b76b9eb2a7c7172a1f",
+    "title": "浮世絵横丁 -凱風快晴-",
+    "level": "4.00...4.50",
+    "comment": "sl6"
+  },
+  {
     "md5": "438fa3931fcbb5b71c27b6587c5034c3",
     "title": "白菊 [Snother]",
     "level": "4.00...4.50",
@@ -5504,6 +5498,12 @@
   {
     "md5": "55701926ca12fa81683b1147e8b7b806",
     "title": "7SP:雪の少女-MorningDash!Mix- [MANIAQ]",
+    "level": "4.50...5.00",
+    "comment": "sl7"
+  },
+  {
+    "md5": "d1ff9cc14f0b508afc4ddb5ff5837a03",
+    "title": "[line:theta] -Hopeless-",
     "level": "4.50...5.00",
     "comment": "sl7"
   },
@@ -6138,12 +6138,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "a90eb3c6478ba53cfffa6c47b8e3e2ca",
-    "title": "じゃぱりぱー [sagINSANE]",
-    "level": "5.00...5.50",
-    "comment": "sl8"
-  },
-  {
     "md5": "77a5d9bf3c392d80dda6cbc3b5945507",
     "title": "ひめはじめ～おとこのこ編～ -Hopeless-",
     "level": "5.00...5.50",
@@ -6156,8 +6150,8 @@
     "comment": "sl8"
   },
   {
-    "md5": "5a7d10be7fe321b9f3c793de37b2b6c3",
-    "title": "スナレ",
+    "md5": "c18e2c5a8d7d45e7a9b83afc97697c17",
+    "title": "サンシュート・シーサイド [HVY-NRG]",
     "level": "5.00...5.50",
     "comment": "sl8"
   },
@@ -6176,12 +6170,6 @@
   {
     "md5": "6c0d37102eddd177de86a304b95c647a",
     "title": "バーチャルセラピー [物量セラピー]",
-    "level": "5.00...5.50",
-    "comment": "sl8"
-  },
-  {
-    "md5": "7ba0d771cc462499d97d20a537accdf6",
-    "title": "ユアンシェンは俺たちに何を伝えたかったのか [no idea]",
     "level": "5.00...5.50",
     "comment": "sl8"
   },
@@ -6396,12 +6384,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "35fbe7611db6cd78255d25e0608999a5",
-    "title": "Outernoid -Xe-",
-    "level": "5.50...6.00",
-    "comment": "sl9"
-  },
-  {
     "md5": "774f2c6f9635ea39a0d1b8480ff0f253",
     "title": "PhonDrome! [GALAPAGOS']",
     "level": "5.50...6.00",
@@ -6516,10 +6498,10 @@
     "comment": "sl9"
   },
   {
-    "md5": "f162a877bcaffed5146a5a1a46a1d2d5",
-    "title": "わーにんぴーぽー [Warning!]",
+    "md5": "a90eb3c6478ba53cfffa6c47b8e3e2ca",
+    "title": "じゃぱりぱー [sagINSANE]",
     "level": "5.50...6.00",
-    "comment": "sl9"
+    "comment": "sl8"
   },
   {
     "md5": "04358a9776ed6fb81fe30eaa930e6eb7",
@@ -6536,6 +6518,12 @@
   {
     "md5": "47045de25d9d2f9d7a36fec1fa6b86af",
     "title": "ホーリーサンバランド [FIRST BOSS]",
+    "level": "5.50...6.00",
+    "comment": "sl8"
+  },
+  {
+    "md5": "7ba0d771cc462499d97d20a537accdf6",
+    "title": "ユアンシェンは俺たちに何を伝えたかったのか [no idea]",
     "level": "5.50...6.00",
     "comment": "sl8"
   },
@@ -6580,6 +6568,12 @@
     "title": "恋の2-4-11(BMS Edit) -改二-",
     "level": "5.50...6.00",
     "comment": "sl8"
+  },
+  {
+    "md5": "40332a570fe97c487da227a7bdcf28a2",
+    "title": "新たなる決意 -黎明-",
+    "level": "5.50...6.00",
+    "comment": "sl9"
   },
   {
     "md5": "4191102b46752138740949f43ba6a3f5",
@@ -6798,6 +6792,12 @@
     "comment": "sl9"
   },
   {
+    "md5": "35fbe7611db6cd78255d25e0608999a5",
+    "title": "Outernoid -Xe-",
+    "level": "6.00...6.50",
+    "comment": "sl9"
+  },
+  {
     "md5": "129d7ddd0bc9fb71e122495955a72377",
     "title": "Pleasure of Being [Fuzzy navel]",
     "level": "6.00...6.50",
@@ -6864,6 +6864,12 @@
     "comment": "sl9"
   },
   {
+    "md5": "f162a877bcaffed5146a5a1a46a1d2d5",
+    "title": "わーにんぴーぽー [Warning!]",
+    "level": "6.00...6.50",
+    "comment": "sl9"
+  },
+  {
     "md5": "243ed9e410040cc2c16bb1ae77f6008b",
     "title": "キミとボクへの葬送歌 [Requiem]",
     "level": "6.00...6.50",
@@ -6890,12 +6896,6 @@
   {
     "md5": "57361b5a666c2aaadcb75840c5b21968",
     "title": "図書室のエルザ (litmus* Remix) [Middle]",
-    "level": "6.00...6.50",
-    "comment": "sl9"
-  },
-  {
-    "md5": "40332a570fe97c487da227a7bdcf28a2",
-    "title": "新たなる決意 -黎明-",
     "level": "6.00...6.50",
     "comment": "sl9"
   },
@@ -7032,20 +7032,8 @@
     "comment": "sl10"
   },
   {
-    "md5": "304c57c49333fc53fc4685e6db142dce",
-    "title": "Hypertext Transfer Protocol (C++)",
-    "level": "6.50...7.00",
-    "comment": "sl10"
-  },
-  {
     "md5": "5a83440834244c025689dc463a08437f",
     "title": "island dream [lunatic]",
-    "level": "6.50...7.00",
-    "comment": "sl10"
-  },
-  {
-    "md5": "0333321c1f9be693f214e6a5f46b9c99",
-    "title": "Jack-the-Ripper◆ [yumether]",
     "level": "6.50...7.00",
     "comment": "sl10"
   },
@@ -7200,12 +7188,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "e2cc2a2fbc4fb4a62536e499d5ab0890",
-    "title": "異説彼岸花 第一 -原初のアマリリス- [HARDEST]",
-    "level": "6.50...7.00",
-    "comment": "sl10"
-  },
-  {
     "md5": "fd76b7d207db6c3942bfac0af6fac8db",
     "title": "踊る水飛沫 [KF7]",
     "level": "6.50...7.00",
@@ -7284,12 +7266,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "404937351f39007a7a211e154feebadb",
-    "title": "cycedelica (7KEY-END)",
-    "level": "7.00...7.50",
-    "comment": "sl11"
-  },
-  {
     "md5": "5cd49fb3326135e74cd668270d9b88c7",
     "title": "Cynic (THE hyper)",
     "level": "7.00...7.50",
@@ -7362,6 +7338,18 @@
     "comment": "sl10"
   },
   {
+    "md5": "304c57c49333fc53fc4685e6db142dce",
+    "title": "Hypertext Transfer Protocol (C++)",
+    "level": "7.00...7.50",
+    "comment": "sl10"
+  },
+  {
+    "md5": "0333321c1f9be693f214e6a5f46b9c99",
+    "title": "Jack-the-Ripper◆ [yumether]",
+    "level": "7.00...7.50",
+    "comment": "sl10"
+  },
+  {
     "md5": "6f04bd2fab1e11d05ad7c69d829e6729",
     "title": "KISS CANDY FLAVOR (EX)",
     "level": "7.00...7.50",
@@ -7396,12 +7384,6 @@
     "title": "night starter [DARK NIGHT]",
     "level": "7.00...7.50",
     "comment": "sl10"
-  },
-  {
-    "md5": "c6a12d652b985b56dddf9dd9ec90a2da",
-    "title": "Ops:Limone [SP INSANE]",
-    "level": "7.00...7.50",
-    "comment": "sl11"
   },
   {
     "md5": "3de6a2e947e4d9d0f4b13d3eabf2dca3",
@@ -7490,6 +7472,12 @@
   {
     "md5": "4971f11e2d0c0831f8ef83054ed843e4",
     "title": "円環の理 [HARDEST]",
+    "level": "7.00...7.50",
+    "comment": "sl10"
+  },
+  {
+    "md5": "e2cc2a2fbc4fb4a62536e499d5ab0890",
+    "title": "異説彼岸花 第一 -原初のアマリリス- [HARDEST]",
     "level": "7.00...7.50",
     "comment": "sl10"
   },
@@ -7584,12 +7572,6 @@
     "comment": "sl11"
   },
   {
-    "md5": "e446e497aa6d2b60f14a001f49cf2ecc",
-    "title": "Brave My Soul [B.M.S.]",
-    "level": "7.50...8.00",
-    "comment": "sl11"
-  },
-  {
     "md5": "243a6ba83bc2f291a2a9bc9736b833bd",
     "title": "Calamity Fortune [HARDEST]",
     "level": "7.50...8.00",
@@ -7622,6 +7604,12 @@
   {
     "md5": "40ac8601127a984a9491b7f797ed0147",
     "title": "Chronostasis [INSANE]",
+    "level": "7.50...8.00",
+    "comment": "sl11"
+  },
+  {
+    "md5": "404937351f39007a7a211e154feebadb",
+    "title": "cycedelica (7KEY-END)",
     "level": "7.50...8.00",
     "comment": "sl11"
   },
@@ -7770,6 +7758,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "c6a12d652b985b56dddf9dd9ec90a2da",
+    "title": "Ops:Limone [SP INSANE]",
+    "level": "7.50...8.00",
+    "comment": "sl11"
+  },
+  {
     "md5": "d7d5652bf8d7efad1fc26975a4615f1a",
     "title": "ouroVoros [Judgment]",
     "level": "7.50...8.00",
@@ -7784,6 +7778,12 @@
   {
     "md5": "bb57a88ca46ee33d5b52b3928ca32989",
     "title": "ozma [World-atom-o-sphere]",
+    "level": "7.50...8.00",
+    "comment": "sl11"
+  },
+  {
+    "md5": "56ef487b38517cae523b4720d6898dd3",
+    "title": "Poisonous Peach [Eb]",
     "level": "7.50...8.00",
     "comment": "sl11"
   },
@@ -8244,12 +8244,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "56ef487b38517cae523b4720d6898dd3",
-    "title": "Poisonous Peach [Eb]",
-    "level": "8.00...8.50",
-    "comment": "sl11"
-  },
-  {
     "md5": "0f5b2b2df091b511e311873204203dcc",
     "title": "Psychedelic Ritual -Despair-",
     "level": "8.00...8.50",
@@ -8406,12 +8400,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "6a631229fb332f69cc97b12c87991f34",
-    "title": "星少女ステラユニオン -叛逆の物語-",
-    "level": "8.00...8.50",
-    "comment": "sl12"
-  },
-  {
     "md5": "385343388eaacae49c441c3e5ef53d72",
     "title": "煉獄-Priestess -Hopeless-",
     "level": "8.00...8.50",
@@ -8480,6 +8468,12 @@
   {
     "md5": "831c73bdf85fd0f7ba0ef276c7cfc101",
     "title": "blue traces [Capture]",
+    "level": "8.50...9.00",
+    "comment": "sl12"
+  },
+  {
+    "md5": "e446e497aa6d2b60f14a001f49cf2ecc",
+    "title": "Brave My Soul [B.M.S.]",
     "level": "8.50...9.00",
     "comment": "sl12"
   },
@@ -8690,6 +8684,12 @@
   {
     "md5": "780f8f98480b46643f34b59e91355586",
     "title": "失望Choco (-ω-)",
+    "level": "8.50...9.00",
+    "comment": "sl12"
+  },
+  {
+    "md5": "6a631229fb332f69cc97b12c87991f34",
+    "title": "星少女ステラユニオン -叛逆の物語-",
     "level": "8.50...9.00",
     "comment": "sl12"
   },
