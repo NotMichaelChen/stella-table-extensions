@@ -2773,6 +2773,19 @@
     "proposerLr2id": 116710
   },
   {
+    "md5": "a8ea6692de9f7046fb05b022c8d5447f",
+    "sha256": "f411d8d88a09e888d5f88bdae106d8e78863b46d733043067b744c561a1d33e3",
+    "title": "SAKIGAKE",
+    "artist": "kas_0120 × 原木シィタケ BGA:かんてん",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=140",
+    "level": "0",
+    "comment": "BOF:ET 同梱譜面",
+    "proposer": "ИиИ",
+    "submission": 2684,
+    "proposerLr2id": 147895
+  },
+  {
     "md5": "aeb0b6239a518a9dcadc80d2a149b660",
     "sha256": "da58a460c65347adddcec50d126f67816e6851e337caaa1a438a732f039e5076",
     "title": "Sarllah [PLATTER]",
@@ -3609,6 +3622,19 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "0d516cf68f89e5ba0a445bc78eb37217",
+    "sha256": "fa62979630a669a28f256a79a03d2253157ae2cb6eb2567372dc45014026f4a8",
+    "title": "White Christmas [N]",
+    "artist": "Irving Berlin",
+    "url_diff": "",
+    "url": "https://stellabms.xyz/upload/2350",
+    "level": "0",
+    "comment": "同時押し練習",
+    "proposer": "ИиИ",
+    "submission": 2683,
+    "proposerLr2id": 147895
   },
   {
     "md5": "5bc8dad3c666160b4f1d96b26223dbcf",
@@ -8461,6 +8487,19 @@
     "proposer": "桧尃遬",
     "submission": 2608,
     "proposerMinirid": "8102c922-ebdd-4d9b-8094-7be2e7f38acb"
+  },
+  {
+    "md5": "b8ca344c128267aaa89aada4ff99f9b5",
+    "sha256": "7d536c5064832b3900e3c6bcf9b6c10c786eeb8304152b95611aebe1ddd00434",
+    "title": "糸引く夏のエデンにて。 [Another]",
+    "artist": "Setca.",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=140",
+    "level": "1",
+    "comment": "二重階段、低TOTAL",
+    "proposer": "papk",
+    "submission": 2685,
+    "proposerMinirid": "d5e98bc8-4306-4c4e-9f45-b6382e928085"
   },
   {
     "md5": "ce73f117ef9c4a3ff40fb8069e1c3dda",
@@ -39858,6 +39897,19 @@
     "proposerLr2id": 147889
   },
   {
+    "md5": "04bd8f404bc86c7254f44a2e4d6a0814",
+    "sha256": "1d62ac02a51a2546f00f9707f75a2cc387b9b137a1df7c70a77a39af3d47bbaa",
+    "title": "溶けたアイス、キミの声 [MELTY]",
+    "artist": "kei_iwata feat.Noa movie:tolz / obj:qfeileadh",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=403&event=133",
+    "level": "13",
+    "comment": "ガチ押し　同梱",
+    "proposer": "ごるらま」",
+    "submission": 2016,
+    "proposerMinirid": "3f84228b-3a7a-4538-af40-cb5d8253c142"
+  },
+  {
     "md5": "8a951fe8b599a85430740b62db452aaa",
     "sha256": "631ed122518e4740037863f0c5ba028ba68a3b2a95b5fc9ac0594d6ff40a671b",
     "title": "滝行Lv28 [全白になりました]",
@@ -44732,6 +44784,18 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "51b74735757eb6669dc678d1b57e44b7372588fc33885b6bd06fc492b2596cf1"
+  },
+  {
+    "md5": "48585c48286526ebf934c4f17a481a75",
+    "sha256": "2c479fd63ce92141b7fd3ce27ef7a6fbdeaea96a25bae4caec653bbad1ffdfc9",
+    "title": "Cockroach Cooking [SP 100万回再生]",
+    "artist": "Yosk!",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=192&event=140",
+    "level": "15",
+    "proposer": "qtp13",
+    "submission": 2017,
+    "proposerLr2id": 86559
   },
   {
     "title": "Cosmogazer [3099.10.13]",
@@ -58037,6 +58101,20 @@
     "sha256": "c8cf9042e540ecfbf7e5a83ea1996adf020429700a95bce48158e47c0c98774e"
   },
   {
+    "md5": "5a5cb7566f6415c9a8aeaa496df03f00",
+    "sha256": "d9805647a0a95ab8bd82d5820dd8e2817638d71ee5c1ce6c3832685fbee2fab4",
+    "title": "AzTella -Pleiades-",
+    "artist": "Nuekawa / obj:Criyajuh",
+    "url_diff": "https://stellabms.xyz/upload/2220",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=454&event=140",
+    "level": "19",
+    "comment": "st6~7",
+    "zureCount": 0,
+    "proposer": "qtp13",
+    "submission": 2018,
+    "proposerLr2id": 86559
+  },
+  {
     "title": "Black Lotus [Other]",
     "artist": "wa. / 百舌谷 obj:Omino",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=110",
@@ -62160,6 +62238,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "5d6481d0a53185e4bc1b6c5a37fc54c72b03c1a3fd22c0f07be139f403e4d051"
+  },
+  {
+    "md5": "b320b8cf4b476baf51fbae08ff3fad40",
+    "sha256": "60aa37f29833c0d89f23273e625e8995f4526ef4a2fb608ffa2f41797778a022",
+    "title": "!nterroban(?, [SUPERFACTORIAL]",
+    "artist": "Aoi / obj:qfeileadh mov:出前",
+    "url_diff": "https://stellabms.xyz/upload/1464",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=407&event=137",
+    "level": "22",
+    "comment": "BPM220 重発狂、ジャラジャラ",
+    "zureCount": 0,
+    "proposer": "otoshi.oraja",
+    "submission": 2019,
+    "proposerMinirid": "dd27a752-db0c-46e3-bf22-92248aebbaa4"
   },
   {
     "md5": "d54adbb688c55cef07571c29de98c6ce",
