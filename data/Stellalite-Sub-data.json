@@ -1354,6 +1354,18 @@
     "proposerMinirid": "5a65c230-776b-4597-8670-0390e9a2d474"
   },
   {
+    "md5": "b97d43142796494ea0947f1102567a39",
+    "sha256": "c2625d0b31ea15b42ab292758d171bd621c39edfbace81a0231a8ccf83554099",
+    "title": "Gerard [a]",
+    "artist": "Widowmaker",
+    "url_diff": "",
+    "url": "http://k-bms.com/party_pabat/party2017.jsp?board_num=17&num=72&order=reg&odtype=a",
+    "level": "0",
+    "proposer": "asaiko",
+    "submission": 2691,
+    "proposerLr2id": 175335
+  },
+  {
     "md5": "097298ec8c64bd0708ceaf60c413fc64",
     "sha256": "f9d62f9b504728ba7b08b9b6bdd2eff7aa6aa158ed48add9e7b03f5e51c8d128",
     "title": "Girl's Heart ～人形少女 [SP ANOTHER]",
@@ -6606,6 +6618,19 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "d97b573e679a47e2e9495fb11b20230a",
+    "sha256": "8effb4529bcc13b881f23720e07d64c46d7f7a3597217c3bbfdae1f957245ec2",
+    "title": "Options [;]",
+    "artist": "Frums obj. BK",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=256&event=116",
+    "level": "1",
+    "comment": "0〜１？",
+    "proposer": "asaiko",
+    "submission": 2690,
+    "proposerLr2id": 175335
   },
   {
     "md5": "6194849044f280c87969fae6b4c1ef1a",
@@ -48306,6 +48331,19 @@
     "sha256": "d12b3330c74ea6c03144113b18f31e38fd2f36f37289650edcafb8641c79d56c"
   },
   {
+    "md5": "4fa85a5bb4078b0fe934203622dde6f1",
+    "sha256": "21ffdaffac76d3f7e9f5680ed1d6a0169296b982ae811410f744ac33546cb9ad",
+    "title": "Aihana (Love+ Edit) -borderline-",
+    "artist": "高嶺　愛花 / 0678",
+    "url_diff": "https://stellabms.xyz/upload/2480",
+    "url": "http://electro-planet.net/loveplus/aihana.html",
+    "level": "16",
+    "comment": "delay/zure intentional (see readme)",
+    "proposer": "skyeeeee",
+    "submission": 2027,
+    "proposerLr2id": 172886
+  },
+  {
     "md5": "cf01753c02ea09f8020e5dd85754ae1c",
     "sha256": "1bd435ed3e7c407709864d16ba2b4433c08f903c4621b2da04890acac2465801",
     "title": "Air -GOD?-",
@@ -48772,6 +48810,19 @@
     "voteYes": 0,
     "voteNo": 0,
     "sha256": "4c5dc2cb6c281d0631cdd18e062ba6a88dc4943b40efdf1f8ea604c9940d93c2"
+  },
+  {
+    "md5": "725e71223a68784d3e03b6fd1a0582ce",
+    "sha256": "919775f1f521f5dcfc39e82c9c0b0f5ca7427261c1960edd0ca819557ef9ea61",
+    "title": "Clever machine Crazy [Crazy minijack Chordstream]",
+    "artist": "NASVINE BGI:ゴリ子 OBJ:LuvTek",
+    "url_diff": "https://darksabun.github.io/event/bofet/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=475&event=140",
+    "level": "16",
+    "comment": "minor keysound arrangement",
+    "proposer": "qtp13",
+    "submission": 2028,
+    "proposerLr2id": 86559
   },
   {
     "title": "CODE-F -soar to the Frontier- [地力]",
@@ -55449,6 +55500,19 @@
     "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
   },
   {
+    "md5": "b1f6eba3617d87275ff6d42c1fa3493a",
+    "sha256": "7f74158d2803613fc93613803605cef312dc2dc7178d2ec6919af4b427d92a4a",
+    "title": "\"Fishpot\" [Su-9]",
+    "artist": "Lemi. obj:И",
+    "url_diff": "https://bms.parksulab.xyz",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=140",
+    "level": "18",
+    "comment": "BPM200 乱打 (追加音源あり)",
+    "proposer": "垢伴次郎",
+    "submission": 2026,
+    "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
+  },
+  {
     "md5": "a85994133df21871af5dc168d1fabbfd",
     "sha256": "c00ae7f2fc360632d4daf1c2bad5ee71755e48e24384808b6c78b33fa8a16043",
     "title": "1516 [3032]",
@@ -58976,6 +59040,19 @@
     "proposer": "いるしお",
     "submission": 1020,
     "proposerLr2id": 127532
+  },
+  {
+    "md5": "f0052cbf695f207b1133197d8ef58247",
+    "sha256": "fae6e0949b09ebd1d9fe4c9a5be7a1d11487bfc2d19a0e526db1672931a1a245",
+    "title": "Rush-Hour [Rush-Minute]",
+    "artist": "litmus* / extra",
+    "url_diff": "https://darksabun.github.io/event/bofet/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=140",
+    "level": "19",
+    "zureCount": 0,
+    "proposer": "qtp13",
+    "submission": 2029,
+    "proposerLr2id": 86559
   },
   {
     "md5": "c900fa33ca2d5e7d4473a1b0e20316ed",
