@@ -422,6 +422,18 @@
     "proposerMinirid": "38b6fd3c-5f86-4e87-aef8-3f9952471580"
   },
   {
+    "md5": "d10c53876eee3e4c57f267a1d77a31c5",
+    "sha256": "cadc68a09b98884eb3e6ee6f126e33878f43a6ce5274126bc13cb68588a67fce",
+    "title": "Black Wings [Another]",
+    "artist": "Abel & litmus* feat. nayuta",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=448&event=140",
+    "level": "0",
+    "proposer": "ii5",
+    "submission": 2696,
+    "proposerLr2id": 141043
+  },
+  {
     "md5": "52265862e46b3d12f65c84f30ab7895f",
     "sha256": "737784c15699128566336c51c7bf063374d68e98c1f9af8684a34aeaf20954e4",
     "title": "Blacksphere [SP Another]",
@@ -9688,6 +9700,19 @@
     "votePercent": 0
   },
   {
+    "md5": "cd6d33af495b5b69d68536187c590406",
+    "sha256": "8be0be4622847bd33639b97707141c20f6b553c609819b7ecf725c4639e9c779",
+    "title": "Fleeing Sunlight",
+    "artist": "おみー",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=103&event=140",
+    "level": "2",
+    "comment": "",
+    "proposer": "qtp13",
+    "submission": 2693,
+    "proposerLr2id": 86559
+  },
+  {
     "md5": "b328e36d0b6c5d4d4d6ff6da78601446",
     "sha256": "30abd4360d931464a8c0dcb429a5ed9a4a743312dd568b794bd9e1a08db36a86",
     "title": "FORBIDDEN APPLE [HARD]",
@@ -17516,6 +17541,19 @@
     "proposer": "氷城つるぎ",
     "submission": 1353,
     "proposerLr2id": 151185
+  },
+  {
+    "md5": "1fa97ef1958cc5b6ee78d7ac3969c4ed",
+    "sha256": "2e512fc375747cc9f57b028ade075c0c61a2c85a3a814c944c78a86571cc1d45",
+    "title": "Lacrimosa [SP Another]",
+    "artist": "Abel & RiraN Movie:Minho Obj:Triforce",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=255&event=140",
+    "level": "4",
+    "comment": "sl 4～5？",
+    "proposer": "ii5",
+    "submission": 2695,
+    "proposerLr2id": 141043
   },
   {
     "md5": "5c967522d9186a4365501e7818611018",
@@ -25796,6 +25834,20 @@
     "proposer": "MarySue",
     "submission": 1368,
     "proposerLr2id": 147889
+  },
+  {
+    "md5": "acad13643f01121177a0eaf1a32c395d",
+    "sha256": "b2441efb2099b5b55c204859927bdf91c6e3d6610f52310d6c4b6064ad74f421",
+    "title": "☆をかけるアドベンチャー [Earendel]",
+    "artist": "ああああ / obj:83929",
+    "url_diff": "https://stellabms.xyz/upload/2491",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=121&event=104",
+    "level": "7",
+    "comment": "BPM224 高速乱打やディレイなど",
+    "zureCount": 0,
+    "proposer": "mukyu--",
+    "submission": 2694,
+    "proposerLr2id": 71314
   },
   {
     "md5": "eeff3a9a7cd557a05308ba1296752db2",
@@ -35927,6 +35979,19 @@
     "proposer": "ねおんし",
     "submission": 2355,
     "proposerMinirid": "6c94616f-06d1-449d-a9c5-7d9fb5b91cd0"
+  },
+  {
+    "md5": "26fdb50f6232cdfae99504c892e87f55",
+    "sha256": "06c1cd20db6ac0c2e9e973caadd18516213131c394bc401dbbd46cfbb2468e9b",
+    "title": "Stars Keep on Illuminating [SP Insane]",
+    "artist": "anco / Illust: かいネコ Obj: Mr.Faine",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=140",
+    "level": "12",
+    "comment": "sl11~12...?",
+    "proposer": "qtp13",
+    "submission": 2692,
+    "proposerLr2id": 86559
   },
   {
     "md5": "7ec4081796258a2b21d91f90e8670cbc",
@@ -55500,19 +55565,6 @@
     "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
   },
   {
-    "md5": "b1f6eba3617d87275ff6d42c1fa3493a",
-    "sha256": "7f74158d2803613fc93613803605cef312dc2dc7178d2ec6919af4b427d92a4a",
-    "title": "\"Fishpot\" [Su-9]",
-    "artist": "Lemi. obj:И",
-    "url_diff": "https://bms.parksulab.xyz",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=140",
-    "level": "18",
-    "comment": "BPM200 乱打 (追加音源あり)",
-    "proposer": "垢伴次郎",
-    "submission": 2026,
-    "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
-  },
-  {
     "md5": "a85994133df21871af5dc168d1fabbfd",
     "sha256": "c00ae7f2fc360632d4daf1c2bad5ee71755e48e24384808b6c78b33fa8a16043",
     "title": "1516 [3032]",
@@ -57681,20 +57733,6 @@
     "sha256": "a76e8b0e7ffd94fe5c00c717af98ff43f93ceaf1721508a2e9c678d4ad069ecf"
   },
   {
-    "md5": "18caf5155005e01366802135e948eb1b",
-    "sha256": "5b3eb477d6ee914b0bb6c4e17b6fd24da6621757e8fe2b52cb14f3bc6c09ec65",
-    "title": "フエネック [Foxy]",
-    "artist": "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / obj: qtp13",
-    "url_diff": "https://darksabun.github.io/event/bofet/",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=321&event=140",
-    "level": "18",
-    "comment": "BPM165 微連打",
-    "zureCount": 0,
-    "proposer": "SHAX.",
-    "submission": 2003,
-    "proposerLr2id": 65624
-  },
-  {
     "md5": "5d499f1d4a563f5a3c98e037c39601d8",
     "sha256": "2f3ed5451608a2e8a7af0dd202f1868846cbb84e994dc3c2d4cf84580b64bd27",
     "title": "プナイプナイげんそう～５人の並行世界から来たてるやまたちが世界を救う！？　プナイプナイinワンダーランド～ [INFERNO]",
@@ -58069,6 +58107,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "e24115dadceef60d9c7ad4b6b2ca4d2e8adc5f091ab926bc976a25e647da1493"
+  },
+  {
+    "md5": "b1f6eba3617d87275ff6d42c1fa3493a",
+    "sha256": "7f74158d2803613fc93613803605cef312dc2dc7178d2ec6919af4b427d92a4a",
+    "title": "\"Fishpot\" [Su-9]",
+    "artist": "Lemi. obj:И",
+    "url_diff": "https://bms.parksulab.xyz",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=140",
+    "level": "19",
+    "comment": "BPM200 乱打 (追加音源あり)",
+    "proposer": "垢伴次郎",
+    "submission": 2026,
+    "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
   },
   {
     "title": "0xFFFF [SA]",
@@ -59468,6 +59519,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "937290a9933f08f24d8a591197aedaa715c3517b1b93749e085191caf4a49456"
+  },
+  {
+    "md5": "18caf5155005e01366802135e948eb1b",
+    "sha256": "5b3eb477d6ee914b0bb6c4e17b6fd24da6621757e8fe2b52cb14f3bc6c09ec65",
+    "title": "フエネック [Foxy]",
+    "artist": "LisicA movie : ルゼ(LuzeriA) / illust : Orphee / obj: qtp13",
+    "url_diff": "https://darksabun.github.io/event/bofet/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=321&event=140",
+    "level": "19",
+    "comment": "BPM165 微連打",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 2003,
+    "proposerLr2id": 65624
   },
   {
     "md5": "e304ab14c7108c907b664592a5f7efdc",
@@ -61070,6 +61135,19 @@
     "sha256": "6da4b5f13167e9b4285abb4f8881561a3c3b298be5b23e22307c646020a401ef"
   },
   {
+    "level": "20",
+    "comment": "st4の強化版",
+    "md5": "9e20fb74458371fb576843bbe6b44a6d",
+    "sha256": "09c67636ed514bf156d695876bcee93d06fc39eaddcadd40a0fecfe5040cf6b7",
+    "title": "宵桜回廊 [決死]",
+    "artist": "佐久丸(sak vs wumalutsufuri) obj:sak",
+    "url_diff": "",
+    "url": "https://event.yaruki0.net/VSevent/impression/47",
+    "proposer": "MineC24",
+    "submission": 999,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "1a7a9428f08c944939867d69da8f296b",
     "sha256": "4072e7de2c2c30999a86dc5dbf6450077d0bb2415e20989a25f252b89e798987",
     "title": "日溜りのディレイ－？あ！？－",
@@ -61253,6 +61331,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "3a5fcbfa460e5308fd4b211e8e2849ef47c7f322a4a50596c3a32d182291c5c5"
+  },
+  {
+    "md5": "a1b0cffc57e1c0376b6980480212e864",
+    "sha256": "1234476222543acbc789116290153edae084c4041d410219ccefbf8cfa7a8364",
+    "title": "Apocalypse Nemesis -Meteor Noise- [Catastrophe]",
+    "artist": "kanone(BGI:TAKA.S) obj:1008",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05928",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=199&event=133",
+    "level": "21",
+    "zureCount": 0,
+    "proposer": "qtp13",
+    "submission": 2031,
+    "proposerLr2id": 86559
   },
   {
     "md5": "4dc33afda02f2e2e31835e5b099c494e",
@@ -62156,6 +62247,20 @@
     "submission": 550
   },
   {
+    "md5": "8e06aab7672b3fd3aefb61e3f961d28f",
+    "sha256": "6ee27522c17713f50cb7453ab2022f2c68fad66f32a02ec57af4fd6cf5883506",
+    "title": "ジェリーフィッシュは月を仰いで [Chironex]",
+    "artist": "Nuekawa obj:LindBlum",
+    "url_diff": "https://darksabun.github.io/event/bofxvii/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=249&event=137",
+    "level": "21",
+    "comment": "jellyfish",
+    "zureCount": 0,
+    "proposer": "qtp13",
+    "submission": 2030,
+    "proposerLr2id": 86559
+  },
+  {
     "md5": "7ebfc565cc63f70e25ce4ab8eb054c00",
     "sha256": "043e879e34985efe679b381acfe620892ca639ab6818e5ae6d55aa9bac3ecbdb",
     "title": "スピカ [STARDUST]",
@@ -62323,19 +62428,6 @@
     "comment": "高速乱打",
     "submission": 182,
     "sha256": "3b65e6221c23f0bb5a128adac1070cb830960d3c53902cdd9a5d45632b17cd9c"
-  },
-  {
-    "level": "21",
-    "comment": "st4の強化版",
-    "md5": "9e20fb74458371fb576843bbe6b44a6d",
-    "sha256": "09c67636ed514bf156d695876bcee93d06fc39eaddcadd40a0fecfe5040cf6b7",
-    "title": "宵桜回廊 [決死]",
-    "artist": "佐久丸(sak vs wumalutsufuri) obj:sak",
-    "url_diff": "",
-    "url": "https://event.yaruki0.net/VSevent/impression/47",
-    "proposer": "MineC24",
-    "submission": 999,
-    "proposerLr2id": 84597
   },
   {
     "md5": "27cf891ebe25690b5efeab8017453d09",
