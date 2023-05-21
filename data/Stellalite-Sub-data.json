@@ -1165,6 +1165,19 @@
     "votePercent": 0
   },
   {
+    "md5": "407a01242c22457bb9a4aeaa4c11fddf",
+    "sha256": "21b179398535fff01d87935ec8c8139588da0a34c2213924ee8a6eb31bf83e88",
+    "title": "Experience of Ecstasy [SP ANOTHER]",
+    "artist": "sukuramu42",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/bmsshuin3/106",
+    "level": "0",
+    "comment": "第三回BMS衆議院選/同時押し、LN、全体難",
+    "proposer": "sangonana",
+    "submission": 2750,
+    "proposerLr2id": 148764
+  },
+  {
     "md5": "aa6f62aa163cbb53c7306101f8f7d9c8",
     "sha256": "ef1dc8ce791ad6abb81f9332273f78c930fbf5070a3793a96c465abdfe7c3999",
     "title": "F10atmaneuver [1000001 for LR2]",
@@ -2699,6 +2712,19 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "1c92f941b47220c228b10caa5f54a7c6",
+    "sha256": "4f7e4f4f2563a0b400e7126c13b7829fad08aff6d82479a926aac562cd0c2b83",
+    "title": "Rechronize [ANOTHER]",
+    "artist": "あとぅす feat.咲良ゆの BGI:りーふぱいザウルス",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=140",
+    "level": "0",
+    "comment": "sl0 中 ~ 中下",
+    "proposer": "Nuclein",
+    "submission": 2747,
+    "proposerLr2id": 182035
   },
   {
     "md5": "6ca7d4904590eb071699f409caf3205a",
@@ -8778,6 +8804,19 @@
     "proposer": "used_tami",
     "submission": 1653,
     "proposerMinirid": "89c2f656-677d-4fa8-828e-11786ee340ca"
+  },
+  {
+    "md5": "687e44368f4feff587fe757440092177",
+    "sha256": "7a42042fa949a5028b0cfbfe8d0fa81b7c370ad6e2bdc11032a143090348fdb2",
+    "title": "金魚 (Herpes mix ANOTHER)",
+    "artist": "DJ TAKAWO remixed by crNEET.ahg",
+    "url_diff": "",
+    "url": "https://web.archive.org/web/20140409113716/http://www.geocities.jp/yuzuru0024/BMS/rem08.zip",
+    "level": "1",
+    "comment": "トリル、軸、高速",
+    "proposer": "Mary_Sue",
+    "submission": 2749,
+    "proposerLr2id": 147889
   },
   {
     "md5": "5f3baf7f14f8aa028ea542ddb24e5f26",
@@ -28163,6 +28202,20 @@
     "proposerLr2id": 72753
   },
   {
+    "md5": "1197f5dad404204f78546c1eb4a6cf5d",
+    "sha256": "3bfb4f6e16d318e00857ede42ba04a5b3517527ad80d63230babac9ee8e655ba",
+    "title": "The Birthday Of Deadmans",
+    "artist": "miii obj:MineC24",
+    "url_diff": "https://www.dropbox.com/s/s6t616xkofko49q/E.bms?dl=0",
+    "url": "https://web.archive.org/web/20101113210329/http://www.bms.ms/dustcloth/bms/miii_deadmans2.rar",
+    "level": "8",
+    "comment": "トリル、ディレイ",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 2748,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "88fc9ae4d2413564a6f9b1ab46c753bc",
     "sha256": "ce182aa343db8a00a04dfca8487cbdf5a5fac01375f56206c42a3e0da328095a",
     "title": "The Grinder [Lunatic]",
@@ -39879,6 +39932,19 @@
     "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
+    "md5": "29660c8adbe99a6132ecc9962d1bebc7",
+    "sha256": "4d792034f23d202e3759afee0235623b23208adcc8f57eced6945d86eb2988ba",
+    "title": "Unidentifed Flying Scotsman [HARD]",
+    "artist": "imuh3",
+    "url_diff": "",
+    "url": "https://darksabun.github.io/songs/imuh3_Unidentifed_Flying_Scotsman.zip",
+    "level": "13",
+    "comment": "同時押し",
+    "proposer": "Mary_Sue",
+    "submission": 2074,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "513a3d5f613632ce688627a31a636756",
     "sha256": "2dfa93be25c6739f740a6c7afd4f76d4171d3b0b9ce5c2a7ea7f5d8f8fddb0d1",
     "title": "Virtual mode [Lucid Dreaming]",
@@ -42850,6 +42916,20 @@
     "proposer": "qtp13",
     "submission": 1388,
     "proposerLr2id": 86559
+  },
+  {
+    "md5": "d17a65ed926b8b46b5b81e39b9db6f9e",
+    "sha256": "518ecbddb2f416482e6f0bf55f7980ad5d8f0d02f1738fde3f900803d7c899ed",
+    "title": "LEVIATHAN CHAPTER XII [7REX]",
+    "artist": "4+Flamel :: M.felix feat Zbran / Ds",
+    "url_diff": "https://stairway.sakura.ne.jp/dosukoi/sabun/leviathan.rar",
+    "url": "http://onedrive.live.com/?cid=f0fdd6d137c174fa&id=F0FDD6D137C174FA%21241",
+    "level": "14",
+    "comment": "ディレイ、微連打、ズレなど",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 2073,
+    "proposerLr2id": 147889
   },
   {
     "md5": "af28bed2ac56e0fe868b8814aca5f39b",
@@ -51597,6 +51677,19 @@
     "proposer": "fuko",
     "submission": 1981,
     "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
+  },
+  {
+    "md5": "643c91096f35d0622ca3446b6562865f",
+    "sha256": "476784d7d78036f5abbb6462917bcfd9b1829964b098ca87efb9b49e393dc359",
+    "title": "Sampling Satan [EX]",
+    "artist": "roop obj:EGRET.",
+    "url_diff": "https://stellabms.xyz/upload/2772",
+    "url": "https://roopdesign.net/post/34827532860/roop-bms-works-2004-2012",
+    "level": "16",
+    "comment": "同時/ズレ抜けは音源追加によるもの",
+    "proposer": "ctc",
+    "submission": 2076,
+    "proposerLr2id": 31401
   },
   {
     "md5": "e8776cf32615ff4a8f536bd463fda1e5",
@@ -65527,6 +65620,20 @@
     "proposer": "qtp13",
     "submission": 1562,
     "proposerLr2id": 86559
+  },
+  {
+    "md5": "f6c5a4ba8a5d1ec5004c0b56f9dcbf1c",
+    "sha256": "71b4bfe82ff917d8bd80e27c15b5ebcdeb95bf6b73dc8687c238c79bb636cadb",
+    "title": "BEYOND [Transcend]",
+    "artist": "Lime mov:Roaring Flame / obj:スノート",
+    "url_diff": "https://stellabms.xyz/upload/1376",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=492&event=133",
+    "level": "24",
+    "comment": "stream",
+    "zureCount": 0,
+    "proposer": "歳納京子",
+    "submission": 2075,
+    "proposerLr2id": 75332
   },
   {
     "md5": "4663109750a2e9ca7a108fa534547a04",
