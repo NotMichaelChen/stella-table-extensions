@@ -1958,6 +1958,20 @@
     "proposerLr2id": 115265
   },
   {
+    "md5": "7b2be8012ff66b9d789298dfe11af5f4",
+    "sha256": "159ce5afedb5019b15a790a45106c936a86c5829bad98a5c2ff99aab0b58648c",
+    "title": "lataia [Maniac7]",
+    "artist": "onoken / obj.siokaze",
+    "url_diff": "http://siokazebms.web.fc2.com/",
+    "url": "http://web.archive.org/web/20070111193502/www107.sakura.ne.jp/~onoken/htmls/bms.html",
+    "level": "0",
+    "comment": "シンプルな物量  sl0～1? 120BPM, TOTAL250(0.21%/note)",
+    "zureCount": 0,
+    "proposer": "百地たまて",
+    "submission": 2754,
+    "proposerMinirid": "00186ba7-42e3-4915-8e18-0ece1e846741"
+  },
+  {
     "md5": "b341e4cc6f0f6a59100910ed11a92f8d",
     "sha256": "3620333dae5f215a97a28989f78c4e7f6cb763f13991d96003c8582a3e83a860",
     "title": "Lieselotte  [ANOTHER]",
@@ -6753,6 +6767,19 @@
     "votePercent": 0
   },
   {
+    "md5": "e72ad88bb380d337d838e7c75b479045",
+    "sha256": "203bd10daa44e1d650b4955a99ac0b3ffc1872c6024d9507ce27f5ff2a653c8f",
+    "title": "Opaque Couche [Another]",
+    "artist": "siqlo Movie:出前 / obj:DJ.END",
+    "url_diff": "",
+    "url": "https://www.dropbox.com/s/nciwd6fnkc0om0f/siqlo_-_Opaque_Couche%5Bogg%5D.zip?dl=0",
+    "level": "1",
+    "comment": "乱打　タバコの曲",
+    "proposer": "kitnlzh",
+    "submission": 2753,
+    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
+  },
+  {
     "md5": "d97b573e679a47e2e9495fb11b20230a",
     "sha256": "8effb4529bcc13b881f23720e07d64c46d7f7a3597217c3bbfdae1f957245ec2",
     "title": "Options [;]",
@@ -7033,6 +7060,19 @@
     "proposer": "qtp13",
     "submission": 2570,
     "proposerLr2id": 86559
+  },
+  {
+    "md5": "8b02205f82ec29a0cdb97af2d84ce7d9",
+    "sha256": "096f255b86ac305540d5ef74d7a46c4ce27e7742b34e86b1bfc2ce4a1667179f",
+    "title": "Re:End of a Dream",
+    "artist": "uma vs. モリモリあつし",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=543&event=110",
+    "level": "1",
+    "comment": "ラス殺し、乱打、神曲",
+    "proposer": "kitnlzh",
+    "submission": 2752,
+    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
   },
   {
     "md5": "fe103a2c23a341a67154268007984727",
@@ -13076,20 +13116,6 @@
     "proposerLr2id": 147642
   },
   {
-    "md5": "328f84997abd6480fd09cb95e3f020e8",
-    "sha256": "69c571cfb5c6334215d3cf4966dc91aa1d885836d2aab50a63ac2fcbbb87a0a6",
-    "title": "Angel dust [FEATHER]",
-    "artist": "LV.4/obj.poly",
-    "url_diff": "http://absolute.pv.land.to/bmsuploader.html",
-    "url": "http://skydrive.live.com/?cid=B95CFF3A8A971013&id=B95CFF3A8A971013%21373",
-    "level": "3",
-    "comment": "最後までノーツたっぷりの体力譜面...だと思います",
-    "zureCount": 0,
-    "proposer": "10c*",
-    "submission": 2084,
-    "proposerLr2id": 170055
-  },
-  {
     "md5": "4fbe277f9d7f9606d108b4aebb656241",
     "sha256": "403f52b21a2c72b4042bd470c063f347c98c22f82e26145647512b235f051477",
     "title": "Anhedonia [SABOTHER]",
@@ -16730,6 +16756,20 @@
     "proposerLr2id": 147889
   },
   {
+    "md5": "328f84997abd6480fd09cb95e3f020e8",
+    "sha256": "69c571cfb5c6334215d3cf4966dc91aa1d885836d2aab50a63ac2fcbbb87a0a6",
+    "title": "Angel dust [FEATHER]",
+    "artist": "LV.4/obj.poly",
+    "url_diff": "http://absolute.pv.land.to/bmsuploader.html",
+    "url": "http://skydrive.live.com/?cid=B95CFF3A8A971013&id=B95CFF3A8A971013%21373",
+    "level": "4",
+    "comment": "最後までノーツたっぷりの体力譜面...だと思います",
+    "zureCount": 0,
+    "proposer": "10c*",
+    "submission": 2084,
+    "proposerLr2id": 170055
+  },
+  {
     "level": "4",
     "md5": "1e149570c9c292e83d2646a56653c50a",
     "sha256": "9a306d00b50a2d9f3bae7e43dd2ff906e75029562414bf63fba3b6acabfa3f84",
@@ -17418,21 +17458,6 @@
     "proposer": "MarySue",
     "submission": 1526,
     "proposerLr2id": 147889
-  },
-  {
-    "md5": "d72477a3cbf5f2c096039a4685b4929f",
-    "sha256": "256e41ca27680baaba9b01f31d17c57789a8a9a8c5aa77206efce9d2ee11552e",
-    "title": "EVERLASTING HAPPiNESS↑ [ZOI]",
-    "artist": "psi obj:SUZUKAZEΛ",
-    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=109",
-    "level": "4",
-    "proposer": "ZEUS",
-    "submission": 189,
-    "voteYes": 0,
-    "voteNo": 0,
-    "votePercent": 0,
-    "proposerLr2id": 80338
   },
   {
     "md5": "f57c93ffabedb60b76a9f51f26aa84c7",
@@ -20342,6 +20367,21 @@
     "votePercent": 0
   },
   {
+    "md5": "d72477a3cbf5f2c096039a4685b4929f",
+    "sha256": "256e41ca27680baaba9b01f31d17c57789a8a9a8c5aa77206efce9d2ee11552e",
+    "title": "EVERLASTING HAPPiNESS↑ [ZOI]",
+    "artist": "psi obj:SUZUKAZEΛ",
+    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=109",
+    "level": "5",
+    "proposer": "ZEUS",
+    "submission": 189,
+    "voteYes": 0,
+    "voteNo": 0,
+    "votePercent": 0,
+    "proposerLr2id": 80338
+  },
+  {
     "md5": "e38b9f0a8f66d25966207f24f7b030f5",
     "sha256": "97594450691341139346828afb1a8d2d48a76a287309b3cb46d46d3d378b5e67",
     "title": "Fading Star -Canopus-",
@@ -22661,6 +22701,19 @@
     "proposerLr2id": 35410
   },
   {
+    "md5": "e376f9d77ec9c58732fe6dcfc88e21e6",
+    "sha256": "fcf408fd53d8872d6c347eab42318095abd5c4141f8718b8ae00eed965f1d61d",
+    "title": "Caramel Liqueur [INSANE]",
+    "artist": "Nima(Exa) / obj:今を起きる人",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/bmstukuru2023/9",
+    "level": "6",
+    "comment": "ハネのリズム、ズレ",
+    "proposer": "しの",
+    "submission": 2751,
+    "proposerMinirid": "18aaa008-31fa-4cb5-9bf0-dd4af0f7e114"
+  },
+  {
     "md5": "319f4b239a0ae5bb283b186480010685",
     "sha256": "836d86993e3c054361c03e02270d538e4ad97fa54c445babb71e2fd0f871c161",
     "title": "Catalyst [GOODNESS Again.]",
@@ -22961,19 +23014,6 @@
     "proposer": "しおん",
     "submission": 897,
     "proposerLr2id": 86787
-  },
-  {
-    "level": "6",
-    "comment": "乱打",
-    "md5": "164efb64a46f8bd10b83c00b9436f5f8",
-    "sha256": "8683b8805086c54db7df49445e1e6defa649f33b74fea67b603f25d25e071de6",
-    "title": "Ground Z.E.R.O. [ZOI]",
-    "artist": "kanone obj:SUZUKAZEΛ",
-    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=327&event=127",
-    "proposer": "氷城つるぎ",
-    "submission": 1154,
-    "proposerLr2id": 151185
   },
   {
     "level": "6",
@@ -25453,6 +25493,19 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "level": "7",
+    "comment": "乱打",
+    "md5": "164efb64a46f8bd10b83c00b9436f5f8",
+    "sha256": "8683b8805086c54db7df49445e1e6defa649f33b74fea67b603f25d25e071de6",
+    "title": "Ground Z.E.R.O. [ZOI]",
+    "artist": "kanone obj:SUZUKAZEΛ",
+    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=327&event=127",
+    "proposer": "氷城つるぎ",
+    "submission": 1154,
+    "proposerLr2id": 151185
   },
   {
     "md5": "bd0d9f3b9bb90704d4d4e84567475d11",
@@ -59524,6 +59577,19 @@
     "sha256": "a03a9ecc60f0a3ae94efddfc41184f74e2dc345e1f3164e7a076c27e71c9724e"
   },
   {
+    "level": "19",
+    "comment": "ガチ押し",
+    "md5": "bd97bff3356c5d85dd3490c15d25035b",
+    "sha256": "eae0da72bcd6d08631dab30718c4bc44887e7fa0e30f3c704673a508f241dc83",
+    "title": "Breeze -SUMMER BOSS-",
+    "artist": "Kankitsu",
+    "url_diff": "http://bms.parksulab.xyz",
+    "url": "https://venue.bmssearch.net/bmsshuin2/92",
+    "proposer": "BAECON",
+    "submission": 989,
+    "proposerLr2id": 46122
+  },
+  {
     "md5": "8b80f903e5130379f658863cbd568186",
     "sha256": "03039ac5f49a15d5778351ecf2cc56c5a2f3bc38e151ddb6953c887f31624e5a",
     "title": "Celestial Axes [Polar Axis]",
@@ -60413,6 +60479,19 @@
     "votePercent": 0
   },
   {
+    "md5": "d65545a1dc09aa9f32871e222c4bb302",
+    "sha256": "8aab8f550874b2e5ea634d8b5256358ed1d2777772dc5c6e198657096146d1e3",
+    "title": "The Mighty A [NIGHTMARE]",
+    "artist": "69 de 74 obj:69 de 74 a.k.a. 37 go 64",
+    "url_diff": "",
+    "url": "https://pupuly.nekokan.dyndns.info/bms/v/212",
+    "level": "19",
+    "comment": "BPM397(実質198.5) 物量 同梱譜面",
+    "proposer": "GRASS",
+    "submission": 2077,
+    "proposerMinirid": "6ed5d1e2-61fa-471c-8fdc-da298113ba77"
+  },
+  {
     "md5": "991f47382511a456463a784c476ba669",
     "sha256": "b03f55fa738db8bac3ac94133d4c2ac232f636ff892a28898b9b447ec5e52b8a",
     "title": "tinnitus -INFINITY-",
@@ -61087,19 +61166,6 @@
     "proposer": "垢伴次郎",
     "submission": 1731,
     "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
-  },
-  {
-    "level": "20",
-    "comment": "ガチ押し",
-    "md5": "bd97bff3356c5d85dd3490c15d25035b",
-    "sha256": "eae0da72bcd6d08631dab30718c4bc44887e7fa0e30f3c704673a508f241dc83",
-    "title": "Breeze -SUMMER BOSS-",
-    "artist": "Kankitsu",
-    "url_diff": "http://bms.parksulab.xyz",
-    "url": "https://venue.bmssearch.net/bmsshuin2/92",
-    "proposer": "BAECON",
-    "submission": 989,
-    "proposerLr2id": 46122
   },
   {
     "md5": "fcf4c2c1baa3af5e74f2426674bfe7c7",
