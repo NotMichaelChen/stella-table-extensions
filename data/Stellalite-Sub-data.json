@@ -1717,6 +1717,19 @@
     "votePercent": 0
   },
   {
+    "md5": "6ca47e438b8168fe6030ae881c9f79ca",
+    "sha256": "20a9b8cf2a7f1919a26787e3b20d48612eee6153d49c72ac857df50fd186593f",
+    "title": "Ignited Time [Another]",
+    "artist": "Z-Siecle a.k.a. iF",
+    "url_diff": "",
+    "url": "https://www.mediafire.com/file/jkcbubetc3j0rzn/r7produce_bms_ignited_time_150525.zip/file",
+    "level": "0",
+    "comment": "G2R2014 BPM144 乱打",
+    "proposer": "ИиИ",
+    "submission": 2790,
+    "proposerLr2id": 147895
+  },
+  {
     "md5": "d0da1409ade5cd53d7e664fa27297c2e",
     "sha256": "166bb5f1963cfa792b0ec6273246d77dbbd967dc471859ed6de9505def05d755",
     "title": "IN",
@@ -28116,6 +28129,20 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "958fb75c735320fc3f5df1665c2811e1",
+    "sha256": "6512c95049efc42f309944ea63be4f842c943793d3baa6576c93e0eb58bbf2c7",
+    "title": "MachinaRegina -Luna-",
+    "artist": "ROKINA / selene.",
+    "url_diff": "https://stellabms.xyz/upload/1168",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=171&event=88",
+    "level": "8",
+    "comment": "sl7-8,地力乱打",
+    "zureCount": 0,
+    "proposer": "ABKAOD",
+    "submission": 2789,
+    "proposerLr2id": 175744
+  },
+  {
     "level": "8",
     "md5": "2fc9de092a418ba64d1747ba268494d8",
     "sha256": "a375111419d05cb4ba4192058c8a85f061e0e980b227591787c9728c6d9a8294",
@@ -42287,19 +42314,6 @@
     "sha256": "79d9dc44f63d8583e4645005cead33a94bab4829ee4c603bb5e3a531b5a90f2b"
   },
   {
-    "md5": "adf151087e3a54522ce98fb20e42055a",
-    "sha256": "bd339213216fdf34dd3b6e94e1a6ac43518c246c722b5e9f45677bac3719a55e",
-    "title": "capacitorLeak [bleedLeak]",
-    "artist": "XNOR obj. LuvTek",
-    "url_diff": "https://hpx.getonpictochat.com/bmss/2022/",
-    "url": "https://venue.bmssearch.net/standout/13",
-    "level": "14",
-    "comment": "同時押し、ガチ押し気味の後半",
-    "proposer": "Mary_Sue",
-    "submission": 2081,
-    "proposerLr2id": 147889
-  },
-  {
     "md5": "a87c666d3232097ac5359d6913ad5b23",
     "title": "carnation [for expert]",
     "artist": "ああああ / A",
@@ -43579,6 +43593,20 @@
     "proposerLr2id": 86393
   },
   {
+    "md5": "437a372c8c70c48cab03688cdfd68725",
+    "sha256": "4fca9416a819a3d4f74b30aa5af23b91c7ef0675159e3978f180c730bff48cde",
+    "title": "MachinaRegina -Eclipse-",
+    "artist": "ROKINA / selene.",
+    "url_diff": "https://stellabms.xyz/upload/1168",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=171&event=88",
+    "level": "14",
+    "comment": "BPM87~175 総合力",
+    "zureCount": 0,
+    "proposer": "ABKAOD",
+    "submission": 2101,
+    "proposerLr2id": 175744
+  },
+  {
     "md5": "e981f4d1bfeb05172fc28f14b3d58ad0",
     "sha256": "4ec59b3a0944e4af3ab0183f0f4fb90d93990446aa954098d4edc34b11f7cfbe",
     "title": "MachinaRegina [MASTER]",
@@ -44205,6 +44233,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "1bb18e2dd9211ef0143ccc906c269642f77a571009b6852aba59d924ce3ad1e3"
+  },
+  {
+    "md5": "87a88f848751adc0726981994b48c859",
+    "sha256": "393602adec3103715949ff2b034554f94985d0e7309c38ac0fc5e3ba643bbe27",
+    "title": "SMOOTH TRACK [EXTRA]",
+    "artist": "roop obj:EGRET.",
+    "url_diff": "https://stellabms.xyz/upload/2716",
+    "url": "https://roopdesign.net/post/34827532860/roop-bms-works-2004-2012",
+    "level": "14",
+    "comment": "高速物量　ズレはキー音の追加によるもの　[180BPM, total180(0.18%/note)]",
+    "proposer": "百地たまて",
+    "submission": 2102,
+    "proposerMinirid": "00186ba7-42e3-4915-8e18-0ece1e846741"
   },
   {
     "md5": "9a71a30bb7aabb4fcacd9094d1dfaa45",
@@ -46331,6 +46372,19 @@
     "proposer": "七海",
     "submission": 1572,
     "proposerLr2id": 84597
+  },
+  {
+    "md5": "adf151087e3a54522ce98fb20e42055a",
+    "sha256": "bd339213216fdf34dd3b6e94e1a6ac43518c246c722b5e9f45677bac3719a55e",
+    "title": "capacitorLeak [bleedLeak]",
+    "artist": "XNOR obj. LuvTek",
+    "url_diff": "https://hpx.getonpictochat.com/bmss/2022/",
+    "url": "https://venue.bmssearch.net/standout/13",
+    "level": "15",
+    "comment": "同時押し、ガチ押し気味の後半",
+    "proposer": "Mary_Sue",
+    "submission": 2081,
+    "proposerLr2id": 147889
   },
   {
     "md5": "9bb9b824fac547a3b50801e18bb4969a",
@@ -61995,20 +62049,6 @@
     "sha256": "5471cc813c75160219f517134ac35dde327cc7d1487e5e599d292e7098bf4363"
   },
   {
-    "md5": "a9e227310f8514ef4c38d746aa2a2218",
-    "sha256": "1a3bade65c07045af98536130db4a2e13736e0e97a410a36a05e380759361d2c",
-    "title": "DUARRIER [Twin Stream+]",
-    "artist": "Nuekawa obj: qtp13 / Clodsire",
-    "url_diff": "https://stellabms.xyz/upload/2422",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=248&event=137",
-    "level": "20",
-    "comment": "would this be... fine?",
-    "zureCount": 0,
-    "proposer": "qtp13",
-    "submission": 2097,
-    "proposerLr2id": 86559
-  },
-  {
     "title": "Electric Spark 2017 -1MV-",
     "artist": "shimizushi / selene.",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=251&event=116",
@@ -62094,6 +62134,19 @@
     "proposer": "APRICOT",
     "submission": 998,
     "proposerLr2id": 109350
+  },
+  {
+    "md5": "cc405707d2f3c03b5957fc3254d3f61b",
+    "sha256": "c70cfbc991bd0ba30aeed4273095a8fa110eb71fd9ca55a2492156ca94abde50",
+    "title": "Exit (ENTRANCE-DERAY)",
+    "artist": "Transin /obj NOLI.",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up2971.zip",
+    "url": "https://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
+    "level": "20",
+    "comment": "ディレイっぽいな連打",
+    "proposer": "MEES-♬",
+    "submission": 2100,
+    "proposerLr2id": 39693
   },
   {
     "md5": "c77f0fcb2e448529a386deff770d6f34",
@@ -63521,6 +63574,20 @@
     "comment": "",
     "submission": 58,
     "sha256": "fd498ac3197084d7dfdae418c208b01d2a06860fdb898401cc71681be99e26af"
+  },
+  {
+    "md5": "a9e227310f8514ef4c38d746aa2a2218",
+    "sha256": "1a3bade65c07045af98536130db4a2e13736e0e97a410a36a05e380759361d2c",
+    "title": "DUARRIER [Twin Stream+]",
+    "artist": "Nuekawa obj: qtp13 / Clodsire",
+    "url_diff": "https://stellabms.xyz/upload/2422",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=248&event=137",
+    "level": "21",
+    "comment": "would this be... fine?",
+    "zureCount": 0,
+    "proposer": "qtp13",
+    "submission": 2097,
+    "proposerLr2id": 86559
   },
   {
     "title": "Durandal -Magical Freezing- (Radio Edit) [for 9]",
