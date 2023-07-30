@@ -11468,6 +11468,19 @@
     "proposerLr2id": 86559
   },
   {
+    "md5": "723159503b40bba9385405f1e7eef927",
+    "sha256": "b0d5a604892e30e5b4b8d84bdc425006795c873ae2ef11c2c6fd77064b80240c",
+    "title": "Reinvent [SP Another]",
+    "artist": "Sound Souler mov : Tagtraume / obj : Sound Souler",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=116",
+    "level": "2",
+    "comment": "乱打 某スマホゲーにあったソフランはないです",
+    "proposer": "GRASS",
+    "submission": 2806,
+    "proposerMinirid": "6ed5d1e2-61fa-471c-8fdc-da298113ba77"
+  },
+  {
     "md5": "10dfec2e94eebb556fafa7e70616b16d",
     "sha256": "4bdd5d27634b87fcdf9c528778c484f3cae2252446b899c0a453763383b1009a",
     "title": "Replunge -Breakthrough-",
@@ -19681,6 +19694,20 @@
     "proposerMinirid": "18aaa008-31fa-4cb5-9bf0-dd4af0f7e114"
   },
   {
+    "md5": "1ec6d85f72c41c8e6defda4d18efa62c",
+    "sha256": "f48e4631c12d479cc1b1966e896b9b23779d0acc34131fb777aba1c4e42f5dd3",
+    "title": "壊廊 [83929Another]",
+    "artist": "Ice Plumes/obj:83929",
+    "url_diff": "https://stellabms.xyz/upload/1640",
+    "url": "https://venue.bmssearch.net/ippaitukuru2019/10",
+    "level": "4",
+    "comment": "BPM190の乱打譜面 (total 555 / 2000 notes)",
+    "zureCount": 0,
+    "proposer": "棟方愛海",
+    "submission": 2807,
+    "proposerMinirid": "d596be61-ffff-4573-863b-7a0c7d7be1d9"
+  },
+  {
     "md5": "35e9b7c25bf77a239c7aa4160d79336f",
     "sha256": "fcfcd3c3600c91e846a18429d55159e7f4d9366344376c9f915110647ec040aa",
     "title": "夜明けの少女たち [Delay]",
@@ -27356,6 +27383,19 @@
     "proposer": "qtp13",
     "submission": 1423,
     "proposerLr2id": 86559
+  },
+  {
+    "md5": "fef13c8c56cb0dc17fa9f8bd9fddaccb",
+    "sha256": "518f544bde36c34b2b51f21d7ac5b7f59fb4be5d9a5675b8f3162f6df0f938f4",
+    "title": "色待宵 -イロマツヨイ- [INSANE]",
+    "artist": "Pleiades (あとぅす vs. Lian)",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/bmstukuru2023/48",
+    "level": "7",
+    "comment": "bpm175 乱打",
+    "proposer": "Reiaki",
+    "submission": 2808,
+    "proposerMinirid": "5a65c230-776b-4597-8670-0390e9a2d474"
   },
   {
     "md5": "eb01a20f9358c2fb0843579fdfaa087e",
@@ -64294,6 +64334,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "26f0da7a18270fb129040234fb981ea36116d1453563066cbd87191dee0639b8"
+  },
+  {
+    "md5": "fda10c88ac530978028753578463703e",
+    "sha256": "3018414dcd6a52134241b87c7735c4ab0acc3bba145e95defa3d438e2f96ddce",
+    "title": "PANIC! BOUNCE!! ATTACK!!! [SP X-BUNNY]",
+    "artist": "ptar124 BGA: Yumemochi, OBJ:七海",
+    "url_diff": "https://www.dropbox.com/s/jsctoq0i1b7g12x/pba_nanami.zip?dl=1",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=402&event=133",
+    "level": "21",
+    "zureCount": 0,
+    "proposer": "歳納京子",
+    "submission": 2107,
+    "proposerLr2id": 75332
   },
   {
     "md5": "6e4ecc69bdef0ed46450b4f1d0773b96",
