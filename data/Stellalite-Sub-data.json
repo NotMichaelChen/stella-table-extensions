@@ -6208,6 +6208,18 @@
     "sha256": "8dce3d9025fd54b97e63c52eb80361aa142a8b0244af06a8208378f6f88bb439"
   },
   {
+    "md5": "ef6924657a88c6f5f3d65835a22b39d9",
+    "sha256": "48bda027ce31dcbfedba9fd63defa6deac89745fb0858f12da37ad6d430d2896",
+    "title": "Gynandromorph [7key_main]",
+    "artist": "tarolabo",
+    "url_diff": "",
+    "url": "https://www.mediafire.com/file/44680p3uf7dab41/Gynandromorph.zip/file",
+    "level": "1",
+    "proposer": "Mary_Sue",
+    "submission": 2816,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "c1a1bd1382d8b45d96f03e3913ab5ef0",
     "sha256": "a7ca58c75ef39fe9ebf6da8ef147059174c574638eeca0ea1dcb963bf982fdcb",
     "title": "Hades (Radio Edit) SP Black Another",
@@ -21381,6 +21393,20 @@
     "proposerLr2id": 108918
   },
   {
+    "md5": "8cc90c51dd6ca11b19cce58d73706ff6",
+    "sha256": "a4962df20b4c35695e470f8423cc43a616633320fa745c95d7e176447b4a0b36",
+    "title": "Medjed [F]",
+    "artist": "クロエ・ルメール obj:Fender",
+    "url_diff": "http://fenderbms.web.fc2.com/",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=76&event=96",
+    "level": "5",
+    "comment": "",
+    "zureCount": 0,
+    "proposer": "Reiaki",
+    "submission": 2815,
+    "proposerMinirid": "5a65c230-776b-4597-8670-0390e9a2d474"
+  },
+  {
     "md5": "d0e59acd20fe09a08e9af6d9efe8383a",
     "sha256": "ee93a2acae715e042e20af49c8aeba7a2233e1379e02ee8c49d203c701ba3089",
     "title": "Midnight Flux [Nosterdam]",
@@ -23575,6 +23601,20 @@
     "proposer": "Restia",
     "submission": 1790,
     "proposerLr2id": 115265
+  },
+  {
+    "md5": "dbd6c9147edfb502ac77ca8187cf59a4",
+    "sha256": "d7d5dc841558b3aadfda7c805085cbba518592bb9ff42b5f8699c538111a7bd1",
+    "title": "IN [sight.co.kr]",
+    "artist": "Zris feat. Katie obj.Restia",
+    "url_diff": "https://1drv.ms/u/s!ApwaJAUHJdpymiCRrtjmszJq5Td0?e=vaYQe9",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=354&event=127",
+    "level": "6",
+    "comment": "BPM133 少し低TOTAL(380/2171 0.175T/n)",
+    "zureCount": 0,
+    "proposer": "rajaCriteria",
+    "submission": 2818,
+    "proposerMinirid": "08a41861-a9f3-47b6-b40a-04f091becf1a"
   },
   {
     "md5": "b6d071c80ab9bb84f3280264e4c616c3",
@@ -26557,6 +26597,20 @@
     "proposerLr2id": 123475
   },
   {
+    "md5": "f405a0ecd04666197fb7b78425e77480",
+    "sha256": "efbfc8dc8585bcbe0dbceaadfa59b6851b534685a0cb326d8a2df20771cf4116",
+    "title": "reveL [7key_m'dear]",
+    "artist": "Orange Vox+ ft.AKA Movie:AiLANE obj:3830",
+    "url_diff": "https://stellabms.xyz/upload/2095",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=158&event=140",
+    "level": "7",
+    "comment": "BPM140 エスプリ",
+    "zureCount": 0,
+    "proposer": "rajaCriteria",
+    "submission": 2819,
+    "proposerMinirid": "08a41861-a9f3-47b6-b40a-04f091becf1a"
+  },
+  {
     "md5": "81bb1f687a08aeca8a020e0b80942972",
     "sha256": "bcbb68b1880855d76b064e6f027c6cf1265727f36633d42a3a303ceddcdf0ce0",
     "title": "satellite -EARTH-",
@@ -27943,6 +27997,19 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "e4f89eb4572349f2c8856de7ceb667c8",
+    "sha256": "fdd97cd379970d6f1d2f5e037dda739b9d9b8c77dd1be1d47d4235e7183687fe",
+    "title": "Fluctuate [Trigon]",
+    "artist": "ALFOU obj:1008",
+    "url_diff": "https://drive.google.com/file/d/1YLPy9C3evokOr4KtkAKuI9x5S21w-br0/view?usp=sharing",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=429&event=123",
+    "level": "8",
+    "comment": "高速乱打、物量",
+    "proposer": "ABKAOD",
+    "submission": 2814,
+    "proposerLr2id": 175744
   },
   {
     "md5": "e05791ba3fd7eec224897da3faa1352c",
@@ -35061,6 +35128,19 @@
     "proposerLr2id": 86393
   },
   {
+    "md5": "bb30f688df074d7c009ebd8751534434",
+    "sha256": "2ef39fbb1a9b671fa74db0e7685500f2e3146bd0de307c548aca70aaeb057f83",
+    "title": "The Lamia 170 [kerother]",
+    "artist": "w_tre / Mer / obj:けろささ",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up5168.zip",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=248&event=74",
+    "level": "11",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 2817,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "b83a9dc81958ec91a11e5b338e4404f3",
     "sha256": "a692cf0d937c74da22320fd93d77e04386ed51c347d80d0d888f7df52b9aedc9",
     "title": "tinnitus -7 Minether-",
@@ -39501,6 +39581,20 @@
     "proposerMinirid": "5a356ead-7697-48cb-ba1e-27ff9d0d8de7"
   },
   {
+    "md5": "46a81de22fb7c2c55633a3907936c8cf",
+    "sha256": "c757442cc815b614bfd331a10ef2168c523bb2026fc9b739d2580b8e563389fb",
+    "title": "Fluctuate [Tetragon]",
+    "artist": "ALFOU obj:1008",
+    "url_diff": "https://drive.google.com/file/d/1YLPy9C3evokOr4KtkAKuI9x5S21w-br0/view?usp=sharing",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=429&event=123",
+    "level": "13",
+    "comment": "高速乱打、物量、st4弱体版",
+    "zureCount": 0,
+    "proposer": "ABKAOD",
+    "submission": 2112,
+    "proposerLr2id": 175744
+  },
+  {
     "md5": "289a9abfbe1b7f3ee35813ade6e5155b",
     "sha256": "066e6464a20372fa9d5d689aba4e6da64e322ee578c9f5a271feb7608bf77587",
     "title": "From Megalopolis with Love [A+]",
@@ -40775,6 +40869,20 @@
     "proposer": "fuko",
     "submission": 1952,
     "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
+  },
+  {
+    "md5": "3db390c05597a39e5a3f318908ae961b",
+    "sha256": "6381ea45397d24cd60829a4ac7b024cb71c2c8f59d2ca1c6324a6ffd9edc71d5",
+    "title": "Undercontrolled [Mind control]",
+    "artist": "Sumire Tachibana / obj:kinoko",
+    "url_diff": "https://darksabun.github.io/mirror/absolute/uploader/up5282.zip",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=111&event=96",
+    "level": "13",
+    "comment": "BPM182 乱打",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 2114,
+    "proposerLr2id": 147889
   },
   {
     "md5": "29660c8adbe99a6132ecc9962d1bebc7",
@@ -51221,6 +51329,19 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "6c1230439c7dba570a59ed2c7ec76e9f",
+    "sha256": "56b41db857dfc7d968136066b5476ce463b8b1a9b8d973084ddbcd65ac6555b7",
+    "title": "eth剣 [HEARTFUL]",
+    "artist": "BOKKEN PINK BOKKEN DODOME+MAGENTA / obj&arr:魔女",
+    "url_diff": "https://stellabms.xyz/upload/3027",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=107&event=65",
+    "level": "16",
+    "comment": "アレンジ差分 BPM189乱打",
+    "proposer": "fuko",
+    "submission": 2113,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
+  },
+  {
     "md5": "42f95e437ed1cadefef5528dce3ebb84",
     "title": "Evanescent [DAYDREAM]",
     "artist": "LeaF / obj:BAECON vs 秘密 Movie:Optie",
@@ -52552,6 +52673,19 @@
     "comment": "",
     "submission": 20,
     "sha256": "dccf8d1a3dc18441d6b19bb760f5dd68fbd41282b20f69badd01b2c3ee5bc331"
+  },
+  {
+    "md5": "606ea0071e3e0ecad116a2e823ed8b87",
+    "sha256": "dc5c4879e3e3f844d94ec29af4b848467c7f04003db04de6912de635660c2dde",
+    "title": "Rebellion of Mechanical Heart [COLLAPSE]",
+    "artist": "Jin / sarada BGA:Ghastly Conceit",
+    "url_diff": "https://srdbms.otodo.net/sabun/rebellion_srd.zip",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=49",
+    "level": "16",
+    "comment": "アレンジ差分なのでズレ抜けチェック不可",
+    "proposer": "Mary_Sue",
+    "submission": 2115,
+    "proposerLr2id": 147889
   },
   {
     "level": "16",
