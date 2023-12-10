@@ -1710,20 +1710,8 @@
     "comment": "st3"
   },
   {
-    "md5": "fd1ea9686810b185a5eb15e37ad66a61",
-    "title": "searoad tracks [feverish]",
-    "level": "8.50...9.00",
-    "comment": "st3"
-  },
-  {
     "md5": "a7b3fba3112aa3000b53816a0b3b1a88",
     "title": "ペニンシュラの踊り子 The dancer of a peninsula [Hexagon]",
-    "level": "8.50...9.00",
-    "comment": "st3"
-  },
-  {
-    "md5": "55175a61f06b704b6c4849fbabd473cd",
-    "title": "夜明けの少女たち [triple]",
     "level": "8.50...9.00",
     "comment": "st3"
   },
@@ -1896,6 +1884,12 @@
     "comment": "st3"
   },
   {
+    "md5": "fd1ea9686810b185a5eb15e37ad66a61",
+    "title": "searoad tracks [feverish]",
+    "level": "9.00...9.50",
+    "comment": "st3"
+  },
+  {
     "md5": "61968950b9aeb39c6ce2576c75884243",
     "title": "Septem Peccata Mortalia [Deus]",
     "level": "9.00...9.50",
@@ -1982,6 +1976,12 @@
   {
     "md5": "f19e43deacedd0cd190ce7aa75c67479",
     "title": "俗物フェスティバル [无何之郷]",
+    "level": "9.00...9.50",
+    "comment": "st3"
+  },
+  {
+    "md5": "55175a61f06b704b6c4849fbabd473cd",
+    "title": "夜明けの少女たち [triple]",
     "level": "9.00...9.50",
     "comment": "st3"
   },
@@ -2736,6 +2736,12 @@
     "comment": "st6"
   },
   {
+    "md5": "7a1048df360b1a7b578b7b75bf0e1b85",
+    "title": "amorphous -disordered-",
+    "level": "-",
+    "comment": "st6"
+  },
+  {
     "md5": "3d052fad63621775580e943c97fb3d25",
     "title": "Anarchist [Libertarian]",
     "level": "-",
@@ -2998,6 +3004,12 @@
     "title": "BIG CHUNGUS -IR-",
     "level": "-",
     "comment": "st1"
+  },
+  {
+    "md5": "9790a18e11e0a63b1fd35cdd52d2f310",
+    "title": "Bird Sprite -D.K.R. mix- (24maniaq)",
+    "level": "-",
+    "comment": "st3"
   },
   {
     "md5": "a129e26fb60d6381fd44b07fd0ab9725",
@@ -7209,7 +7221,7 @@
     "md5": "836ad4b160c1195f8596abe49eb32b84",
     "title": "おジャ魔女でBANBAN！(Pop-mix) -爆裂魔法-",
     "level": "-",
-    "comment": "st4"
+    "comment": "st3"
   },
   {
     "md5": "558d8ae0380a67ee1c7b8f13770983b8",
@@ -8308,6 +8320,12 @@
     "title": "腹腹時計",
     "level": "-",
     "comment": "st4"
+  },
+  {
+    "md5": "6654bff10e28813f70e063d694f5f2ad",
+    "title": "色待宵 -イロマツヨイ- [EXTREME]",
+    "level": "-",
+    "comment": "st2"
   },
   {
     "md5": "58e5de4a2ce0ea6b106b88cc04f941a3",
