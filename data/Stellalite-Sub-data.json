@@ -358,6 +358,19 @@
     "proposerLr2id": 128405
   },
   {
+    "md5": "667fb17a485e103c3663ed20dbee5a43",
+    "sha256": "a2ab12bcee4c1d8ac1b151ee2dbf24a8f187b7dd023b324cbbd6aba396ee6cb4",
+    "title": "Aquahighway [ANOTHER]",
+    "artist": "@gra_pha",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=66&event=121",
+    "level": "0",
+    "comment": "138bpm / 16分乱打 / BSS",
+    "proposer": "HJY",
+    "submission": 2943,
+    "proposerMinirid": "c263b803-a420-4036-b94b-f837c25625b3"
+  },
+  {
     "md5": "bcecfe005e13d171434a0185a2ca8f96",
     "sha256": "104eb5bd4f21d8d07d33961a1d0125f79d0b57fa76aaa09be5cb24902d01f0cc",
     "title": "Asymmetric Grooves [ROCK]",
@@ -4621,6 +4634,19 @@
     "sha256": "532a76cb5a42dfccb2fdabc06624c432dc930f1aa26a067e496818ae9d79dc36"
   },
   {
+    "md5": "b6e5278b8b3a2b56c2dd1580481a5fc7",
+    "sha256": "99adb4fc3b16f1addc92a2aa94c71e14a878e5745e7c5509d700480f4290f951",
+    "title": "プラズマ・プラス・プラチナ！ [ANOTHER]",
+    "artist": "かんざきしおんスペシャル",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=430&event=140",
+    "level": "0",
+    "comment": "BOF:ET　軸、同時押しなど多要素",
+    "proposer": "mikado",
+    "submission": 2933,
+    "proposerMinirid": "d2ede742-3137-457b-9bea-4143f9f30a7d"
+  },
+  {
     "md5": "8f425209fae28c57edc33c3061e08236",
     "sha256": "80f3f395424366fc6b3bc8e790b3e968012a11413921843d9d8fdb05758f8461",
     "title": "プラネット [Satella]",
@@ -5864,6 +5890,19 @@
     "proposerLr2id": 7290
   },
   {
+    "md5": "011cd2c0f6936f0a28231a1324dce301",
+    "sha256": "f1574bb09e34ef7723469eeb6f8457ac39750302557ba7d2b38476c30b62820b",
+    "title": "Cosmic Velocity [7KEYS ANOTHER]",
+    "artist": "Kyuzo Sameura",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=291&event=142",
+    "level": "1",
+    "comment": "BOF:NT 微縦連",
+    "proposer": "mikado",
+    "submission": 2932,
+    "proposerMinirid": "d2ede742-3137-457b-9bea-4143f9f30a7d"
+  },
+  {
     "md5": "5341f00deb15193a600762377175cf1e",
     "title": "Crazy Sweetie Glitter Candy Color [ZOI]",
     "artist": "polysha feat. Sennzai obj:SUZUKAZEΛ",
@@ -6346,6 +6385,19 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "bae104520aa9931ccb80cafff6f56843",
+    "sha256": "0088fcec984cdcc604dea5de9a7fe859d111b6bbc83c18a1a3a12a6b4742c468",
+    "title": "F-O-T-J-A",
+    "artist": "7th Away",
+    "url_diff": "",
+    "url": "https://textage.cc/ori/fotja.rar",
+    "level": "1",
+    "comment": "bpm189 同時押し、トリル、乱打",
+    "proposer": "Mary_Sue",
+    "submission": 2940,
+    "proposerLr2id": 147889
+  },
+  {
     "level": "1",
     "comment": "Wire Puller IV, 皿複合",
     "md5": "5680b05650bd9f43ce5b474a615f96e4",
@@ -6373,6 +6425,20 @@
     "votePercent": 0,
     "sha256": "b7252f62b19f7d7bec1329f8dee540e556c17d36db62be2734a41e5914184ea0",
     "proposerLr2id": 83454
+  },
+  {
+    "md5": "d3838477f5fc69f29b60b5ec1546812a",
+    "sha256": "8534a2296b21a1875f5aa0ce2dac99025b3110543b1982c3040e58f41e8bfe9e",
+    "title": "fatalism -星降る夜に-",
+    "artist": "PASS obj : LindBlum",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05386",
+    "url": "https://web.archive.org/web/20060217220051/http://hc5.seikyou.ne.jp/home/ore303miss-ile/PASS_fatalism_MQ.rar",
+    "level": "1",
+    "comment": "シンプルな地力系 sl0～1? / 160BPM, total300(0.22%/note)",
+    "zureCount": 0,
+    "proposer": "百地たまて",
+    "submission": 2942,
+    "proposerMinirid": "00186ba7-42e3-4915-8e18-0ece1e846741"
   },
   {
     "md5": "72341b3417b72cdf78488a9e0f22797a",
@@ -13451,6 +13517,18 @@
     "proposerLr2id": 112136
   },
   {
+    "md5": "3e391c78576b2845fe9b6c0f0eb711be",
+    "sha256": "a95caa0f862042829806a8156e6cad13f205680bd795e3459fa310ee99913eb7",
+    "title": "桜シロガネ妖狐伝説 -ANOTHER-",
+    "artist": "LiA",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=96&event=115",
+    "level": "2",
+    "proposer": "njjds148",
+    "submission": 2938,
+    "proposerLr2id": 177552
+  },
+  {
     "md5": "04c7327e4c8393e071f9386d9f4a43d0",
     "sha256": "767760d9d199bda4074d830c83d5e833af6562582605216626d7609f6f7d75ad",
     "title": "海神寓拝 [29Another]",
@@ -16067,6 +16145,19 @@
     "proposer": "Mallow♪",
     "submission": 1769,
     "proposerLr2id": 154796
+  },
+  {
+    "md5": "fd31395c4f5e2e883665e0b622b06b1a",
+    "sha256": "9e0bac4e9487b7230b2293d78c76cd690b28717450e026a8ac0292d38bd177d0",
+    "title": "starlove [YUMECAWA]",
+    "artist": "+TEK obj:STANK!",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/03954.zip",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=432&event=123",
+    "level": "3",
+    "comment": "▼5/ 腕押し系 (2260notes/577total ) 差分同梱txtにてズレチェックに関する記載アリ",
+    "proposer": "棟方愛海",
+    "submission": 2941,
+    "proposerMinirid": "d596be61-ffff-4573-863b-7a0c7d7be1d9"
   },
   {
     "md5": "81b481d6ddb5842343b7d3aaee216d5e",
@@ -22984,6 +23075,19 @@
     "proposerLr2id": 145158
   },
   {
+    "md5": "c538f2f466278c674513dba81e7d1a5b",
+    "sha256": "ddc14c657904cdbd0846369f70d4873bfdac3c4c5085b0a61d3a04f9310ececd",
+    "title": "Upshift [ZOI]",
+    "artist": "Iriss-Frantzz obj:SUZUKAZEΛ",
+    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=355&event=123",
+    "level": "5",
+    "zureCount": 0,
+    "proposer": "kitnlzh",
+    "submission": 2936,
+    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
+  },
+  {
     "md5": "c07d08f3140366b0951b8528cee97e8d",
     "sha256": "510e311ae43ad3ca1d6687378dccc747af795146199096f94a08e5ead62cd73a",
     "title": "We are the xxxx [Shelther]",
@@ -24111,6 +24215,19 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "dd0f3f9cc06c6945cdcc410cf6d03e5c",
+    "sha256": "6410765f1be69e7546163c92203895a1f766352d8ffa75c7cfd0e2125c792a74",
+    "title": "Black or White",
+    "artist": "Yonder Voice",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=129",
+    "level": "6",
+    "comment": "181BPM 乱打 + 皿",
+    "proposer": "Seori",
+    "submission": 2944,
+    "proposerMinirid": "7040afc3-37ee-481c-b5d6-dbb031473e9a"
   },
   {
     "md5": "9bee0af5aaf2437b0dd78597aea46651",
@@ -25552,6 +25669,20 @@
     "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
+    "md5": "10981e95af0de5c875f89feccc5eac46",
+    "sha256": "ef897171a340d4eebf06c99bf09001149061fca4bf1ca60a79c0e37a43278d0d",
+    "title": "TwoPhace [ZOI]",
+    "artist": "litmus* + Sound Souler mov : Khronetic / obj:SUZUKAZEΛ",
+    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=47&event=116",
+    "level": "6",
+    "comment": "三重階段　ラス殺し",
+    "zureCount": 0,
+    "proposer": "kitnlzh",
+    "submission": 2937,
+    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
+  },
+  {
     "md5": "10fb16d79f95467f2f393f906a5bac57",
     "sha256": "10b336db468057a7ff4ef9994210af1782b72766cf2a3cac8f21fe4fd7b50eff",
     "title": "U-knighted Servant [ZOI]",
@@ -26704,6 +26835,20 @@
     "proposer": "nozomi",
     "submission": 2029,
     "proposerLr2id": 115265
+  },
+  {
+    "md5": "314774abaf1bfec4e1651c692e54f210",
+    "sha256": "1c39d15fa53ce70bfd6d8abb5d890a2972b669d9804b6888595fcad43b5941b9",
+    "title": "DainSleif [Pain]",
+    "artist": "TiS feat. きゃと (Cineraria Studio) / U",
+    "url_diff": "https://obju.web.fc2.com/sabun.html",
+    "url": "https://web.archive.org/web/20140111131009/http://cineraria-studio.com/bms/[cineraria_studio]dainsleif.zip",
+    "level": "7",
+    "comment": "bpm180 乱打",
+    "zureCount": 0,
+    "proposer": "Reiaki",
+    "submission": 2934,
+    "proposerMinirid": "5a65c230-776b-4597-8670-0390e9a2d474"
   },
   {
     "md5": "602dd85a33d37979833cdb94db0e3e97",
@@ -33545,6 +33690,20 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "0ec943a28c11e91730c063dd7fcb6a10",
+    "sha256": "dfe59ef3adbf7c769611bca0bee1516b9d9554ec56ad32ae3d7262e2fe2d3ebe",
+    "title": "Kaleidoscope [Reworked:Atharther]",
+    "artist": "Lycoris vs. Pied d'Alouette obj. Atharnal",
+    "url_diff": "https://stellabms.xyz/upload/3463",
+    "url": "https://venue.bmssearch.net/mutualfaith3/4",
+    "level": "10",
+    "comment": "",
+    "zureCount": 0,
+    "proposer": "패리수",
+    "submission": 2935,
+    "proposerMinirid": "ef5abf5e-d5c0-419d-90b3-79f084d43b49"
+  },
+  {
     "md5": "dd6b857dce39bac05f31399226f55cd6",
     "sha256": "ae32ba873005b23c1f95a5af40d5a98d339a8a058368b22058de14d84da93def",
     "title": "KiMURA HOLiC [LiON-HeartBreak]",
@@ -35277,6 +35436,19 @@
     "proposer": "USB-MSbsh",
     "submission": 2177,
     "proposerLr2id": 173103
+  },
+  {
+    "md5": "8727172b15790f060d184c2f60f715e5",
+    "sha256": "e9e153a825c8532a868d4032da13b9b5eb1480a66b8be38a3c9aeb228f621a66",
+    "title": "Dynasty of Extinction [!CRETACEOUS!]",
+    "artist": "utzbo VS paraneumann BGA:paraneumann/obj by Zethiwo",
+    "url_diff": "https://stellabms.xyz/upload/3331",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=142",
+    "level": "11",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 2939,
+    "proposerLr2id": 147889
   },
   {
     "md5": "4faa5ba5f76078757c24bdb0cd5c3731",
@@ -43365,6 +43537,19 @@
     "proposer": "Mary_Sue",
     "submission": 1613,
     "proposerLr2id": 147889
+  },
+  {
+    "md5": "255f045c6bffbe5fb13c465d264ab128",
+    "sha256": "1fa922b837c9edb78d2ca3b9ba7b8da6d00b7e730154fbadd41b5b8ec84bd0b5",
+    "title": "永夜ノ蝶 [Imperishable]",
+    "artist": "長沼浩太(パパ頑張りました) & 長沼浩太(フライパンでやりまーす) / obj:83929",
+    "url_diff": "https://stellabms.xyz/upload/3426",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=496&event=142",
+    "level": "13",
+    "comment": "BPM190 乱打(同梱_Eiya_no_Cho_base.bmxと比較して、ソフラン削除以外のズレ抜け無し)",
+    "proposer": "Lucid",
+    "submission": 2177,
+    "proposerMinirid": "3c018172-b965-4b75-a7ea-d4b575c04962"
   },
   {
     "md5": "8a951fe8b599a85430740b62db452aaa",
