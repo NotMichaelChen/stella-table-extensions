@@ -2526,12 +2526,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "76f4fd4cb0af7ded110fd26103cc83f8",
-    "title": "Ophelia (14keys Maniac)",
-    "level": "7.00...7.50",
-    "comment": "sl7"
-  },
-  {
     "md5": "c0df391328b3f4984fc53307236efdda",
     "title": "Skull & Witch [DP]",
     "level": "7.00...7.50",
@@ -2674,6 +2668,12 @@
     "title": "New Windy Paradise [DP MANIAC]",
     "level": "7.50...8.00",
     "comment": "sl8"
+  },
+  {
+    "md5": "76f4fd4cb0af7ded110fd26103cc83f8",
+    "title": "Ophelia (14keys Maniac)",
+    "level": "7.50...8.00",
+    "comment": "sl7"
   },
   {
     "md5": "143734dba02fd634d6a76c77509f8b85",
@@ -2840,6 +2840,12 @@
   {
     "md5": "f36b829438ba718c7e7679b430848c99",
     "title": "Luminance (DP ANOTHER)",
+    "level": "8.00...8.50",
+    "comment": "sl8"
+  },
+  {
+    "md5": "9bd85de86ef5afd051a3f654e133da02",
+    "title": "myste`re　 [14keys Another]",
     "level": "8.00...8.50",
     "comment": "sl8"
   },
@@ -3340,11 +3346,5 @@
     "title": "Life is PIANO [DP INS☆NE]",
     "level": "10.50...11.00",
     "comment": "sl10"
-  },
-  {
-    "md5": "9bd85de86ef5afd051a3f654e133da02",
-    "title": "myste`re　 [14keys Another]",
-    "level": "-",
-    "comment": "sl8"
   }
 ]
