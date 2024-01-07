@@ -576,12 +576,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "b7c6a7ac2e8da09d5e1b07bec42b4d62",
-    "title": "Retronika [DP ANOTHER]",
-    "level": "0.00...0.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "5b6413abb8ab8b5dc428e9716f531331",
     "title": "Sleet in the city [DP ANOTHER]",
     "level": "0.00...0.50",
@@ -744,6 +738,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "63c0784fbdf1b353e2f082a8d7ee329c",
+    "title": "Orfevre -H[AuCl4]-",
+    "level": "0.50...1.00",
+    "comment": "sl2"
+  },
+  {
     "md5": "5053443f61297cbaff0b2e7ad5f35714",
     "title": "perfume of reunion -DP ANOTHER-",
     "level": "0.50...1.00",
@@ -758,6 +758,12 @@
   {
     "md5": "d02c8e12c4678a01566f42937444eb79",
     "title": "Prismrose [DP ANOTHER]",
+    "level": "0.50...1.00",
+    "comment": "sl1"
+  },
+  {
+    "md5": "b7c6a7ac2e8da09d5e1b07bec42b4d62",
+    "title": "Retronika [DP ANOTHER]",
     "level": "0.50...1.00",
     "comment": "sl1"
   },
@@ -1092,6 +1098,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "7b00521bff9a8275d02b71a4f2a5086a",
+    "title": "Caelumize [MG]",
+    "level": "1.50...2.00",
+    "comment": "sl3"
+  },
+  {
     "md5": "e7aa5f8ab95ef3a74f177ba966693079",
     "title": "carnation [for pianist]",
     "level": "1.50...2.00",
@@ -1242,6 +1254,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "057320c93f0eb079cacb33d535f27a02",
+    "title": "無機質世界に彩を [Double Lush Green]",
+    "level": "1.50...2.00",
+    "comment": "sl3"
+  },
+  {
     "md5": "5c1c97a00af7b108e2a53afecba82cc3",
     "title": "雪肌玉惚少女 [DP Another]",
     "level": "1.50...2.00",
@@ -1268,12 +1286,6 @@
   {
     "md5": "1542e4cd8301369334457d3c6f4960bd",
     "title": "Blacksphere [DP Noise mix]",
-    "level": "2.00...2.50",
-    "comment": "sl3"
-  },
-  {
-    "md5": "7b00521bff9a8275d02b71a4f2a5086a",
-    "title": "Caelumize [MG]",
     "level": "2.00...2.50",
     "comment": "sl3"
   },
@@ -1824,6 +1836,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "b2d8e66f68e22dfa5d7b41bbb17d22a1",
+    "title": "Prayer [LEGGENDARIA]",
+    "level": "3.00...3.50",
+    "comment": "sl5"
+  },
+  {
     "md5": "f933308f0963b29ad48b6fe249689560",
     "title": "QSHELL -拒色のシェルル- [DPA]",
     "level": "3.00...3.50",
@@ -2098,12 +2116,6 @@
     "title": "Parallel Evolution (DP Very Hard)",
     "level": "3.50...4.00",
     "comment": "sl6"
-  },
-  {
-    "md5": "b2d8e66f68e22dfa5d7b41bbb17d22a1",
-    "title": "Prayer [LEGGENDARIA]",
-    "level": "3.50...4.00",
-    "comment": "sl5"
   },
   {
     "md5": "3c810e083b74b323b84593d52a78e1c9",
@@ -2592,12 +2604,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "2bef2aaca13082016b396c6beddc4f61",
-    "title": "Dreadnought [DP sub black another+]",
-    "level": "5.00...5.50",
-    "comment": "sl8"
-  },
-  {
     "md5": "a703e4bf5a0fe2f7904596fd118f29d0",
     "title": "Dystopia High [DPA]",
     "level": "5.00...5.50",
@@ -2822,6 +2828,12 @@
   {
     "md5": "53c2074d26127be0f7586e8def386cac",
     "title": "Blue Shock [DPA.NOTHER+]",
+    "level": "5.50...6.00",
+    "comment": "sl8"
+  },
+  {
+    "md5": "2bef2aaca13082016b396c6beddc4f61",
+    "title": "Dreadnought [DP sub black another+]",
     "level": "5.50...6.00",
     "comment": "sl8"
   },

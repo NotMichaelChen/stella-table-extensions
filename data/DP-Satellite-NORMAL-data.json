@@ -6,12 +6,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "b726de58fb66db5722c9eb13d7848333",
-    "title": "Hungry Inquiry [DP ANOTHER]",
-    "level": "-0.50...0.00",
-    "comment": "sl0"
-  },
-  {
     "md5": "3e2b303f183b77fe7938104a8c7a8869",
     "title": "Nu Flame [14K ANOTHER]",
     "level": "-0.50...0.00",
@@ -27,12 +21,6 @@
     "md5": "852775fe56624678df49f191f27cbbc8",
     "title": "人魚電台 [DP ANOTHER]",
     "level": "-0.50...0.00",
-    "comment": "sl0"
-  },
-  {
-    "md5": "32c4eb544798251f227dd58c7c1ee5a8",
-    "title": "062020 [14KEYS HYPER]",
-    "level": "0.00...0.50",
     "comment": "sl0"
   },
   {
@@ -180,15 +168,15 @@
     "comment": "sl0"
   },
   {
-    "md5": "3a9338257e96637378c6f7f4dac076f7",
-    "title": "ハッピーフェイクショー [DP Another]",
+    "md5": "200b8ce18d695381899a44135a7766e3",
+    "title": "繋いで！Miracle☆Wish -A Style Mix-",
     "level": "0.00...0.50",
     "comment": "sl0"
   },
   {
-    "md5": "200b8ce18d695381899a44135a7766e3",
-    "title": "繋いで！Miracle☆Wish -A Style Mix-",
-    "level": "0.00...0.50",
+    "md5": "32c4eb544798251f227dd58c7c1ee5a8",
+    "title": "062020 [14KEYS HYPER]",
+    "level": "0.50...1.00",
     "comment": "sl0"
   },
   {
@@ -196,12 +184,6 @@
     "title": "Amnehilesie [DP Hyper]",
     "level": "0.50...1.00",
     "comment": "sl0"
-  },
-  {
-    "md5": "e19cc99225c0ad52cba5c5a7c3a2b76f",
-    "title": "Battle TechniX [DP ANOTHER]",
-    "level": "0.50...1.00",
-    "comment": "sl1"
   },
   {
     "md5": "1cf006b02e60d21cef593be4a142d96e",
@@ -226,12 +208,6 @@
     "title": "Celeste [DP ANOTHER]",
     "level": "0.50...1.00",
     "comment": "sl0"
-  },
-  {
-    "md5": "ada4ddd496eef8091ae0fa303e027bab",
-    "title": "CELLS [DP ANOTHER]",
-    "level": "0.50...1.00",
-    "comment": "sl1"
   },
   {
     "md5": "032f2470cdd02273a64a0aaa24d9a07f",
@@ -288,12 +264,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "1c966ae590aa395ab74e4dfe89498b81",
-    "title": "fly*high*five [14ANOTHER]",
-    "level": "0.50...1.00",
-    "comment": "sl0"
-  },
-  {
     "md5": "344f3eb3b1f1fc279f68307e0110931e",
     "title": "GRID",
     "level": "0.50...1.00",
@@ -308,6 +278,12 @@
   {
     "md5": "6c7694578e4446c9a1ce3ca9b9a4ef91",
     "title": "Her Majesty [DP ANOTHER]",
+    "level": "0.50...1.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "b726de58fb66db5722c9eb13d7848333",
+    "title": "Hungry Inquiry [DP ANOTHER]",
     "level": "0.50...1.00",
     "comment": "sl0"
   },
@@ -414,8 +390,8 @@
     "comment": "sl0"
   },
   {
-    "md5": "71c011cf6cbef1fb7ad480117eaaf639",
-    "title": "マッドメチャクチャニズム [DP HYPER]",
+    "md5": "3a9338257e96637378c6f7f4dac076f7",
+    "title": "ハッピーフェイクショー [DP Another]",
     "level": "0.50...1.00",
     "comment": "sl0"
   },
@@ -444,6 +420,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "e19cc99225c0ad52cba5c5a7c3a2b76f",
+    "title": "Battle TechniX [DP ANOTHER]",
+    "level": "1.00...1.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "44c7bb601b66276777ffc1bd32f8617a",
     "title": "Ceebu Yapp",
     "level": "1.00...1.50",
@@ -462,6 +444,12 @@
     "comment": "sl0"
   },
   {
+    "md5": "1c966ae590aa395ab74e4dfe89498b81",
+    "title": "fly*high*five [14ANOTHER]",
+    "level": "1.00...1.50",
+    "comment": "sl0"
+  },
+  {
     "md5": "224ce2a5d7ac3a808e2c859aa0575eac",
     "title": "GET ON WiTH FUNKOT [DP HARD]",
     "level": "1.00...1.50",
@@ -476,12 +464,6 @@
   {
     "md5": "38116a6bf6c3efdf6bd03c34b57c320a",
     "title": "Highleg Mermaid [DP ANOTHER]",
-    "level": "1.00...1.50",
-    "comment": "sl1"
-  },
-  {
-    "md5": "f63b86f6bbf6c3105d579d9b4324a351",
-    "title": "Hot Jupiter",
     "level": "1.00...1.50",
     "comment": "sl1"
   },
@@ -528,6 +510,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "63c0784fbdf1b353e2f082a8d7ee329c",
+    "title": "Orfevre -H[AuCl4]-",
+    "level": "1.00...1.50",
+    "comment": "sl2"
+  },
+  {
     "md5": "eae225ae5bf7dc13829f76fab6c257a6",
     "title": "Prayer [ANOTHER]",
     "level": "1.00...1.50",
@@ -548,12 +536,6 @@
   {
     "md5": "b23ba65f405ebfea72637abfe90e981e",
     "title": "Resolution Trigger [DP INSANE]",
-    "level": "1.00...1.50",
-    "comment": "sl1"
-  },
-  {
-    "md5": "b7c6a7ac2e8da09d5e1b07bec42b4d62",
-    "title": "Retronika [DP ANOTHER]",
     "level": "1.00...1.50",
     "comment": "sl1"
   },
@@ -586,6 +568,12 @@
     "title": "バーチャルセラピー [DP ANOTHER]",
     "level": "1.00...1.50",
     "comment": "sl1"
+  },
+  {
+    "md5": "71c011cf6cbef1fb7ad480117eaaf639",
+    "title": "マッドメチャクチャニズム [DP HYPER]",
+    "level": "1.00...1.50",
+    "comment": "sl0"
   },
   {
     "md5": "0cd0f1fd400d046f27423c3ceb750d5c",
@@ -654,6 +642,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "f63b86f6bbf6c3105d579d9b4324a351",
+    "title": "Hot Jupiter",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "87a99be482ff03fe37134265827aabf0",
     "title": "IKAROS [DPA]",
     "level": "1.50...2.00",
@@ -686,6 +680,12 @@
   {
     "md5": "d02c8e12c4678a01566f42937444eb79",
     "title": "Prismrose [DP ANOTHER]",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
+    "md5": "b7c6a7ac2e8da09d5e1b07bec42b4d62",
+    "title": "Retronika [DP ANOTHER]",
     "level": "1.50...2.00",
     "comment": "sl1"
   },
@@ -822,6 +822,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "ada4ddd496eef8091ae0fa303e027bab",
+    "title": "CELLS [DP ANOTHER]",
+    "level": "2.00...2.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "7d01f32f1569eb98870bb81d9e2fc09b",
     "title": "DESIRE DRIVE (LLS HARDCORE REMIX)",
     "level": "2.00...2.50",
@@ -946,6 +952,12 @@
     "title": "六花 [EX14]",
     "level": "2.00...2.50",
     "comment": "sl2"
+  },
+  {
+    "md5": "057320c93f0eb079cacb33d535f27a02",
+    "title": "無機質世界に彩を [Double Lush Green]",
+    "level": "2.00...2.50",
+    "comment": "sl3"
   },
   {
     "md5": "a2518553abe125f233d6d35e68c68d13",
@@ -1818,6 +1830,12 @@
     "comment": "sl5"
   },
   {
+    "md5": "528d322a4c30c39036d8ecb9304f173b",
+    "title": "For No Reason",
+    "level": "5.00...5.50",
+    "comment": "sl5"
+  },
+  {
     "md5": "09d1c8ce11ca00865862fd4a94d00250",
     "title": "Granblaze [DP ANOTHER]",
     "level": "5.00...5.50",
@@ -1994,12 +2012,6 @@
   {
     "md5": "a988707912f2242bb3763a08a1968c9a",
     "title": "Catharsis again [DP ANOTHER]",
-    "level": "5.50...6.00",
-    "comment": "sl5"
-  },
-  {
-    "md5": "528d322a4c30c39036d8ecb9304f173b",
-    "title": "For No Reason",
     "level": "5.50...6.00",
     "comment": "sl5"
   },
@@ -2382,6 +2394,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "328535c09400f1d31460f9314013d34b",
+    "title": "平衡世界 Parallel World [Spring Ephemeral]",
+    "level": "6.50...7.00",
+    "comment": "sl7"
+  },
+  {
     "md5": "bb12fa09ab5443911ba51b1a7dd526db",
     "title": "温泉大作戦 [DP_Li]",
     "level": "6.50...7.00",
@@ -2568,12 +2586,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "328535c09400f1d31460f9314013d34b",
-    "title": "平衡世界 Parallel World [Spring Ephemeral]",
-    "level": "7.00...7.50",
-    "comment": "sl7"
-  },
-  {
     "md5": "1d0d3eb106bcd45d886d969d615b95b7",
     "title": "恋の2-4-11(BMS Edit) [恋の2-4-11って何だよ]",
     "level": "7.00...7.50",
@@ -2718,16 +2730,16 @@
     "comment": "sl7"
   },
   {
-    "md5": "9b2a7f55232d233a4dfa40442425db4b",
-    "title": "バーチャルセラピー [DP THERAPY]",
-    "level": "7.50...8.00",
-    "comment": "sl8"
-  },
-  {
     "md5": "b8f6072086e4821003637684f28cd765",
     "title": "焔-HOMURA- [ほむ×14]",
     "level": "7.50...8.00",
     "comment": "sl7"
+  },
+  {
+    "md5": "f4b8d89ea3ab4f4a45e17c399c88cd55",
+    "title": "白き星姫-Принцесса белая звезда- [BLACKAnother]",
+    "level": "7.50...8.00",
+    "comment": "sl8"
   },
   {
     "md5": "6e18537e473d8bd3b50b36b08f82b9dd",
@@ -2910,14 +2922,14 @@
     "comment": "sl8"
   },
   {
-    "md5": "2410f0012ff221ef64923eaafc027389",
-    "title": "月時計 Last・Dial (DoubleLunatic+)",
+    "md5": "9b2a7f55232d233a4dfa40442425db4b",
+    "title": "バーチャルセラピー [DP THERAPY]",
     "level": "8.00...8.50",
     "comment": "sl8"
   },
   {
-    "md5": "f4b8d89ea3ab4f4a45e17c399c88cd55",
-    "title": "白き星姫-Принцесса белая звезда- [BLACKAnother]",
+    "md5": "2410f0012ff221ef64923eaafc027389",
+    "title": "月時計 Last・Dial (DoubleLunatic+)",
     "level": "8.00...8.50",
     "comment": "sl8"
   },
