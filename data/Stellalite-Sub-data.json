@@ -15550,6 +15550,19 @@
     "proposerLr2id": 147895
   },
   {
+    "md5": "d4220c76b59dccc09ef2f2e76b40c99b",
+    "sha256": "a265f95b40de8ad9b01e5b9f1e5f3bbbd54451dba5f6883d8d0d9540524c1e77",
+    "title": "Life is PIANO [ZOI]",
+    "artist": "Junk obj:SUZUKAZEΛ",
+    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=123",
+    "level": "3",
+    "zureCount": 0,
+    "proposer": "kitnlzh",
+    "submission": 2977,
+    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
+  },
+  {
     "md5": "693efa24d5829c4ea0af01d4eed14cab",
     "sha256": "9a41ff6c2a5775ff19a16199d495b759d91d657a9a34d5e29ca7459fabca5da2",
     "title": "LIGHTNING STAIRWAY [WHITE ANOTHER]",
@@ -21311,6 +21324,19 @@
     "proposer": "selene.",
     "submission": 1040,
     "proposerLr2id": 84521
+  },
+  {
+    "md5": "adec1bcc37806f155cdae08d873c9f77",
+    "sha256": "57a52cb3fbeac72b876d80524f38f50850006c5878a628f0147a5c4c0ede6d11",
+    "title": "Absurd Gaff [Another]",
+    "artist": "siromaru / Mentalstock",
+    "url_diff": "",
+    "url": "http://nekokan.dyndns.info/~lobsak/genoside/",
+    "level": "5",
+    "comment": "★9",
+    "proposer": "kitnlzh",
+    "submission": 2978,
+    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
   },
   {
     "md5": "fe17f8430ef13d481523516bf5f83c84",
@@ -33483,6 +33509,19 @@
     "sha256": "e7ed7e0199b64b836ae17f504d70f8dd959c86339036ee1f820cf33d5e334fbf"
   },
   {
+    "md5": "bd0c636a335988b7848392a500b63e85",
+    "sha256": "4e2f2061760cbf787730ed06a6a4226932c24bfbba071462f6ac03e9d3d86228",
+    "title": "BIG LOVE [mini jacks]",
+    "artist": "Alkome LuvTek",
+    "url_diff": "https://fsrs.github.io/table.html",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=127&event=142",
+    "level": "10",
+    "comment": "동봉패턴 기준 키음 분할로 인한 즈레가 있음",
+    "proposer": "Mary_Sue",
+    "submission": 2976,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "963f0048dc7b8cbd4d45eee05d40b6fa",
     "sha256": "e89a8f59bb12d9b41da1b2029bc7d2f351747925b37717b98b6eb0a4c24f1d62",
     "title": "Black Baccara",
@@ -42026,6 +42065,19 @@
     "zureCount": 0,
     "proposer": "MarySue",
     "submission": 1159,
+    "proposerLr2id": 147889
+  },
+  {
+    "md5": "440de67203b13a0bef94fe2b82ce8f3d",
+    "sha256": "5944ddb8ba388a9b8242a40d173cb8fa88d1a75e6207a9677ccb8ae224276901",
+    "title": "JULIAN \"for B.O.F. 2009\"",
+    "artist": "Queen P.A.L. VJ KINTA / Lyntevia",
+    "url_diff": "https://venue.bmssearch.net/sd_sand/5",
+    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/oNEAVCTB",
+    "level": "13",
+    "comment": "Delay + keysound arrangement (https://venue.bmssearch.net/sd_sand/5により)",
+    "proposer": "Mary_Sue",
+    "submission": 2192,
     "proposerLr2id": 147889
   },
   {
@@ -62798,6 +62850,20 @@
     "proposer": "ふかけん",
     "submission": 1673,
     "proposerLr2id": 145204
+  },
+  {
+    "md5": "bf77d0819c8c24162d2c7ba62444a6dc",
+    "sha256": "0f3591be9ff249bf21c9d79674b2ad3a87a2b205e609a24b86d0633c1b3d684e",
+    "title": "アナログ横丁 [ハイレベルディレイ群星]",
+    "artist": "牧野 obj.Guanacoite",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04053",
+    "url": "https://dropbox.bms.ms/u/64302289/makino_anolog_yokochou.rar",
+    "level": "18",
+    "comment": "delay",
+    "zureCount": 0,
+    "proposer": "歳納京子",
+    "submission": 2191,
+    "proposerLr2id": 75332
   },
   {
     "md5": "3c21b7c732a3f8e49cac9531792ffa9e",
