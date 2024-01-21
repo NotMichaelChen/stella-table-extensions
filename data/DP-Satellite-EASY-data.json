@@ -1110,6 +1110,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "2ea293c3ef95853c05399a9df78f8c00",
+    "title": "E.V.E [DP ANOTHER]",
+    "level": "1.50...2.00",
+    "comment": "sl3"
+  },
+  {
     "md5": "49c7d8aa17853816883a710abc557fd0",
     "title": "Elina (feat. Reislaufer) [DP UDong Mix]",
     "level": "1.50...2.00",
@@ -2064,6 +2070,12 @@
     "comment": "sl6"
   },
   {
+    "md5": "972b10226fe6fb1cb39028570a1f34c1",
+    "title": "Electric Emotion [DP Extension Energy]",
+    "level": "3.50...4.00",
+    "comment": "sl6"
+  },
+  {
     "md5": "f97eb1e2a6015ccf91ec6cdce0f48c81",
     "title": "fragile crystal -14keys-",
     "level": "3.50...4.00",
@@ -2190,12 +2202,6 @@
     "comment": "sl6"
   },
   {
-    "md5": "972b10226fe6fb1cb39028570a1f34c1",
-    "title": "Electric Emotion [DP Extension Energy]",
-    "level": "4.00...4.50",
-    "comment": "sl6"
-  },
-  {
     "md5": "04a0afae2e165a4676c777d9bb9b55db",
     "title": "GIFT [14key Another]",
     "level": "4.00...4.50",
@@ -2268,6 +2274,12 @@
     "comment": "sl6"
   },
   {
+    "md5": "0927a8e429d04fb821bd166947c8bcd1",
+    "title": "PPBQ",
+    "level": "4.00...4.50",
+    "comment": "sl6"
+  },
+  {
     "md5": "3054144fdb43bf0404bd424570ff4ab3",
     "title": "Pray of ShootingStar [DP Another]",
     "level": "4.00...4.50",
@@ -2326,6 +2338,12 @@
     "title": "トルコ行進曲 (Hd-NRG mix) [Double]",
     "level": "4.00...4.50",
     "comment": "sl6"
+  },
+  {
+    "md5": "64bbf6a68a454762754d7d7f03611780",
+    "title": "010 [1110]",
+    "level": "4.50...5.00",
+    "comment": "sl7"
   },
   {
     "md5": "87dcc21c72f4e0c25e23915184b848a2",
@@ -2454,12 +2472,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "0927a8e429d04fb821bd166947c8bcd1",
-    "title": "PPBQ",
-    "level": "4.50...5.00",
-    "comment": "sl6"
-  },
-  {
     "md5": "29218763f7b55ddf23d1f4e1ec112816",
     "title": "Stellaria -Veritas Lux Mea-",
     "level": "4.50...5.00",
@@ -2548,12 +2560,6 @@
     "title": "霖風 [14KEYS-Insane]",
     "level": "4.50...5.00",
     "comment": "sl6"
-  },
-  {
-    "md5": "64bbf6a68a454762754d7d7f03611780",
-    "title": "010 [1110]",
-    "level": "5.00...5.50",
-    "comment": "sl7"
   },
   {
     "md5": "8043767df2a4141719991d649b74d23c",
@@ -3216,12 +3222,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "101c37c44d865b61b391fae7614eaaea",
-    "title": "Life is PIANO [DP INS☆NE]",
-    "level": "7.00...7.50",
-    "comment": "sl10"
-  },
-  {
     "md5": "19dd7514996c1d83396cf79d33dd0b03",
     "title": "Love☆Spellcard",
     "level": "7.00...7.50",
@@ -3314,6 +3314,12 @@
   {
     "md5": "61296a55d89ae86f957873df1cd011f1",
     "title": "IKAROS [DP Nymph]",
+    "level": "7.50...8.00",
+    "comment": "sl10"
+  },
+  {
+    "md5": "101c37c44d865b61b391fae7614eaaea",
+    "title": "Life is PIANO [DP INS☆NE]",
     "level": "7.50...8.00",
     "comment": "sl10"
   },
