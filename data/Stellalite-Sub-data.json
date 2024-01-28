@@ -6051,6 +6051,19 @@
     "sha256": "902526d195961065dc6870207369a65c6b103fc3d4c4b0eea53ff4f0e1d51f10"
   },
   {
+    "md5": "b08e9ed55ac7ff18317d8e42356f234c",
+    "sha256": "f4527f84490e171432720e9cb55792d9bad0c59d0f3819010ee8ff8d20427e82",
+    "title": "Creamy Sky [SP ANOTHER]",
+    "artist": "BTB Mov : mzet :-p & OLB / Obj. BTB vs B_K vs Z_N",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=96",
+    "level": "1",
+    "comment": "G2R2014 / ▼2 / 乱打, トリル",
+    "proposer": "重野葵",
+    "submission": 2990,
+    "proposerMinirid": "adb271e9-8c13-45dd-9db3-2cf94da7c2d3"
+  },
+  {
     "md5": "ffa73a12030984183e1a506296781103",
     "sha256": "40867314ae19778674ee732f140d0cfd75182f1984aacbb8eb661699f48ed695",
     "title": "Cross Down [Another]",
@@ -7000,6 +7013,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "bfccb3702839c56baeaee3b3c639c109360eb58f2753fe848db046079b84978f"
+  },
+  {
+    "md5": "6329f96c4a02fd7cc2457671e6e378a0",
+    "sha256": "963d5445b6fdf3e858453af44126ba4af83816a0a5c7562f836fb6a8782669af",
+    "title": "Kirameki☆Emotion [ANOTHER]",
+    "artist": "ねぎとまと",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=158&event=133",
+    "level": "1",
+    "comment": "BOFXVI同梱譜面",
+    "proposer": "mikado",
+    "submission": 2992,
+    "proposerMinirid": "d2ede742-3137-457b-9bea-4143f9f30a7d"
   },
   {
     "md5": "760143c5fe7caee39e5d7d36c91cefbe",
@@ -8827,6 +8853,19 @@
     "proposerLr2id": 86559
   },
   {
+    "md5": "bbeef24b697ef58a50006502674b8ded",
+    "sha256": "bb30c0700a7c35156d28a0ef793cf8ed6a9b9428029a7a0e09a663a389e31ad2",
+    "title": "〇、 [IC]",
+    "artist": "Kolaa & 熊子 (movie: 毛腿猪兔子 & Kolaa) obj:Scely",
+    "url_diff": "https://stellabms.xyz/upload/3375",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=296&event=142",
+    "level": "1",
+    "comment": "連打複合",
+    "proposer": "Reiaki",
+    "submission": 2993,
+    "proposerMinirid": "5a65c230-776b-4597-8670-0390e9a2d474"
+  },
+  {
     "md5": "6b6c91af8f9546ea8fcd65a6023ed0d5",
     "sha256": "1caa507293affbcccc36c5d24c0a828e297eb8e70da643c040a0485eec3cc0b6",
     "title": "あさつゆ",
@@ -10623,6 +10662,19 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "e2061134cf3acd5a71b7ef59b6a4ab9b",
+    "sha256": "ec275ccb8d67e65428cadffa8cc4c280acd2a0dc7a44b78c6a18d3061a7a4e0a",
+    "title": "E.V.E [ANOTHER]",
+    "artist": "SOMON",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=142",
+    "level": "2",
+    "comment": "BOF:NT 同梱譜面",
+    "proposer": "Seori",
+    "submission": 2987,
+    "proposerMinirid": "7040afc3-37ee-481c-b5d6-dbb031473e9a"
   },
   {
     "md5": "6180e21b460adfa1a3e56091b4a000e6",
@@ -13166,6 +13218,19 @@
     "votePercent": 0
   },
   {
+    "md5": "ea3dcd2e9b13e7360c698fc9cfd2142f",
+    "sha256": "25f306601a8dc2006a63429f21e2ceab609ba7a16d486ef8e867e23fc57a4205",
+    "title": "《Ж》 [SP ANOTHER]",
+    "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON bms. Qyubey / mov. Siesphere / obj. tkqn14",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=142",
+    "level": "2",
+    "comment": "BOF:NT 同梱譜面 / maybe... sl2?",
+    "proposer": "hecando",
+    "submission": 2991,
+    "proposerLr2id": 171650
+  },
+  {
     "md5": "2acacfadcf84b192df6daf4cb9a22ec7",
     "sha256": "2f03ee953f6f1af82c0873b7e7426621ad675683c37f5a6d2f6337abd81d619f",
     "title": "「ほしのおうじさま」 (Hat or snake?)",
@@ -13990,6 +14055,19 @@
     "proposer": "Yaksa",
     "submission": 973,
     "proposerLr2id": 146592
+  },
+  {
+    "md5": "2f2668d3c950d72f7ebd1c05f894089d",
+    "sha256": "c53a936bc3136180f5766928fcd18d5748fe91eb1716e37c0a8b3af9c05524b4",
+    "title": "羊 [21Another]",
+    "artist": "",
+    "url_diff": "",
+    "url": "http://yaritaihoudie.free.fr/bms/boxofsins/rwd.7z",
+    "level": "2",
+    "comment": "羊",
+    "proposer": "Mary_Sue",
+    "submission": 2989,
+    "proposerLr2id": 147889
   },
   {
     "level": "2",
@@ -18617,6 +18695,19 @@
     "proposerLr2id": 64145
   },
   {
+    "md5": "395eaa128a7a66d0d19aa8dd59ba7514",
+    "sha256": "900855129bec0ba40d7505c4fb53a2ca7069512eb9915dd3940151e14de7e205",
+    "title": "Critical Cannonball [SP ANOTHER]",
+    "artist": "SEPHID mov LankaNIK / obj AZVW_2",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=129",
+    "level": "4",
+    "comment": "東方音弾遊戯9 同梱譜面",
+    "proposer": "Seori",
+    "submission": 2988,
+    "proposerMinirid": "7040afc3-37ee-481c-b5d6-dbb031473e9a"
+  },
+  {
     "md5": "9c3e2b38128a35a4b3b3393e1f2f7696",
     "sha256": "9769ce41f5bb671fb4c556db38001b84aa8b10e20f80a20168ecd8ec58909d0f",
     "title": "Cube of mind [nova]",
@@ -22508,6 +22599,20 @@
     "proposer": "Haze*",
     "submission": 1745,
     "proposerLr2id": 112076
+  },
+  {
+    "md5": "7943fd4ea9f483adb6999ffc599ee973",
+    "sha256": "96943030668667e978336ab7335210b82d412192b4b71d2c252a67f3ff95d5b9",
+    "title": "LIFE (realism)",
+    "artist": "大前 司 × Reku Mochizuki feat. レゾナンスもえこ / nbunnyuwu movie: Mido / illustration:linglvz",
+    "url_diff": "https://stellabms.xyz/upload/3366",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=142",
+    "level": "5",
+    "comment": "BPM147 多要素",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 2996,
+    "proposerLr2id": 65624
   },
   {
     "md5": "af3d691548fe1aa9fdbf19d0e96387fb",
@@ -27059,6 +27164,19 @@
     "votePercent": 0
   },
   {
+    "md5": "416ae6300496560edc3ef07b652fc858",
+    "sha256": "765d66de21ac4edc2de957f0399c8122788e3542f61727d97b553de298b66f95",
+    "title": "Bad Elixir -Luna-",
+    "artist": "xi / selene. 鑓田(alpha complex)",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02497",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=316&event=123",
+    "level": "7",
+    "zureCount": 0,
+    "proposer": "京町精華",
+    "submission": 2994,
+    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
+  },
+  {
     "md5": "41541e23144c1f47186b8353c365921f",
     "sha256": "f5ee4fac3926d0a14c3e3b011db2c6259e992fccae52af935363ef07bac8c865",
     "title": "Banhotta [未来差分研究所]",
@@ -27938,6 +28056,20 @@
     "proposer": "dstorv",
     "submission": 1408,
     "proposerLr2id": 145158
+  },
+  {
+    "md5": "75017b795ebdc80b24e4a9ad5320fd88",
+    "sha256": "1c321e8a53121cfcff1b89c1861670e3bdc58262b3dd31942a5c0847de2f3265",
+    "title": "Love is instant [ZOI]",
+    "artist": "mommy obj:SUZUKAZEΛ",
+    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+    "url": "http://web.archive.org/web/20160116201149/http://dl.dropboxusercontent.com/s/88dphx3b2bi0x43/Love_is_instant.zip?dl=0",
+    "level": "7",
+    "comment": "ジャケ絵微エロ",
+    "zureCount": 0,
+    "proposer": "京町精華",
+    "submission": 2995,
+    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
   },
   {
     "md5": "a6f15937962bb5df6577869e60ca2fe6",
@@ -33847,6 +33979,20 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "3e4ff8c96296a73d4d61c9696eb529b2",
+    "sha256": "5ad285e60433eaa61dbb678f546586f7fe95890cd9e8588c31599669fbaa2cc6",
+    "title": "Evangelize (Radio Edit) [Oracle]",
+    "artist": "syatten + 140 Obj: Qualle",
+    "url_diff": "https://stellabms.xyz/upload/3579",
+    "url": "https://www.dropbox.com/sh/xrr3fvlhagzsmm2/AAC0HdK_kps6UCKtDFTCkpJea/bms/Evangelize%20(Radio%20Edit).rar?dl=0",
+    "level": "10",
+    "comment": "横に広い中速乱打 sl9強～sl10? / 140BPM, total536(0.18%/note)",
+    "zureCount": 0,
+    "proposer": "百地たまて",
+    "submission": 2986,
+    "proposerMinirid": "00186ba7-42e3-4915-8e18-0ece1e846741"
   },
   {
     "md5": "836662d32209c2ac0f0ce119e8de96fe",
@@ -46851,6 +46997,20 @@
     "proposerLr2id": 7290
   },
   {
+    "md5": "4ce4192905d9490f140b84e748624647",
+    "sha256": "8dd7da680e01ce32b6c0373013c99e7f9be62d1e953ea4378650ede8e98b994c",
+    "title": "RETROCONNECTION [Atharther]",
+    "artist": "Nego_tiator/ BGA: MUSH.T/ Illust: NAT4NE obj. Atharnal",
+    "url_diff": "https://atharnal.github.io/diff/table.html",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=376&event=142",
+    "level": "14",
+    "comment": "BOF:NT　BPM172の乱打",
+    "zureCount": 0,
+    "proposer": "T.",
+    "submission": 2202,
+    "proposerMinirid": "5a356ead-7697-48cb-ba1e-27ff9d0d8de7"
+  },
+  {
     "md5": "ccacba9cc726f0502b25b0dbbbbbc403",
     "sha256": "33cf16c911ff62cf403eee2b3e6226beb3877d38b68bf68d8ddbad031867e003",
     "title": "Retronika [Ekstrem]",
@@ -47586,6 +47746,20 @@
     "comment": "修正版",
     "submission": 17,
     "sha256": "15fc73e6d278152044bb8b5677ce214d22b94d781e5d2919c561d9796d8c92cb"
+  },
+  {
+    "md5": "de38bb5800e7dcc3175d78a71fbde715",
+    "sha256": "144ac531168c34c2586ace780332fa32c95729997d36d210030ec2130df0c78c",
+    "title": "あＡアぁ亜ａァ [Atharther]",
+    "artist": "ああああ obj. Atharnal",
+    "url_diff": "https://atharnal.github.io/diff/table.html",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=60",
+    "level": "14",
+    "comment": "gachi",
+    "zureCount": 0,
+    "proposer": "歳納京子",
+    "submission": 2198,
+    "proposerLr2id": 75332
   },
   {
     "md5": "b14a62fe597d3f4e4e47de795296013a",
@@ -50293,6 +50467,20 @@
     "sha256": "7a15538e30f548a7f274fb46b53a6599ead5f1696761af8465909e2497acafa7"
   },
   {
+    "md5": "22143dd25f50b2b5e76fa3e59e6d204e",
+    "sha256": "9773a7fa7e1dfb511faf6b6c031741bd0699561865bfa4b174fdf6dfaa38dac6",
+    "title": "Infinite Dreams [FUTURE]",
+    "artist": "あとぅす feat.橘花音 BGI:もーどまん / obj:potechang",
+    "url_diff": "https://stellabms.xyz/upload/3468",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=142",
+    "level": "15",
+    "comment": "中速乱打",
+    "zureCount": 0,
+    "proposer": "__CES",
+    "submission": 2199,
+    "proposerLr2id": 180326
+  },
+  {
     "md5": "89801f59148cb7e517fb51c7199a9ea7",
     "sha256": "9ae56550742d75112b1edeb99228146f972debd717f46d635340cdb2854cb9b5",
     "title": "J456",
@@ -50768,6 +50956,20 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "114b4492720dde14ef1a4abb3fada1d1",
+    "sha256": "f7dd0d7507d814bbdb31915149b4d3bf223a57b06b79496dff2b197dc23382f5",
+    "title": "Non Return to Zero [Manchesther]",
+    "artist": "Rakuno.α obj.meta",
+    "url_diff": "https://stellabms.xyz/upload/1977",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=137",
+    "level": "15",
+    "comment": "stream",
+    "zureCount": 0,
+    "proposer": "歳納京子",
+    "submission": 2197,
+    "proposerLr2id": 75332
   },
   {
     "level": "15",
@@ -51462,6 +51664,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "08686cef7888fea80223d748b6b3ae5b44e19c6f322dc7d62a223333ad9cf377"
+  },
+  {
+    "md5": "f4f312770b3ae166a09783fccbbe828c",
+    "sha256": "7801ccef8fb0f8356007a02bcbab82c818779940dc7609ccb65b1e10bf68d47e",
+    "title": "subglacial flux [for some reason]",
+    "artist": "l'avenir proche pattern for some reason",
+    "url_diff": "https://fsrs.github.io/table.html",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=511&event=142",
+    "level": "15",
+    "comment": "連打",
+    "zureCount": 0,
+    "proposer": "なつ",
+    "submission": 2201,
+    "proposerLr2id": 65517
   },
   {
     "title": "Suffruti [SILENCER]",
@@ -52393,6 +52609,20 @@
     "proposerLr2id": 147889
   },
   {
+    "md5": "3592913c3cf43dc5c0fc3628e98594f4",
+    "sha256": "b2fcd3c85b6200449a0b8e998fb44c968158a72a4b74704630a673314ef8a40f",
+    "title": "口人間 [口回品]",
+    "artist": "空読無 白眼 / obj: Mary_Sue",
+    "url_diff": "https://darksabun.github.io/event/bofnt/table.html",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=226&event=142",
+    "level": "15",
+    "comment": "BPM089 24分ガチ押し",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 2203,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "8eea328148fa1ad7a1bfea6ee7399e4f",
     "sha256": "f3adaf524171793dfd56672461477d30286febb42245c4ae6337cdcbf710a8b2",
     "title": "図書室のエルザ [Elsa de la Bibliotheque]",
@@ -53036,6 +53266,20 @@
     "proposer": "MineC24",
     "submission": 1050,
     "proposerLr2id": 84597
+  },
+  {
+    "md5": "de541997c6e74cf83ffdd5e41fb81c51",
+    "sha256": "133fcc59205f240576d7e2701e559d17152c45b596f02bb2fce54066fe1ff667",
+    "title": "Aerolic Absorption [И/∀]",
+    "artist": "RepLyknt(Rep x sto_Lu x usb_nk) obj by Иuclein / ∀tharnal",
+    "url_diff": "https://atharnal.github.io/diff/table.html",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=426&event=142",
+    "level": "16",
+    "comment": "185bpm",
+    "zureCount": 0,
+    "proposer": "なつ",
+    "submission": 2200,
+    "proposerLr2id": 65517
   },
   {
     "title": "After Burner [CLEAN]",
