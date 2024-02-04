@@ -708,12 +708,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "24990b5348187bfd53c897ed4b1ff120",
-    "title": "Late Summer [nostalgia]",
-    "level": "6.50...7.00",
-    "comment": "sl2"
-  },
-  {
     "md5": "5beb90dc50a2fccd6b757ff15d2775f8",
     "title": "Magical Love Words (vovovo.mix) -another14-",
     "level": "6.50...7.00",
@@ -740,6 +734,12 @@
   {
     "md5": "dff6930e3435fe6552d4670c689d2270",
     "title": "Is This Your Memory? [Another]",
+    "level": "7.00...7.50",
+    "comment": "sl2"
+  },
+  {
+    "md5": "24990b5348187bfd53c897ed4b1ff120",
+    "title": "Late Summer [nostalgia]",
     "level": "7.00...7.50",
     "comment": "sl2"
   },
@@ -2668,6 +2668,12 @@
     "title": "PLASTIC GIRLS (ft. Seorryang) [DP MANIAC]",
     "level": "-",
     "comment": "sl6"
+  },
+  {
+    "md5": "05ec855667f1bae4c824ed62a72abe11",
+    "title": "Poppin' Candy [14-A]",
+    "level": "-",
+    "comment": "sl3"
   },
   {
     "md5": "0927a8e429d04fb821bd166947c8bcd1",

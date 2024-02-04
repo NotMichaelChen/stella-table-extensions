@@ -438,6 +438,12 @@
     "comment": "st0"
   },
   {
+    "md5": "41a297ae0cda634077a3a5a9c1bb11d8",
+    "title": "ふゆいろ ドリーマー [凍る夢]",
+    "level": "5.00...5.50",
+    "comment": "st0"
+  },
+  {
     "md5": "54122c5fe4306ef765cff0433b5a7176",
     "title": "ぽっぷる！ [delay party]",
     "level": "5.00...5.50",
@@ -548,6 +554,12 @@
   {
     "md5": "f5dc520523bf9327d818990b48320708",
     "title": "夜桜 [DERAYMASTER]",
+    "level": "5.00...5.50",
+    "comment": "st0"
+  },
+  {
+    "md5": "255f045c6bffbe5fb13c465d264ab128",
+    "title": "永夜ノ蝶 [Imperishable]",
     "level": "5.00...5.50",
     "comment": "st0"
   },
@@ -914,6 +926,12 @@
   {
     "md5": "3edbc8940ca812c2c784cfd8f3af227c",
     "title": "Metatron [DX]",
+    "level": "6.50...7.00",
+    "comment": "st1"
+  },
+  {
+    "md5": "45b002bfe981461be80d75b45df9446f",
+    "title": "new earth [terra nova]",
     "level": "6.50...7.00",
     "comment": "st1"
   },
@@ -1436,6 +1454,12 @@
   {
     "md5": "af5ff5d75c07854b0234523a33ef87fe",
     "title": "Nhelv -Genocide-",
+    "level": "7.50...8.00",
+    "comment": "st2"
+  },
+  {
+    "md5": "dc0c62e5c809c1a75460edb5f4640006",
+    "title": "NS22 [Snother]",
     "level": "7.50...8.00",
     "comment": "st2"
   },
@@ -1994,6 +2018,12 @@
   {
     "md5": "f19e43deacedd0cd190ce7aa75c67479",
     "title": "俗物フェスティバル [无何之郷]",
+    "level": "9.00...9.50",
+    "comment": "st3"
+  },
+  {
+    "md5": "4966cfceb7eec811d6a429f8c69c1cf6",
+    "title": "切踏 (献花)",
     "level": "9.00...9.50",
     "comment": "st3"
   },
@@ -2589,7 +2619,7 @@
     "md5": "ee7c4da069a3d7d0f698441d97f332c5",
     "title": "0x00000000 -neutralino-",
     "level": "-",
-    "comment": "st11"
+    "comment": "st10"
   },
   {
     "md5": "cc1f0229152e5d150aeca12610d47f5e",
@@ -3759,7 +3789,7 @@
     "md5": "b2c1d533c7b843706249e54f3c99b53e",
     "title": "dotabata〆trickster [Trick or Trick]",
     "level": "-",
-    "comment": "st2"
+    "comment": "st3"
   },
   {
     "md5": "891cdab3552aec6b2af3570488099f4b",
@@ -4144,6 +4174,12 @@
     "title": "False Friend -Enemy-",
     "level": "-",
     "comment": "st6"
+  },
+  {
+    "md5": "09e1c7866bc30fa74e8ffb9258aa2c73",
+    "title": "Fancy-Sky Trip [Delayed Flight]",
+    "level": "-",
+    "comment": "st5"
   },
   {
     "md5": "d74681e8ad8059ba21d3e9b965e7d138",
@@ -4878,6 +4914,12 @@
     "comment": "st9"
   },
   {
+    "md5": "440de67203b13a0bef94fe2b82ce8f3d",
+    "title": "JULIAN \"for B.O.F. 2009\"",
+    "level": "-",
+    "comment": "st2"
+  },
+  {
     "md5": "1e9c2d49a28494f5db6541e3bf1c2eae",
     "title": "JULIAN \"for B.O.F. 2009\"",
     "level": "-",
@@ -5146,6 +5188,12 @@
     "title": "Luminaria [Deep in Abyss]",
     "level": "-",
     "comment": "st6"
+  },
+  {
+    "md5": "fb8732784e2fe5d91f77a3634753167d",
+    "title": "Luminescent Drive [Coasted]",
+    "level": "-",
+    "comment": "st1"
   },
   {
     "md5": "77920dee7732911b0921c3a87a8b06a8",
@@ -5418,12 +5466,6 @@
     "comment": "st1"
   },
   {
-    "md5": "45b002bfe981461be80d75b45df9446f",
-    "title": "new earth [terra nova]",
-    "level": "-",
-    "comment": "st1"
-  },
-  {
     "md5": "a4fbdf2fb7cdc54b1b284e2d2c460415",
     "title": "Nexus -Despair & Hope-",
     "level": "-",
@@ -5482,12 +5524,6 @@
     "title": "Nothingness [殺]",
     "level": "-",
     "comment": "st9"
-  },
-  {
-    "md5": "dc0c62e5c809c1a75460edb5f4640006",
-    "title": "NS22 [Snother]",
-    "level": "-",
-    "comment": "st2"
   },
   {
     "md5": "bd42752b04f3a53d24fae87fe6d1c069",
@@ -6424,6 +6460,12 @@
     "title": "Sound of Monochrome [False Delaymma]",
     "level": "-",
     "comment": "st3"
+  },
+  {
+    "md5": "dd40c88f0c71c0bb10fa3c048a6fb3f3",
+    "title": "Space Route to Kepler-186f [Distant Travel]",
+    "level": "-",
+    "comment": "st4"
   },
   {
     "md5": "f5a9d91ddb0f9685b80764968a2831bc",
@@ -7380,12 +7422,6 @@
     "comment": "st0"
   },
   {
-    "md5": "41a297ae0cda634077a3a5a9c1bb11d8",
-    "title": "ふゆいろ ドリーマー [凍る夢]",
-    "level": "-",
-    "comment": "st0"
-  },
-  {
     "md5": "38b6f9405ecbf0e41856b9f2369d1be8",
     "title": "ほしぞら遊覧飛行 [Andromeda]",
     "level": "-",
@@ -7426,6 +7462,12 @@
     "title": "わーにんぴーぽー [絶望]",
     "level": "-",
     "comment": "st2"
+  },
+  {
+    "md5": "bf77d0819c8c24162d2c7ba62444a6dc",
+    "title": "アナログ横丁 [ハイレベルディレイ群星]",
+    "level": "-",
+    "comment": "st5"
   },
   {
     "md5": "818ef67bb61390d14b0f4dba5ff2c569",
@@ -7986,12 +8028,6 @@
     "comment": "st10"
   },
   {
-    "md5": "4966cfceb7eec811d6a429f8c69c1cf6",
-    "title": "切踏 (献花)",
-    "level": "-",
-    "comment": "st3"
-  },
-  {
     "md5": "985e530b1dbed71537b20990e0da531d",
     "title": "十十日月 -萌-",
     "level": "-",
@@ -8260,12 +8296,6 @@
     "title": "永劫綺譚の純潔葬花 -Black Lily-",
     "level": "-",
     "comment": "st6"
-  },
-  {
-    "md5": "255f045c6bffbe5fb13c465d264ab128",
-    "title": "永夜ノ蝶 [Imperishable]",
-    "level": "-",
-    "comment": "st0"
   },
   {
     "md5": "f5114077ded4168d255c7f0e24ff21f1",

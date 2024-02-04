@@ -372,6 +372,12 @@
     "comment": "sl0"
   },
   {
+    "md5": "9fbd73fd61ca51496be9faa8d91cc1c6",
+    "title": "FREEZE [SP ANOTHER]",
+    "level": "-0.50...0.00",
+    "comment": "sl0"
+  },
+  {
     "md5": "a641f9672426a15be886089359b0ba6c",
     "title": "Freshness Vacation",
     "level": "-0.50...0.00",
@@ -1470,6 +1476,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "5946a69a73d03c3833f00d82a739cee3",
+    "title": "Gar♪goyle [HYPER]",
+    "level": "0.00...0.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "c14fa03695eb0d8372414d85bb083fc1",
     "title": "holy night celebration [White Christmas]",
     "level": "0.00...0.50",
@@ -1718,6 +1730,12 @@
   {
     "md5": "5218c51ab40bf345c74cd399f7b88fdb",
     "title": "Psalms ～魂の還るばしょ～ [SP ANOTHER]",
+    "level": "0.00...0.50",
+    "comment": "sl1"
+  },
+  {
+    "md5": "c57c2d5b984c9ea0a133a107326fcf31",
+    "title": "R-B-H-N! [Insane]",
     "level": "0.00...0.50",
     "comment": "sl1"
   },
@@ -2064,6 +2082,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "c52bae75afe5e437119e6f0e07d869c6",
+    "title": "喋喋喃喃 [MiKather]",
+    "level": "0.00...0.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "b67c0f0b5da347f94eae1119b1158ec9",
     "title": "夢の地図と僕らの旅 [departure]",
     "level": "0.00...0.50",
@@ -2364,6 +2388,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "2500c8c660e49d08b6e554211b1498ea",
+    "title": "Song [SP INSANE]",
+    "level": "0.50...1.00",
+    "comment": "sl2"
+  },
+  {
     "md5": "dffc4992285e5d5022952dd62e4236c0",
     "title": "Unidentified New Emotion -7Keys Another-",
     "level": "0.50...1.00",
@@ -2416,12 +2446,6 @@
     "title": "スナレ [Medium Size]",
     "level": "0.50...1.00",
     "comment": "sl2"
-  },
-  {
-    "md5": "c52bae75afe5e437119e6f0e07d869c6",
-    "title": "喋喋喃喃 [MiKather]",
-    "level": "0.50...1.00",
-    "comment": "sl1"
   },
   {
     "md5": "10f14321a847e8a28d5ff60bb6b1ab17",
@@ -2778,6 +2802,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "f726bc7fa048f9a7fdef502c50587a7d",
+    "title": "Ling Child (BMS Edit) [SP Reaju]",
+    "level": "1.00...1.50",
+    "comment": "sl2"
+  },
+  {
     "md5": "e3175508e73af1949ae3bad83bdfe750",
     "title": "locked girl@Scarlet-Devils Palace -Luna-",
     "level": "1.00...1.50",
@@ -3008,12 +3038,6 @@
   {
     "md5": "883e105c2aa9a81108b3c4bf5d571c41",
     "title": "Snowfairy -naughty-",
-    "level": "1.00...1.50",
-    "comment": "sl2"
-  },
-  {
-    "md5": "2500c8c660e49d08b6e554211b1498ea",
-    "title": "Song [SP INSANE]",
     "level": "1.00...1.50",
     "comment": "sl2"
   },
@@ -3678,6 +3702,12 @@
     "comment": "sl3"
   },
   {
+    "md5": "fd31395c4f5e2e883665e0b622b06b1a",
+    "title": "starlove [YUMECAWA]",
+    "level": "1.50...2.00",
+    "comment": "sl3"
+  },
+  {
     "md5": "81b481d6ddb5842343b7d3aaee216d5e",
     "title": "strawberry happiness [UnHappiness]",
     "level": "1.50...2.00",
@@ -4142,6 +4172,12 @@
   {
     "md5": "4c8d82ccf93dd4ea622201c89d2fb6d9",
     "title": "NightTheater [Thriller]",
+    "level": "2.00...2.50",
+    "comment": "sl4"
+  },
+  {
+    "md5": "a5f781a41fa73924470700508a74542b",
+    "title": "Opaque Couche [Latte]",
     "level": "2.00...2.50",
     "comment": "sl4"
   },
@@ -5118,12 +5154,6 @@
     "comment": "sl5"
   },
   {
-    "md5": "a5f781a41fa73924470700508a74542b",
-    "title": "Opaque Couche [Latte]",
-    "level": "3.00...3.50",
-    "comment": "sl5"
-  },
-  {
     "md5": "3630d0ec582727bf9cf4c2fb025ccc85",
     "title": "perfume of reunion [old's cool]",
     "level": "3.00...3.50",
@@ -5234,12 +5264,6 @@
   {
     "md5": "21b4c6161aa75946b0692ed375010f68",
     "title": "Wizdomiot [ABNORMAL]",
-    "level": "3.00...3.50",
-    "comment": "sl5"
-  },
-  {
-    "md5": "a34cc2170bd381182f1344d215426675",
-    "title": "xeusonic [ZOI]",
     "level": "3.00...3.50",
     "comment": "sl5"
   },
@@ -5518,12 +5542,6 @@
     "title": "Chronomia",
     "level": "3.50...4.00",
     "comment": "sl5"
-  },
-  {
-    "md5": "d33950e1add0bf47a18e1c13e419ca9d",
-    "title": "Demon's Roar [SP ANOTHER]",
-    "level": "3.50...4.00",
-    "comment": "sl6"
   },
   {
     "md5": "ef0c69d4eb9a01e56b2f12f52b978f95",
@@ -5868,6 +5886,12 @@
     "comment": "sl6"
   },
   {
+    "md5": "dd0f3f9cc06c6945cdcc410cf6d03e5c",
+    "title": "Black or White",
+    "level": "4.00...4.50",
+    "comment": "sl6"
+  },
+  {
     "md5": "f8dd029100b14f226a482480903efa48",
     "title": "BlythE:ExtenD -SemicoloN-",
     "level": "4.00...4.50",
@@ -5882,6 +5906,12 @@
   {
     "md5": "319f4b239a0ae5bb283b186480010685",
     "title": "Catalyst [GOODNESS Again.]",
+    "level": "4.00...4.50",
+    "comment": "sl6"
+  },
+  {
+    "md5": "d33950e1add0bf47a18e1c13e419ca9d",
+    "title": "Demon's Roar [SP ANOTHER]",
     "level": "4.00...4.50",
     "comment": "sl6"
   },
@@ -6086,6 +6116,12 @@
   {
     "md5": "bde6e746250d86e04619a5d7f527c4be",
     "title": "VENUS INVADER [for A.]",
+    "level": "4.00...4.50",
+    "comment": "sl6"
+  },
+  {
+    "md5": "a34cc2170bd381182f1344d215426675",
+    "title": "xeusonic [ZOI]",
     "level": "4.00...4.50",
     "comment": "sl6"
   },
@@ -6726,6 +6762,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "35aa9799ed7150c61c2ffa3c84f4a8d7",
+    "title": "BEYOND [KITSUNE]",
+    "level": "5.00...5.50",
+    "comment": "sl8"
+  },
+  {
     "md5": "b3172f3593b9d8685769954821d65e9a",
     "title": "Booboo Bounce! [Immortal]",
     "level": "5.00...5.50",
@@ -6748,6 +6790,12 @@
     "title": "Coda [ZOI]",
     "level": "5.00...5.50",
     "comment": "sl7"
+  },
+  {
+    "md5": "b4b061a9c39188bf738d381a2e6aab34",
+    "title": "Cong＊Chu＊Jelly [strawberry flavor]",
+    "level": "5.00...5.50",
+    "comment": "sl8"
   },
   {
     "md5": "8ff8f7dca521b31d3097066e97874540",
@@ -6782,6 +6830,12 @@
   {
     "md5": "e4f89eb4572349f2c8856de7ceb667c8",
     "title": "Fluctuate [Trigon]",
+    "level": "5.00...5.50",
+    "comment": "sl8"
+  },
+  {
+    "md5": "43ae0b9401b3b2214322b520b662f62a",
+    "title": "Fuzzy-Navel [Nemesis]",
     "level": "5.00...5.50",
     "comment": "sl8"
   },
@@ -6834,6 +6888,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "1fa758ced26af227df73494e01753049",
+    "title": "Infinite Dreams [INSANE]",
+    "level": "5.00...5.50",
+    "comment": "sl8"
+  },
+  {
     "md5": "ecbd20da05427e4fef8f3d3234f1c57b",
     "title": "introspect [KF7]",
     "level": "5.00...5.50",
@@ -6878,12 +6938,6 @@
   {
     "md5": "b31d63e8f79e8655fc461a9202a6f93c",
     "title": "Orfevre -Expert-",
-    "level": "5.00...5.50",
-    "comment": "sl8"
-  },
-  {
-    "md5": "41a832918034e9cd227b95765ea87956",
-    "title": "PARTY with 141s [Another]",
     "level": "5.00...5.50",
     "comment": "sl8"
   },
@@ -7026,12 +7080,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "1e8a560a0488f10924a22332c5be2ca1",
-    "title": "Aloof Wolf -trysts-",
-    "level": "5.50...6.00",
-    "comment": "sl9"
-  },
-  {
     "md5": "aad5ec4218a33048c3cd18eb9e182ac5",
     "title": "Artemis　 -SABOTHER-",
     "level": "5.50...6.00",
@@ -7040,12 +7088,6 @@
   {
     "md5": "4c75b2e852718a5bdb7235b51a8dc878",
     "title": "Artificial Rose [Replica]",
-    "level": "5.50...6.00",
-    "comment": "sl8"
-  },
-  {
-    "md5": "35aa9799ed7150c61c2ffa3c84f4a8d7",
-    "title": "BEYOND [KITSUNE]",
     "level": "5.50...6.00",
     "comment": "sl8"
   },
@@ -7062,12 +7104,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "b4b061a9c39188bf738d381a2e6aab34",
-    "title": "Cong＊Chu＊Jelly [strawberry flavor]",
-    "level": "5.50...6.00",
-    "comment": "sl9"
-  },
-  {
     "md5": "42b597e0fc9d2ad51909f774275464ae",
     "title": "EXILE -NEMESIS-",
     "level": "5.50...6.00",
@@ -7082,12 +7118,6 @@
   {
     "md5": "97bc4321bc1bc37177e40ee592637cb1",
     "title": "Flashdance [#]",
-    "level": "5.50...6.00",
-    "comment": "sl8"
-  },
-  {
-    "md5": "43ae0b9401b3b2214322b520b662f62a",
-    "title": "Fuzzy-Navel [Nemesis]",
     "level": "5.50...6.00",
     "comment": "sl8"
   },
@@ -7130,12 +7160,6 @@
   {
     "md5": "54b5e92e2dc1721500683d173c556ce4",
     "title": "IKAROS [HARDEST]",
-    "level": "5.50...6.00",
-    "comment": "sl8"
-  },
-  {
-    "md5": "1fa758ced26af227df73494e01753049",
-    "title": "Infinite Dreams [INSANE]",
     "level": "5.50...6.00",
     "comment": "sl8"
   },
@@ -7202,6 +7226,12 @@
   {
     "md5": "bf296157872d81d25a170a3d0bdd7c09",
     "title": "Number Y [INSANE]",
+    "level": "5.50...6.00",
+    "comment": "sl8"
+  },
+  {
+    "md5": "41a832918034e9cd227b95765ea87956",
+    "title": "PARTY with 141s [Another]",
     "level": "5.50...6.00",
     "comment": "sl8"
   },
@@ -7436,6 +7466,12 @@
   {
     "md5": "46a5f63f83827ca256f9caec48d57844",
     "title": "Aloft -Montgolfier-",
+    "level": "6.00...6.50",
+    "comment": "sl9"
+  },
+  {
+    "md5": "1e8a560a0488f10924a22332c5be2ca1",
+    "title": "Aloof Wolf -trysts-",
     "level": "6.00...6.50",
     "comment": "sl9"
   },
@@ -7884,12 +7920,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "304c57c49333fc53fc4685e6db142dce",
-    "title": "Hypertext Transfer Protocol (C++)",
-    "level": "6.50...7.00",
-    "comment": "sl10"
-  },
-  {
     "md5": "5a83440834244c025689dc463a08437f",
     "title": "island dream [lunatic]",
     "level": "6.50...7.00",
@@ -8094,12 +8124,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "1020e628e09805b7256ca394e299b45b",
-    "title": "AIWS [Oblivion]",
-    "level": "7.00...7.50",
-    "comment": "sl11"
-  },
-  {
     "md5": "8b3c66f945d041b5df53ba3e292e5c54",
     "title": "Andromeda [yumether]",
     "level": "7.00...7.50",
@@ -8138,6 +8162,12 @@
   {
     "md5": "4c286f9ab3ef84375afd508a5f084115",
     "title": "Chocomint Mille-feuille [Jammed]",
+    "level": "7.00...7.50",
+    "comment": "sl11"
+  },
+  {
+    "md5": "51616f7b026c69c08f2b874d073b5f85",
+    "title": "Cockroach Cooking [SP 10万回再生]",
     "level": "7.00...7.50",
     "comment": "sl11"
   },
@@ -8204,6 +8234,12 @@
   {
     "md5": "7b9376e8ee388de09d056dc92f3ed432",
     "title": "HAELEQUIN (-ω-)",
+    "level": "7.00...7.50",
+    "comment": "sl10"
+  },
+  {
+    "md5": "304c57c49333fc53fc4685e6db142dce",
+    "title": "Hypertext Transfer Protocol (C++)",
     "level": "7.00...7.50",
     "comment": "sl10"
   },
@@ -8376,6 +8412,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "1020e628e09805b7256ca394e299b45b",
+    "title": "AIWS [Oblivion]",
+    "level": "7.50...8.00",
+    "comment": "sl11"
+  },
+  {
     "md5": "267fbf20e2f0d04e64525b0dbee0f789",
     "title": "Amnehilesie [Etude]",
     "level": "7.50...8.00",
@@ -8436,12 +8478,6 @@
     "comment": "sl11"
   },
   {
-    "md5": "51616f7b026c69c08f2b874d073b5f85",
-    "title": "Cockroach Cooking [SP 10万回再生]",
-    "level": "7.50...8.00",
-    "comment": "sl11"
-  },
-  {
     "md5": "404937351f39007a7a211e154feebadb",
     "title": "cycedelica (7KEY-END)",
     "level": "7.50...8.00",
@@ -8456,6 +8492,12 @@
   {
     "md5": "adf72e8b37dcbb5af2078914a6b273b1",
     "title": "Demagogie [EX]",
+    "level": "7.50...8.00",
+    "comment": "sl11"
+  },
+  {
+    "md5": "8727172b15790f060d184c2f60f715e5",
+    "title": "Dynasty of Extinction [!CRETACEOUS!]",
     "level": "7.50...8.00",
     "comment": "sl11"
   },
@@ -8682,6 +8724,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "d292b5c6eacd78d7104ead204ed2192a",
+    "title": "Rocketropolis [Tannhauser Gate]",
+    "level": "7.50...8.00",
+    "comment": "sl11"
+  },
+  {
     "md5": "4c0f369bdf3cd195fab755481a78bde8",
     "title": "Romancecar (Kukan Junkyu Edit) [Nemesis]",
     "level": "7.50...8.00",
@@ -8784,6 +8832,12 @@
     "comment": "sl11"
   },
   {
+    "md5": "ba0d98716f87a29e2eb364272f34cfc6",
+    "title": "アドバンス・シグナル [IMPULSE]",
+    "level": "7.50...8.00",
+    "comment": "sl11"
+  },
+  {
     "md5": "4c4e384172c5eb1cdea72752430bebae",
     "title": "インフィニット・パラダイムシフト [yumether]",
     "level": "7.50...8.00",
@@ -8798,6 +8852,12 @@
   {
     "md5": "afe8cdbcaa8f6edeba182ecb9b266fb5",
     "title": "テウメッサ [にゃーん]",
+    "level": "7.50...8.00",
+    "comment": "sl11"
+  },
+  {
+    "md5": "67b572da133bf3c47a23b490e7cc3d08",
+    "title": "ドSメスガキ幼女歯医者 でんたるちゃん -でぃすぺあ-",
     "level": "7.50...8.00",
     "comment": "sl11"
   },
@@ -8982,12 +9042,6 @@
     "comment": "sl11"
   },
   {
-    "md5": "0f02775a367c932432b0e31bb38acc3b",
-    "title": "DEATH SENTENCE [Eliminator]",
-    "level": "8.00...8.50",
-    "comment": "sl12"
-  },
-  {
     "md5": "b7b9f9b7d7be325d587f9797ccccbae4",
     "title": "Deublithick [HARDEST]",
     "level": "8.00...8.50",
@@ -9048,12 +9102,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "e167ad43d9c1cfc7f322590f8af1955c",
-    "title": "KIRBY-CHAN'D CANYON [SUPER STAR]",
-    "level": "8.00...8.50",
-    "comment": "sl12"
-  },
-  {
     "md5": "949001cff5b3401543134964395782f8",
     "title": "Luna Express 2032 [銀河鉄道999]",
     "level": "8.00...8.50",
@@ -9102,26 +9150,8 @@
     "comment": "sl12"
   },
   {
-    "md5": "0f5b2b2df091b511e311873204203dcc",
-    "title": "Psychedelic Ritual -Despair-",
-    "level": "8.00...8.50",
-    "comment": "sl12"
-  },
-  {
     "md5": "1066a4dd2a935ef76487ad2970b83025",
     "title": "Rigel [laner]",
-    "level": "8.00...8.50",
-    "comment": "sl12"
-  },
-  {
-    "md5": "d292b5c6eacd78d7104ead204ed2192a",
-    "title": "Rocketropolis [Tannhauser Gate]",
-    "level": "8.00...8.50",
-    "comment": "sl11"
-  },
-  {
-    "md5": "bc5c6de58b37834a97681dac127fc94a",
-    "title": "Rosario -輪廻幻想譚- (EX)",
     "level": "8.00...8.50",
     "comment": "sl12"
   },
@@ -9222,22 +9252,10 @@
     "comment": "sl12"
   },
   {
-    "md5": "ba0d98716f87a29e2eb364272f34cfc6",
-    "title": "アドバンス・シグナル [IMPULSE]",
-    "level": "8.00...8.50",
-    "comment": "sl11"
-  },
-  {
     "md5": "38d22090860f2d21c184ac70dd2d8dae",
     "title": "アナログ横丁 [ディレイ六斎市]",
     "level": "8.00...8.50",
     "comment": "sl12"
-  },
-  {
-    "md5": "67b572da133bf3c47a23b490e7cc3d08",
-    "title": "ドSメスガキ幼女歯医者 でんたるちゃん -でぃすぺあ-",
-    "level": "8.00...8.50",
-    "comment": "sl11"
   },
   {
     "md5": "c7f384d33fd08da0fda97112354a834c",
@@ -9378,6 +9396,12 @@
     "comment": "sl12"
   },
   {
+    "md5": "0f02775a367c932432b0e31bb38acc3b",
+    "title": "DEATH SENTENCE [Eliminator]",
+    "level": "8.50...9.00",
+    "comment": "sl12"
+  },
+  {
     "md5": "2d034bffd18881fe6757706d6729eb33",
     "title": "Drop! [SABOTHER]",
     "level": "8.50...9.00",
@@ -9416,6 +9440,12 @@
   {
     "md5": "6c33abab29b20efcd8a8d1daa7811db7",
     "title": "Imperishable Night 2006 -Heaven-",
+    "level": "8.50...9.00",
+    "comment": "sl12"
+  },
+  {
+    "md5": "e167ad43d9c1cfc7f322590f8af1955c",
+    "title": "KIRBY-CHAN'D CANYON [SUPER STAR]",
     "level": "8.50...9.00",
     "comment": "sl12"
   },
@@ -9462,20 +9492,26 @@
     "comment": "sl12"
   },
   {
+    "md5": "0f5b2b2df091b511e311873204203dcc",
+    "title": "Psychedelic Ritual -Despair-",
+    "level": "8.50...9.00",
+    "comment": "sl12"
+  },
+  {
     "md5": "6e7142d2af381896361100d23879d973",
     "title": "Red-rize \"B172 mix\" // 7keys GOD",
     "level": "8.50...9.00",
     "comment": "sl12"
   },
   {
-    "md5": "408673987d3c9ce60610db5c51b9117e",
-    "title": "satellite -MOON-",
+    "md5": "bc5c6de58b37834a97681dac127fc94a",
+    "title": "Rosario -輪廻幻想譚- (EX)",
     "level": "8.50...9.00",
     "comment": "sl12"
   },
   {
-    "md5": "0fc810b33fb2624fe6ed9eb7120682ad",
-    "title": "Sesame Kingdom [Sesame Street]",
+    "md5": "408673987d3c9ce60610db5c51b9117e",
+    "title": "satellite -MOON-",
     "level": "8.50...9.00",
     "comment": "sl12"
   },
@@ -9633,6 +9669,18 @@
     "md5": "9af0353882897252567c09b0844543c5",
     "title": "馴鹿之骸 [x2]",
     "level": "8.50...9.00",
+    "comment": "sl12"
+  },
+  {
+    "md5": "489d603a8b0e7597c76eb8037a70d1c7",
+    "title": "Hello! My World!! [あの頃の僕らへ]",
+    "level": "9.00...9.50",
+    "comment": "sl12"
+  },
+  {
+    "md5": "0fc810b33fb2624fe6ed9eb7120682ad",
+    "title": "Sesame Kingdom [Sesame Street]",
+    "level": "9.00...9.50",
     "comment": "sl12"
   },
   {

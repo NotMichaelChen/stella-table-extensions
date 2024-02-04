@@ -5204,6 +5204,19 @@
     "votePercent": 0
   },
   {
+    "md5": "b115789bb150ff53268fafcc83c547af",
+    "sha256": "41e44048931ac62fe99b21eca234086623e8249777d57e57a3d898800901fc9d",
+    "title": "魔法でカエルになっちゃったみたい！ [SP ANOTHER]",
+    "artist": "sharkyo Obj. Chai the Tea",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=363&event=142",
+    "level": "0",
+    "comment": "BOF:NT 同梱譜面 同時押し",
+    "proposer": "ねふ",
+    "submission": 2997,
+    "proposerMinirid": "24320562-3cfd-4f1b-926e-74dc7ec368fd"
+  },
+  {
     "level": "0",
     "comment": "BOFXV、ズレ、微LN、微ソフラン",
     "md5": "51b5613d5a3b783bc6b8a3bea5e8d7fc",
@@ -6189,6 +6202,19 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "18a0b9601168d553d6adebd6c16c24db",
+    "sha256": "842d5bef2813c964a3dc13774ad53588847f64cca7660b78fe3f4666c5ee5edc",
+    "title": "Dance with me [ANOTHER]",
+    "artist": "SOMON",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/bmstukuru2022/76",
+    "level": "1",
+    "comment": "Bた作'22 同梱譜面 ハネリズム 少し皿絡み＆LN絡みアリ",
+    "proposer": "ねふ",
+    "submission": 2998,
+    "proposerMinirid": "24320562-3cfd-4f1b-926e-74dc7ec368fd"
   },
   {
     "md5": "fee212045033889093d703522114b260",
@@ -7704,6 +7730,20 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "424152d5059d56ed46d81f5b39eeffe1",
+    "sha256": "246379e248f0e7d61078b1374c7fb7b9a4e6f1c9950bacf9e6fc7f27a4e094f5",
+    "title": "Poppin' Candy [MiKather]",
+    "artist": "アステール (Sweet Clay + Rukadesu + Timothy Alv) obj : MiKaDo",
+    "url_diff": "https://stellabms.xyz/upload/3416",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=517&event=142",
+    "level": "1",
+    "comment": "BPM180 総合力",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 3003,
+    "proposerLr2id": 65624
   },
   {
     "md5": "61519b432a4912f0b8d3258803b02ea1",
@@ -11568,6 +11608,18 @@
     "proposer": "Haze*",
     "submission": 1067,
     "proposerLr2id": 112076
+  },
+  {
+    "md5": "f726bc7fa048f9a7fdef502c50587a7d",
+    "sha256": "10bdc5baf1cc32f0d8e0e37b75ffad406925846972a362a65373a73391bf10ca",
+    "title": "Ling Child (BMS Edit) [SP Reaju]",
+    "artist": "Junk BGA : Identity 7 / obj : kneas",
+    "url_diff": "",
+    "url": "http://mournfinale.com/bof2010/",
+    "level": "2",
+    "proposer": "kitnlzh",
+    "submission": 2964,
+    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
   },
   {
     "md5": "e3175508e73af1949ae3bad83bdfe750",
@@ -15705,18 +15757,6 @@
     "proposer": "MineC24",
     "submission": 1087,
     "proposerLr2id": 84597
-  },
-  {
-    "md5": "f726bc7fa048f9a7fdef502c50587a7d",
-    "sha256": "10bdc5baf1cc32f0d8e0e37b75ffad406925846972a362a65373a73391bf10ca",
-    "title": "Ling Child (BMS Edit) [SP Reaju]",
-    "artist": "Junk BGA : Identity 7 / obj : kneas",
-    "url_diff": "",
-    "url": "http://mournfinale.com/bof2010/",
-    "level": "3",
-    "proposer": "kitnlzh",
-    "submission": 2964,
-    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
   },
   {
     "md5": "db74f2fa8e093ff854f4d7c40226b4c8",
@@ -19919,6 +19959,20 @@
     "proposerLr2id": 124809
   },
   {
+    "md5": "a5f781a41fa73924470700508a74542b",
+    "sha256": "f28cf3988177dcb168768a5658e1091e8213132143eb8d0e6ea8eab4c930a4c0",
+    "title": "Opaque Couche [Latte]",
+    "artist": "siqlo Movie:出前 / obj:Rv",
+    "url_diff": "https://stellabms.xyz/upload/3272",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=271&event=137",
+    "level": "4",
+    "comment": "面白いです。",
+    "zureCount": 0,
+    "proposer": "밍대",
+    "submission": 2876,
+    "proposerLr2id": 167317
+  },
+  {
     "level": "4",
     "comment": "同時押し、皿絡み",
     "md5": "9d2c7db55f2c89d036b3af04e0e1358d",
@@ -22281,6 +22335,19 @@
     "proposerLr2id": 147889
   },
   {
+    "md5": "6158aab419e178c113883daacd6b6902",
+    "sha256": "adc36811398d3726bba388b05f9cb2ce83597d310f4c9c8a1045d2b9bce3b2f9",
+    "title": "God-free (eden)",
+    "artist": "Zris feat. Kri & Ifeanyi / nbunnyuwu",
+    "url_diff": "https://stellabms.xyz/upload/3342",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=497&event=142",
+    "level": "5",
+    "zureCount": 0,
+    "proposer": "Topio",
+    "submission": 3000,
+    "proposerMinirid": "381c5078-4634-43ae-a3b9-e042de243d8c"
+  },
+  {
     "md5": "edaadf58b4404820ddd70fbb94180fdf",
     "sha256": "31410a7c1de20ec2897e661fa7bd5b3c6bdb1cda92467206259ea4dbb08f0d42",
     "title": "GOODBOUNCE [建大入口駅1番出口から徒歩10分]",
@@ -22956,20 +23023,6 @@
     "proposerMinirid": "5eef44ee-844b-4857-a1da-a6ca38ea59ee"
   },
   {
-    "md5": "a5f781a41fa73924470700508a74542b",
-    "sha256": "f28cf3988177dcb168768a5658e1091e8213132143eb8d0e6ea8eab4c930a4c0",
-    "title": "Opaque Couche [Latte]",
-    "artist": "siqlo Movie:出前 / obj:Rv",
-    "url_diff": "https://stellabms.xyz/upload/3272",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=271&event=137",
-    "level": "5",
-    "comment": "面白いです。",
-    "zureCount": 0,
-    "proposer": "밍대",
-    "submission": 2876,
-    "proposerLr2id": 167317
-  },
-  {
     "md5": "d3991e330fae2d3ed978464312112569",
     "sha256": "71f4ee7ffb0e3324bef2e2a09db8f042dab64b53c4c5f31c232afff64c14a203",
     "title": "Operation_ALTAIR [CodeName-V.E.G.A.]",
@@ -23591,20 +23644,6 @@
     "proposer": "marie",
     "submission": 2867,
     "proposerLr2id": 88591
-  },
-  {
-    "md5": "a34cc2170bd381182f1344d215426675",
-    "sha256": "2e90027e1ee8d62ad7aca0fd27627197da581fd5ad61873d0473f037fbaccedf",
-    "title": "xeusonic [ZOI]",
-    "artist": "Mr.K obj:SUZUKAZEΛ",
-    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=132",
-    "level": "5",
-    "comment": "Xeus!!!",
-    "zureCount": 0,
-    "proposer": "Restia",
-    "submission": 1657,
-    "proposerLr2id": 115265
   },
   {
     "md5": "29b0684e44c96d385748fca44f5533b9",
@@ -26243,6 +26282,20 @@
     "proposer": "七海",
     "submission": 2254,
     "proposerLr2id": 84597
+  },
+  {
+    "md5": "a34cc2170bd381182f1344d215426675",
+    "sha256": "2e90027e1ee8d62ad7aca0fd27627197da581fd5ad61873d0473f037fbaccedf",
+    "title": "xeusonic [ZOI]",
+    "artist": "Mr.K obj:SUZUKAZEΛ",
+    "url_diff": "http://suzukazekuhare.web.fc2.com/suzukazelist.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=132",
+    "level": "6",
+    "comment": "Xeus!!!",
+    "zureCount": 0,
+    "proposer": "Restia",
+    "submission": 1657,
+    "proposerLr2id": 115265
   },
   {
     "md5": "c6742e99eaa4be964187a5f9c4b52d1c",
@@ -29670,6 +29723,19 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "b4b061a9c39188bf738d381a2e6aab34",
+    "sha256": "5870b009032e28034b99ccc0ef69918345abdc539e99cd5b1152176d900dcb6a",
+    "title": "Cong＊Chu＊Jelly [strawberry flavor]",
+    "artist": "otoshi.b × みゅい × はしたかさん × BAECON",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/bmsshuin3/54",
+    "level": "8",
+    "comment": "第三回BMS衆議院選",
+    "proposer": "MineC24",
+    "submission": 1875,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "cdab52f88644b32917e7292d4a190cbf",
     "sha256": "6814a91933020eed2d1b571916fe8058828f2ea531126994531eaefbf2256868",
     "title": "Credits [Corporation]",
@@ -30078,6 +30144,19 @@
     "proposer": "파이어",
     "submission": 1837,
     "proposerLr2id": 7290
+  },
+  {
+    "md5": "7f2c714acbbec0bf9ec83e6e90677838",
+    "sha256": "46a93dfa4d6a53a679d1a1185c2e26d155cb7898dc169e1276590f69fedd7582",
+    "title": "Hi-Speed Stream!! [NORMAL]",
+    "artist": "BMチ",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/bmstukuru2024/6",
+    "level": "8",
+    "comment": "Bた作'24",
+    "proposer": "seojoon",
+    "submission": 2999,
+    "proposerMinirid": "a515ab10-8a89-4ee3-848f-0e03e232727c"
   },
   {
     "md5": "17d791e5152acc1cd4bfdd4ca7b725f8",
@@ -32004,19 +32083,6 @@
     "proposerLr2id": 84597
   },
   {
-    "md5": "b4b061a9c39188bf738d381a2e6aab34",
-    "sha256": "5870b009032e28034b99ccc0ef69918345abdc539e99cd5b1152176d900dcb6a",
-    "title": "Cong＊Chu＊Jelly [strawberry flavor]",
-    "artist": "otoshi.b × みゅい × はしたかさん × BAECON",
-    "url_diff": "",
-    "url": "https://venue.bmssearch.net/bmsshuin3/54",
-    "level": "9",
-    "comment": "第三回BMS衆議院選",
-    "proposer": "MineC24",
-    "submission": 1875,
-    "proposerLr2id": 84597
-  },
-  {
     "md5": "e4f99528f22d64c9c2827bd62ac6d08f",
     "sha256": "d3c18bf5ee80a2ae596152261fadbf7f08b87e33691663d932704d94904dc6aa",
     "title": "Crazy Watermelon [Nemesis]",
@@ -32125,6 +32191,20 @@
     "proposer": "Fendou",
     "submission": 1183,
     "proposerLr2id": 128388
+  },
+  {
+    "md5": "d99adca57d1164efaba8f742932dae28",
+    "sha256": "31a327c19505af01236d271f5505c195e861d36497ab217c14a174e50a90df5b",
+    "title": "Driving a Wedge [ILLNESS]",
+    "artist": "q/stol obj.poly",
+    "url_diff": "http://absolute.pv.land.to/uploader/upload.html",
+    "url": "http://k-bms.com/party_pabat/party.jsp?board_num=1&num=9",
+    "level": "9",
+    "comment": "BPM\t185/ 乱打系 / 0.168(total/notes) / ラスト連皿とラス殺し有",
+    "zureCount": 0,
+    "proposer": "棟方愛海",
+    "submission": 3001,
+    "proposerMinirid": "d596be61-ffff-4573-863b-7a0c7d7be1d9"
   },
   {
     "md5": "214fb544f578bd76ff58370332d2aab8",
@@ -37161,6 +37241,19 @@
     "votePercent": 0,
     "sha256": "225c77e7bbdd21969470e032e267236f1f2ead2d1daf4a4d58ee214dc1079270",
     "proposerLr2id": 7290
+  },
+  {
+    "md5": "897adab09034a4d855ab0d6112a5f0f0",
+    "sha256": "9b3087aa8b56a5df5b3efc1b3320e09d91688a5939b4483f5747641165c0e43d",
+    "title": "S.S : Spectral Stream -Eternity-",
+    "artist": "Kinato / obj: J.M",
+    "url_diff": "http://skydrive.live.com/redir?resid=CCDCC2EFF01D15BB!174&authkey=!AH4fR6amXdIt05A&ithint=folder%2c.bms",
+    "url": "https://drive.google.com/file/d/1TEDDpqJJvvJKHYR0Nz5_8xBM9xtLdr5b/view?usp=drive_link",
+    "level": "11",
+    "comment": "7hd/7ex base? no major mistakes",
+    "proposer": "qtp13",
+    "submission": 3002,
+    "proposerLr2id": 86559
   },
   {
     "md5": "c9cee7883f1ddd5cf6a1188e8e607a50",
@@ -46207,6 +46300,20 @@
     "proposerLr2id": 75332
   },
   {
+    "md5": "22143dd25f50b2b5e76fa3e59e6d204e",
+    "sha256": "9773a7fa7e1dfb511faf6b6c031741bd0699561865bfa4b174fdf6dfaa38dac6",
+    "title": "Infinite Dreams [FUTURE]",
+    "artist": "あとぅす feat.橘花音 BGI:もーどまん / obj:potechang",
+    "url_diff": "https://stellabms.xyz/upload/3468",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=142",
+    "level": "14",
+    "comment": "中速乱打",
+    "zureCount": 0,
+    "proposer": "__CES",
+    "submission": 2199,
+    "proposerLr2id": 180326
+  },
+  {
     "md5": "df5b7926081c2a40bc79bf2d62200a62",
     "sha256": "0344db312741925b56154ef2fbed0af89f5bc4d89d1e371db398df942471bac3",
     "title": "Journey to the ∞BIT World [Celeritas]",
@@ -46222,19 +46329,6 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
-  },
-  {
-    "md5": "440de67203b13a0bef94fe2b82ce8f3d",
-    "sha256": "5944ddb8ba388a9b8242a40d173cb8fa88d1a75e6207a9677ccb8ae224276901",
-    "title": "JULIAN \"for B.O.F. 2009\"",
-    "artist": "Queen P.A.L. VJ KINTA / Lyntevia",
-    "url_diff": "https://venue.bmssearch.net/sd_sand/5",
-    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/oNEAVCTB",
-    "level": "14",
-    "comment": "Delay + keysound arrangement (https://venue.bmssearch.net/sd_sand/5により)",
-    "proposer": "Mary_Sue",
-    "submission": 2192,
-    "proposerLr2id": 147889
   },
   {
     "md5": "ad5917cc6e4c4c681cfc2e91620e3eb8",
@@ -49722,19 +49816,6 @@
     "proposerLr2id": 69073
   },
   {
-    "md5": "b2c1d533c7b843706249e54f3c99b53e",
-    "sha256": "9896ab82b506d89871be29ca03918bc05bdc3a733c21f5885f5a1cb8c8f9906a",
-    "title": "dotabata〆trickster [Trick or Trick]",
-    "artist": "浅黄ムツキ obj:BLACK DEATH POISON",
-    "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=442&event=142",
-    "level": "15",
-    "comment": "BOF:NT 同梱譜面",
-    "proposer": "T.",
-    "submission": 2179,
-    "proposerMinirid": "5a356ead-7697-48cb-ba1e-27ff9d0d8de7"
-  },
-  {
     "md5": "434b339e1ac512e498a45369b157388b",
     "title": "Ecaed -SP INSANE-",
     "artist": "Is-m BGA:murotani",
@@ -50467,20 +50548,6 @@
     "sha256": "7a15538e30f548a7f274fb46b53a6599ead5f1696761af8465909e2497acafa7"
   },
   {
-    "md5": "22143dd25f50b2b5e76fa3e59e6d204e",
-    "sha256": "9773a7fa7e1dfb511faf6b6c031741bd0699561865bfa4b174fdf6dfaa38dac6",
-    "title": "Infinite Dreams [FUTURE]",
-    "artist": "あとぅす feat.橘花音 BGI:もーどまん / obj:potechang",
-    "url_diff": "https://stellabms.xyz/upload/3468",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=142",
-    "level": "15",
-    "comment": "中速乱打",
-    "zureCount": 0,
-    "proposer": "__CES",
-    "submission": 2199,
-    "proposerLr2id": 180326
-  },
-  {
     "md5": "89801f59148cb7e517fb51c7199a9ea7",
     "sha256": "9ae56550742d75112b1edeb99228146f972debd717f46d635340cdb2854cb9b5",
     "title": "J456",
@@ -50565,6 +50632,19 @@
     "zureCount": 0,
     "proposer": "MarySue",
     "submission": 1338,
+    "proposerLr2id": 147889
+  },
+  {
+    "md5": "440de67203b13a0bef94fe2b82ce8f3d",
+    "sha256": "5944ddb8ba388a9b8242a40d173cb8fa88d1a75e6207a9677ccb8ae224276901",
+    "title": "JULIAN \"for B.O.F. 2009\"",
+    "artist": "Queen P.A.L. VJ KINTA / Lyntevia",
+    "url_diff": "https://venue.bmssearch.net/sd_sand/5",
+    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/oNEAVCTB",
+    "level": "15",
+    "comment": "Delay + keysound arrangement (https://venue.bmssearch.net/sd_sand/5により)",
+    "proposer": "Mary_Sue",
+    "submission": 2192,
     "proposerLr2id": 147889
   },
   {
@@ -54066,6 +54146,19 @@
     "proposer": "fuko",
     "submission": 1958,
     "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
+  },
+  {
+    "md5": "b2c1d533c7b843706249e54f3c99b53e",
+    "sha256": "9896ab82b506d89871be29ca03918bc05bdc3a733c21f5885f5a1cb8c8f9906a",
+    "title": "dotabata〆trickster [Trick or Trick]",
+    "artist": "浅黄ムツキ obj:BLACK DEATH POISON",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=442&event=142",
+    "level": "16",
+    "comment": "BOF:NT 同梱譜面",
+    "proposer": "T.",
+    "submission": 2179,
+    "proposerMinirid": "5a356ead-7697-48cb-ba1e-27ff9d0d8de7"
   },
   {
     "title": "Drop Down [stand alone]",
@@ -64051,6 +64144,19 @@
     "proposerLr2id": 86559
   },
   {
+    "md5": "28b2ab49f4c0f8d6f2dbe3d1b55f12f6",
+    "sha256": "0e57bb037f981f5c883a103207f691371b255eec38686692b22c879a8157a8d1",
+    "title": "BIRKIE [ちあふる]",
+    "artist": "oratoruk (BGI : チキンピカタ) / obj.IIVOΣ",
+    "url_diff": "https://stellabms.xyz/upload/2164",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=140",
+    "level": "19",
+    "comment": "BPM132 ハネ系 ズレ押し",
+    "proposer": "SHAX.",
+    "submission": 2205,
+    "proposerLr2id": 65624
+  },
+  {
     "title": "Black Lotus [Other]",
     "artist": "wa. / 百舌谷 obj:Omino",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=110",
@@ -65145,6 +65251,18 @@
     "proposer": "MineC24",
     "submission": 1194,
     "proposerLr2id": 84597
+  },
+  {
+    "md5": "468232f9a646223fc679c804e203ae1f",
+    "sha256": "72157d2fd46bf3960e0f644c35db92ab028cb8b6aae61cbc6fd995db688f1563",
+    "title": "オールオーバー [FINALE]",
+    "artist": "Lian",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=142",
+    "level": "19",
+    "proposer": "qtp13",
+    "submission": 2204,
+    "proposerLr2id": 86559
   },
   {
     "title": "クロートーと星の観測者 [Other]",
@@ -69707,6 +69825,19 @@
     "sha256": "7ea0dea0839e45c154604e76b053351c48e46aba550ef8626c0dcd16908b7b06"
   },
   {
+    "md5": "ee7c4da069a3d7d0f698441d97f332c5",
+    "sha256": "c1cd67b3d7b2ccf34074af4affbb5e99df5cbae76441f9694a69c29dd24b9699",
+    "title": "0x00000000 -neutralino-",
+    "artist": "h t y : 0 x 1 0 1 E / obj:あーさん",
+    "url_diff": "http://drowsy.hannnari.com/toy.html",
+    "url": "http://tm2.toymusical.net/download.html",
+    "level": "23",
+    "comment": "Fireballが見たい",
+    "proposer": "MineC24",
+    "submission": 1103,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "6bc1920aac435c6e52b40e1469341aa6",
     "title": "A BEAUTIFUL SKY -OB style- [Marvelous]",
     "artist": "recognize m. / helix / OnOnOnOnOnOnOnOnOnOnOnOn",
@@ -70430,19 +70561,6 @@
     "comment": "",
     "submission": 40,
     "sha256": "a86474bcf3e7686abf8011c8f7103ad418afa99bcda4029dd2127753cbd72144"
-  },
-  {
-    "md5": "ee7c4da069a3d7d0f698441d97f332c5",
-    "sha256": "c1cd67b3d7b2ccf34074af4affbb5e99df5cbae76441f9694a69c29dd24b9699",
-    "title": "0x00000000 -neutralino-",
-    "artist": "h t y : 0 x 1 0 1 E / obj:あーさん",
-    "url_diff": "http://drowsy.hannnari.com/toy.html",
-    "url": "http://tm2.toymusical.net/download.html",
-    "level": "24",
-    "comment": "Fireballが見たい",
-    "proposer": "MineC24",
-    "submission": 1103,
-    "proposerLr2id": 84597
   },
   {
     "md5": "4ff669349c4d124a774e054c68bed051",
