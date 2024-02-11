@@ -358,6 +358,19 @@
     "proposerLr2id": 128405
   },
   {
+    "md5": "a08310d536d625e1776f50316eea25de",
+    "sha256": "510e009ca70bd01f55520e1540f7d38cf3a2946fcd43ca404ffd9a14c229e423",
+    "title": "apres-midi",
+    "artist": "Mr.Faine",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=233&event=142",
+    "level": "0",
+    "comment": "BOFNT 同梱 sl0上位",
+    "proposer": "mikado",
+    "submission": 3007,
+    "proposerMinirid": "d2ede742-3137-457b-9bea-4143f9f30a7d"
+  },
+  {
     "md5": "70b6f38f9a5536c0826c15155c471d51",
     "sha256": "b92ef241458894e09d19797877da2ab5bd9ce25804c3d9d9734067a1f0d8290e",
     "title": "Assault TAXI",
@@ -1607,6 +1620,19 @@
     "proposer": "|/|",
     "submission": 1900,
     "proposerLr2id": 147895
+  },
+  {
+    "md5": "b494aae56ef6112bcd69eb529cef023e",
+    "sha256": "79fce90c8e0a399e27914e82ee845f1cab4933de8b5c21e478ccd409b1d96a12",
+    "title": "glacier's poetry",
+    "artist": "VeetaCrush & ProjectG bga: linglvz obj: iPhonon",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=425&event=137",
+    "level": "0",
+    "comment": "BOFXVII 同梱譜面",
+    "proposer": "Seori",
+    "submission": 3004,
+    "proposerMinirid": "7040afc3-37ee-481c-b5d6-dbb031473e9a"
   },
   {
     "md5": "dc32f102441f00b73cf5e32a66ec65c2",
@@ -7811,6 +7837,19 @@
     "proposer": "鷺沢文香",
     "submission": 1726,
     "proposerLr2id": 133436
+  },
+  {
+    "md5": "30110f5a1c72a79e7933f923b8eae9b2",
+    "sha256": "9e247fd9ba8fbf134b665d7507eee57c85dfa40aeda1e9ba978a5d5818c37d9a",
+    "title": "Problem Bonker [SP ANOTHER]",
+    "artist": "陸八魔アル obj.陸八魔アル & 傭兵バイトA",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=469&event=142",
+    "level": "1",
+    "comment": "BOFNT 同梱譜面",
+    "proposer": "mikado",
+    "submission": 3008,
+    "proposerMinirid": "d2ede742-3137-457b-9bea-4143f9f30a7d"
   },
   {
     "level": "1",
@@ -16373,6 +16412,19 @@
     "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
   },
   {
+    "md5": "aab6c81d87b729182a8ab75f4df2628a",
+    "sha256": "57bdb9fd6873ad7272726ca9719e368544a5879aa3e429447ab7c7b942a726fc",
+    "title": "SAKURA ~ Perfect Cherry Blossom",
+    "artist": "Team Shanghai Alice (Remixed by Est) 妖夢 vs И",
+    "url_diff": "https://stellabms.xyz/upload/3544",
+    "url": "https://onedrive.live.com/?cid=F61C1F8825F0CF46&id=F61C1F8825F0CF46%21293&parId=F61C1F8825F0CF46%21159&o=OneUp",
+    "level": "3",
+    "zureCount": 0,
+    "proposer": "Mary_Sue",
+    "submission": 3005,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "b9064f3696a6d97cdd321da8246f11f7",
     "sha256": "34c0f3b6bad354c187295089cf9da38a872ff3e9f39fdfd37db1d71132ce3ee6",
     "title": "SATSUKI [MAY]",
@@ -22161,6 +22213,18 @@
     "proposerLr2id": 89076
   },
   {
+    "md5": "5535963f58fef814d0663cc61432c822",
+    "sha256": "512a945ccd0b95d7752a50f30698d6d7be10b78dd84e1bb9fefb13b7920bf618",
+    "title": "drown again and again, in purgatory's river",
+    "artist": "polyform",
+    "url_diff": "",
+    "url": "https://plyfrm.github.io/dl/bms/drown_again_and_again_ogg.zip",
+    "level": "5",
+    "proposer": "qtp13",
+    "submission": 3009,
+    "proposerLr2id": 86559
+  },
+  {
     "md5": "0a2d8c539f05528ffaedc5c490401062",
     "sha256": "20afa1b20b709d7a976157565c08ea776cd22350c9b11a68080176fa26df3398",
     "title": "Echolalia [Recall]",
@@ -23814,6 +23878,20 @@
     "proposer": "MarySue",
     "submission": 1930,
     "proposerLr2id": 147889
+  },
+  {
+    "md5": "9023f33c21e33d4d9429ab488c40d7ee",
+    "sha256": "d590e69f44d9a1721f435f4ebe9121112689d0010b75ca9837596d70a338f2b6",
+    "title": "イルルヤンカシュは神を弑逆する - Kue'n'zi -",
+    "artist": "鈎兎(KagiUsagi) obj:3830",
+    "url_diff": "https://stellabms.xyz/upload/3591",
+    "url": "https://venue.bmssearch.net/bmstukuru2024/45",
+    "level": "5",
+    "comment": "sl 4 ～ sl 5？",
+    "zureCount": 0,
+    "proposer": "ii5",
+    "submission": 3010,
+    "proposerMinirid": "79485aa6-d473-4023-973e-48a105e776d0"
   },
   {
     "md5": "f6b9d4d2b0fc483bf36a28f0c7b08354",
@@ -28300,6 +28378,19 @@
     "proposer": "qtp13",
     "submission": 1771,
     "proposerLr2id": 86559
+  },
+  {
+    "md5": "aa81b12dda5549ef60fd4d7e267eb705",
+    "sha256": "53b8f279950d2bd5e94a8a99da55e138859c3b0f9b5625c4e76f0f2a24c0f4f6",
+    "title": "Plastic Heart [Silver Shoes]",
+    "artist": "Abel & Palami mov. KimAutomne & D_Unknown obj. meta",
+    "url_diff": "https://stellabms.xyz/upload/3588",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=390&event=142",
+    "level": "7",
+    "zureCount": 0,
+    "proposer": "歳納京子",
+    "submission": 3006,
+    "proposerLr2id": 75332
   },
   {
     "md5": "782b981f7f8f050ab406ae1e96578227",
@@ -46703,6 +46794,19 @@
     "proposerLr2id": 147889
   },
   {
+    "md5": "e6315fbea415eb4432b2dfdcb82cb724",
+    "sha256": "fc76588750155723bb780d655cb044d0d5f296dd2ea3c7d00926763939423206",
+    "title": "neo tinnitus [ANOTHER2]",
+    "artist": "SP-# remixed by LeaF",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/bmstukuru2024/9",
+    "level": "14",
+    "comment": "BPM228　高速乱打",
+    "proposer": "T.",
+    "submission": 2207,
+    "proposerMinirid": "5a356ead-7697-48cb-ba1e-27ff9d0d8de7"
+  },
+  {
     "md5": "405d51c75f22e27739e03728f317dbc2",
     "sha256": "9fa8251eeadcb3f372fe868b16752647bdd7361e5f7218e42cfc87056666b5c9",
     "title": "Never Escape [yumether]",
@@ -58076,6 +58180,19 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "5ce27b4e33c330006aceebbd592d4f88",
+    "sha256": "2b492ff41529bebafff9d6405caaafc943972204c4de1684ee1106ef70a41bbf",
+    "title": "Dynasty of Extinction [Destruction]",
+    "artist": "utzbo VS paraneumann OBJ: LuvTek BGA:paraneumann",
+    "url_diff": "https://fsrs.github.io/table.html",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=142",
+    "level": "17",
+    "comment": "_Dynasty_of_Extinction_0_2_multiとズレ抜けなし。",
+    "proposer": "Mary_Sue",
+    "submission": 2206,
+    "proposerLr2id": 147889
+  },
+  {
     "level": "17",
     "comment": "3~4",
     "md5": "988e8f8a39fe14013d25c5bc54a17551",
@@ -67360,6 +67477,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "2e3cbd8365df088038be125d09d8a964aa0c4ab78812360bdda88776342edf36"
+  },
+  {
+    "md5": "28572ccc5a4912050603e3936e7387e4",
+    "sha256": "cc4597d81b553bc8486818ce2a9108916226a8284a4de89247913da74fa879f8",
+    "title": "Blooming Jump! -TRIGGER HAPPY-",
+    "artist": "卯月 / obj : LindBlum",
+    "url_diff": "https://onedrive.live.com/?authkey=%21AGZePJr%5FLRrydzg&id=6A58DD88BD7062C4%21210&cid=6A58DD88BD7062C4",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=109",
+    "level": "21",
+    "comment": "don't worry be happy",
+    "zureCount": 0,
+    "proposer": "qtp13",
+    "submission": 2208,
+    "proposerLr2id": 86559
   },
   {
     "md5": "cbc9a270b836804d61294eb7519d3d90",
