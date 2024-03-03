@@ -390,12 +390,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "1273495bab9aa0561cdc7fa5f0fc9a50",
-    "title": "玉響サーチライト [DP ANOTHER]",
-    "level": "0.50...1.00",
-    "comment": "sl1"
-  },
-  {
     "md5": "190ef89f7c890d5ac3bf327acc4f6800",
     "title": "-Never ending journey- [Forever]",
     "level": "1.00...1.50",
@@ -594,6 +588,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "1273495bab9aa0561cdc7fa5f0fc9a50",
+    "title": "玉響サーチライト [DP ANOTHER]",
+    "level": "1.00...1.50",
+    "comment": "sl1"
+  },
+  {
     "md5": "1c8c39a9a94d6f5cf13616fbefaed119",
     "title": "私のヒトミ",
     "level": "1.00...1.50",
@@ -660,6 +660,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "48d0c83af7af94c25501d16d7f9bae09",
+    "title": "Extinction and reproduction [DP Hyper]",
+    "level": "1.50...2.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "f63b86f6bbf6c3105d579d9b4324a351",
     "title": "Hot Jupiter",
     "level": "1.50...2.00",
@@ -708,12 +714,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "6ec13a59a0f84b46799fe459363a2737",
-    "title": "Soul of Deep-sea Fish [A14]",
-    "level": "1.50...2.00",
-    "comment": "sl2"
-  },
-  {
     "md5": "3d91b783248f05141bcaaf6410ac860c",
     "title": "Stargazer [EXTRA]",
     "level": "1.50...2.00",
@@ -740,12 +740,6 @@
   {
     "md5": "65475e8733cf1d03de23f994e7842796",
     "title": "アナログ横丁 [14巻]",
-    "level": "1.50...2.00",
-    "comment": "sl2"
-  },
-  {
-    "md5": "3662c764b23ca91edf7df310537d5b03",
-    "title": "インフェルノシティ [DP Another]",
     "level": "1.50...2.00",
     "comment": "sl2"
   },
@@ -790,12 +784,6 @@
     "title": "４２２ [DP HYPER]",
     "level": "1.50...2.00",
     "comment": "sl1"
-  },
-  {
-    "md5": "7c31ece35a5b0839af9a31c9b2d7b961",
-    "title": "#Za_illusory [DP-sagANOTHER]",
-    "level": "2.00...2.50",
-    "comment": "sl2"
   },
   {
     "md5": "47794ff2186babd108ce7852478cda68",
@@ -846,12 +834,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "2ea293c3ef95853c05399a9df78f8c00",
-    "title": "E.V.E [DP ANOTHER]",
-    "level": "2.00...2.50",
-    "comment": "sl3"
-  },
-  {
     "md5": "225bfdc355cfb22c0e75e3195fc4e6ff",
     "title": "ELIMINATOR [DP ANOTHER]",
     "level": "2.00...2.50",
@@ -874,12 +856,6 @@
     "title": "Event Horizon [DP ANOTHER]",
     "level": "2.00...2.50",
     "comment": "sl2"
-  },
-  {
-    "md5": "48d0c83af7af94c25501d16d7f9bae09",
-    "title": "Extinction and reproduction [DP Hyper]",
-    "level": "2.00...2.50",
-    "comment": "sl1"
   },
   {
     "md5": "aee6452b4b7478a03f738482f38ccdb9",
@@ -924,6 +900,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "6ec13a59a0f84b46799fe459363a2737",
+    "title": "Soul of Deep-sea Fish [A14]",
+    "level": "2.00...2.50",
+    "comment": "sl2"
+  },
+  {
     "md5": "25da20674b6cdacd770bf3c4dfafbd25",
     "title": "STAGER [DP-sagANOTHER]",
     "level": "2.00...2.50",
@@ -960,6 +942,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "3662c764b23ca91edf7df310537d5b03",
+    "title": "インフェルノシティ [DP Another]",
+    "level": "2.00...2.50",
+    "comment": "sl2"
+  },
+  {
     "md5": "a1d2647df7778a7a53e4fe64ba025004",
     "title": "俗物フェスティバル [Gut Boot 2]",
     "level": "2.00...2.50",
@@ -976,6 +964,12 @@
     "title": "無機質世界に彩を [Double Lush Green]",
     "level": "2.00...2.50",
     "comment": "sl3"
+  },
+  {
+    "md5": "7c31ece35a5b0839af9a31c9b2d7b961",
+    "title": "#Za_illusory [DP-sagANOTHER]",
+    "level": "2.50...3.00",
+    "comment": "sl2"
   },
   {
     "md5": "a2518553abe125f233d6d35e68c68d13",
@@ -1102,6 +1096,12 @@
     "title": "東北新幹線 [黄野菜]",
     "level": "2.50...3.00",
     "comment": "sl2"
+  },
+  {
+    "md5": "2ea293c3ef95853c05399a9df78f8c00",
+    "title": "E.V.E [DP ANOTHER]",
+    "level": "3.00...3.50",
+    "comment": "sl4"
   },
   {
     "md5": "0a7873bc384c10c0c88f5059efb04ec6",
@@ -2556,12 +2556,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "c0df391328b3f4984fc53307236efdda",
-    "title": "Skull & Witch [DP]",
-    "level": "7.00...7.50",
-    "comment": "sl7"
-  },
-  {
     "md5": "1e295122841391fb8cdd8531918ec13c",
     "title": "suffruti -DP ANOTHER-",
     "level": "7.00...7.50",
@@ -2646,6 +2640,12 @@
     "comment": "sl8"
   },
   {
+    "md5": "34e80fc82b43ce986f37cf8a63831cc1",
+    "title": "CHRISTMAS EVE [DPINSA.NE]",
+    "level": "7.50...8.00",
+    "comment": "sl8"
+  },
+  {
     "md5": "c53e377d470cfd492d635447c9efd615",
     "title": "electric butterfly [A14]",
     "level": "7.50...8.00",
@@ -2688,12 +2688,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "9bd85de86ef5afd051a3f654e133da02",
-    "title": "myste`re　 [14keys Another]",
-    "level": "7.50...8.00",
-    "comment": "sl8"
-  },
-  {
     "md5": "93086ca5d235d4b32016cf44520f50b9",
     "title": "New Windy Paradise [DP MANIAC]",
     "level": "7.50...8.00",
@@ -2728,6 +2722,12 @@
     "title": "Singing of Night birds [DP INSANE]",
     "level": "7.50...8.00",
     "comment": "sl8"
+  },
+  {
+    "md5": "c0df391328b3f4984fc53307236efdda",
+    "title": "Skull & Witch [DP]",
+    "level": "7.50...8.00",
+    "comment": "sl7"
   },
   {
     "md5": "8060e0d74d653ee380c684caae0656b0",
@@ -2802,12 +2802,6 @@
     "comment": "sl8"
   },
   {
-    "md5": "34e80fc82b43ce986f37cf8a63831cc1",
-    "title": "CHRISTMAS EVE [DPINSA.NE]",
-    "level": "8.00...8.50",
-    "comment": "sl8"
-  },
-  {
     "md5": "4a6b5a4ad9ef995ca2ae8560094e7b7b",
     "title": "ClowN CrowN [DP Li]",
     "level": "8.00...8.50",
@@ -2870,6 +2864,12 @@
   {
     "md5": "f36b829438ba718c7e7679b430848c99",
     "title": "Luminance (DP ANOTHER)",
+    "level": "8.00...8.50",
+    "comment": "sl8"
+  },
+  {
+    "md5": "9bd85de86ef5afd051a3f654e133da02",
+    "title": "myste`re　 [14keys Another]",
     "level": "8.00...8.50",
     "comment": "sl8"
   },
@@ -3150,6 +3150,12 @@
     "comment": "sl9"
   },
   {
+    "md5": "48e3f3a439115c200f796b06e352f00f",
+    "title": "Ultimate Weapon [XIV 新生エオルゼア]",
+    "level": "9.00...9.50",
+    "comment": "sl10"
+  },
+  {
     "md5": "809c2afcebe15179b8d3f8bd6b0b340f",
     "title": "Wizdomiot [DP INSANE]",
     "level": "9.00...9.50",
@@ -3230,12 +3236,6 @@
   {
     "md5": "99cbb8f15bae66bb36f942d7c6389de6",
     "title": "Realize [starry 14]",
-    "level": "9.50...10.00",
-    "comment": "sl10"
-  },
-  {
-    "md5": "48e3f3a439115c200f796b06e352f00f",
-    "title": "Ultimate Weapon [XIV 新生エオルゼア]",
     "level": "9.50...10.00",
     "comment": "sl10"
   },

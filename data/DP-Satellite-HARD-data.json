@@ -798,12 +798,6 @@
     "comment": "sl2"
   },
   {
-    "md5": "3662c764b23ca91edf7df310537d5b03",
-    "title": "インフェルノシティ [DP Another]",
-    "level": "2.50...3.00",
-    "comment": "sl2"
-  },
-  {
     "md5": "304a55cf280f9875efb248773dc42a0f",
     "title": "ドキドキ☆夏休み直前スペシャル [DP ANOTHER]",
     "level": "2.50...3.00",
@@ -874,12 +868,6 @@
     "title": "DOLL [DP ANOTHER]",
     "level": "3.00...3.50",
     "comment": "sl2"
-  },
-  {
-    "md5": "2ea293c3ef95853c05399a9df78f8c00",
-    "title": "E.V.E [DP ANOTHER]",
-    "level": "3.00...3.50",
-    "comment": "sl3"
   },
   {
     "md5": "225bfdc355cfb22c0e75e3195fc4e6ff",
@@ -990,6 +978,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "3662c764b23ca91edf7df310537d5b03",
+    "title": "インフェルノシティ [DP Another]",
+    "level": "3.00...3.50",
+    "comment": "sl2"
+  },
+  {
     "md5": "a1d2647df7778a7a53e4fe64ba025004",
     "title": "俗物フェスティバル [Gut Boot 2]",
     "level": "3.00...3.50",
@@ -1024,6 +1018,12 @@
     "title": "conflict [DPA]",
     "level": "3.50...4.00",
     "comment": "sl2"
+  },
+  {
+    "md5": "2ea293c3ef95853c05399a9df78f8c00",
+    "title": "E.V.E [DP ANOTHER]",
+    "level": "3.50...4.00",
+    "comment": "sl4"
   },
   {
     "md5": "f47dd3cd5f16c3e5f0372d6a35f4e5fc",
@@ -2562,12 +2562,6 @@
     "comment": "sl7"
   },
   {
-    "md5": "a0514d8ed746ca43bac5ec626593269f",
-    "title": "Fascinating Laser -14keys-",
-    "level": "8.50...9.00",
-    "comment": "sl7"
-  },
-  {
     "md5": "862bad018be732989b33886f12264d98",
     "title": "GOODTEK [DP ANOTHER]",
     "level": "8.50...9.00",
@@ -2606,12 +2600,6 @@
   {
     "md5": "b88024edc3263a6cd074e7afcf1956b5",
     "title": "Lost Petal's Wander [DP ANOTHER]",
-    "level": "8.50...9.00",
-    "comment": "sl8"
-  },
-  {
-    "md5": "9bd85de86ef5afd051a3f654e133da02",
-    "title": "myste`re　 [14keys Another]",
     "level": "8.50...9.00",
     "comment": "sl8"
   },
@@ -2704,6 +2692,12 @@
     "title": "CHRISTMAS EVE [DPINSA.NE]",
     "level": "9.00...9.50",
     "comment": "sl8"
+  },
+  {
+    "md5": "a0514d8ed746ca43bac5ec626593269f",
+    "title": "Fascinating Laser -14keys-",
+    "level": "9.00...9.50",
+    "comment": "sl7"
   },
   {
     "md5": "8f4c529cc67018c14ffe0463efce9e25",
@@ -2846,6 +2840,12 @@
   {
     "md5": "1ad5b62e4dbb98f7addca17bbc90ce82",
     "title": "Last Feud ~the period~ [14 ANOTHER]",
+    "level": "9.50...10.00",
+    "comment": "sl8"
+  },
+  {
+    "md5": "9bd85de86ef5afd051a3f654e133da02",
+    "title": "myste`re　 [14keys Another]",
     "level": "9.50...10.00",
     "comment": "sl8"
   },
@@ -3186,12 +3186,6 @@
     "comment": "sl10"
   },
   {
-    "md5": "48e3f3a439115c200f796b06e352f00f",
-    "title": "Ultimate Weapon [XIV 新生エオルゼア]",
-    "level": "11.00...11.50",
-    "comment": "sl10"
-  },
-  {
     "md5": "67717946ae51422ad272a230f39c76eb",
     "title": "現実をカットアップしてみた [DPINSA.NE]",
     "level": "11.00...11.50",
@@ -3254,6 +3248,12 @@
   {
     "md5": "d19ebfa62eac8780ed709d0292b2edb6",
     "title": "Snow White [DP CHALLENGER]",
+    "level": "11.50...12.00",
+    "comment": "sl10"
+  },
+  {
+    "md5": "48e3f3a439115c200f796b06e352f00f",
+    "title": "Ultimate Weapon [XIV 新生エオルゼア]",
     "level": "11.50...12.00",
     "comment": "sl10"
   },
