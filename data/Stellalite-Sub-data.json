@@ -1923,6 +1923,19 @@
     "proposerLr2id": 147895
   },
   {
+    "md5": "8db70617c6d0586db592a1a49f933325",
+    "sha256": "d4e5ddf1758be4867f7d1104ff4be321ba5e7f3653f63646fcf203f885e5f3a4",
+    "title": "IKAROS [ANOTHER]",
+    "artist": "ETIA. feat. Jenga Movie: HDLV",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=110",
+    "level": "0",
+    "comment": "階段、同時押しともにかなり練習向きだと思います",
+    "proposer": "れみすけ(Tiv)",
+    "submission": 3071,
+    "proposerLr2id": 184040
+  },
+  {
     "md5": "d0da1409ade5cd53d7e664fa27297c2e",
     "sha256": "166bb5f1963cfa792b0ec6273246d77dbbd967dc471859ed6de9505def05d755",
     "title": "IN",
@@ -6437,6 +6450,19 @@
     "proposerLr2id": 147642
   },
   {
+    "md5": "2609350ec17cec55a9dd88b6f586c4d8",
+    "sha256": "86b30c02e594d9f2cda4df8674c69f6652ab1fc8cb5f39e6818c8474f198cdcb",
+    "title": "Daystar [Another+]",
+    "artist": "Elkei",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/letsbmsedit2/24",
+    "level": "1",
+    "comment": "Let's BMS Edit! 2 sl0上位～sl1下位",
+    "proposer": "mikado",
+    "submission": 3066,
+    "proposerMinirid": "d2ede742-3137-457b-9bea-4143f9f30a7d"
+  },
+  {
     "level": "1",
     "comment": "同時押し、縦連、皿複合",
     "md5": "d647080d4103cfba91a1da896887320f",
@@ -7461,6 +7487,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "proposerLr2id": 84521
+  },
+  {
+    "md5": "23016aa3aed43c7efdd0a75d907bf0fe",
+    "sha256": "6f9c578a9a2430e10a79bfc715cdc76db3029fd4289b1a5ccaa125a6b269cd30",
+    "title": "Loli Plaza [imoutoloveさんBMSに新曲出して～定期]",
+    "artist": "wigen_ obj.tkqn14",
+    "url_diff": "https://stellabms.xyz/upload/2859",
+    "url": "https://drive.google.com/file/d/1OR2RBS6V8Pcbhrfdq9axrOrTOH9bDRAS/view?usp=drive_link",
+    "level": "1",
+    "comment": "押しやすい乱打 微縦連 ",
+    "zureCount": 0,
+    "proposer": "ねふ",
+    "submission": 3069,
+    "proposerMinirid": "24320562-3cfd-4f1b-926e-74dc7ec368fd"
   },
   {
     "level": "1",
@@ -10891,6 +10931,19 @@
     "proposerLr2id": 86559
   },
   {
+    "md5": "78af6b39c8ddb569c79111234584b29f",
+    "sha256": "34c5037c983519ead05f3baae619e9d1570299734f051068f68dde045d93e2c5",
+    "title": "Crunk Rider [INSANE]",
+    "artist": "kas_0120 vs 原木シィタケ BGI: かんてん",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=387&event=142",
+    "level": "2",
+    "comment": "BOF:NT",
+    "proposer": "mikado",
+    "submission": 3067,
+    "proposerMinirid": "d2ede742-3137-457b-9bea-4143f9f30a7d"
+  },
+  {
     "md5": "b9edc4d324ed4705c222e78b97394e87",
     "sha256": "985ba794d20cb26f359e972dff427473005cd0ddc46594f3bdab0486cb3b19a3",
     "title": "Cryonix [Another]",
@@ -11607,6 +11660,20 @@
     "proposer": "七海",
     "submission": 2236,
     "proposerLr2id": 84597
+  },
+  {
+    "md5": "c7721ee73112d9b6dd2772f6de27630a",
+    "sha256": "c3f96e927a108d5971e98119afbf7b861fea686a61585bfcc995bb3a6df41570",
+    "title": "Hifumi Daisuki - ahaha remix [PEROPER]",
+    "artist": "桐藤ナギサ obj:ぺろすぎ",
+    "url_diff": "https://www.dropbox.com/scl/fi/drn19vxq7fyzvmbhuaahi/Hifumi-Daisuki.zip?rlkey=4p1nczuwi7j4f7jl9m91gfosj&dl=1",
+    "url": "https://venue.bmssearch.net/bmstukuru2023/73",
+    "level": "2",
+    "comment": "Bた作'23 / ▼2 / 終盤にハマりやすい配置が多い",
+    "zureCount": 0,
+    "proposer": "重野葵",
+    "submission": 3068,
+    "proposerMinirid": "adb271e9-8c13-45dd-9db3-2cf94da7c2d3"
   },
   {
     "md5": "6ef705fddb06acb80f5e8d6d12bee1f5",
@@ -14074,6 +14141,18 @@
     "proposer": "Restia",
     "submission": 1470,
     "proposerLr2id": 115265
+  },
+  {
+    "md5": "5954b059a96adeeb236981e97694738d",
+    "sha256": "b7366dcc738cecac2e4e776ef3658937b0bf14f45f56bfd1507ad5de4bd00a92",
+    "title": "卒業2000 [ANOTHER7]",
+    "artist": "Y.W / BGA: kotomi",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/letsbmsedit2/14",
+    "level": "2",
+    "proposer": "Zris",
+    "submission": 3070,
+    "proposerMinirid": "45baa2d2-08f6-44ed-9e6f-2545defa236e"
   },
   {
     "md5": "0496e348a2253430658af85f410cda4b",
@@ -19431,6 +19510,19 @@
     "voteYes": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "393e4c9c0851edae629f6a3124315c01",
+    "sha256": "197dc2b5f6ab91bb9f1bf31ee2edfa058ecacabbfe3bcb15b580f1e57d8c6754",
+    "title": "dreamy traveler [insane]",
+    "artist": "twinkle citrus obj. w",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=128&event=142",
+    "level": "4",
+    "comment": "BOF:NT同梱譜面 / 同時押し",
+    "proposer": "重野葵",
+    "submission": 3064,
+    "proposerMinirid": "adb271e9-8c13-45dd-9db3-2cf94da7c2d3"
   },
   {
     "md5": "3213380b921dd1275fb392c0080f07ae",
@@ -33628,6 +33720,19 @@
     "proposerLr2id": 88591
   },
   {
+    "md5": "cf717aef6c56099521ddb2d3335ae625",
+    "sha256": "a23929cfc505be34233fcd3ef1b95a22b4aabbc6b520c6585ada898ab115d333",
+    "title": "the lost delaycated (grieving days)",
+    "artist": "哀愁マニア obj: qtp13",
+    "url_diff": "https://stellabms.xyz/upload/3778",
+    "url": "https://onedrive.live.com/?cid=EDC72D529484CBCB&id=EDC72D529484CBCB%21212",
+    "level": "9",
+    "comment": "BPM134 ディレイ系(ずれチェック不可) 2050notes, 513total (0.250 t/n)",
+    "proposer": "棟方愛海",
+    "submission": 3065,
+    "proposerMinirid": "d596be61-ffff-4573-863b-7a0c7d7be1d9"
+  },
+  {
     "md5": "a012caed633272cfa83f5606f53b1c8c",
     "sha256": "61713929f4ece5c8188f8b379dc46390dbb4c2430dcbfbed51a401e0b33d34de",
     "title": "Theine [EXTREME]",
@@ -35721,6 +35826,19 @@
     "proposer": "SHAX.",
     "submission": 2745,
     "proposerLr2id": 65624
+  },
+  {
+    "md5": "929bd6d076aae585c7eef257e7f8b4bc",
+    "sha256": "41ba92c3adb52efdcbe78e1a066390e15bf5edbe95825194daa4a201c89177fe",
+    "title": "Speed of Light [Absolute]",
+    "artist": "Yu^ta",
+    "url_diff": "",
+    "url": "https://yuinore.net/2017/02/smc-package/",
+    "level": "10",
+    "comment": "BPM150 横認識系乱打(序盤に連打あり) 2222notes, 573total (0.257 t/n) ",
+    "proposer": "棟方愛海",
+    "submission": 3063,
+    "proposerMinirid": "d596be61-ffff-4573-863b-7a0c7d7be1d9"
   },
   {
     "level": "10",
