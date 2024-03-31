@@ -12,12 +12,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "852775fe56624678df49f191f27cbbc8",
-    "title": "人魚電台 [DP ANOTHER]",
-    "level": "4.00...4.50",
-    "comment": "sl0"
-  },
-  {
     "md5": "32c4eb544798251f227dd58c7c1ee5a8",
     "title": "062020 [14KEYS HYPER]",
     "level": "4.50...5.00",
@@ -162,12 +156,6 @@
     "comment": "sl0"
   },
   {
-    "md5": "7d9bc317f36b83498f8789e0f6d624c5",
-    "title": "Seto Inland Sea [dp Another]",
-    "level": "4.50...5.00",
-    "comment": "sl0"
-  },
-  {
     "md5": "7b803cec07b4ecac6069162fa2ad0c4e",
     "title": "Stray Squall (BMS Edit)",
     "level": "4.50...5.00",
@@ -224,6 +212,12 @@
   {
     "md5": "3a9338257e96637378c6f7f4dac076f7",
     "title": "ハッピーフェイクショー [DP Another]",
+    "level": "4.50...5.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "852775fe56624678df49f191f27cbbc8",
+    "title": "人魚電台 [DP ANOTHER]",
     "level": "4.50...5.00",
     "comment": "sl0"
   },
@@ -368,6 +362,12 @@
   {
     "md5": "eda91b02fece36750c6a18afd2284527",
     "title": "Ring Ring Ring ☆ Let's H! [R-15]",
+    "level": "5.00...5.50",
+    "comment": "sl0"
+  },
+  {
+    "md5": "7d9bc317f36b83498f8789e0f6d624c5",
+    "title": "Seto Inland Sea [dp Another]",
     "level": "5.00...5.50",
     "comment": "sl0"
   },
@@ -3054,6 +3054,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "0137148adcb6dc0c29484b2a25d40838",
+    "title": "☆Pastel Iris☆ [14Another]",
+    "level": "-",
+    "comment": "sl1"
+  },
+  {
     "md5": "674afb1706dee011cc29d157d7cf2acb",
     "title": "あずぅる!! -双鍵難-",
     "level": "-",
@@ -3220,6 +3226,12 @@
     "title": "冰月冰花 (BMS edit) [DP-sagANOTHER]",
     "level": "-",
     "comment": "sl4"
+  },
+  {
+    "md5": "aaa35739ae4ae52ffb3953dfff71eec2",
+    "title": "孤独なる慈愛と芽生ゆる友愛 [DP INSANE]",
+    "level": "-",
+    "comment": "sl5"
   },
   {
     "md5": "328535c09400f1d31460f9314013d34b",

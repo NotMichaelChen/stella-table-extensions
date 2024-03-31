@@ -294,6 +294,12 @@
     "comment": "st0"
   },
   {
+    "md5": "be5dff2328decdf233cc6bded3900920",
+    "title": "My Hardcore -Despair-",
+    "level": "5.00...5.50",
+    "comment": "st0"
+  },
+  {
     "md5": "82dace8cd1c4a16c7d0fb42bce22baf7",
     "title": "Nice Magicgirls VS scary Walpurgis [SpellBreak]",
     "level": "5.00...5.50",
@@ -636,14 +642,14 @@
     "comment": "st0"
   },
   {
-    "md5": "22143dd25f50b2b5e76fa3e59e6d204e",
-    "title": "Infinite Dreams [FUTURE]",
+    "md5": "bf1d6e8f15d53bdd35c3160b1f4567a8",
+    "title": "Luv of Magical Synth [サテラ×ステラ]",
     "level": "6.00...6.50",
     "comment": "st1"
   },
   {
-    "md5": "bf1d6e8f15d53bdd35c3160b1f4567a8",
-    "title": "Luv of Magical Synth [サテラ×ステラ]",
+    "md5": "920083576ddc0f6cbd747ce6c9a86b79",
+    "title": "Rate Cranky Hi-roller -Xe-",
     "level": "6.00...6.50",
     "comment": "st1"
   },
@@ -876,6 +882,12 @@
     "comment": "st1"
   },
   {
+    "md5": "22143dd25f50b2b5e76fa3e59e6d204e",
+    "title": "Infinite Dreams [FUTURE]",
+    "level": "6.50...7.00",
+    "comment": "st1"
+  },
+  {
     "md5": "ad5917cc6e4c4c681cfc2e91620e3eb8",
     "title": "JUMMER -Delayed-",
     "level": "6.50...7.00",
@@ -926,6 +938,12 @@
   {
     "md5": "d26ad712ceef97a5a843226bd77553eb",
     "title": "Lucid Dreaming [キャワ]",
+    "level": "6.50...7.00",
+    "comment": "st1"
+  },
+  {
+    "md5": "fb8732784e2fe5d91f77a3634753167d",
+    "title": "Luminescent Drive [Coasted]",
     "level": "6.50...7.00",
     "comment": "st1"
   },
@@ -1287,7 +1305,7 @@
     "md5": "4101dd74b1eb5fcb04dd892a1eff3e76",
     "title": "追憶の森 -Voices of the Earth- [wide]",
     "level": "6.50...7.00",
-    "comment": "st1"
+    "comment": "st0"
   },
   {
     "md5": "8cbb9953cc18436d5991105b6c5de0a6",
@@ -1336,12 +1354,6 @@
     "title": "Big Wave [SINKER]",
     "level": "7.50...8.00",
     "comment": "st2"
-  },
-  {
-    "md5": "0d6e7a4bb86fc4019f91e177309c1d61",
-    "title": "black opal [Pentagon]",
-    "level": "7.50...8.00",
-    "comment": "st3"
   },
   {
     "md5": "43bd44ff9477edc98a45a2955def0573",
@@ -1776,6 +1788,12 @@
     "comment": "st3"
   },
   {
+    "md5": "69a1df01426ccb02738432f832765f20",
+    "title": "レシュノルティア [INFATUATION]",
+    "level": "8.50...9.00",
+    "comment": "st3"
+  },
+  {
     "md5": "55175a61f06b704b6c4849fbabd473cd",
     "title": "夜明けの少女たち [triple]",
     "level": "8.50...9.00",
@@ -1802,6 +1820,12 @@
   {
     "md5": "12820816c37bd5dd1500e4232ebb2297",
     "title": "aliceblue (Radio Edit) [Daintiest]",
+    "level": "9.00...9.50",
+    "comment": "st3"
+  },
+  {
+    "md5": "0d6e7a4bb86fc4019f91e177309c1d61",
+    "title": "black opal [Pentagon]",
     "level": "9.00...9.50",
     "comment": "st3"
   },
@@ -2400,6 +2424,12 @@
     "comment": "st5"
   },
   {
+    "md5": "b1f6eba3617d87275ff6d42c1fa3493a",
+    "title": "\"Fishpot\" [Su-9]",
+    "level": "12.50...13.00",
+    "comment": "st6"
+  },
+  {
     "md5": "b29aef69cc169439f35332a56e2e0164",
     "title": "Disco Balls [Other]",
     "level": "12.50...13.00",
@@ -2456,6 +2486,12 @@
   {
     "md5": "43ed5893736ed26e0c532df35838b8d0",
     "title": "クロートーと星の観測者 [Other]",
+    "level": "12.50...13.00",
+    "comment": "st6"
+  },
+  {
+    "md5": "05e493cef2ff307aba146c8cb3be8ddd",
+    "title": "リクロスフェイト [INSANE]",
     "level": "12.50...13.00",
     "comment": "st6"
   },
@@ -2566,12 +2602,6 @@
     "title": "\"Fishpot\"",
     "level": "-",
     "comment": "st9"
-  },
-  {
-    "md5": "b1f6eba3617d87275ff6d42c1fa3493a",
-    "title": "\"Fishpot\" [Su-9]",
-    "level": "-",
-    "comment": "st6"
   },
   {
     "md5": "a76e440491797451b441beb6c1258b13",
@@ -2910,6 +2940,12 @@
     "comment": "st2"
   },
   {
+    "md5": "a1b0cffc57e1c0376b6980480212e864",
+    "title": "Apocalypse Nemesis -Meteor Noise- [Catastrophe]",
+    "level": "-",
+    "comment": "st8"
+  },
+  {
     "md5": "69aa4c9ecfa4480f18be61ee8f054fce",
     "title": "Apocalypse Nemesis -Meteor Noise- [Disaster]",
     "level": "-",
@@ -3178,6 +3214,12 @@
     "title": "Blooming [7key Sunflower]",
     "level": "-",
     "comment": "st2"
+  },
+  {
+    "md5": "28572ccc5a4912050603e3936e7387e4",
+    "title": "Blooming Jump! -TRIGGER HAPPY-",
+    "level": "-",
+    "comment": "st8"
   },
   {
     "md5": "161d264c8c0b2c554ddf382713d5dc68",
@@ -4230,6 +4272,12 @@
     "comment": "st3"
   },
   {
+    "md5": "20b208c7dac2d86364495d5b61032f95",
+    "title": "FATBROS PingPongMix #Decimalized",
+    "level": "-",
+    "comment": "st1"
+  },
+  {
     "md5": "09b6324e00251acf3ba57c1437ac08fe",
     "title": "Faurie [INSANE]",
     "level": "-",
@@ -4726,6 +4774,12 @@
     "title": "Heart Melting Color [ ]",
     "level": "-",
     "comment": "st1"
+  },
+  {
+    "md5": "489d603a8b0e7597c76eb8037a70d1c7",
+    "title": "Hello! My World!! [あの頃の僕らへ]",
+    "level": "-",
+    "comment": "st0"
   },
   {
     "md5": "4381520e50468a1b0cd12213782c1606",
@@ -5230,12 +5284,6 @@
     "title": "Luminaria [Deep in Abyss]",
     "level": "-",
     "comment": "st6"
-  },
-  {
-    "md5": "fb8732784e2fe5d91f77a3634753167d",
-    "title": "Luminescent Drive [Coasted]",
-    "level": "-",
-    "comment": "st1"
   },
   {
     "md5": "77920dee7732911b0921c3a87a8b06a8",
@@ -5866,6 +5914,18 @@
     "title": "Polymorphism [MUTATION]",
     "level": "-",
     "comment": "st5"
+  },
+  {
+    "md5": "5d96609340762dd73869182b2994c672",
+    "title": "Ponder [stressful]",
+    "level": "-",
+    "comment": "st4"
+  },
+  {
+    "md5": "c742a9b7abd26fefedea1987d6bcfb70",
+    "title": "Poppin' Shower -oversweet-",
+    "level": "-",
+    "comment": "st6"
   },
   {
     "md5": "b8ef7cfc2121dc7e62c94a09b6459a93",
@@ -6870,6 +6930,12 @@
     "comment": "st10"
   },
   {
+    "md5": "be0f33613b021152934d9d3395c21f88",
+    "title": "theyaremanycolors [yumether]",
+    "level": "-",
+    "comment": "st6"
+  },
+  {
     "md5": "82305c2b2bf9caf8130d3fcabab03fc3",
     "title": "This is an Attack コンギョ ~攻撃戦だ~ [Despair]",
     "level": "-",
@@ -7120,6 +7186,12 @@
     "title": "Vorota Collapse [Immortality]",
     "level": "-",
     "comment": "st12"
+  },
+  {
+    "md5": "e8316f51440687a6c48bbc75f186029e",
+    "title": "Wasabi [忍殺語]",
+    "level": "-",
+    "comment": "st2"
   },
   {
     "md5": "55d5fd21b94ed9d5e9039120b570b699",
@@ -7584,6 +7656,12 @@
     "comment": "st11"
   },
   {
+    "md5": "468232f9a646223fc679c804e203ae1f",
+    "title": "オールオーバー [FINALE]",
+    "level": "-",
+    "comment": "st6"
+  },
+  {
     "md5": "f6837fdb9de1d38f06e335ce8212a2df",
     "title": "オールオーバー [INSANE]",
     "level": "-",
@@ -7990,12 +8068,6 @@
     "title": "モリオンの姫 [INFERNO]",
     "level": "-",
     "comment": "st2"
-  },
-  {
-    "md5": "05e493cef2ff307aba146c8cb3be8ddd",
-    "title": "リクロスフェイト [INSANE]",
-    "level": "-",
-    "comment": "st6"
   },
   {
     "md5": "96a91ebad9a86aeef831a78168082e36",
@@ -8530,6 +8602,12 @@
     "title": "色待宵 -イロマツヨイ- [FULLBLOOM]",
     "level": "-",
     "comment": "st4"
+  },
+  {
+    "md5": "d200750f4b4e331eee0de2d1496e2921",
+    "title": "花嵐、空に溶けて [Farewell]",
+    "level": "-",
+    "comment": "st0"
   },
   {
     "md5": "51d1efb20773d137cbb5b7e7aef8d933",
