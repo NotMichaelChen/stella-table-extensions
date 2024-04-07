@@ -25001,6 +25001,18 @@
     "proposerLr2id": 35410
   },
   {
+    "md5": "2f8bf134d24e783422a889a97d55a1b4",
+    "sha256": "d6cd2de7cf8be675a0421ad082e6cfee32754c9e0d722f0ab7db3f91db21c075",
+    "title": "竹取はっぴー -BALANCED AIRTHER-",
+    "artist": "ZUN (Arr.sun3) / air / Sonic",
+    "url_diff": "https://darksabun.github.io/event/renewal/",
+    "url": "https://dl.dropboxusercontent.com/s/6k444o5s5fyxeyv/%E7%AB%B9%E5%8F%96%E3%81%AF%E3%81%A3%E3%81%B4%E3%83%BC.zip",
+    "level": "5",
+    "proposer": "七海",
+    "submission": 3082,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "0a21aba031f7821db3644820c6f67a4d",
     "sha256": "f2a27a3f811f4fec9657312c6d99e6a8670c0e439ea4da3bcb574c5c4ff923e9",
     "title": "緋音月 [SP INSANE]",
@@ -27464,6 +27476,18 @@
     "proposerLr2id": 147889
   },
   {
+    "md5": "fd7d45a946b10628f2473b2dd9ac1430",
+    "sha256": "68fa933892afdc651a07446bc8a78ec1b7a14464d3e9a1b4d06dca1b17e39c57",
+    "title": "俗物フェスティバル [INSANE]",
+    "artist": "Micelle feat.Yshida / obj:Lian",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=137",
+    "level": "6",
+    "proposer": "京町精華",
+    "submission": 3084,
+    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
+  },
+  {
     "md5": "f2279428ab2077bfa29b6f362ac5bd91",
     "sha256": "acaff9ecfaca3cb1845b71fd56037bf7ddd2b20073ea710065b6cb7d597d463c",
     "title": "午後のこいしちゃん [SABOTHER]",
@@ -29741,6 +29765,19 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "9b6d2dd9b6b43b991a9710de740100c7",
+    "sha256": "5f33ac02fae551495f421ecd0d077be7bdfa855662e21751518aa6655a051d22",
+    "title": "アリス・マーガトロイドの破滅的愛情論 [7key_Insane]",
+    "artist": "nmk feat.雪城あゆむ Movie:iimo with 紗々目ユキ La*2℃",
+    "url_diff": "http://absolute.pv.land.to/uploader/upload.html",
+    "url": "http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=40",
+    "level": "7",
+    "zureCount": 0,
+    "proposer": "京町精華",
+    "submission": 3083,
+    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
   },
   {
     "md5": "268c1dac8a7de3c540e0c434255ad4b2",
@@ -32443,6 +32480,20 @@
     "proposer": "氷城つるぎ",
     "submission": 1340,
     "proposerLr2id": 151185
+  },
+  {
+    "md5": "ba61134f45670122ca6a3d26acbc5680",
+    "sha256": "c24c3c85178faca43ca28c4eb7e7f38d64d84e094d0425bf35469056bf1eee90",
+    "title": "奇譚 [怪譚]",
+    "artist": "樟 obj : Mary_Sue",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "url": "https://www.dropbox.com/s/3wze2kb6no5iego/%E5%A5%87%E8%AD%9A.zip?dl=1",
+    "level": "8",
+    "comment": "7~8?",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 3081,
+    "proposerLr2id": 84597
   },
   {
     "level": "8",
@@ -38792,6 +38843,19 @@
     "proposerLr2id": 84597
   },
   {
+    "md5": "7444146c0ea0cd891d6114d2f66b7dc1",
+    "sha256": "2dd93c20f960bc5444e5e173aa0ece3ffb66e5635d352d9ccf0aaa2a2ff3399b",
+    "title": "未来予想図に淡い希望を [Ponder]",
+    "artist": "kei_iwata / KeiuO + 内村徹",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=142",
+    "level": "11",
+    "comment": "同梱譜面。sl11～12？　ガチ押し、多重軸、微ディレイ、多重乱打",
+    "proposer": "しおん",
+    "submission": 3085,
+    "proposerLr2id": 86787
+  },
+  {
     "md5": "8841ecde594f990c6731e6a1d6b898e5",
     "sha256": "0158acb2c9bb2876c08ec86ce1b96115faf2262d789d606e9de5eddc089a60fc",
     "title": "架空ユリカゴ　 [EX]",
@@ -42719,6 +42783,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "ccfe05798b1d4f0ac6ff0f619ea70cae6f33a1f411a5526ba3377a10fa892aa8"
+  },
+  {
+    "md5": "ade9842420eb9eb7a995e4225a00211d",
+    "sha256": "2273450f88a21b6c6e471370fa352f87da2df89c2ccbdb4ee08e6d29999ba8d1",
+    "title": "DRAGONLADY [HEARTFUL]",
+    "artist": "Nankumo BGA：Cube3 / obj&arr:魔女",
+    "url_diff": "https://stellabms.xyz/upload/3819",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=60",
+    "level": "13",
+    "comment": "曲改変差分のためズレチェック不可",
+    "proposer": "T.",
+    "submission": 2238,
+    "proposerMinirid": "5a356ead-7697-48cb-ba1e-27ff9d0d8de7"
   },
   {
     "md5": "3770428dc92aec7ba658a804af2344ec",
@@ -57378,6 +57455,19 @@
     "sha256": "63ef1b3359d3260a57bc4e50ad442008cb1e2eba7263f2cb426522e7606576b4"
   },
   {
+    "md5": "b457288fb855e43b2e5f8a9b5d0df1b0",
+    "sha256": "8e16f79f65b736a96a2d98ee6cab30539e0910b12d08245d3fea57fcad468b09",
+    "title": "the lost delaycated (distant memory)",
+    "artist": "哀愁マニア obj: qtp13",
+    "url_diff": "https://stellabms.xyz/upload/3778",
+    "url": "https://onedrive.live.com/?cid=EDC72D529484CBCB&id=EDC72D529484CBCB%21212",
+    "level": "16",
+    "comment": "BPM134 ディレイ",
+    "proposer": "potechang",
+    "submission": 2235,
+    "proposerMinirid": "3c018172-b965-4b75-a7ea-d4b575c04962"
+  },
+  {
     "md5": "51cfcc119aa3b4b517299c69e2c1d943",
     "sha256": "3f1b556eebb3c23fc62c04f305541d7f2e9afe13f6359dda2b42117c36d0ce91",
     "title": "The Mighty A [DAWN]",
@@ -62087,6 +62177,20 @@
     "sha256": "3baf566bc02bfc96df9f015194ba430deb66a827f27a8200e2cd13c92ee2f9ca"
   },
   {
+    "md5": "a55384067f440a83f01cfb0d691647f7",
+    "sha256": "735e4eb36a6a931d245c955fe36d32e9a8951d60e7a38ce387c8cabff9dedcf3",
+    "title": "恋愛シンドローム [kawaii]",
+    "artist": "佐久間まゆ / 星輝子 / obj.uio",
+    "url_diff": "http://web.archive.org/web/20190201212813/http://absolute.pv.land.to/uploader/src/up6696.zip",
+    "url": "https://dropbox.bms.ms/u/59509271/BOF2013/renai_syndrome_ogg.zip",
+    "level": "17",
+    "comment": "hard ending",
+    "zureCount": 0,
+    "proposer": "qtp13",
+    "submission": 2233,
+    "proposerLr2id": 86559
+  },
+  {
     "md5": "4724abf1ae1b9a575abc966c22cd331f",
     "sha256": "739485e781aeb5c6b5f662a3335c0bf64a9b9ede9a2ca8aaf0b8af2150d45c66",
     "title": "探し物 [WTF]",
@@ -62522,6 +62626,19 @@
     "proposer": "氷城つるぎ",
     "submission": 1127,
     "proposerLr2id": 151185
+  },
+  {
+    "md5": "15356f09c216a4e5c6f4c82e320fcee5",
+    "sha256": "77cf16895d8f056aae8cb042ae4c5765380ca0bc601f853920d3faac09292d78",
+    "title": "AXIS DIMENSION [for Freedom]",
+    "artist": "REX / obj:Criyajuh",
+    "url_diff": "http://absolute.pv.land.to/bmsuploader.html",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=148&event=96",
+    "level": "18",
+    "comment": "misalignment for delay effect",
+    "proposer": "qtp13",
+    "submission": 2234,
+    "proposerLr2id": 86559
   },
   {
     "md5": "b8a4c1a587fd30443ce896e426136c25",
@@ -66751,6 +66868,35 @@
     "sha256": "1a884aecfcb7592c29dcac959e07e8dbea3e5304118697397670bb8ee1642397"
   },
   {
+    "md5": "05e493cef2ff307aba146c8cb3be8ddd",
+    "title": "リクロスフェイト [INSANE]",
+    "artist": "あとぅす BGI:りーふぱいザウルス",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/bmstukuru2023/23",
+    "level": "19",
+    "proposer": "リアン",
+    "comment": "同梱 BPM235 乱打",
+    "submission": 2089,
+    "voteYes": 0,
+    "voteNo": 0,
+    "votePercent": 0,
+    "sha256": "8c0cf37c0a97fc90223169448a4937b6b107af82a7bb1cdbd6b2684d9775d0d8"
+  },
+  {
+    "md5": "f750f674cca67d3d6682f9932257dc43",
+    "sha256": "de202e46a09fcf58c335a5fa28b331e18cad9d3c29218dfeb63180e0d99a4ce4",
+    "title": "マッドメチャクチャニズム [Crushing]",
+    "artist": "69 de 74 BGI:れおん/obj:tyrcs",
+    "url_diff": "https://stellabms.xyz/upload/971",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=127",
+    "level": "19",
+    "comment": "地力、マラソン",
+    "zureCount": 0,
+    "proposer": "LUXURY♪",
+    "submission": 2236,
+    "proposerLr2id": 23110
+  },
+  {
     "md5": "a4abd9d8cdd2cbda31d949474e52219d",
     "sha256": "31a5af22166efa8f0638b51cface7507f0d3cef8f47a0c8e73d875dbdc0d6f7a",
     "title": "ワンダフォー・パラダイス [Wonderful]",
@@ -67068,6 +67214,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "886a01d7ea00e7dd0ed102530077fe73f77b64335f04243690b2a6e006394277"
+  },
+  {
+    "md5": "21031ac1c4f700c8d22c0dda6e52159d",
+    "sha256": "2b6bb4ff6a16514770da262b8ba90402af03bd67d8abf464745c7d0797779f7b",
+    "title": "Amplifying Effect -SP INSANE-",
+    "artist": "Is-m BGA:demae OBJ:amplifier",
+    "url_diff": "https://bms.parksulab.xyz",
+    "url": "https://web.archive.org/web/20200602154635/http://www.is-m.jp/download/bme-song/hqogg/[em56]Amplifying_effect_cdqogg.zip",
+    "level": "20",
+    "comment": "地力、連打",
+    "zureCount": 0,
+    "proposer": "LUXURY♪",
+    "submission": 2237,
+    "proposerLr2id": 23110
   },
   {
     "title": "BABYLON [SPADE｢ｼA]",
