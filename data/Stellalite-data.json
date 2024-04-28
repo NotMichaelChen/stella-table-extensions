@@ -1792,6 +1792,18 @@
     "submission": 1259
   },
   {
+    "title": "SNUG I/O [ANOTHER]",
+    "artist": "25Ohms BMS:25Ohms BGA:ReviXy/phos3 Obj:Lanait",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=154&event=142",
+    "url_diff": "",
+    "md5": "9dc3d3f55e16aee3acad341e9a81a04b",
+    "sha256": "b065955bb21b16d34e689996232d5eee7e53bb8e1061d2f6bbacc12e988d6cd5",
+    "level": "0",
+    "proposer": "sangonana",
+    "comment": "BOF:NT、低速乱打",
+    "submission": 3087
+  },
+  {
     "title": "Sogaikan Utopia [ANOTHER]",
     "artist": "NONE",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=18&event=103",
@@ -2636,18 +2648,6 @@
     "submission": 2304
   },
   {
-    "title": "April's Fantasy -Spring Bloom-",
-    "artist": "Ym1024 obj:monaka",
-    "url": "http://yellowmapleleaf.com/bms/ym35_april_ogg.rar",
-    "url_diff": "https://bmscharteditorsgroup.wixsite.com/initialatoz",
-    "md5": "435dc5f3ba1e956124281e470a9a7071",
-    "sha256": "de71860a264d36efb1dd666b2afe396df923388377b0be4f51ea93449c7675ba",
-    "level": "1",
-    "proposer": "OXYGEN",
-    "comment": "地力と少しのLN",
-    "submission": 711
-  },
-  {
     "title": "Aquahighway [ANOTHER]",
     "artist": "@gra_pha",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=66&event=121",
@@ -2905,6 +2905,18 @@
     "level": "1",
     "proposer": "♪♪",
     "submission": 1910
+  },
+  {
+    "title": "corneal -Hope-",
+    "artist": "SP-# obj:七海",
+    "url": "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ",
+    "url_diff": "https://www.dropbox.com/s/t3u2g9hcsiudcoa/corneal_hope.zip?dl=1",
+    "md5": "88cf855ed9bb65ae434b60f6839962c4",
+    "sha256": "7021a46da2a8ec9be98c3b5d4e0800705c1ab20a2346c1ceb77e949797e93269",
+    "level": "1",
+    "proposer": "dstorv",
+    "comment": " 角膜, 乱打, 同時押し",
+    "submission": 1354
   },
   {
     "title": "Cosmic Velocity [7KEYS ANOTHER]",
@@ -4862,6 +4874,18 @@
     "submission": 1155
   },
   {
+    "title": "April's Fantasy -Spring Bloom-",
+    "artist": "Ym1024 obj:monaka",
+    "url": "http://yellowmapleleaf.com/bms/ym35_april_ogg.rar",
+    "url_diff": "https://bmscharteditorsgroup.wixsite.com/initialatoz",
+    "md5": "435dc5f3ba1e956124281e470a9a7071",
+    "sha256": "de71860a264d36efb1dd666b2afe396df923388377b0be4f51ea93449c7675ba",
+    "level": "2",
+    "proposer": "OXYGEN",
+    "comment": "地力と少しのLN",
+    "submission": 711
+  },
+  {
     "title": "BEYOND [ANOTHER7]",
     "artist": "Lime mov:Roaring Flame",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=492&event=133",
@@ -5028,18 +5052,6 @@
     "submission": 1592
   },
   {
-    "title": "corneal -Hope-",
-    "artist": "SP-# obj:七海",
-    "url": "https://mega.nz/#F!FNFDCQaT!wfv-iI4UuSIaGpP0oFZdtQ",
-    "url_diff": "https://www.dropbox.com/s/t3u2g9hcsiudcoa/corneal_hope.zip?dl=1",
-    "md5": "88cf855ed9bb65ae434b60f6839962c4",
-    "sha256": "7021a46da2a8ec9be98c3b5d4e0800705c1ab20a2346c1ceb77e949797e93269",
-    "level": "2",
-    "proposer": "dstorv",
-    "comment": " 角膜, 乱打, 同時押し",
-    "submission": 1354
-  },
-  {
     "title": "COSMIC INVITATION [GNOSIS]",
     "artist": "hard",
     "url": "https://venue.bmssearch.net/bmstukuru2022/43",
@@ -5062,6 +5074,18 @@
     "proposer": "qtp13",
     "comment": "sl2~3?",
     "submission": 1535
+  },
+  {
+    "title": "Crunk Rider [INSANE]",
+    "artist": "kas_0120 vs 原木シィタケ BGI: かんてん",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=387&event=142",
+    "url_diff": "",
+    "md5": "78af6b39c8ddb569c79111234584b29f",
+    "sha256": "34c5037c983519ead05f3baae619e9d1570299734f051068f68dde045d93e2c5",
+    "level": "2",
+    "proposer": "mikado",
+    "comment": "BOF:NT",
+    "submission": 3067
   },
   {
     "title": "Cryonix [Another]",
@@ -9018,6 +9042,18 @@
     "proposerLr2id": 133436
   },
   {
+    "title": "Existencia [SP INSANE]",
+    "artist": "antymis",
+    "url": "https://venue.bmssearch.net/letsbmsedit2/20",
+    "url_diff": "",
+    "md5": "3c3d8b3658090eed7c86091845e1ad67",
+    "sha256": "c7a550631f3ebcc4aa7ec12e3d83830b2aa3cc80844b975a961c55eb64664ba3",
+    "level": "4",
+    "proposer": "qtp13",
+    "comment": "3~4",
+    "submission": 3079
+  },
+  {
     "title": "FIRST PROMIZE [INSANE]",
     "artist": "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス　obj:Rian",
     "url": "https://venue.bmssearch.net/mutualfaith3/9",
@@ -10294,18 +10330,6 @@
     "proposer": "waterfall",
     "comment": "BOFXV。ガチ押し、ズレ押し、低TOTAL、序盤難。",
     "submission": 1145
-  },
-  {
-    "title": "cadence [remind]",
-    "artist": "saikoro",
-    "url": "https://web.archive.org/web/20020926094917/http://www.digitaljunk.net/cadence.rar",
-    "url_diff": "https://bms.parksulab.xyz",
-    "md5": "350779325d2f1a7f8b9afd6a86d18f5d",
-    "sha256": "14f6e68d7af9fd256802c6575a7e6f88490f63ae11da6d490c70e7e7d90343ab",
-    "level": "5",
-    "proposer": "MarySue",
-    "comment": "2680超えノーツ、体力、地力。",
-    "submission": 1708
   },
   {
     "title": "Chronomia",
@@ -11879,6 +11903,18 @@
     "submission": 2404
   },
   {
+    "title": "cadence [remind]",
+    "artist": "saikoro",
+    "url": "https://web.archive.org/web/20020926094917/http://www.digitaljunk.net/cadence.rar",
+    "url_diff": "https://bms.parksulab.xyz",
+    "md5": "350779325d2f1a7f8b9afd6a86d18f5d",
+    "sha256": "14f6e68d7af9fd256802c6575a7e6f88490f63ae11da6d490c70e7e7d90343ab",
+    "level": "6",
+    "proposer": "MarySue",
+    "comment": "2680超えノーツ、体力、地力。",
+    "submission": 1708
+  },
+  {
     "title": "Caramel Liqueur [INSANE]",
     "artist": "Nima(Exa) / obj:今を起きる人",
     "url": "https://venue.bmssearch.net/bmstukuru2023/9",
@@ -11962,18 +11998,6 @@
     "submission": 59,
     "sha256": "ff5e08650d1800d406fe2212a0213f90ea20d013856cffce97fc0c2603e08f4c",
     "proposerLr2id": 128405
-  },
-  {
-    "title": "Do it! Do it! [SP INSANE]",
-    "artist": "litmus*×神宮要×蝦夷リス ft. 橘ルミ(CV.犬塚いちご)、陽向星シャイナ(CV.みゅい)、れくもちちゃん(仮称)(CV.杠葉えりか) bms:litmus* / obj:BAECON",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=142",
-    "url_diff": "",
-    "md5": "4a233c960ea87efe77a9715b99b4cbe7",
-    "sha256": "9dbbe9f1003780fb621c7263ac30b3a5b9971f59a718fbc4ae0189bf8ef14a23",
-    "level": "6",
-    "proposer": "七海",
-    "comment": "ルミちゃんかわいい",
-    "submission": 2900
   },
   {
     "title": "dreamin' -happycore version - [Sweet Dream]",
@@ -12792,6 +12816,18 @@
     "submission": 2606
   },
   {
+    "title": "レシュノルティア [INSANE]",
+    "artist": "あとぅす feat.はらもりよしな BGI:りーふぱいザウルス obj:Lian",
+    "url": "https://venue.bmssearch.net/hanadayori/21",
+    "url_diff": "",
+    "md5": "de40be2b4c0d069304e5dcde4a92358e",
+    "sha256": "1859223fc193276b4d68ff1d4b88e82581504cbf96e9e5883e272dad6fb74edf",
+    "level": "6",
+    "proposer": "qtp13",
+    "comment": "5~6",
+    "submission": 3095
+  },
+  {
     "title": "俗物フェスティバル [INSANE]",
     "artist": "Micelle feat.Yshida / obj:Lian",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=137",
@@ -12850,6 +12886,18 @@
     "proposer": "棟方愛海",
     "comment": "高速乱打系(250bpm) 2061notes / 500 total",
     "submission": 2909
+  },
+  {
+    "title": "恋愛シンドローム [B78]",
+    "artist": "佐久間まゆ / 星輝子 差分:棟方愛海",
+    "url": "https://dropbox.bms.ms/u/59509271/BOF2013/renai_syndrome_ogg.zip",
+    "url_diff": "https://darksabun.github.io/event/1998to2024/",
+    "md5": "0834dedec7dd67bb724c90a42a115a29",
+    "sha256": "411e6d3dfd454368f4624b6bafea32e4341e56d1fb4db296e253227cb52b6a24",
+    "level": "6",
+    "proposer": "SHAX.",
+    "comment": "BPM180 多要素",
+    "submission": 3098
   },
   {
     "title": "星の器～STAR OF ANDROMEDA -Re:NORMAL-EX-",
@@ -12959,6 +13007,18 @@
     "comment": "ノーマル判定",
     "submission": 217,
     "proposerLr2id": 80964
+  },
+  {
+    "title": "超度 -Go Beyond-",
+    "artist": "Daily天利 obj AZVW_2",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=142",
+    "url_diff": "",
+    "md5": "04188c2d542f4c46f35c2c08a5104243",
+    "sha256": "50b994764f950a8cc03c093f6eff7c451428aed0b4f086324428d99375efbcb6",
+    "level": "6",
+    "proposer": "sangonana",
+    "comment": "BOF:NT、高速同時押し",
+    "submission": 3088
   },
   {
     "title": "運命 [Lisianthus]",
@@ -14359,6 +14419,18 @@
     "submission": 919
   },
   {
+    "title": "DISCHARGE RUSH  [metallic]",
+    "artist": "ETIA. vs MM Sequence",
+    "url": "http://uploader.bms.ms/data/dischargerush/etia_vs_mm_sequence_ogg.zip",
+    "url_diff": "http://absolute.pv.land.to/uploader/src/up5619.zip",
+    "md5": "3f874970e3824730b7b4d04d0271c360",
+    "sha256": "e6991c849616c9a43494e17b03b00b6db2e29c371a7090af450e50586eacdf4f",
+    "level": "8",
+    "proposer": "なつ",
+    "comment": "",
+    "submission": 887
+  },
+  {
     "title": "Empress of Raizze [ストレッチ]",
     "artist": "-45/わなな・BANI / obj:発汗BMS",
     "url": "http://onedrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9!111",
@@ -15525,6 +15597,18 @@
     "submission": 423
   },
   {
+    "title": "Armageddon -Luna-",
+    "artist": "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト/selene.",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=129",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04172",
+    "md5": "9e8e7e04e1ce7709c9fb94ad85837550",
+    "sha256": "2cc1e6b462a7d359252cdecced5e32e581b5d82fc1c5e606d3fafa5c6012b709",
+    "level": "9",
+    "proposer": "かに",
+    "comment": "超高速/ズレ/皿複合/乱打/階段",
+    "submission": 1446
+  },
+  {
     "title": "Assault TAXI [Rainstorm Gallops]",
     "artist": "∀S∀ obj by Zethiwo",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=214&event=142",
@@ -15645,18 +15729,6 @@
     "submission": 16,
     "sha256": "1f3634170260375ae9414b05eba0659e752d5e90fc052283e6e652ca5e91b9f0",
     "proposerLr2id": 133294
-  },
-  {
-    "title": "DISCHARGE RUSH  [metallic]",
-    "artist": "ETIA. vs MM Sequence",
-    "url": "http://uploader.bms.ms/data/dischargerush/etia_vs_mm_sequence_ogg.zip",
-    "url_diff": "http://absolute.pv.land.to/uploader/src/up5619.zip",
-    "md5": "3f874970e3824730b7b4d04d0271c360",
-    "sha256": "e6991c849616c9a43494e17b03b00b6db2e29c371a7090af450e50586eacdf4f",
-    "level": "9",
-    "proposer": "なつ",
-    "comment": "",
-    "submission": 887
   },
   {
     "title": "Disco Balls -Eclipse-",
@@ -16376,18 +16448,6 @@
     "submission": 2621
   },
   {
-    "title": "Armageddon -Luna-",
-    "artist": "ZUN remixed by LeaF Movie:Optie/Illust:セシル◇タイト/selene.",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=129",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04172",
-    "md5": "9e8e7e04e1ce7709c9fb94ad85837550",
-    "sha256": "2cc1e6b462a7d359252cdecced5e32e581b5d82fc1c5e606d3fafa5c6012b709",
-    "level": "10",
-    "proposer": "かに",
-    "comment": "超高速/ズレ/皿複合/乱打/階段",
-    "submission": 1446
-  },
-  {
     "title": "Aurora [Northern Frontier]",
     "artist": "Lime obj : BAECON",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=127",
@@ -16732,6 +16792,18 @@
     "proposer": "椒図",
     "comment": "物量 (-ω-)",
     "submission": 782
+  },
+  {
+    "title": "Halley -Xe-",
+    "artist": "YuKa obj:LindBlum",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=48&event=135",
+    "url_diff": "https://stellabms.xyz/upload/2910",
+    "md5": "d9350cf402d86d4fc0cd78318995914e",
+    "sha256": "3eefc01d71a346a0d6c548c7076c1c9e03decb65c343cc9258700cfc580c9ca0",
+    "level": "10",
+    "proposer": "fuko",
+    "comment": "BPM174 乱打",
+    "submission": 3100
   },
   {
     "title": "Hot Heart is Sprinting Love~!! [地球最後の日]",
@@ -17292,6 +17364,18 @@
     "proposer": "qtp13",
     "comment": "sl11翼の折れたみたいな",
     "submission": 1180
+  },
+  {
+    "title": "爽昧夢想ラバーズ [ASTRAL]",
+    "artist": "qfeileadh feat.りこりす・らぢあーた movie:amyu",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=432&event=137",
+    "url_diff": "",
+    "md5": "28a128ca6dc074335ccdb42a89a0a51a",
+    "sha256": "4ae0a0d38768ccdd1142fefc955247bc7e52b8b58dfea6b4c514d05cc2712d73",
+    "level": "10",
+    "proposer": "potechang",
+    "comment": "BPM160 乱打 総合力",
+    "submission": 3089
   },
   {
     "title": "玉響サーチライト [SP INSANE]",
@@ -18365,6 +18449,17 @@
     "submission": 1238
   },
   {
+    "title": "tightrope city [taxy]",
+    "artist": "ブースター / obj. hplaner",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=65",
+    "url_diff": "https://web.archive.org/web/20190322230138/http://www.hyper-laner.com/sabun/all201807_laner.rar",
+    "md5": "1d7a8c995ba28203d49e570426e7c662",
+    "sha256": "41479623c564f6bad01a32f51e1e889fcf42af5511f774181899fa40166b4f7c",
+    "level": "11",
+    "proposer": "LUXURY♪",
+    "submission": 389
+  },
+  {
     "title": "tinnitus -7 Minether-",
     "artist": "SP-# obj:MineC24",
     "url": "https://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=58&order=reg&odtype=a",
@@ -18832,18 +18927,6 @@
     "proposer": "かに",
     "comment": "名作",
     "submission": 712
-  },
-  {
-    "title": "Aztec Altar [spicy]",
-    "artist": "Gymholax BGI:paraneumann / obj.hex",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=137",
-    "url_diff": "https://venue.bmssearch.net/bcel_pre/38",
-    "md5": "6d8eaee3a48b7e560a49daf7fadc60fa",
-    "sha256": "900443e401b63c5f27b4820185e1d2e485d2be079c8c6918338d46fb2aba73cf",
-    "level": "12",
-    "proposer": "fuko",
-    "comment": "BPM155 連打",
-    "submission": 2615
   },
   {
     "title": "Bad Elixir -Eclipse-",
@@ -19649,17 +19732,6 @@
     "submission": 1432
   },
   {
-    "title": "tightrope city [taxy]",
-    "artist": "ブースター / obj. hplaner",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=65",
-    "url_diff": "https://web.archive.org/web/20190322230138/http://www.hyper-laner.com/sabun/all201807_laner.rar",
-    "md5": "1d7a8c995ba28203d49e570426e7c662",
-    "sha256": "41479623c564f6bad01a32f51e1e889fcf42af5511f774181899fa40166b4f7c",
-    "level": "12",
-    "proposer": "LUXURY♪",
-    "submission": 389
-  },
-  {
     "title": "ting ting [belong]",
     "artist": "陳 正平 obj:trainer",
     "url": "https://onedrive.live.com/?id=863934608D908CD0%21105&cid=863934608D908CD0",
@@ -20241,6 +20313,18 @@
     "submission": 1456
   },
   {
+    "title": "Aztec Altar [spicy]",
+    "artist": "Gymholax BGI:paraneumann / obj.hex",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=137",
+    "url_diff": "https://venue.bmssearch.net/bcel_pre/38",
+    "md5": "6d8eaee3a48b7e560a49daf7fadc60fa",
+    "sha256": "900443e401b63c5f27b4820185e1d2e485d2be079c8c6918338d46fb2aba73cf",
+    "level": "13",
+    "proposer": "LUXURY♪",
+    "comment": "from Satellite",
+    "submission": 2250
+  },
+  {
     "title": "Baby [prologue]",
     "artist": "r / obj:Criyajuh",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=109&event=140",
@@ -20480,18 +20564,6 @@
     "submission": 695,
     "sha256": "ccfe05798b1d4f0ac6ff0f619ea70cae6f33a1f411a5526ba3377a10fa892aa8",
     "proposerLr2id": 84597
-  },
-  {
-    "title": "DRAGONLADY [HEARTFUL]",
-    "artist": "Nankumo BGA：Cube3 / obj&arr:魔女",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=60",
-    "url_diff": "https://stellabms.xyz/upload/3819",
-    "md5": "ade9842420eb9eb7a995e4225a00211d",
-    "sha256": "2273450f88a21b6c6e471370fa352f87da2df89c2ccbdb4ee08e6d29999ba8d1",
-    "level": "13",
-    "proposer": "T.",
-    "comment": "曲改変差分のためズレチェック不可",
-    "submission": 2238
   },
   {
     "title": "duty [act out of \"duty\"]",
@@ -21082,6 +21154,18 @@
     "proposerLr2id": 87474
   },
   {
+    "title": "Pandanus [パンダ茄子]",
+    "artist": "OctP (obj:Stellaおばさん)",
+    "url": "https://venue.bmssearch.net/hanadayori/24",
+    "url_diff": "",
+    "md5": "20d3b6bd051f46da4be8452f9207f9f1",
+    "sha256": "c727ec4a59d7b617721fd1c941bceeaebc428180f57d464967fa7abb0732b894",
+    "level": "13",
+    "proposer": "qtp13",
+    "comment": "sl12~st0",
+    "submission": 2244
+  },
+  {
     "title": "PHAZE UPPER [LighT]",
     "artist": "Reku Mochizuki obj. LuvTek",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=174&event=137",
@@ -21439,18 +21523,6 @@
     "proposer": "MineC24",
     "comment": "0~1?",
     "submission": 1135
-  },
-  {
-    "title": "zephyric verse [DREAM]",
-    "artist": "maki / И",
-    "url": "http://aquaseeds.net",
-    "url_diff": "https://bms.parksulab.xyz",
-    "md5": "55a9d53fb6ab4dbc1dbee82c3ffbcfbd",
-    "sha256": "a3417cdd0f159d90dd70d9b6c05bf4a0f639169376681d47f7e53e850dda988d",
-    "level": "13",
-    "proposer": "LUXURY♪",
-    "comment": "from Satellite",
-    "submission": 2039
   },
   {
     "title": "ΩXIII [GOD]",
@@ -22408,18 +22480,6 @@
     "submission": 1493
   },
   {
-    "title": "cheerful forest [P]",
-    "artist": "parakeet 41 /obj.laner BGA:yuru",
-    "url": "https://drive.google.com/file/d/17_xK_md3Um4MHTgp2aerV-JKXPQvEP7w/view?usp=drive_link",
-    "url_diff": "https://web.archive.org/web/20190322230138/https://www.hyper-laner.com/sabun/all201807_laner.rar",
-    "md5": "7118c7f4dedf647e6bc95c88811bb15a",
-    "sha256": "fa526fa06fad3c6823210f157e286c7f6814e01c05da8e7c5ad633af2ea02bd5",
-    "level": "14",
-    "proposer": "Mary_Sue",
-    "comment": "BPM145 筋トレ",
-    "submission": 2231
-  },
-  {
     "title": "Chronostasis [Futabather]",
     "artist": "黒皇帝 Movie: 6XeNoN9",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=252&event=110",
@@ -22610,6 +22670,18 @@
     "proposer": "MarySue",
     "comment": "AnzutoolでSPAと比較するとズレ三つありますがディレイ追加キー音だからプレイには問題X",
     "submission": 1168
+  },
+  {
+    "title": "DRAGONLADY [HEARTFUL]",
+    "artist": "Nankumo BGA：Cube3 / obj&arr:魔女",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=60",
+    "url_diff": "https://stellabms.xyz/upload/3819",
+    "md5": "ade9842420eb9eb7a995e4225a00211d",
+    "sha256": "2273450f88a21b6c6e471370fa352f87da2df89c2ccbdb4ee08e6d29999ba8d1",
+    "level": "14",
+    "proposer": "T.",
+    "comment": "曲改変差分のためズレチェック不可",
+    "submission": 2238
   },
   {
     "title": "Dreadnought [LastMoment]",
@@ -23139,6 +23211,18 @@
     "proposer": "ABKAOD",
     "comment": "BPM87~175 総合力",
     "submission": 2101
+  },
+  {
+    "title": "MARENOL -Despair ＆ Hope-",
+    "artist": "LeaF Movie:Optie&Fiz / obj:七海",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=370&event=123",
+    "url_diff": "https://egosa0424.github.io/sabun/marenol_nanami.zip",
+    "md5": "6ecce4aae89d8d0cd5905a3763cc47fa",
+    "sha256": "c53fc90434952d0ae05aa5d86e5af24f51f4c5a98482b594c677c4e4826dce20",
+    "level": "14",
+    "proposer": "NEKOMA",
+    "comment": "st1? ",
+    "submission": 2246
   },
   {
     "title": "marine snow",
@@ -23841,6 +23925,18 @@
     "submission": 1272
   },
   {
+    "title": "zephyric verse [DREAM]",
+    "artist": "maki / И",
+    "url": "http://aquaseeds.net",
+    "url_diff": "https://bms.parksulab.xyz",
+    "md5": "55a9d53fb6ab4dbc1dbee82c3ffbcfbd",
+    "sha256": "a3417cdd0f159d90dd70d9b6c05bf4a0f639169376681d47f7e53e850dda988d",
+    "level": "14",
+    "proposer": "LUXURY♪",
+    "comment": "from Satellite",
+    "submission": 2039
+  },
+  {
     "title": "ZEUS † 666 [Fatality]",
     "artist": "ルゼ obj.Lapis",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=List_def&event=125",
@@ -24507,6 +24603,18 @@
     "sha256": "af00c9343c1428ffd77898e8a341d96aceacc58708d6ed8531379663554b671b"
   },
   {
+    "title": "adabana [HEARTFUL]",
+    "artist": "Kyuzo Sameura obj:魔女",
+    "url": "https://venue.bmssearch.net/genreshuffle4/88",
+    "url_diff": "https://stellabms.xyz/upload/3827",
+    "md5": "c3c99394db35ed28295a589bafebbf5e",
+    "sha256": "a1b440fc381438d3df018e4195920c2053f7c52855830ad1648ea55940920d91",
+    "level": "15",
+    "proposer": "potechang",
+    "comment": "BPM175 乱打",
+    "submission": 2247
+  },
+  {
     "title": "Air -HADES-",
     "artist": "SHIKI / po",
     "url": "http://web.archive.org/web/20051118202018/http://www.remarkablesense.org/~shiki/air.exe",
@@ -24838,6 +24946,18 @@
     "proposer": "ぶんぺ～",
     "comment": "乱打 / 階段 / 連打",
     "submission": 1474
+  },
+  {
+    "title": "cheerful forest [P]",
+    "artist": "parakeet 41 /obj.laner BGA:yuru",
+    "url": "https://drive.google.com/file/d/17_xK_md3Um4MHTgp2aerV-JKXPQvEP7w/view?usp=drive_link",
+    "url_diff": "https://web.archive.org/web/20190322230138/https://www.hyper-laner.com/sabun/all201807_laner.rar",
+    "md5": "7118c7f4dedf647e6bc95c88811bb15a",
+    "sha256": "fa526fa06fad3c6823210f157e286c7f6814e01c05da8e7c5ad633af2ea02bd5",
+    "level": "15",
+    "proposer": "Mary_Sue",
+    "comment": "BPM145 筋トレ",
+    "submission": 2231
   },
   {
     "title": "Cinderella Story -Starlight stage-",
@@ -28071,6 +28191,18 @@
     "submission": 1839
   },
   {
+    "title": "Myosotis [Lethe]",
+    "artist": "椿./movie.D・ENNY/ill.のこのこ obj.Mary_Sue",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=200&event=142",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "md5": "69620443270ee897cc08ff861988012c",
+    "sha256": "c5280c31e85c1fe416eb9bcf9b77e66e17da67d0730fcf6656dd6bb099fb057c",
+    "level": "16",
+    "proposer": "SHAX.",
+    "comment": "BPM190 微連打",
+    "submission": 2243
+  },
+  {
     "title": "Never Escape [Never Give Up]",
     "artist": "void / Gt. HAKKYOU-KUN nokir / И",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=274&event=123",
@@ -28286,6 +28418,18 @@
     "proposer": "Mary_Sue",
     "comment": "アレンジ差分なのでズレ抜けチェック不可",
     "submission": 2115
+  },
+  {
+    "title": "Red -reduction division- [Despair]",
+    "artist": "nmk feat.かなえゆめ obj:七海",
+    "url": "http://www1.axfc.net/uploader/H/so/117222.zip",
+    "url_diff": "https://www.dropbox.com/s/jg74vbecwrr8mec/red_nanami.zip?dl=1",
+    "md5": "b6c45f018eddc325b277867e74900ab5",
+    "sha256": "cce820f698d8af2450aa48aa6eb89bd610e626894e8f8d9544c3d91c6c263af5",
+    "level": "16",
+    "proposer": "SHAX.",
+    "comment": "BPM135 ガチ押し",
+    "submission": 2242
   },
   {
     "title": "Replica -LAST BOSS-",
@@ -30264,18 +30408,6 @@
     "submission": 1407
   },
   {
-    "title": "Krave [Hexagon]",
-    "artist": "litmus* as Ester movie:なおや / obj.hex",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=76&event=127",
-    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
-    "md5": "8ea6711c0891e00dc0e724977ce36c06",
-    "sha256": "c0a5adc2df16dcac0c6532e8408f0ef211e6ae564d9c24fc9aae3905c48b102f",
-    "level": "17",
-    "proposer": "ふかけん",
-    "comment": "BPM192の16分乱打。st4の同譜面傾向では中～上位？",
-    "submission": 1738
-  },
-  {
     "title": "Kung-fu Fantasia -メスガキの穴-",
     "artist": "utzbo BGI:松葉 obj:メスガキ",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=68&event=132",
@@ -31969,6 +32101,18 @@
     "proposerLr2id": 87474
   },
   {
+    "title": "Dispire///Hope -Xe-",
+    "artist": "CYLTIE. obj:LindBlum",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=58&event=131",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05995",
+    "md5": "8b4e2dc22e5f577e96cd2bb814ede3dd",
+    "sha256": "977a2e9e24138ef81587f6d08fc81fd3bb19272a979e02fd63553084561a82c9",
+    "level": "18",
+    "proposer": "シックスペンス",
+    "comment": "BPM220 乱打",
+    "submission": 2240
+  },
+  {
     "title": "Dstorv [undefined]",
     "artist": "Feryquitous movie:Sight / gimmick:from [Ego]",
     "url": "https://dropbox.bms.ms/u/34035220/%5BFeryquitous%5DDistorv.rar",
@@ -32283,6 +32427,18 @@
     "proposerLr2id": 68270
   },
   {
+    "title": "Krave [Hexagon]",
+    "artist": "litmus* as Ester movie:なおや / obj.hex",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=76&event=127",
+    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
+    "md5": "8ea6711c0891e00dc0e724977ce36c06",
+    "sha256": "c0a5adc2df16dcac0c6532e8408f0ef211e6ae564d9c24fc9aae3905c48b102f",
+    "level": "18",
+    "proposer": "ふかけん",
+    "comment": "BPM192の16分乱打。st4の同譜面傾向では中～上位？",
+    "submission": 1738
+  },
+  {
     "title": "Le Specimen d'un Papillon [La colere]",
     "artist": "Process 2.3.1 vs Y-Itoh with thunder / DAC / И",
     "url": "https://onedrive.live.com/?cid=40805CD20B6241C6&id=40805CD20B6241C6!1916",
@@ -32462,6 +32618,18 @@
     "proposer": "SHAX.",
     "comment": "BPM145 多要素?",
     "submission": 1671
+  },
+  {
+    "title": "Play Me Your Love Song [Hexagon]",
+    "artist": "Kyuzo Sameura feat. a-m obj.hex",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=115&event=123",
+    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
+    "md5": "ffb9dfbb5f7fd65746eeffe6b31fa66d",
+    "sha256": "ddaa41c345d09c15a7600ac5681fbda7ca62a546de035cf326edc7b60cbfe9f3",
+    "level": "18",
+    "proposer": "SHAX.",
+    "comment": "BPM125 ハネ連打、ズレ",
+    "submission": 1777
   },
   {
     "title": "Polymorphism [MUTATION]",
@@ -32825,18 +32993,6 @@
     "submission": 590,
     "sha256": "7a3519b59b179842fa6150900ac927511881916b77106ec30670630e1cee55df",
     "proposerLr2id": 80964
-  },
-  {
-    "title": "Toujinbou ○↓†",
-    "artist": "こんなのでチルアウトしたくない obj. Tiwa Pudpichya",
-    "url": "https://noizesphere.nekokan.dyndns.info/impression/page.php?no=11",
-    "url_diff": "https://darksabun.github.io/event/1998to2024/",
-    "md5": "4bb914b9133e7abee2d1b574fe7835c2",
-    "sha256": "a671bd1d08e01d025245b1ff67b5707441221bd43f9adc65fca6b67dcbcea61c",
-    "level": "18",
-    "proposer": "SHAX.",
-    "comment": "BPM56 ディレイ",
-    "submission": 2222
   },
   {
     "title": "Trinity [Monsther]",
@@ -34169,6 +34325,18 @@
     "submission": 1169
   },
   {
+    "title": "Toujinbou ○↓†",
+    "artist": "こんなのでチルアウトしたくない obj. Tiwa Pudpichya",
+    "url": "https://noizesphere.nekokan.dyndns.info/impression/page.php?no=11",
+    "url_diff": "https://darksabun.github.io/event/1998to2024/",
+    "md5": "4bb914b9133e7abee2d1b574fe7835c2",
+    "sha256": "a671bd1d08e01d025245b1ff67b5707441221bd43f9adc65fca6b67dcbcea61c",
+    "level": "19",
+    "proposer": "SHAX.",
+    "comment": "BPM56 ディレイ",
+    "submission": 2222
+  },
+  {
     "title": "Triumphal Return [Epilogue of Gorilla]",
     "artist": "TamaDo / 逸見魔理男",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=115",
@@ -34360,6 +34528,18 @@
     "comment": "物量、ディレイ",
     "submission": 354,
     "sha256": "1a884aecfcb7592c29dcac959e07e8dbea3e5304118697397670bb8ee1642397"
+  },
+  {
+    "title": "マッドメチャクチャニズム [Crushing]",
+    "artist": "69 de 74 BGI:れおん/obj:tyrcs",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=127",
+    "url_diff": "https://stellabms.xyz/upload/971",
+    "md5": "f750f674cca67d3d6682f9932257dc43",
+    "sha256": "de202e46a09fcf58c335a5fa28b331e18cad9d3c29218dfeb63180e0d99a4ce4",
+    "level": "19",
+    "proposer": "LUXURY♪",
+    "comment": "地力、マラソン",
+    "submission": 2236
   },
   {
     "title": "リクロスフェイト [INSANE]",

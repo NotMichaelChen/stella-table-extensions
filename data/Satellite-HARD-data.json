@@ -1341,7 +1341,7 @@
     "md5": "435dc5f3ba1e956124281e470a9a7071",
     "title": "April's Fantasy -Spring Bloom-",
     "level": "1.50...2.00",
-    "comment": "sl1"
+    "comment": "sl2"
   },
   {
     "md5": "667fb17a485e103c3663ed20dbee5a43",
@@ -2355,7 +2355,7 @@
     "md5": "88cf855ed9bb65ae434b60f6839962c4",
     "title": "corneal -Hope-",
     "level": "2.00...2.50",
-    "comment": "sl2"
+    "comment": "sl1"
   },
   {
     "md5": "9a50c8e205ac779944a6855b9c003b6f",
@@ -5397,7 +5397,7 @@
     "md5": "350779325d2f1a7f8b9afd6a86d18f5d",
     "title": "cadence [remind]",
     "level": "5.50...6.00",
-    "comment": "sl5"
+    "comment": "sl6"
   },
   {
     "md5": "d0728a13bccc91b0fc42ba3fe2179081",
@@ -5840,12 +5840,6 @@
   {
     "md5": "d33950e1add0bf47a18e1c13e419ca9d",
     "title": "Demon's Roar [SP ANOTHER]",
-    "level": "6.00...6.50",
-    "comment": "sl6"
-  },
-  {
-    "md5": "4a233c960ea87efe77a9715b99b4cbe7",
-    "title": "Do it! Do it! [SP INSANE]",
     "level": "6.00...6.50",
     "comment": "sl6"
   },
@@ -7857,7 +7851,7 @@
     "md5": "3f874970e3824730b7b4d04d0271c360",
     "title": "DISCHARGE RUSH  [metallic]",
     "level": "9.50...10.00",
-    "comment": "sl9"
+    "comment": "sl8"
   },
   {
     "md5": "9972c3c56cdd534bc0374d1c98d962aa",
@@ -8067,7 +8061,7 @@
     "md5": "9e8e7e04e1ce7709c9fb94ad85837550",
     "title": "Armageddon -Luna-",
     "level": "10.00...10.50",
-    "comment": "sl10"
+    "comment": "sl9"
   },
   {
     "md5": "f6d9d7e536801d45e3126493842dbc40",
@@ -9258,12 +9252,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "6d8eaee3a48b7e560a49daf7fadc60fa",
-    "title": "Aztec Altar [spicy]",
-    "level": "12.00...12.50",
-    "comment": "sl12"
-  },
-  {
     "md5": "1abcae664a42b09d1b25dc7696b3769f",
     "title": "Black Lair [EXPERT]",
     "level": "12.00...12.50",
@@ -9423,7 +9411,7 @@
     "md5": "1d7a8c995ba28203d49e570426e7c662",
     "title": "tightrope city [taxy]",
     "level": "12.00...12.50",
-    "comment": "sl12"
+    "comment": "sl11"
   },
   {
     "md5": "6a3762ad91ec89392dda8554360f66c1",
