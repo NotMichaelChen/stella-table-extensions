@@ -6482,6 +6482,20 @@
     "proposerLr2id": 154796
   },
   {
+    "md5": "c16df506588e8474e37c22b485936873",
+    "sha256": "e20a3288e046fbcae2f104122c3565c42122c9f22de12da002b890a91925dc73",
+    "title": "Cynical [Mild]",
+    "artist": "Blue-J obj:Guanacoite",
+    "url_diff": "https://stellabms.xyz/upload/3888",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=116&num=248",
+    "level": "1",
+    "comment": "BPM159 高速階段",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 3142,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "606c331a2af77df466a595e67f416180",
     "sha256": "4342b2bd8e83365eba275b32d0131e0cecb703d4dbe2c8db7a4a4b39971f7e6a",
     "title": "D3C3MB3R [N07V1C3]",
@@ -30051,6 +30065,19 @@
     "proposerLr2id": 141043
   },
   {
+    "md5": "1e7111516cd5b58f4258408ed3dd6b39",
+    "sha256": "b4bcf6598488d03baf6ae319041076f8a31f4414f217893f841e5448e1e74e90",
+    "title": "THE RETROSPECTIVE RITUALIZER (SP BLACK ANOTHER)",
+    "artist": "DJ ANDREA Feat. 初音ミク Chart by DJ ANDREA",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/bmstukuru2024/25",
+    "level": "7",
+    "comment": "BMSをたくさん作るぜ'24/同時押し、縦連、高TOTAL",
+    "proposer": "sangonana",
+    "submission": 3143,
+    "proposerLr2id": 148764
+  },
+  {
     "md5": "1b70db38910e2fad99c9874182e8ece5",
     "sha256": "be0da9ec31751e04317d3cbb052419030b34309ddeb9f7c182484c86693d2b52",
     "title": "To the restored sunflower garden [EXTRA]",
@@ -33976,20 +34003,6 @@
     "proposerMinirid": "d596be61-ffff-4573-863b-7a0c7d7be1d9"
   },
   {
-    "md5": "a006449b276254a0f9f0e9dd87e82ad7",
-    "sha256": "82a185968fb05df96d89b0c4cbee0fe2f637fd949869256c81e9cbb8018212bd",
-    "title": "Junonia [Nymphalidae]",
-    "artist": "Zris / obj: Mary_Sue (BG: Ano)",
-    "url_diff": "https://darksabun.github.io/Mary_Sue/",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=418&event=142",
-    "level": "9",
-    "comment": "BPM175 乱打+α",
-    "zureCount": 0,
-    "proposer": "SHAX.",
-    "submission": 3128,
-    "proposerLr2id": 65624
-  },
-  {
     "level": "9",
     "comment": "同時押し/皿複合/停止ギミックあり",
     "md5": "001003eb7179ba8a1c169175fd1aa0f0",
@@ -35989,6 +36002,20 @@
     "votePercent": 0
   },
   {
+    "md5": "a006449b276254a0f9f0e9dd87e82ad7",
+    "sha256": "82a185968fb05df96d89b0c4cbee0fe2f637fd949869256c81e9cbb8018212bd",
+    "title": "Junonia [Nymphalidae]",
+    "artist": "Zris / obj: Mary_Sue (BG: Ano)",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=418&event=142",
+    "level": "10",
+    "comment": "BPM175 乱打+α",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 3128,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "32b5ecfde0b070310044d65fa6e0c5a5",
     "sha256": "e35718a89305560fa2a0cd4f726141ed024be89b1ddff1f5ad5fc07924f8e234",
     "title": "Just one word [DataErr0r]",
@@ -37047,6 +37074,20 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "e7ee9ae27da20e84fff1da9b958fff43",
+    "sha256": "48c06b4c32608de1043c4b3ac261455c28fc8f655b7fd67dbf1cddc427b21ae6",
+    "title": "新月舞踏 [7A+]",
+    "artist": "-45/SOA/obj:R1N",
+    "url_diff": "https://stellabms.xyz/upload/3625",
+    "url": "http://web.archive.org/web/20040807112115/http://mugimugi-70.hp.infoseek.co.jp/htm/music.htm",
+    "level": "10",
+    "comment": "BPM138 連打複合",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 3141,
+    "proposerLr2id": 65624
   },
   {
     "level": "10",
@@ -40822,6 +40863,20 @@
     "proposer": "MarySue",
     "submission": 1393,
     "proposerLr2id": 147889
+  },
+  {
+    "md5": "f8ed01d1eea9ab4eaf80cdc777267e44",
+    "sha256": "78fe876ed0eee74153b338faba3d8a366662c18975398d0406baad847850d1e3",
+    "title": "INAPPROPRIATE EMOTION [yumether]",
+    "artist": "ウキウキダンスマン / obj:夢瑠",
+    "url_diff": "https://dl.dropboxusercontent.com/scl/fi/93so6n4vyw4gcegskh6dc/_INAPPROPRIATE_EMOTION-_yume.zip?rlkey=hh1uy9wvtvgo98thhk0pa0rcf&st=y3kgpi5d",
+    "url": "https://venue.bmssearch.net/genreshuffle4/9",
+    "level": "11",
+    "comment": "BPM186 乱打",
+    "zureCount": 0,
+    "proposer": "fuko",
+    "submission": 3140,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "4706769b5a4c6105bcd8b43260382d88",
@@ -49504,6 +49559,20 @@
     "sha256": "e8142b0d6ba7c14a7cdd202b3719ed3358788004bf2ebd021de0616d03f2b018"
   },
   {
+    "md5": "ce63b27edb03e485d3b231dc742f4ca3",
+    "sha256": "33cb48075c4926d39a8abec171a27192a515f2e971e46012ce9993cbf9058743",
+    "title": "There [SP MARYTHER]",
+    "artist": "Euphoria guru with Sobrem obj. Mary_Sue",
+    "url_diff": "https://hpx.getonpictochat.com/bmss/2023/",
+    "url": "https://drive.google.com/file/d/1aq3bUerUpHc1myFOWxxeaTDkBBAQKSJu/view",
+    "level": "14",
+    "comment": "BPM162 総合力",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 2280,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "392f0d62335823a2f9709d272e07bc0d",
     "sha256": "1c6db5cff1d205c60e1bd539f34d3743460633377c65349e12703d82cf48e171",
     "title": "tinnitus [Nyannurs]",
@@ -50729,6 +50798,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "bbeb435755d8be91758e7969053c8681026986d3154349ffb67ded98342919dc"
+  },
+  {
+    "md5": "9076c384d78d4b5f77a2517a7b06e506",
+    "sha256": "5a985c063d30d9eef8a883e7662d9fcc8c4966d743214abd239c96ba3ec3f2ff",
+    "title": "杪冬の願い [CONNECT]",
+    "artist": "あとぅす feat.橘花音 BGI:りーふぱいザウルス",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/bmstukuru2022/33",
+    "level": "14",
+    "comment": "st1~2 BPM165 物量 連打",
+    "proposer": "mukyu--",
+    "submission": 1808,
+    "proposerLr2id": 71314
   },
   {
     "md5": "55f93984384c5d5ec7f18b06aceb1ca9",
@@ -53157,6 +53239,19 @@
     "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
+    "md5": "c6649c978d494fe2600a3a8a7b747a88",
+    "sha256": "8e6490d33fef4bded0195cb1205c7bcd3289c46645ab04bf173c238a37c7384f",
+    "title": "orbitalgazer (FORCEFUL)",
+    "artist": "qfeileadh / И Illust:linglvz",
+    "url_diff": "https://hpx.getonpictochat.com/bmss/2023/",
+    "url": "https://k-bms.com/party_pabat/party.jsp?board_num=23&num=38&order=reg&odtype=a",
+    "level": "15",
+    "comment": "BPM192 乱打",
+    "proposer": "SHAX.",
+    "submission": 2281,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "ef55e67fd19d4bd067dddef58a06f9d7",
     "sha256": "59b7357000463a335edbcded41e01ec2d1a2d2e028244c16b7ad0ade1668b1dc",
     "title": "Our Dream, Our Justice [SP Our Challenge]",
@@ -53332,6 +53427,19 @@
     "proposer": "歳納京子",
     "submission": 1497,
     "proposerLr2id": 75332
+  },
+  {
+    "md5": "606ea0071e3e0ecad116a2e823ed8b87",
+    "sha256": "dc5c4879e3e3f844d94ec29af4b848467c7f04003db04de6912de635660c2dde",
+    "title": "Rebellion of Mechanical Heart [COLLAPSE]",
+    "artist": "Jin / sarada BGA:Ghastly Conceit",
+    "url_diff": "https://srdbms.otodo.net/sabun/rebellion_srd.zip",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=49",
+    "level": "15",
+    "comment": "アレンジ差分なのでズレ抜けチェック不可",
+    "proposer": "Mary_Sue",
+    "submission": 2115,
+    "proposerLr2id": 147889
   },
   {
     "md5": "69ed158886fbc6193a81f44166e3d796",
@@ -54908,19 +55016,6 @@
     "proposerLr2id": 84597
   },
   {
-    "md5": "9076c384d78d4b5f77a2517a7b06e506",
-    "sha256": "5a985c063d30d9eef8a883e7662d9fcc8c4966d743214abd239c96ba3ec3f2ff",
-    "title": "杪冬の願い [CONNECT]",
-    "artist": "あとぅす feat.橘花音 BGI:りーふぱいザウルス",
-    "url_diff": "",
-    "url": "https://venue.bmssearch.net/bmstukuru2022/33",
-    "level": "15",
-    "comment": "st1~2 BPM165 物量 連打",
-    "proposer": "mukyu--",
-    "submission": 1808,
-    "proposerLr2id": 71314
-  },
-  {
     "title": "東風谷早苗が悲しい顔をする理由。 [Hexagon]",
     "artist": "nmk feat.かなえゆめ BGA:SIGMA/ASTE Illust:かぜっと obj.hex",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=48&event=118",
@@ -55997,20 +56092,6 @@
     "proposer": "MarySue",
     "submission": 1394,
     "proposerLr2id": 147889
-  },
-  {
-    "md5": "ad4381ec0ffe5a76d18c03bf715c9d5c",
-    "sha256": "90627946c1dd033e3c3178a8536421f4361e19fbb6791eec567606219e6cb8f9",
-    "title": "ceu [WHITE ANOTHER]",
-    "artist": "Kyuzo Sameura feat. きりたん obj:Holy",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05224",
-    "url": "https://venue.bmssearch.net/bmsshuin3/96",
-    "level": "16",
-    "comment": "BPM135 サンバ系ガチ押し",
-    "zureCount": 0,
-    "proposer": "垢伴次郎",
-    "submission": 1432,
-    "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
   },
   {
     "md5": "d0a980bc42189d7a726f12591e51492d",
@@ -57889,19 +57970,6 @@
     "proposer": "歳納京子",
     "submission": 2116,
     "proposerLr2id": 75332
-  },
-  {
-    "md5": "606ea0071e3e0ecad116a2e823ed8b87",
-    "sha256": "dc5c4879e3e3f844d94ec29af4b848467c7f04003db04de6912de635660c2dde",
-    "title": "Rebellion of Mechanical Heart [COLLAPSE]",
-    "artist": "Jin / sarada BGA:Ghastly Conceit",
-    "url_diff": "https://srdbms.otodo.net/sabun/rebellion_srd.zip",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=49",
-    "level": "16",
-    "comment": "アレンジ差分なのでズレ抜けチェック不可",
-    "proposer": "Mary_Sue",
-    "submission": 2115,
-    "proposerLr2id": 147889
   },
   {
     "md5": "b6c45f018eddc325b277867e74900ab5",
@@ -60067,6 +60135,20 @@
     "proposerLr2id": 7290
   },
   {
+    "md5": "ad4381ec0ffe5a76d18c03bf715c9d5c",
+    "sha256": "90627946c1dd033e3c3178a8536421f4361e19fbb6791eec567606219e6cb8f9",
+    "title": "ceu [WHITE ANOTHER]",
+    "artist": "Kyuzo Sameura feat. きりたん obj:Holy",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05224",
+    "url": "https://venue.bmssearch.net/bmsshuin3/96",
+    "level": "17",
+    "comment": "BPM135 サンバ系ガチ押し",
+    "zureCount": 0,
+    "proposer": "垢伴次郎",
+    "submission": 1432,
+    "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
+  },
+  {
     "md5": "f3865539a4781d3ffe86a5ace3626138",
     "title": "Challenge the final mission! [Hide]",
     "artist": "Y.W / obj:秘密",
@@ -60883,6 +60965,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "2148d90b5fa0c9d2c20b83a8772fa15010439ec4cbad65ab053e1e120f101be1"
+  },
+  {
+    "md5": "d9c3f164e7d1be6de7a00f638854d169",
+    "sha256": "b82b753b72bbf8dde0194f21a065b43a416f16d8f35263e1e6b43ad47482fd8e",
+    "title": "Hazuki [Hexagon]",
+    "artist": "hugepulse BGA:Micelle obj.hex",
+    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
+    "url": "https://venue.bmssearch.net/bmsshuin2/14",
+    "level": "17",
+    "comment": "BPM115 ガチ押し 微連打",
+    "zureCount": 0,
+    "proposer": "fuko",
+    "submission": 2279,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "1582787258f430961e6a3245454def5b",
@@ -62886,6 +62982,20 @@
     "proposerLr2id": 86559
   },
   {
+    "md5": "2b352c7e44058772cb03c7bd1e8dd051",
+    "sha256": "c9599a3124b0167f49d2a69d7c7888c2bf7878df5ae6e35023239d4238ebe106",
+    "title": "ジェリーフィッシュは月を仰いで [HEARTFUL]",
+    "artist": "Nuekawa BGI:まりも / obj:魔女",
+    "url_diff": "https://stellabms.xyz/upload/3689",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=249&event=137",
+    "level": "17",
+    "comment": "BPM224 乱打",
+    "zureCount": 0,
+    "proposer": "potechang",
+    "submission": 2283,
+    "proposerMinirid": "3c018172-b965-4b75-a7ea-d4b575c04962"
+  },
+  {
     "title": "スーパーイザナギオブジェクト [Other]",
     "artist": "er obj:Omino",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=102",
@@ -63054,6 +63164,20 @@
     "voteYes": 0,
     "voteNo": 0,
     "sha256": "034c1b1ad94df55f6b184a7647a41abad7f9c19eae896d8db33cc0855e5811d8"
+  },
+  {
+    "md5": "8d0270af7d7e206ce372e958c1d86b32",
+    "sha256": "2e57438dcc899ab0af2533c7cbbb771a4d0797f47f54f29e47c32b035f1c7810",
+    "title": "乖離領域のグリヴェール [VANDALISM]",
+    "artist": "Micelle / obj:Lian",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05997",
+    "url": "https://venue.bmssearch.net/bmstukuru2022/6",
+    "level": "17",
+    "comment": "BPM185 乱打",
+    "zureCount": 0,
+    "proposer": "potechang",
+    "submission": 2282,
+    "proposerMinirid": "3c018172-b965-4b75-a7ea-d4b575c04962"
   },
   {
     "md5": "b3d6e72449ffaf9bbf3f6688aa966dee",
@@ -68074,6 +68198,19 @@
     "sha256": "1c4ab35bdc87b81608da9acb92e1143a7f1bf94e271ce3540226fb431ce3bfad"
   },
   {
+    "md5": "24142c08ab5af5511c1457f6a5fe1a7c",
+    "sha256": "1fd648de9d0fcea6c11915e6716fb03cfe1d62d376871a1cb899091ab9bea659",
+    "title": "卒業2000 [TAIKO DIMENSIONS]",
+    "artist": "Y.W / BGA: kotomi OBJ: 西京極ラム子",
+    "url_diff": "https://stellabms.xyz/upload/3797",
+    "url": "https://venue.bmssearch.net/letsbmsedit2/14",
+    "level": "19",
+    "comment": "no softlanding",
+    "proposer": "qtp13",
+    "submission": 2263,
+    "proposerLr2id": 86559
+  },
+  {
     "md5": "f7e7607f555bba13d0a2efea4fd7c9d4",
     "title": "堕楽の園 [euphoria]",
     "artist": "witch's slave Graphic by Est obj.uio",
@@ -69689,19 +69826,6 @@
     "voteYes": 0,
     "voteNo": 0,
     "sha256": "6da4b5f13167e9b4285abb4f8881561a3c3b298be5b23e22307c646020a401ef"
-  },
-  {
-    "md5": "24142c08ab5af5511c1457f6a5fe1a7c",
-    "sha256": "1fd648de9d0fcea6c11915e6716fb03cfe1d62d376871a1cb899091ab9bea659",
-    "title": "卒業2000 [TAIKO DIMENSIONS]",
-    "artist": "Y.W / BGA: kotomi OBJ: 西京極ラム子",
-    "url_diff": "https://stellabms.xyz/upload/3797",
-    "url": "https://venue.bmssearch.net/letsbmsedit2/14",
-    "level": "20",
-    "comment": "no softlanding",
-    "proposer": "qtp13",
-    "submission": 2263,
-    "proposerLr2id": 86559
   },
   {
     "level": "20",
