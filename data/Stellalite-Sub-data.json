@@ -5624,6 +5624,19 @@
     "proposerLr2id": 147895
   },
   {
+    "md5": "3a576bf11e56d0dd087b2ab367dba0b6",
+    "sha256": "2bec1d6024fc9e4b879505951db3ad1a29035d2e85f8512fd4abb7c00b0293b4",
+    "title": "adabana [7KEYS ANOTHER]",
+    "artist": "Kyuzo Sameura",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/genreshuffle4/88",
+    "level": "1",
+    "comment": "GENRE-SHUFFLE 4",
+    "proposer": "mikado",
+    "submission": 3145,
+    "proposerMinirid": "d2ede742-3137-457b-9bea-4143f9f30a7d"
+  },
+  {
     "md5": "dfda2cdf3527b470e8951ba285d6bc28",
     "sha256": "79e79750d717a4a627939d985230902beeadc488019f2841ecffc32f48d6a409",
     "title": "Aeventyr [MX]",
@@ -7168,6 +7181,19 @@
     "proposer": "MrMary",
     "submission": 2233,
     "proposerLr2id": 158511
+  },
+  {
+    "md5": "9055a9c5463e4c322b8e194907445a43",
+    "sha256": "4010b8d29163d1636bcbd8276719201c110309f797e8e8a8f77749978566bd0a",
+    "title": "Ignition [SP Another]",
+    "artist": "しるい",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/bmstukuru2023/83",
+    "level": "1",
+    "comment": "BMSをたくさん作るぜ'23/ LN、終盤難、高TOTAL(0.343total/note)",
+    "proposer": "sangonana",
+    "submission": 3148,
+    "proposerLr2id": 148764
   },
   {
     "md5": "ddb2c34e1543c219c4b251b13671be1f",
@@ -11301,6 +11327,19 @@
     "proposerMinirid": "7040afc3-37ee-481c-b5d6-dbb031473e9a"
   },
   {
+    "md5": "ecb6c38d3925e3817b13fc5032744634",
+    "sha256": "571f388fe8e49faa1c9d137a4b5a49650e9e88c2abcb95c275e78a00f66f94c5",
+    "title": "Echo [SP INSANE]",
+    "artist": "wheatfox bga:wheatfox;obj:NebulaBunny_uwu",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=84&event=140",
+    "level": "2",
+    "comment": "BOF:ET",
+    "proposer": "mikado",
+    "submission": 3144,
+    "proposerMinirid": "d2ede742-3137-457b-9bea-4143f9f30a7d"
+  },
+  {
     "md5": "6180e21b460adfa1a3e56091b4a000e6",
     "sha256": "958afefc105334ded2fda4b2965814dd1e4354193dc32ac3b194fea164932dd8",
     "title": "Een Lijden [ANOTHER+]",
@@ -12700,6 +12739,19 @@
     "votePercent": 0
   },
   {
+    "md5": "82a4959a5ab9d3c0509dbc4243c87237",
+    "sha256": "72617701524dce328c7ecca7a688554f4871e99dba081c16300ca202c7b3e406",
+    "title": "Odin [Another]",
+    "artist": "しらいし",
+    "url_diff": "",
+    "url": "http://web.archive.org/web/20130221160522/http://www.lr2.sakura.ne.jp/Odin.rar",
+    "level": "2",
+    "comment": "sl1~2?",
+    "proposer": "Nuclein",
+    "submission": 3153,
+    "proposerLr2id": 182035
+  },
+  {
     "md5": "2d2e1007030997429d279e21e99e21e0",
     "sha256": "0558d1d4ee4d6ab5cd558f134b0182872eb84853d7b52ae1452477637bfcf205",
     "title": "On And On!! [Impulse]",
@@ -12920,6 +12972,20 @@
     "proposer": "T_lancer",
     "submission": 2435,
     "proposerLr2id": 172027
+  },
+  {
+    "md5": "fb8e2e64af3308e2e9190fec6424efe3",
+    "sha256": "0e652a609fcc617ca2efa2cae908c381427de11ee081b69c61b93b55673f4dff",
+    "title": "Poppin' Shower [hi-rea'du]",
+    "artist": "P*Light / obj:BAECON",
+    "url_diff": "http://akred.web.fc2.com/baecon/ps_hi-ria10.bme",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=239&event=74",
+    "level": "2",
+    "comment": "",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 3152,
+    "proposerLr2id": 84597
   },
   {
     "md5": "1ce4647af15a4a40410f9309b0d37378",
@@ -16020,6 +16086,20 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "5e3711f2f576f3929156c9594b87efac",
+    "sha256": "db0451a842b8a31f079e7d8b7da03e26c9c3c92ecebd695d0d9ab81139694e31",
+    "title": "Engine [SP Insane]",
+    "artist": "Music : eFeL / BGA : 鑓田(Alpha complex)",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=104",
+    "level": "3",
+    "comment": "★6",
+    "zureCount": 0,
+    "proposer": "f(x,y)",
+    "submission": 3149,
+    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
   },
   {
     "md5": "98d001d5936fbac50f7e51ac1c4ea9e6",
@@ -20448,6 +20528,20 @@
     "proposer": "AXION",
     "submission": 889,
     "proposerLr2id": 37523
+  },
+  {
+    "md5": "425e92c471171139ca49b05bd60ca5a9",
+    "sha256": "591ee533fd6f3617cbaeba1d4f553e02b6f64a227f39275843410317c4aa93d6",
+    "title": "JUMMER (HARD+)",
+    "artist": "momo★yama　　(BGA:アカツキユウ) obj:LAPIS",
+    "url_diff": "http://lapisbms.xyz/",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=103",
+    "level": "4",
+    "comment": "★6",
+    "zureCount": 0,
+    "proposer": "f(x,y)",
+    "submission": 3150,
+    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
   },
   {
     "md5": "375fe6459b4d8c902512ffc13c577f8d",
@@ -29371,6 +29465,20 @@
     "proposerMinirid": "3b715e5b-6a45-4156-913c-5109a62f4512"
   },
   {
+    "md5": "184820e0151cf4f1da51725842e9267d",
+    "sha256": "6f9683f4f78cd17ddab5a05dcfbe70f34546f3436be5a5ef99864610cb1298da",
+    "title": "Icicle Stinger [ANTARCTIC]",
+    "artist": "ROKINA / obj:saaa BGA:出前",
+    "url_diff": "http://onedrive.live.com/?id=AC73538C22C032C1%21107&cid=AC73538C22C032C1&group=0",
+    "url": "http://onedrive.live.com/?id=A0C4279F1B037701%21494&cid=A0C4279F1B037701&group=0&authkey=%21AAHkZCIrFbkFuQQ",
+    "level": "7",
+    "comment": "▼12",
+    "zureCount": 0,
+    "proposer": "七海",
+    "submission": 3151,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "b91ed7f26020b9397d47851d6f50300f",
     "title": "In The Wind -うままう-",
     "artist": "Syatten / obj:BAECON",
@@ -34274,6 +34382,19 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "fb305cbff33b3b5331c6a25b7cad8f07",
+    "sha256": "8a0432af1f9420dda24e34f5db27abd02e3e4bd067153680fa538650d8dcdb97",
+    "title": "Palette Of The Life [Another]",
+    "artist": "Rave Cyanide [BMS Edit R.W.R]",
+    "url_diff": "",
+    "url": "http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=57&order=reg&odtype=a",
+    "level": "9",
+    "comment": "숨겨진 명곡의 Another 동봉차분을 즐겨봅시다",
+    "proposer": "Arctell",
+    "submission": 3146,
+    "proposerLr2id": 62648
+  },
+  {
     "md5": "b19352d0052e28c370a21dd9ac07e9d0",
     "sha256": "95a49635f7c7e8d4a556827c9a76539e0d2111871b9a87c62e47ef8334bf20fa",
     "title": "PHAZE UPPER [IMMORTAL]",
@@ -38236,6 +38357,20 @@
     "proposerLr2id": 84597
   },
   {
+    "md5": "f8ed01d1eea9ab4eaf80cdc777267e44",
+    "sha256": "78fe876ed0eee74153b338faba3d8a366662c18975398d0406baad847850d1e3",
+    "title": "INAPPROPRIATE EMOTION [yumether]",
+    "artist": "ウキウキダンスマン / obj:夢瑠",
+    "url_diff": "https://dl.dropboxusercontent.com/scl/fi/93so6n4vyw4gcegskh6dc/_INAPPROPRIATE_EMOTION-_yume.zip?rlkey=hh1uy9wvtvgo98thhk0pa0rcf&st=y3kgpi5d",
+    "url": "https://venue.bmssearch.net/genreshuffle4/9",
+    "level": "11",
+    "comment": "BPM186 乱打",
+    "zureCount": 0,
+    "proposer": "fuko",
+    "submission": 3140,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
+  },
+  {
     "md5": "7e32af584080fb9965bbf497947de99f",
     "sha256": "7f0224a6b0022dfc9998f30f22d4065d784b04c9b482219db14a91bf730363f7",
     "title": "It's \"alice\" dream [HARDEST]",
@@ -39300,6 +39435,20 @@
     "proposer": "七海",
     "submission": 2062,
     "proposerLr2id": 84597
+  },
+  {
+    "md5": "0b8627092ac372c56578370774992eff",
+    "sha256": "e1680035c62eff6c467a540cc476981b0a6486ad44c0a77ddeed0289a7a62c0a",
+    "title": "《Ж》 [SP ACE]",
+    "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON bms. Qyubey / mov. Siesphere / obj. tkqn14 / extra",
+    "url_diff": "https://stellabms.xyz/upload/3425",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=142",
+    "level": "11",
+    "comment": "10~11? insane+",
+    "zureCount": 0,
+    "proposer": "qtp13",
+    "submission": 3147,
+    "proposerLr2id": 86559
   },
   {
     "md5": "db29d04da2708e18a644654e4d6325a4",
@@ -40863,20 +41012,6 @@
     "proposer": "MarySue",
     "submission": 1393,
     "proposerLr2id": 147889
-  },
-  {
-    "md5": "f8ed01d1eea9ab4eaf80cdc777267e44",
-    "sha256": "78fe876ed0eee74153b338faba3d8a366662c18975398d0406baad847850d1e3",
-    "title": "INAPPROPRIATE EMOTION [yumether]",
-    "artist": "ウキウキダンスマン / obj:夢瑠",
-    "url_diff": "https://dl.dropboxusercontent.com/scl/fi/93so6n4vyw4gcegskh6dc/_INAPPROPRIATE_EMOTION-_yume.zip?rlkey=hh1uy9wvtvgo98thhk0pa0rcf&st=y3kgpi5d",
-    "url": "https://venue.bmssearch.net/genreshuffle4/9",
-    "level": "11",
-    "comment": "BPM186 乱打",
-    "zureCount": 0,
-    "proposer": "fuko",
-    "submission": 3140,
-    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "4706769b5a4c6105bcd8b43260382d88",
@@ -43966,6 +44101,20 @@
     "sha256": "e757d10e2fe8f753028bee06dc77247e9d1e3e2629d4c19cf76c60cd0ece1724"
   },
   {
+    "md5": "c840aab0e204e69392b77840f0e42583",
+    "sha256": "f016442bb60490aaf5d93d9eeed6e898f39b6188cce5846715f7d6b763fe38bb",
+    "title": "Grimoire Judgment -Luna-",
+    "artist": "Namiel BGI：グーラン / selene.",
+    "url_diff": "https://stellabms.xyz/upload/551",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=129",
+    "level": "13",
+    "comment": "BPM200 乱打 同時押",
+    "zureCount": 0,
+    "proposer": "ABKAOD",
+    "submission": 2288,
+    "proposerLr2id": 175744
+  },
+  {
     "md5": "d3b408780a000cc10e50684e35608d84",
     "sha256": "c76f207418167a600208264457fb7aaf3bfd2f3dba9286f11ce1cf8b9c43c3d2",
     "title": "grode [EXTREME]",
@@ -45848,6 +45997,19 @@
     "proposer": "とろくー",
     "submission": 1976,
     "proposerMinirid": "c70ac61b-98b4-45e8-8b02-5ceae4d754c5"
+  },
+  {
+    "md5": "30dd805e4681833da8d65d880f43061f",
+    "sha256": "5fd5b072fa6e6be72f02d74a4c3c91f4b8430ca474666fb23d90ec00e1db039e",
+    "title": "フィジットXXパラダイス",
+    "artist": "o.s.gate / obj:すし",
+    "url_diff": "https://stellabms.xyz/upload/3950",
+    "url": "https://sagena.harisen.jp/osg.html",
+    "level": "13",
+    "comment": "0~1?",
+    "proposer": "七海",
+    "submission": 2285,
+    "proposerLr2id": 84597
   },
   {
     "md5": "384ffda3d50ad39fe47e14e48efe977e",
@@ -59537,6 +59699,20 @@
     "proposerLr2id": 71314
   },
   {
+    "md5": "32cba2222dc0c80c42f8c4aed09d0c8d",
+    "sha256": "3ef0fd5a278ce527375c01afec67923a77b94c6cb337d9901c6ed5566bd30cdb",
+    "title": "異説彼岸花 第一 -原初のアマリリス- [INFERNO]",
+    "artist": "44teru-k remixed wa. / 差分 赤い人",
+    "url_diff": "http://akred.web.fc2.com/bmsfile/amaryllis_INFERNO.bms",
+    "url": "http://mok2lnbms.6.ql.bz/nijihaifu.html",
+    "level": "16",
+    "comment": "BPM150 連打 重発狂",
+    "zureCount": 0,
+    "proposer": "ABKAOD",
+    "submission": 2287,
+    "proposerLr2id": 175744
+  },
+  {
     "md5": "a232f8241beb2dc1e14a413b78423828",
     "sha256": "2a594c0b75b177693abe4edad82d27798dafdb8d025fd8513420b7c7ae0bc8d5",
     "title": "白 [Project AG]",
@@ -65855,6 +66031,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "b7e7715694ba613bf12ddf7dbff3c82782c5b37c6c9e4b188595420ba93918a5"
+  },
+  {
+    "md5": "af22eccfa507a5f2692b43dbfb4e11a0",
+    "sha256": "1aea8e0800ad3ef3ac67e6353aed8387bc464af72a794637e54e9536ca873c5a",
+    "title": "【Freak《Show】Down》 「Gra〈Mary」ther〉",
+    "artist": "obj: Mary_Sue bms:暮狛 / mov:くわぎう",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "url": "https://ctconnected.net/bms",
+    "level": "18",
+    "comment": "4~5? baseとズレなし",
+    "proposer": "七海",
+    "submission": 2286,
+    "proposerLr2id": 84597
   },
   {
     "md5": "83d81a0ce10a4136bed82e12d932e46e",
@@ -73706,6 +73895,20 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "d7f1230979fe3ed7490fd1dc5378a906",
+    "sha256": "8a6f8c507c5d426d315f0f5989539259f487da5e03bef7bf93a9f7f3acf80e92",
+    "title": "Upside-down",
+    "artist": "music:すてらべえ/BGA:hopkins obj : Phosphorus",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02402",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=101",
+    "level": "24",
+    "comment": "11~12",
+    "zureCount": 0,
+    "proposer": "qtp13",
+    "submission": 2284,
+    "proposerLr2id": 86559
   },
   {
     "title": "オトゲラヴ！ [初回限定版豪華三大特典付]",
