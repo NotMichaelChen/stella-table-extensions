@@ -3779,6 +3779,19 @@
     "proposerMinirid": "45baa2d2-08f6-44ed-9e6f-2545defa236e"
   },
   {
+    "md5": "b64e4e9646c4b566f6afb44dfe859232",
+    "sha256": "e6f435bb303297ace3e519ae5bb4e66596da882829240ba7d81759cd09062000",
+    "title": "Strada Piovosa [ANOTHER]",
+    "artist": "Verxina",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=144",
+    "level": "0",
+    "comment": "無名戦2024",
+    "proposer": "mikado",
+    "submission": 3161,
+    "proposerMinirid": "d2ede742-3137-457b-9bea-4143f9f30a7d"
+  },
+  {
     "md5": "3f74ff490416c8e293d32f4b03c901ba",
     "sha256": "f140ffe37657c17c9368b734639b5173fc58cc9f232665c26288e96c4122d8bf",
     "title": "Strahv [PAST]",
@@ -6527,7 +6540,7 @@
     "artist": "Blue-J obj:Guanacoite",
     "url_diff": "https://stellabms.xyz/upload/3888",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=116&num=248",
-    "level": "1",
+    "level": "2",
     "comment": "BPM159 高速階段",
     "zureCount": 0,
     "proposer": "SHAX.",
@@ -12162,6 +12175,20 @@
     "proposer": "EGRET.",
     "submission": 2562,
     "proposerMinirid": "5a356ead-7697-48cb-ba1e-27ff9d0d8de7"
+  },
+  {
+    "md5": "27b11d9858364cbc87459e6099403d6a",
+    "sha256": "f91ae9085224e2d8b6ac8acee522cfe43422cdfae5565313baec07dda4fc086e",
+    "title": "kindly breeze [ELITHER]",
+    "artist": "mo_no_chrome feat.Salita / obj:ELIGOS",
+    "url_diff": "http://onedrive.live.com/?cid=61A880DFE4F9DE2D&id=61A880DFE4F9DE2D%21105",
+    "url": "https://dropbox.bms.ms/u/87133313/BMS/kindly%20breeze%20.zip",
+    "level": "2",
+    "comment": "★3",
+    "zureCount": 0,
+    "proposer": "f(x,y)",
+    "submission": 3168,
+    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
   },
   {
     "md5": "d2365923b98fbabcf7714b78cc7ae610",
@@ -18143,6 +18170,19 @@
     "proposerMinirid": "07ec8ca6-3bf5-4e12-89f1-8e5876458451"
   },
   {
+    "md5": "a8835aea8acbb59fc0d2ed6b9f265ec7",
+    "sha256": "35e96db9330d76f1f4a7cac0bd9fec93e22158a8e1f6d4e79739b35cb62c91db",
+    "title": "ψ華オヴスキュリテ [Original]",
+    "artist": "ポロロッカ",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=77&event=144",
+    "level": "3",
+    "comment": "無名戦2024 追加譜面",
+    "proposer": "mikado",
+    "submission": 3162,
+    "proposerMinirid": "d2ede742-3137-457b-9bea-4143f9f30a7d"
+  },
+  {
     "level": "3",
     "comment": "NORMAL判定",
     "md5": "c6eb34cad636b0ff143004f77e39f9ed",
@@ -18558,6 +18598,18 @@
     "proposer": "chouco",
     "submission": 1431,
     "proposerLr2id": 158333
+  },
+  {
+    "md5": "f8ccfd0c9220a82acedb220481fc618f",
+    "sha256": "a265ac5c8af7e6107920912f05ef28c03da0a39fd355c4cf61aa95fbb8ef0baf",
+    "title": "ファクトフィクション",
+    "artist": "daiki* feat.重音テト",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=144",
+    "level": "3",
+    "proposer": "qtp13",
+    "submission": 3164,
+    "proposerLr2id": 86559
   },
   {
     "md5": "629bc44e77c769ea5d2f0a30ab34bb52",
@@ -20195,6 +20247,18 @@
     "comment": "3~4",
     "proposer": "qtp13",
     "submission": 3079,
+    "proposerLr2id": 86559
+  },
+  {
+    "md5": "8653c673887b575e9480d8956f40a38a",
+    "sha256": "ae94c0acb459fe92cd7f60a552079a74246b697df660d50f66dde4b771dd20d0",
+    "title": "eXtremer [super eXtreme]",
+    "artist": "Tiv / Illustration:TAMASABUROU",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=144",
+    "level": "4",
+    "proposer": "qtp13",
+    "submission": 3163,
     "proposerLr2id": 86559
   },
   {
@@ -24813,6 +24877,19 @@
     "votePercent": 0,
     "sha256": "ece3edbfdb6719b56feb47b092647ccaa204405d6c7d689eeb52b134b06138ef",
     "proposerLr2id": 86456
+  },
+  {
+    "md5": "b46b23fa8e2ad96e02763f687bb5a494",
+    "sha256": "3adef599680b5d867adb4bf3308ce9770aed91fcd609eb14a0892fec0415e973",
+    "title": "UnFaked phantOm [EXTRA]",
+    "artist": "sak",
+    "url_diff": "",
+    "url": "https://www.dropbox.com/s/vjlb6ap2z3qqkk5/%5Bsak%5DUnFaked%20phantOm.zip?dl=1",
+    "level": "5",
+    "comment": "★8",
+    "proposer": "f(x,y)",
+    "submission": 3167,
+    "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
   },
   {
     "md5": "30ff3a5cf9b6602ce0e388084e86022f",
@@ -29684,6 +29761,20 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "e1922379cedf993d1d4f2d256fc3a6be",
+    "sha256": "27f9ab413e8b373e0a817fe72a84f5d3f8fa9c02c38fdba95a9b3446b9c49727",
+    "title": "Malvertiz [Ransomware]",
+    "artist": "Ju_E obj. bluetrain",
+    "url_diff": "https://1drv.ms/u/s!ApwaJAUHJdpynGIBL5iXvdNAEvsT?e=VJjbHl",
+    "url": "https://venue.bmssearch.net/genreshuffle4/32",
+    "level": "7",
+    "comment": "BPM140 乱打",
+    "zureCount": 0,
+    "proposer": "fuko",
+    "submission": 3166,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "c97ede50df0bcc166b91c8d62eea284f",
@@ -36553,6 +36644,19 @@
     "proposer": "AYhaz",
     "submission": 2351,
     "proposerLr2id": 123475
+  },
+  {
+    "md5": "d863b050ded4007f4bacb4abe82bdee1",
+    "sha256": "4cd58b5901601aff706f894b152e5d2c484866c1e38ba09444519a1224da93f6",
+    "title": "R.I.P My Pudding! [バケツプリン]",
+    "artist": "MiKaDo feat.GUMI",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=144",
+    "level": "10",
+    "comment": "A-1 CLIMAX 2024 / 物量、皿、★16程度？",
+    "proposer": "sangonana",
+    "submission": 3165,
+    "proposerLr2id": 148764
   },
   {
     "md5": "9680eaf3beed0ee172bcf772843c381e",
@@ -45101,6 +45205,20 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "5dbf369fec466db35ed244dce282ccc2",
+    "sha256": "eb0e73ce4d20ef90dc05cf46bab07c609e99829d152904ee70978d232c24ab0f",
+    "title": "robust baobab [THICK]",
+    "artist": "K4Y5 / obj:Criyajuh",
+    "url_diff": "https://stellabms.xyz/upload/3923",
+    "url": "https://venue.bmssearch.net/genreshuffle4/55",
+    "level": "13",
+    "comment": "BPM125 ガチ押し",
+    "zureCount": 0,
+    "proposer": "potechang",
+    "submission": 2297,
+    "proposerMinirid": "3c018172-b965-4b75-a7ea-d4b575c04962"
+  },
+  {
     "md5": "b005c8b58c23dacee95b9b4a6fea6e26",
     "sha256": "e6c8f42c50a327634c878c0e40fec266f9d4949c600d7db0af0bb02461672207",
     "title": "Rottfill [7K R-SHOCK]",
@@ -52218,6 +52336,20 @@
     "sha256": "42995d34959b7268af966c7178a0ea0bdc2f53125cb7bb6b16595d0871b2872b"
   },
   {
+    "md5": "f4d6e8ad3a6954d18d58969c21a06a53",
+    "sha256": "3e2f220963bf1623dfc73d2b2d35db319330556ca7d81ee44d85d2e40dd244ac",
+    "title": "Enchanted Maze <SP ARCANE>",
+    "artist": "Kalse OBJ:Mary_Sue / BGI:織部よよ",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=144",
+    "level": "15",
+    "comment": "BPM195 乱打 微連打",
+    "zureCount": 0,
+    "proposer": "fuko",
+    "submission": 2295,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
+  },
+  {
     "md5": "b6aba5810b09bc6af607c3eb299f4053",
     "sha256": "54a6c2af55d0e038285d80ba82f7ff875fc737c4763a021f7d2c507ea333ee50",
     "title": "End Time A⇒Side [Hexagon]",
@@ -58202,6 +58334,18 @@
     "proposerLr2id": 86559
   },
   {
+    "md5": "46501a5c28f0f013fa0898a94ac62d33",
+    "sha256": "ed093e103047ea6afd1ed1aca5773fc5956af292e6604931b0f01458ad888fcb",
+    "title": "R.I.P My Pudding! [クソデカバケツプリン]",
+    "artist": "MiKaDo feat.GUMI",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=144",
+    "level": "16",
+    "proposer": "qtp13",
+    "submission": 2294,
+    "proposerLr2id": 86559
+  },
+  {
     "md5": "a726522ecd7b6599e9e652f76c9540d1",
     "sha256": "18c2538d50318621c9349fae934770a88a033fbb1d5c817319865d07971eebbd",
     "title": "Rainy Gate [Squall]",
@@ -62257,6 +62401,20 @@
     "proposer": "qtp13",
     "submission": 1732,
     "proposerLr2id": 86559
+  },
+  {
+    "md5": "bb4c09646e364e21c7ea87eea016be54",
+    "sha256": "62cd84a9f3cace607259eed35a28c9d483d53c95cb3f9a1072cc037da6fd7b04",
+    "title": "SAMBISTA (scratch_0)",
+    "artist": "DOT96/仙人掌の人",
+    "url_diff": "https://stellabms.xyz/upload/3946",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=96&event=54",
+    "level": "17",
+    "comment": "BPM152 連打複合",
+    "zureCount": 0,
+    "proposer": "fuko",
+    "submission": 2296,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "3844ffb7b5de4d43525fd07a2b1b0ed1",
@@ -73114,6 +73272,19 @@
     "sha256": "e7e0e02962aacdcca712c93f3a97f128fb95fb601c54b9b83e03bb16aa64bc51"
   },
   {
+    "md5": "c3e71b332c0bb3d2ce024d60c31af187",
+    "sha256": "596c9ed824a7ae20968d14fc1af17b4f0312e683392cb694540d9e308c1496fc",
+    "title": "Deep Sea Girl [深海10000メートル]",
+    "artist": "Utuka",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=144",
+    "level": "23",
+    "comment": "140ガチ押し",
+    "proposer": "魔女",
+    "submission": 2298,
+    "proposerMinirid": "016b0d5c-a9f4-4b00-b084-50b2e83688f2"
+  },
+  {
     "md5": "2c61b055ab4a80c60786f705d168de45",
     "title": "Defeat awaken battle ship (SP DESTROYER)",
     "artist": "有賀 澪 BGA:しらたき Illust:Cleome obj: qtp13",
@@ -73762,6 +73933,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "b873db123497a7a50780cfd69e932fd455207c8f7657c2e9dadec2bb76a32b59"
+  },
+  {
+    "md5": "e72fb8c3ae721f4dc75cbf27389e6007",
+    "sha256": "0e620e5a75688d596f8c812f57651454b0d3741f26f17247d1b6edba0a1b613d",
+    "title": "BRUTALITY [badass]",
+    "artist": "TARO / obj:Criyajuh",
+    "url_diff": "https://stellabms.xyz/upload/3975",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=144",
+    "level": "24",
+    "comment": "200ディレイ乱打",
+    "zureCount": 0,
+    "proposer": "魔女",
+    "submission": 2293,
+    "proposerMinirid": "016b0d5c-a9f4-4b00-b084-50b2e83688f2"
   },
   {
     "md5": "22f71b0463955fcedb84eca9d09e60ca",
