@@ -6316,6 +6316,19 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "7685d9518fe7221ecaa2cbcea2b103a1",
+    "sha256": "092688f5c396829f7501331643739eedab0ca832a15e1c8183fb613eaa3ca27f",
+    "title": "Club Killed the Rock Star [ANOTHER7]",
+    "artist": "A than_Lily / obj: Y.W",
+    "url_diff": "https://stellabms.xyz/upload/4054",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=33&event=89",
+    "level": "1",
+    "comment": "ClubKilled_template.bme 基準ズレ抜けなし。",
+    "proposer": "Mary_Sue（休止）",
+    "submission": 3182,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "dbc7d01887e3a02ed502d76a0d842152",
     "sha256": "c73909853a7847bd76f65ec6f1ac91a9542ad0474cf4770a9797ceb0f91b2ed9",
     "title": "CO5M1C R4ILR0AD [M3←T→Я0]",
@@ -9234,6 +9247,19 @@
     "proposer": "ソールオリエンス",
     "submission": 2883,
     "proposerLr2id": 151185
+  },
+  {
+    "md5": "6f10bc1ee3f6e8b3d164fa7f21ac3f39",
+    "sha256": "27a0271cd4eaa15c35784f06764846a14e58a43a4bae5dbfc6c759277fa4493b",
+    "title": "Waldjaegerin [INSANE]",
+    "artist": "Abel Obj.Triforce",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=472&event=133",
+    "level": "1",
+    "comment": "BOFXVI 同梱譜面 sl1上位？",
+    "proposer": "mikado",
+    "submission": 3178,
+    "proposerMinirid": "d2ede742-3137-457b-9bea-4143f9f30a7d"
   },
   {
     "md5": "4b6a3ed9cc78b8bc0f9ae76eba17b21f",
@@ -37241,6 +37267,19 @@
     "proposerLr2id": 147889
   },
   {
+    "md5": "4139350a2015126959cd8e0675887886",
+    "sha256": "80522fb5a53b502c78e16bb4b0f1e4e3b2393b0fdbf6c4051b81d3c99cad8e15",
+    "title": "Weaponhuman #Decimalized",
+    "artist": "paraneumann 差分：Decimal",
+    "url_diff": "https://stellabms.xyz/upload/3150",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=131",
+    "level": "10",
+    "comment": "template基準ずれ抜けなし",
+    "proposer": "Mary_Sue（休止）",
+    "submission": 3181,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "20949d93b362241b993d879cbe054612",
     "sha256": "3fdc8a799677d1ea46e25fcf26261b1bd199c50ad6af6ef000db707cfd6d7876",
     "title": "WISDOM [Programming]",
@@ -37384,6 +37423,20 @@
     "proposer": "qtp13",
     "submission": 1556,
     "proposerLr2id": 86559
+  },
+  {
+    "md5": "dd0f6f0dd924a53b3363c609ce0d1b0f",
+    "sha256": "9545e0736f44ce679d108b105dc0d09bde55fadbca38dbe7844998a0a48d40d6",
+    "title": "ファクトフィクション [ファクトフィジ横クション]",
+    "artist": "daiki* feat.重音テト obj:potechang",
+    "url_diff": "https://stellabms.xyz/upload/3933",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=144",
+    "level": "10",
+    "comment": "BPM146　5-1乱打中心",
+    "zureCount": 0,
+    "proposer": "T.",
+    "submission": 3180,
+    "proposerMinirid": "5a356ead-7697-48cb-ba1e-27ff9d0d8de7"
   },
   {
     "md5": "4a1c8204ef96b541c915285b5b610607",
@@ -38613,6 +38666,20 @@
     "proposer": "七海",
     "submission": 2219,
     "proposerLr2id": 84597
+  },
+  {
+    "md5": "fe4b38d94004e11e125cd1b17fa2b443",
+    "sha256": "eef8988785550f9e0a2868d2e2cd1c9fd51c2ebfb180d966e044f0643b9ddb7c",
+    "title": "HYPER FENIX [Aestar]",
+    "artist": "7olzo obj:1mi",
+    "url_diff": "https://stellabms.xyz/upload/4076",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=129",
+    "level": "11",
+    "comment": "BPM150 微縦 乱打",
+    "zureCount": 0,
+    "proposer": "potechang",
+    "submission": 3179,
+    "proposerMinirid": "3c018172-b965-4b75-a7ea-d4b575c04962"
   },
   {
     "md5": "7e32af584080fb9965bbf497947de99f",
@@ -46930,6 +46997,19 @@
     "votePercent": 0
   },
   {
+    "md5": "dfa682613b80291406dba7bf9a915bf3",
+    "sha256": "ec64aa5d81cf238438a845a2e8b251be75e8ae10243fb510e9d7fa67b4674f78",
+    "title": "迦具土 -REVENGER- (GOD)",
+    "artist": "narve / remix:helix / obj:y",
+    "url_diff": "http://absolute.pv.land.to/uploader/upload.html",
+    "url": "http://web.archive.org/web/20040607174627/pureweb.jp/~nav/top.html",
+    "level": "13",
+    "comment": "170BPM // 乱打 // 曲改変なのでズレあり",
+    "proposer": "しっこ💦",
+    "submission": 2305,
+    "proposerMinirid": "18aaa008-31fa-4cb5-9bf0-dd4af0f7e114"
+  },
+  {
     "md5": "5c1f3f6b5b17d29b622a3d27865bfb64",
     "sha256": "9ece7ed4daa45b6008b9371d3b89d1c558f2a285b2b5af8e449be949ab04550f",
     "title": "迦楼羅-OriginalMix- [天駆]",
@@ -48826,6 +48906,20 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "430af4364cb5b107c8a4da852d1511bc",
+    "sha256": "b6e1ee23ac853b30d1e9864bb33e9de1490be5b59778ac54fb84ba0b08fb2096",
+    "title": "JUGGLE [ACROBATIC]",
+    "artist": "Ras obj:Guanacoite",
+    "url_diff": "https://stellabms.xyz/upload/4131",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=482&event=110",
+    "level": "14",
+    "comment": "BPM145　微縦を含んだ乱打",
+    "zureCount": 0,
+    "proposer": "T.",
+    "submission": 2308,
+    "proposerMinirid": "5a356ead-7697-48cb-ba1e-27ff9d0d8de7"
   },
   {
     "md5": "ad5917cc6e4c4c681cfc2e91620e3eb8",
@@ -52880,6 +52974,19 @@
     "sha256": "dfc451ea5f831899ceb3a84fb2d4ea5832bc70446893d01778a4bb31a72b97d7"
   },
   {
+    "md5": "abeb89729071545993c8234d7f12e476",
+    "sha256": "f5580342d668b4925a9a63195c43b9ac67e3209c084f98dae23db471b5f8e646",
+    "title": "Gasoline Blood [BLEEDLEAK]",
+    "artist": "ですワ BGI:空読無 白眼 OBJ: LuvTek",
+    "url_diff": "https://fsrs.github.io/table.html",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=142",
+    "level": "15",
+    "comment": "N基準ずれ抜けなし",
+    "proposer": "Mary_Sue（休止）",
+    "submission": 2309,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "982d95ea60d7faf8e4a7520f027bc935",
     "sha256": "2e768e8a75e88c9913da910f1881d460ebd704e0822a209ec0b60f3a1ad66730",
     "title": "gayguy [gaysabun]",
@@ -53738,6 +53845,19 @@
     "proposer": "MiRa",
     "submission": 977,
     "proposerLr2id": 121881
+  },
+  {
+    "md5": "fcc8dfe9a24cd731ccd1f83748ce859a",
+    "sha256": "1ec1a5c74087ba216e6c99a13b56a3b7e734ba0d9c3b01ecbad785991f04b721",
+    "title": "Nyuuro Saakitto [for some reason]",
+    "artist": "kireji pattern for some reason",
+    "url_diff": "https://hpx.getonpictochat.com/bmss/2023/",
+    "url": "https://9domu46i.com/yuruyuru/phase17.html",
+    "level": "15",
+    "comment": "BPM174 微連打",
+    "proposer": "fuko",
+    "submission": 2306,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "f2e1f5d41e5eb7f88723589a9010f33e",
@@ -59284,6 +59404,19 @@
     "proposerLr2id": 84597
   },
   {
+    "md5": "2ebfe0c97f853c150b1b0340529bd072",
+    "sha256": "5517971a2ef1e3f5ee133548fcaa3b2f007b415deb29880aa248568e8c39df45",
+    "title": "YAKUI [MORITHER]",
+    "artist": "はがね obj:東風谷早苗",
+    "url_diff": "https://drive.google.com/file/d/1vLjGqdM37xDv9Iqa1ANdMzUEpfqSC_3j/view?usp=sharing",
+    "url": "https://colosseo.nekokan.dyndns.info/c04_shuffle3/detail/view/21/",
+    "level": "16",
+    "comment": "ANOTHER基準ずれ抜けなし",
+    "proposer": "Mary_Sue（休止）",
+    "submission": 2310,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "e1bd1d999a8d1ff5df27cc8ed60e840a",
     "sha256": "78b8934620463f41a6ddceddb268fe559c4066f9ef08dc7ec3407bd8e3ac263e",
     "title": "αMe:TRiC -RhYMeTRiX-",
@@ -60312,6 +60445,20 @@
     "proposer": "スノート",
     "submission": 1048,
     "proposerLr2id": 86393
+  },
+  {
+    "md5": "655f8fb4d39c28dd4abb50df24c501cc",
+    "sha256": "6a38ef8e448111841949007fbe67d487a3bc477ae20ba8deacde4932ad928786",
+    "title": "7x3 -Xe-",
+    "artist": "II-L & Ziken Akahane obj:LindBlum",
+    "url_diff": "https://stellabms.xyz/upload/2657",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=463&event=137",
+    "level": "17",
+    "comment": "BPM150 微連打",
+    "zureCount": 0,
+    "proposer": "fuko",
+    "submission": 2307,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "83f00578264e48fd02f27e5b117abd65",
@@ -69811,6 +69958,20 @@
     "sha256": "0a04f720cbea8582ab676cc3af5e8d000639d73c3837d39dd72c8d058b20df9a"
   },
   {
+    "md5": "469051bce648831d8bbd067d2593fc71",
+    "sha256": "d10d57a505a767a6288fcf31ea94116be7a2c30f59c662804869720b50726a36",
+    "title": "neo tinnitus [ROAR]",
+    "artist": "SP-# remixed by LeaF obj:tsukisaka",
+    "url_diff": "https://stellabms.xyz/upload/3890",
+    "url": "https://venue.bmssearch.net/bmstukuru2024/9",
+    "level": "20",
+    "comment": "BPM228 誤魔化しの利きにくい同時押し+乱打",
+    "zureCount": 0,
+    "proposer": "シックスペンス",
+    "submission": 2311,
+    "proposerLr2id": 151185
+  },
+  {
     "md5": "10e2f934e3acd5434525dc305632680d",
     "sha256": "3f50b988e87dc9f9e9c53a80e2bf77412c3b257e127a782e4678e3c562fe8196",
     "title": "No namer [Hexagon]",
@@ -72936,6 +73097,19 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "e026034616e19a1b8ac664b117dc7802",
+    "sha256": "9cf142545dc9b43a778b2d21c3bb3b429e151dfb54c0571e570f0f37c82c009b",
+    "title": "XVOTO [HEARTLESS]",
+    "artist": "ETIA. feat. Jenga MV: わっふゑ / obj:魔女",
+    "url_diff": "https://stellabms.xyz/upload/3011",
+    "url": "https://drive.google.com/file/d/12UKhUzk3kGxMyvFzotfurfeMC1XlltnD/view?usp=drive_link",
+    "level": "22",
+    "comment": "240BPMの純粋な乱打　誰も気付かない程度の曲変更1%ほどあり(差分製作者コメより引用) ",
+    "proposer": "垢伴次郎",
+    "submission": 2304,
+    "proposerMinirid": "39fcf843-3931-4605-a729-2f3f61d0970b"
   },
   {
     "md5": "d91df9283a09dba6a7bfb1d45ef15f77",
