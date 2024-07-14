@@ -8572,6 +8572,18 @@
     "proposerLr2id": 147895
   },
   {
+    "md5": "6ec0053b6acc62b7da0eaf482e63dba4",
+    "sha256": "9da5d8aced32e14c319079f3908b271d474776592b32ee951c55cdf0c0c06a4e",
+    "title": "SAKURA",
+    "artist": "ANKAKE",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/bmstukuru2023/54",
+    "level": "1",
+    "proposer": "Mary_Sue（休止）",
+    "submission": 3192,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "dce211f98f41fc9b18e2e999aec471cd",
     "title": "Sakura Fubuki [桜、夢。]",
     "artist": "Street Obj.Triforce",
@@ -14390,6 +14402,20 @@
     "proposer": "七海",
     "submission": 2307,
     "proposerLr2id": 84597
+  },
+  {
+    "md5": "759c79737e38d0d490204888eab7ebe0",
+    "sha256": "728a16a6e21be3bb34bf892fcfead00cf2a65b6e50855c1e012ecea3854a11e9",
+    "title": "インデュースド・ラルヴァ・メモリーズ (reverie)",
+    "artist": "Caspi Cruz / fity / recognize m. obj. Lanait",
+    "url_diff": "https://stellabms.xyz/upload/4160",
+    "url": "https://drive.google.com/file/d/1qDnShx2KFGZSukX_aP1uxX104NVVEgoc/view?usp=drive_link",
+    "level": "2",
+    "comment": "137BPM 横に広めの物量，少し低total(total400, 0.19%/note)",
+    "zureCount": 0,
+    "proposer": "百地たまて",
+    "submission": 3188,
+    "proposerMinirid": "00186ba7-42e3-4915-8e18-0ece1e846741"
   },
   {
     "md5": "84d28681a43bbdde10d41d2c768dc035",
@@ -34012,6 +34038,20 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "c52b7002276bbb7c5ca2f437aa326ac0",
+    "sha256": "bb77af224e27ae402739d73ca3b649bc30cd86628eea4b3be7a1bec19bfcf1f5",
+    "title": "BEYOND [Duality]",
+    "artist": "Lime / obj:83929",
+    "url_diff": "https://stellabms.xyz/upload/4172",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=133&num=492",
+    "level": "9",
+    "comment": "BPM276 たのしい打鍵速度",
+    "zureCount": 0,
+    "proposer": "rajaCriteria",
+    "submission": 3189,
+    "proposerMinirid": "08a41861-a9f3-47b6-b40a-04f091becf1a"
+  },
+  {
     "md5": "686221db564c91b0ebd67c4b55770f1e",
     "sha256": "c55bddef8404e4671aa41ee5516e1e35b58301effcd65fd39275e9b34439e876",
     "title": "bibital orbital [straying]",
@@ -34743,6 +34783,20 @@
     "proposer": "qtp13",
     "submission": 2557,
     "proposerLr2id": 86559
+  },
+  {
+    "md5": "2ab7813a4fd20444da7351d25a05bb96",
+    "sha256": "d53ff7c17166f160c2e5a463370198bb97a80afa49c29839f02de092fb1ac357",
+    "title": "Philadelphia Xperiment [SP HORIZONTAL]",
+    "artist": "Xacla / nbunnyuwu",
+    "url_diff": "https://stellabms.xyz/upload/4068",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=302&event=137",
+    "level": "9",
+    "comment": "BPM134 ガチ押し",
+    "zureCount": 0,
+    "proposer": "fuko",
+    "submission": 3190,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "4f309e849386c62d56e67899bdc3a761",
@@ -39301,6 +39355,19 @@
     "votePercent": 0
   },
   {
+    "md5": "9748db789813831ca15da1cb3e1c540f",
+    "sha256": "477b4668ce23ea9fd5542644f62857e01807e25e84d8b0e6de7b9f1c008fc0e1",
+    "title": "real words [for some reason]",
+    "artist": "CAMEL (Original: Elwood) pattern for some reason",
+    "url_diff": "https://darksabun.github.io/event/1998to2024/",
+    "url": "https://mega.nz/file/jWZHDQgB#DzEgGBFY6KASHijW9hWuUNu9Xs960vgwAxo52uQYDiA",
+    "level": "11",
+    "comment": "BPM150 微縦",
+    "proposer": "T.",
+    "submission": 3193,
+    "proposerMinirid": "5a356ead-7697-48cb-ba1e-27ff9d0d8de7"
+  },
+  {
     "level": "11",
     "comment": "連打/皿複合など",
     "md5": "007a06a7c2dd57439f63f6fa4bd006f9",
@@ -40658,6 +40725,19 @@
     "proposer": "MineC24",
     "submission": 1623,
     "proposerLr2id": 84597
+  },
+  {
+    "md5": "28a7f8c74e62783541baaa4b64274b86",
+    "sha256": "4a719f80ee7f9aead83f0a1fc1716df243ee257d828c8c03f71e207f55f3e39b",
+    "title": "Bendashtainer! [KUSO]",
+    "artist": "kireji",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/genreshuffle4/21",
+    "level": "12",
+    "comment": "BPM134 ガチ押し",
+    "proposer": "fuko",
+    "submission": 3191,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "ce9d182ba0589cd72b46cae50977ba59",
@@ -42588,6 +42668,20 @@
     "proposerLr2id": 147889
   },
   {
+    "md5": "3c6e9b43572cfa67eee5aeb3283b21d8",
+    "sha256": "52aa2f405fb15c80648312dacc49bded7487541f04a21c82bd9571e23c5bfbc3",
+    "title": "Verre -Sunset, ibiza Mix- [H]",
+    "artist": "TAK / ke / obj. laner",
+    "url_diff": "https://web.archive.org/web/20190322230138/http://www.hyper-laner.com/sabun/all201807_laner.rar",
+    "url": "https://onedrive.live.com/?authkey=%21ANyZD9QeOV1qq4k&cid=3078649C19F9CDD6&id=3078649C19F9CDD6%21898&parId=3078649C19F9CDD6%21105&action=locate",
+    "level": "12",
+    "comment": "BPM128　ガチ押し",
+    "zureCount": 0,
+    "proposer": "T.",
+    "submission": 3194,
+    "proposerMinirid": "5a356ead-7697-48cb-ba1e-27ff9d0d8de7"
+  },
+  {
     "md5": "38f61f718e91f2fdf924bad591da3118",
     "sha256": "c1abd06093f4fc4fb504ec7351c15fbf631fcff29b6077a2fe6b2cf6af3542d3",
     "title": "VODKASTYLE [ABSOLUT]",
@@ -44025,6 +44119,20 @@
     "voteYes": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "4e83a16bf10958458c9ef371674ca34f",
+    "sha256": "373a236d2f8ad5248372a7ebf38a9a47c3f50986518610af7d8f062cff239a20",
+    "title": "DAYBREAK [FUTURE7]",
+    "artist": "Lime / Kankitsu obj:potechang",
+    "url_diff": "https://stellabms.xyz/upload/3868",
+    "url": "https://venue.bmssearch.net/genreshuffle4/80",
+    "level": "13",
+    "comment": "BPM170　乱打・微縦",
+    "zureCount": 0,
+    "proposer": "T.",
+    "submission": 2329,
+    "proposerMinirid": "5a356ead-7697-48cb-ba1e-27ff9d0d8de7"
   },
   {
     "md5": "4048a3584f4975e8609c1430448f125b",
@@ -52042,6 +52150,20 @@
     "proposerLr2id": 84597
   },
   {
+    "md5": "3210cdc41e534da78c5a4819eaf242d1",
+    "sha256": "b9bd0043c34e72951818dce607fda98ff4797e3c7a60ffd19bcfe0a422d4ffba",
+    "title": "Assault TAXI -Xe-",
+    "artist": "∀S∀ obj:LindBlum",
+    "url_diff": "https://stellabms.xyz/upload/4155",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=214&event=142",
+    "level": "15",
+    "comment": "154BPM 連打複合 / st1～2?",
+    "zureCount": 0,
+    "proposer": "百地たまて",
+    "submission": 2324,
+    "proposerMinirid": "00186ba7-42e3-4915-8e18-0ece1e846741"
+  },
+  {
     "md5": "34f9c227d3e4c3a45ef856eb29797892",
     "sha256": "07df8c8f79b00087eb24677f26712055daef41183f71bb59a78c3b015126525d",
     "title": "Atlantis Hawk",
@@ -55598,6 +55720,19 @@
     "proposerLr2id": 120385
   },
   {
+    "md5": "e503328aafe920abec08063eeae89ed2",
+    "sha256": "1a5adfcdf7d32986c3596d407f9f6af99d6e5f34208242167f2811e7b19e2bd8",
+    "title": "低空飛行 [Navigation]",
+    "artist": "Nakaith /obj:muiclac",
+    "url_diff": "https://stellabms.xyz/upload/4115",
+    "url": "https://venue.bmssearch.net/vfpq02/1?event=vfpq02&id=1",
+    "level": "15",
+    "comment": "no actual misalignment (entire bms shifted 1 measure for background noise)",
+    "proposer": "qtp13",
+    "submission": 2331,
+    "proposerLr2id": 86559
+  },
+  {
     "md5": "e327309eb3aaf0257b4bb8515059946b",
     "sha256": "b47a6eef82265fe488ad2e41dc73217901020d5986f54adce692fdf5f01fdf46",
     "title": "僕が見た世界 [Finale]",
@@ -56102,6 +56237,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "e3d2f13f87245c9b5bd367cd9254a99f440ed50c85c90b417d816667cae2a60b"
+  },
+  {
+    "md5": "bd33cbbb5666976a80d8c27ffa8c0f55",
+    "sha256": "e4a0175c4976c2fed6bf756e729baa92b4f559cbf7c2105797b7fd623d632bfc",
+    "title": "雨色セカイ",
+    "artist": "グレイシア",
+    "url_diff": "https://web.archive.org/web/20190909204224/http://sabosabun.tank.jp/sabun/ameirosekaisabun.zip",
+    "url": "https://www.mediafire.com/file/qzu6w09ecwwwphy/pla_monologue.zip/file",
+    "level": "15",
+    "comment": "135BPM // 微縦乱打 // ダークサンバの練習",
+    "zureCount": 0,
+    "proposer": "しっこ💦",
+    "submission": 2327,
+    "proposerMinirid": "18aaa008-31fa-4cb5-9bf0-dd4af0f7e114"
   },
   {
     "md5": "ca3ce7901befff9ab4d3aeb77b9359a6",
@@ -57592,6 +57741,20 @@
     "comment": "",
     "submission": 7,
     "sha256": "c4d5d04db1b3a5a11112e27ebbbe0b5cd9b398bef7658f9b8ae352460109ad11"
+  },
+  {
+    "md5": "29cb02ce647c46424aef35835f33536a",
+    "sha256": "a8c57e92a70ffcd18d17bc5c06a5b19ce428d69b335b0f9aae6bd75c1c912746",
+    "title": "God-free [pangram]",
+    "artist": "Zris feat. Kri & Ifeanyi / obj:Criyajuh",
+    "url_diff": "https://stellabms.xyz/upload/4134",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=497&event=142",
+    "level": "16",
+    "comment": "BPM139 ガチ押し",
+    "zureCount": 0,
+    "proposer": "fuko",
+    "submission": 2325,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "level": "16",
@@ -59498,6 +59661,20 @@
     "sha256": "bee234369e07e2c892905b0543ccfdf19674a1bd9e82efcaa28212ebec26a214"
   },
   {
+    "md5": "aeaf1bdee032e1104edc447b7bb587bb",
+    "sha256": "5b0f11199a69055e6b29e7519c584ebe01065312b6cff1de28ac861fdcbff5f6",
+    "title": "VEZZELiX -Xe-",
+    "artist": "Reku Mochizuki obj : LindBlum",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05444",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=133",
+    "level": "16",
+    "comment": "BPM190　乱打",
+    "zureCount": 0,
+    "proposer": "T.",
+    "submission": 2328,
+    "proposerMinirid": "5a356ead-7697-48cb-ba1e-27ff9d0d8de7"
+  },
+  {
     "md5": "064e38539caf865ef0ac7c5fd43d39d9",
     "sha256": "e09f2c4ab4d7c5490e25765ab0d11b722157885365a32c1e95b0f6783d0886d5",
     "title": "VS RIVAL [vs CHAMPION]",
@@ -60660,6 +60837,20 @@
     "proposer": "岡崎夢美",
     "submission": 2067,
     "proposerLr2id": 162904
+  },
+  {
+    "md5": "c1c2f99f33c7ff5bfd20ea04a55e9891",
+    "sha256": "dcdca2d4cc7a91a2246b286d10b76930b41f2349731ff7a487a542373b4897c1",
+    "title": "Ain't in sooth [Hexagon]",
+    "artist": "second block obj.hex",
+    "url_diff": "http://bms.hexlataia.xyz/",
+    "url": "https://dropbox.bms.ms/u/34278850/aintinsooth.zip",
+    "level": "17",
+    "comment": "BPM116.25相当 ガチ押し",
+    "zureCount": 0,
+    "proposer": "fuko",
+    "submission": 2326,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
     "md5": "ed18a0e7ee2363d6b9f08fba9b798a7b",
@@ -64211,6 +64402,19 @@
     "proposer": "SHAX.",
     "submission": 1973,
     "proposerLr2id": 65624
+  },
+  {
+    "md5": "a9fb4f24fb5426a6ce0d23eb3721315c",
+    "sha256": "025908526a2a75ffd642e302270fb46a9997b2d8a8c78e52f0512d97e198ecd4",
+    "title": "忘れられた肖像 [lost]",
+    "artist": "ギャリー / obj:Criyajuh",
+    "url_diff": "https://stellabms.xyz/upload/2983",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=388&event=83",
+    "level": "17",
+    "comment": "misalignment by rounding? (hard ending)",
+    "proposer": "qtp13",
+    "submission": 2330,
+    "proposerLr2id": 86559
   },
   {
     "md5": "59647a1e4d9fb00db01d100ffb5b787e",
