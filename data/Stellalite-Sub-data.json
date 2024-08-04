@@ -11293,6 +11293,20 @@
     "proposerMinirid": "d2ede742-3137-457b-9bea-4143f9f30a7d"
   },
   {
+    "md5": "b2c8847da24b4f3d19ec7561372a1b55",
+    "sha256": "c658a0309ffad470a158e049be8500c8f943a5102ba2272134cae188fe48e1cf",
+    "title": "Crossing Hearts [lonely]",
+    "artist": "parasitic S+f feat.ラテ obj:monaka",
+    "url_diff": "http://ux.getuploader.com/monaka_sabun_2/download/119/Crossing+Hearts.zip",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=112",
+    "level": "2",
+    "comment": "16分乱打難易度表Lv.3 階段気味の乱打 ",
+    "zureCount": 0,
+    "proposer": "ねふ",
+    "submission": 3203,
+    "proposerMinirid": "24320562-3cfd-4f1b-926e-74dc7ec368fd"
+  },
+  {
     "md5": "9018b0d127db5499fe3bb9183b800542",
     "sha256": "3cbd4f922a089fb7ad06e422aec45d4c6bda4a1ba1d74f8d31d2f6bdbb3f31fc",
     "title": "Crossover (Radio Edit)",
@@ -20799,6 +20813,20 @@
     "votePercent": 0,
     "sha256": "51ed32e338a018597f120779b4e24a72a48db9530829279e2573dacc19d3bb5d",
     "proposerLr2id": 128003
+  },
+  {
+    "md5": "70086299cee51eb55855d3f7165d74a3",
+    "sha256": "99132fc1bc1d58fd26ac96b0d12aece59c4b84b1373c9d0e5646e0fe3bcd4f6e",
+    "title": "Into the Blue [F]",
+    "artist": "EBIMAYO obj:Fender",
+    "url_diff": "http://fenderbms.web.fc2.com/",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=93",
+    "level": "4",
+    "comment": "16分乱打難易度表Lv.3 乱打 微縦連 ちょっと変リズム皿",
+    "zureCount": 0,
+    "proposer": "ねふ",
+    "submission": 3202,
+    "proposerMinirid": "24320562-3cfd-4f1b-926e-74dc7ec368fd"
   },
   {
     "md5": "8360ac814b3f9ffc0f6813b0601dec7c",
@@ -36903,20 +36931,6 @@
     "proposerLr2id": 128003
   },
   {
-    "md5": "2ab7813a4fd20444da7351d25a05bb96",
-    "sha256": "d53ff7c17166f160c2e5a463370198bb97a80afa49c29839f02de092fb1ac357",
-    "title": "Philadelphia Xperiment [SP HORIZONTAL]",
-    "artist": "Xacla / nbunnyuwu",
-    "url_diff": "https://stellabms.xyz/upload/4068",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=302&event=137",
-    "level": "10",
-    "comment": "BPM134 ガチ押し",
-    "zureCount": 0,
-    "proposer": "fuko",
-    "submission": 3190,
-    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
-  },
-  {
     "md5": "129d7ddd0bc9fb71e122495955a72377",
     "sha256": "12ba3539aae587ae663efa5359de62eee45a794e0161c3ae9d6b6a93aa5b0bad",
     "title": "Pleasure of Being [Fuzzy navel]",
@@ -37321,6 +37335,20 @@
     "voteNeutral": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "54e34fd60c312a03378a60a74ce45002",
+    "sha256": "257818da34b9e7517e713f6e359f2970fb9150eda237387ce452b830db2dab05",
+    "title": "The Island of Albatross(Flight to Twilight Remix) -EX-",
+    "artist": "kinohito a.k.a. anubasu-anubasu remixed by くるぶっこちゃん/BGA Optie/さ",
+    "url_diff": "https://web.archive.org/web/20190909204224/http://sabosabun.tank.jp/sabun/albatross%20sabun.zip",
+    "url": "https://dropbox.bms.ms/u/87375397/%EF%BC%BB%E3%81%8F%E3%82%8B%E3%81%B6%E3%81%A3%E3%81%93%E3%81%A1%E3%82%83%E3%82%93%EF%BC%BDThe%20Island%20of%20Albatross%28Flight%20to%20Twilight%20Remix%29.zip",
+    "level": "10",
+    "comment": "BPM150 乱打、体力",
+    "zureCount": 0,
+    "proposer": "ABKAOD",
+    "submission": 3204,
+    "proposerLr2id": 175744
   },
   {
     "md5": "22a8d3bd25179ffd2450ac877a6bb82a",
@@ -39291,6 +39319,20 @@
     "zureCount": 0,
     "proposer": "fuko",
     "submission": 2227,
+    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
+  },
+  {
+    "md5": "2ab7813a4fd20444da7351d25a05bb96",
+    "sha256": "d53ff7c17166f160c2e5a463370198bb97a80afa49c29839f02de092fb1ac357",
+    "title": "Philadelphia Xperiment [SP HORIZONTAL]",
+    "artist": "Xacla / nbunnyuwu",
+    "url_diff": "https://stellabms.xyz/upload/4068",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=302&event=137",
+    "level": "11",
+    "comment": "BPM134 ガチ押し",
+    "zureCount": 0,
+    "proposer": "fuko",
+    "submission": 3190,
     "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
   },
   {
@@ -42587,6 +42629,20 @@
     "proposer": "LUXURY♪",
     "submission": 1432,
     "proposerLr2id": 23110
+  },
+  {
+    "md5": "08cb3fffabed0325d39c0168f0bca47c",
+    "sha256": "80eeb8cad2b4ff332ef8338cbbe81547c233d8b7d2179f48405d85487d7856ac",
+    "title": "THE SERVANT OF EVIL [HARDEST]",
+    "artist": "JP-8 Eater feat. 音無し obj:赤い人",
+    "url_diff": "http://akred.web.fc2.com/bmsfile/soe_HARDEST.bms",
+    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/file/cAlmwSIC",
+    "level": "12",
+    "comment": "BPM165 乱打、同時押し、トリル",
+    "zureCount": 0,
+    "proposer": "ABKAOD",
+    "submission": 3205,
+    "proposerLr2id": 175744
   },
   {
     "level": "12",
@@ -48715,6 +48771,19 @@
     "sha256": "407235c010f4cd688d24a171fba2670be16d45d0fa3752e353afd3e6a3b5bd70"
   },
   {
+    "md5": "c0c884dbfaec0239ba3d82ac12e4cb6a",
+    "sha256": "b1656ab4ef53baaade26f28c7018947feac4fcd273756cc674029fe25752354f",
+    "title": "Exit [At the Exit]",
+    "artist": "Transin obj.Mallow♪",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=03318",
+    "url": "http://skydrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
+    "level": "14",
+    "comment": "BPM145 乱打、連打 追加キー音あり",
+    "proposer": "ABKAOD",
+    "submission": 2348,
+    "proposerLr2id": 175744
+  },
+  {
     "level": "14",
     "comment": "from Satellite",
     "md5": "58ee7b3521398afe259588b077960d1d",
@@ -52716,19 +52785,6 @@
     "proposerLr2id": 65624
   },
   {
-    "md5": "016dbabf3eef17255efa4b675806a3ee",
-    "sha256": "bc8d659964a4e898d52d028bdfa1565d3bbaa388181ceeab50d9c1879b59f377",
-    "title": "Crystal palace [ANOTER7]",
-    "artist": "SHIKI movie:Nyu",
-    "url_diff": "",
-    "url": "http://shiki2.sakura.ne.jp/fohs.html",
-    "level": "15",
-    "comment": "同梱差分 sl1～2?",
-    "proposer": "はさい",
-    "submission": 1484,
-    "proposerLr2id": 96305
-  },
-  {
     "md5": "70fe11d2dce993a95cb1151a02d7d6d0",
     "sha256": "8230f923c5a2cbd3dc237e3573da4549673ab4d2dc4b182d894814f9db51bc62",
     "title": "Crystal palace [GOD]",
@@ -53814,20 +53870,6 @@
     "proposer": "MarySue",
     "submission": 1363,
     "proposerLr2id": 147889
-  },
-  {
-    "md5": "f94f63fc01a226bab32b3fb810a2f1fd",
-    "sha256": "22a400d8fd0e634aa23347d5cb364e5d26de681274d46b94f42bd668eb6fa8a4",
-    "title": "Klac [Tik...Tok...]",
-    "artist": "Ixia Obj.Triforce (Feat.LAPIS)",
-    "url_diff": "http://www.dropbox.com/s/jwxu57i1ua2g8zf/klac_7triforce.bme?dl=0",
-    "url": "https://drive.google.com/file/d/1tlyFpO048PVA887idcVPRmcQJB8arKSk/view?usp=drive_link",
-    "level": "15",
-    "comment": "this is a serious submission",
-    "zureCount": 0,
-    "proposer": "marie",
-    "submission": 2172,
-    "proposerLr2id": 88591
   },
   {
     "level": "15",
@@ -57473,6 +57515,19 @@
     "proposer": "fuko",
     "submission": 1958,
     "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
+  },
+  {
+    "md5": "ce5dc2bfc5124842b51a595a4bf19505",
+    "sha256": "50dbb7406ca25ae6321cca23021e1ebcc084fe5a328d19753b1573e8a0302eba",
+    "title": "Do it! Do it! [ルミちゃんかわいい]",
+    "artist": "litmus*×神宮要×蝦夷リス ft. 橘ルミ(CV.犬塚いちご)、陽向星シャイナ(CV.みゅい)、れくもちちゃん(仮称)(CV.杠葉えりか) bms:litmus*/ obj:BAECON",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=142",
+    "level": "16",
+    "comment": "No Total(300)",
+    "proposer": "七海",
+    "submission": 2270,
+    "proposerLr2id": 84597
   },
   {
     "md5": "b2c1d533c7b843706249e54f3c99b53e",
@@ -61682,19 +61737,6 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "162aa169a7ece343d50e10ecf2467b31aa02374d999d13fda5e724ccbc42d5a2"
-  },
-  {
-    "md5": "ce5dc2bfc5124842b51a595a4bf19505",
-    "sha256": "50dbb7406ca25ae6321cca23021e1ebcc084fe5a328d19753b1573e8a0302eba",
-    "title": "Do it! Do it! [ルミちゃんかわいい]",
-    "artist": "litmus*×神宮要×蝦夷リス ft. 橘ルミ(CV.犬塚いちご)、陽向星シャイナ(CV.みゅい)、れくもちちゃん(仮称)(CV.杠葉えりか) bms:litmus*/ obj:BAECON",
-    "url_diff": "",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=142",
-    "level": "17",
-    "comment": "No Total(300)",
-    "proposer": "七海",
-    "submission": 2270,
-    "proposerLr2id": 84597
   },
   {
     "md5": "003cdfadaf22dade9cccd3ae0d814317",
@@ -69507,6 +69549,19 @@
     "votePercent": 0
   },
   {
+    "md5": "8ce27898dc3cf56c8521d58f86c59143",
+    "sha256": "bccd22129f0c0be6464fd13fbe6f01ffff60843ae07185f20233d13a8f07863d",
+    "title": "ペイペイ2000 [HEARTFUL]",
+    "artist": "モン・サン・ミシェル obj&arr:魔女",
+    "url_diff": "https://stellabms.xyz/upload/4059",
+    "url": "https://drive.usercontent.google.com/download?id=1f8e-YQZ5V_AsgfKTy4_XGYqjTE2QE7KR&export=download",
+    "level": "19",
+    "comment": "BPM205乱打、同時押し  曲の完全改変差分",
+    "proposer": "ABKAOD",
+    "submission": 2349,
+    "proposerLr2id": 175744
+  },
+  {
     "md5": "b0a9cc445df7d071ac3ca02aea4b187d",
     "title": "ポケットモンスター ブラック・ホワイト 四天王戦 [Haxorus]",
     "artist": "Arranged by Y.W / obj. Tristan97",
@@ -69662,19 +69717,6 @@
     "proposer": "qtp13",
     "submission": 1140,
     "proposerLr2id": 86559
-  },
-  {
-    "md5": "ed04f4f4837d6d444229c406ce16e893",
-    "sha256": "bf462ac4807bb43ac88a6c5ae2fd08f74089c5ced1aabd9fa7baa07a418be31a",
-    "title": "死腐乃美「彼岸花」第二～空虚偽心～赤紅 [VANITY]",
-    "artist": "44teru-k / obj:Lian",
-    "url_diff": "https://bmsoflian.web.fc2.com/LLdiff/table.html",
-    "url": "http://web.archive.org/web/20170227055729/http://creation-records.info/bms/higanbana2_ogg.rar",
-    "level": "19",
-    "comment": "BPM180 連打複合",
-    "proposer": "SHAX.",
-    "submission": 2318,
-    "proposerLr2id": 65624
   },
   {
     "md5": "4f4e51af672aa68a244e8ce672ddad73",
@@ -71290,6 +71332,19 @@
     "proposer": "なうもとわんたろう",
     "submission": 1911,
     "proposerMinirid": "3b715e5b-6a45-4156-913c-5109a62f4512"
+  },
+  {
+    "md5": "ed04f4f4837d6d444229c406ce16e893",
+    "sha256": "bf462ac4807bb43ac88a6c5ae2fd08f74089c5ced1aabd9fa7baa07a418be31a",
+    "title": "死腐乃美「彼岸花」第二～空虚偽心～赤紅 [VANITY]",
+    "artist": "44teru-k / obj:Lian",
+    "url_diff": "https://bmsoflian.web.fc2.com/LLdiff/table.html",
+    "url": "http://web.archive.org/web/20170227055729/http://creation-records.info/bms/higanbana2_ogg.rar",
+    "level": "20",
+    "comment": "BPM180 連打複合",
+    "proposer": "SHAX.",
+    "submission": 2318,
+    "proposerLr2id": 65624
   },
   {
     "md5": "310f70c1f1b3be8437844a960027b880",
