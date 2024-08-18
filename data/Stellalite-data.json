@@ -4909,6 +4909,18 @@
     "submission": 3122
   },
   {
+    "title": "音碧のマギア・オムニア [INSANE]",
+    "artist": "Midnight Shift illus. Skugga",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=55&event=145",
+    "url_diff": "",
+    "md5": "6c1b6dde4eb9c6fabe5f1ba126e585cf",
+    "sha256": "fa24f6f72c86e3f642350129de876fde08ed0ae03149d15e996444b67e7ade4d",
+    "level": "1",
+    "proposer": "mikado",
+    "comment": "偽名BMS作家異世界転生バトル！ 同梱譜面",
+    "submission": 3217
+  },
+  {
     "title": "風時夏 [SP INSANE]",
     "artist": "otoshi.b BGI:鈴木なるひ",
     "url": "https://venue.bmssearch.net/bmskanji2/23",
@@ -7659,18 +7671,6 @@
     "submission": 405
   },
   {
-    "title": "EX-AID",
-    "artist": "ちよもも魔法使い & DJ Momo obj. RFB_",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=144",
-    "url_diff": "",
-    "md5": "441e4a31254b5da0fed47218a331096f",
-    "sha256": "7867e10ab4ac55acaa5c07e5359297d7d86835bb39f27a35c2139307d6401544",
-    "level": "3",
-    "proposer": "SHAX.",
-    "comment": "BPM160 乱打",
-    "submission": 3175
-  },
-  {
     "title": "Excelsia -00-",
     "artist": "ak+q/obj:凩",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&event=116&num=200",
@@ -7941,6 +7941,18 @@
     "proposer": "Scely",
     "comment": "物量乱打、微縦連、BHCs7",
     "submission": 1233
+  },
+  {
+    "title": "Memories in the Blue [SP ANOTHER+]",
+    "artist": "otoshi.b × FanfRS × はしたかさん bms:otoshi.b",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=142",
+    "url_diff": "",
+    "md5": "929ad7ab0ef942f950f2725ac59793a2",
+    "sha256": "ace404294914c4af42658f039d9f6317abaf71b9152d80872b2066c8c6213da4",
+    "level": "3",
+    "proposer": "mikado",
+    "comment": "BOF:NT 同梱譜面",
+    "submission": 3186
   },
   {
     "title": "Mermaid [7key Extra]",
@@ -8696,18 +8708,6 @@
     "proposerLr2id": 80964
   },
   {
-    "title": "ロリキート [ロリ]",
-    "artist": "黄泉路テヂーモ / 出前×篠乃ちよ / A",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=264&event=96",
-    "url_diff": "http://www.dropbox.com/s/5xqst29knba5g8t/Lorikeet_A.zip?dl=0",
-    "md5": "97bedd28e6d96c43925c8e3d4788f9b9",
-    "sha256": "826b1079d334d850c8324a34486c3007a0c0e6155ae86f7f193f3b831f767042",
-    "level": "3",
-    "proposer": "Arctell",
-    "comment": "치는맛이 있는 차분인데 아직 빛을 보지 못한 것 같아서 제안합니다. ",
-    "submission": 3130
-  },
-  {
     "title": "夢、幻。 -Hope-",
     "artist": "NIKITA / misokabocha obj:七海",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=93",
@@ -9387,6 +9387,18 @@
     "submission": 86,
     "sha256": "84e81c4286edeaf9b917176d8c752eb12242832f16870fd1a94d8cf98ad9bc98",
     "proposerLr2id": 133436
+  },
+  {
+    "title": "EX-AID",
+    "artist": "ちよもも魔法使い & DJ Momo obj. RFB_",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=144",
+    "url_diff": "",
+    "md5": "441e4a31254b5da0fed47218a331096f",
+    "sha256": "7867e10ab4ac55acaa5c07e5359297d7d86835bb39f27a35c2139307d6401544",
+    "level": "4",
+    "proposer": "SHAX.",
+    "comment": "BPM160 乱打",
+    "submission": 3175
   },
   {
     "title": "Existencia [SP INSANE]",
@@ -10247,6 +10259,18 @@
     "level": "4",
     "proposer": "monaka",
     "submission": 334
+  },
+  {
+    "title": "ロリキート [ロリ]",
+    "artist": "黄泉路テヂーモ / 出前×篠乃ちよ / A",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=264&event=96",
+    "url_diff": "http://www.dropbox.com/s/5xqst29knba5g8t/Lorikeet_A.zip?dl=0",
+    "md5": "97bedd28e6d96c43925c8e3d4788f9b9",
+    "sha256": "826b1079d334d850c8324a34486c3007a0c0e6155ae86f7f193f3b831f767042",
+    "level": "4",
+    "proposer": "Arctell",
+    "comment": "치는맛이 있는 차분인데 아직 빛을 보지 못한 것 같아서 제안합니다. ",
+    "submission": 3130
   },
   {
     "title": "人里に下ったアタイがいつの間にか社畜になっていた件 [HARD]",
@@ -12487,6 +12511,18 @@
     "proposerLr2id": 84521
   },
   {
+    "title": "endlessky [antennatoheaven]",
+    "artist": "望月真白 BGA: TARA#376 / OBJ: Reiaki",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=51&event=144",
+    "url_diff": "",
+    "md5": "b2bc8f71c17a5584faf9eeb32e596c84",
+    "sha256": "b7b8b63f1e55fdb82a611e327f2e7ee7d4d97fa68d71bfce75772c9b82e1137e",
+    "level": "6",
+    "proposer": "mqppppp",
+    "comment": "BPM191 乱打、微縦など",
+    "submission": 3214
+  },
+  {
     "title": "ETERNiZE [INSANE]",
     "artist": "Pleiades (あとぅす vs. Lian)",
     "url": "https://venue.bmssearch.net/bmstukuru2020/11",
@@ -14428,6 +14464,18 @@
     "submission": 395
   },
   {
+    "title": "WILDANCE #Decimalized",
+    "artist": "KAH BGA: 自動車 原付 / 差分：Decimal(深夜テンション)",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=142",
+    "url_diff": "https://venue.bmssearch.net/ssss_1st/12",
+    "md5": "b1dc09539b98a12e405f6d72bd830635",
+    "sha256": "caffe7882e3ae61a115b458bdd1ba0bf9eb0caf575bdfd9a32404febc1f06371",
+    "level": "7",
+    "proposer": "qtp13",
+    "comment": "chordjacks",
+    "submission": 3210
+  },
+  {
     "title": "yksinaisyys [F]",
     "artist": "Le Dos-on bga:Air obj:Fender",
     "url": "https://dropbox.bms.ms/u/32354988/yksinaisyys_ogg.zip",
@@ -14749,6 +14797,18 @@
     "proposer": "Reiaki",
     "comment": "bpm175 乱打",
     "submission": 2808
+  },
+  {
+    "title": "ｑａяσｌГФ｜ ΣθгＬｐ [Silencer]",
+    "artist": "sayaka_hasegawa mov:空蝉/obj by Zethiwo",
+    "url": "https://pupuly.nekokan.dyndns.info/bms/v/226",
+    "url_diff": "https://venue.bmssearch.net/ssss_1st/11",
+    "md5": "258d892b6c9d8e6ebec6c1d9763eb026",
+    "sha256": "04f49ba185c0f06ef874e7d862152f282c596b0dd65a1c88023ecd6cda717743",
+    "level": "7",
+    "proposer": "SHAX.",
+    "comment": "BPM090 同時押し、ズレ",
+    "submission": 3207
   },
   {
     "title": "3.14 @`・ ω ・´@",
@@ -17711,6 +17771,18 @@
     "submission": 575
   },
   {
+    "title": "Sogaikan Utopia [R++]",
+    "artist": "NONE obj:R.K.S.",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=18&event=103",
+    "url_diff": "http://absolute.pv.land.to",
+    "md5": "fff4875bbf47cec9b90bc1f0bbf73ec7",
+    "sha256": "b1220a39790d666767ee4ed9553d9283919bc814a27aa185d98e802c692dc553",
+    "level": "10",
+    "proposer": "棟方愛海",
+    "comment": "BPM174の乱打 (LN絡みあり) やや高トータル(0.266 T/N)",
+    "submission": 3155
+  },
+  {
     "title": "Speed of Light [Absolute]",
     "artist": "Yu^ta",
     "url": "https://yuinore.net/2017/02/smc-package/",
@@ -19127,18 +19199,6 @@
     "submission": 791
   },
   {
-    "title": "Sogaikan Utopia [R++]",
-    "artist": "NONE obj:R.K.S.",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=18&event=103",
-    "url_diff": "http://absolute.pv.land.to",
-    "md5": "fff4875bbf47cec9b90bc1f0bbf73ec7",
-    "sha256": "b1220a39790d666767ee4ed9553d9283919bc814a27aa185d98e802c692dc553",
-    "level": "11",
-    "proposer": "棟方愛海",
-    "comment": "BPM174の乱打 (LN絡みあり) やや高トータル(0.266 T/N)",
-    "submission": 3155
-  },
-  {
     "title": "SUPERNOVA [Lv.8]",
     "artist": "BACO / obj.ejl6",
     "url": "http://web.archive.org/web/20070106224940/http://www3.pf-x.net/~boxism-8500/bms/supernova/supernova.htm",
@@ -19930,6 +19990,18 @@
     "proposer": "matsu",
     "comment": "ズレ　簡易版バナナマン",
     "submission": 714
+  },
+  {
+    "title": "Ena (Radio edit) -Ex-",
+    "artist": "-45 / obj:うに",
+    "url": "https://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
+    "url_diff": "https://stellabms.xyz/upload/4229",
+    "md5": "4f48453fdfb53cece4c96153dbf5108c",
+    "sha256": "df24d64ba976ce2fa8c05e486c5f6d5b26ab083e226a05f912b08bd82f9cacb5",
+    "level": "12",
+    "proposer": "T.",
+    "comment": "BPM150 乱打",
+    "submission": 3215
   },
   {
     "title": "Endkraft -END-",
@@ -22504,6 +22576,18 @@
     "submission": 1745
   },
   {
+    "title": "アシンメトリ救世主 [Messiah]",
+    "artist": "PARALLEL CROSS ILLUST:BLACK RED obj:potechang",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=43&event=145",
+    "url_diff": "https://stellabms.xyz/upload/4186",
+    "md5": "93937361aa4b87b6aa31272511211f5f",
+    "sha256": "f102ee82ce5ca783d7d615f513e123d8a791215fc24d6f3354c476a295978100",
+    "level": "13",
+    "proposer": "T.",
+    "comment": "BPM165 微縦",
+    "submission": 2362
+  },
+  {
     "title": "アズール リミックス -Eclipse-",
     "artist": "メスクラ (エヴァたん＆メコたん) / selene.",
     "url": "https://web.archive.org/web/20120414180852/http://asdf.bms.ms/bof/curryyojo_eva_azul_ogg.zip",
@@ -23732,6 +23816,18 @@
     "sha256": "407235c010f4cd688d24a171fba2670be16d45d0fa3752e353afd3e6a3b5bd70"
   },
   {
+    "title": "Exit [At the Exit]",
+    "artist": "Transin obj.Mallow♪",
+    "url": "http://skydrive.live.com/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=03318",
+    "md5": "c0c884dbfaec0239ba3d82ac12e4cb6a",
+    "sha256": "b1656ab4ef53baaade26f28c7018947feac4fcd273756cc674029fe25752354f",
+    "level": "14",
+    "proposer": "ABKAOD",
+    "comment": "BPM145 乱打、連打 追加キー音あり",
+    "submission": 2348
+  },
+  {
     "title": "Fantasy (・ω・)",
     "artist": "goangra/さ BGA:WCMP",
     "url": "http://silentman.blog51.fc2.com/blog-entry-25.html",
@@ -24889,6 +24985,18 @@
     "level": "14",
     "proposer": "七海",
     "submission": 1893
+  },
+  {
+    "title": "Written in the stars [Stellarum]",
+    "artist": "Infinite Dream Routes obj. meta",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=145",
+    "url_diff": "https://stellabms.xyz/upload/4204",
+    "md5": "06991c7bdc221d6edc030fcfed2bd934",
+    "sha256": "816fbedd5bf432c0acace921641e31ca3cdc09c9368d6134b36883618d7cf20c",
+    "level": "14",
+    "proposer": "T.",
+    "comment": "BPM160　ディレイ",
+    "submission": 2363
   },
   {
     "title": "Y [yumether]",
@@ -29239,6 +29347,18 @@
     "submission": 1620
   },
   {
+    "title": "LUV TO ME 2011 [Clover]",
+    "artist": "カラフル・サウンズ・ポート / obj.fuko",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=135&event=74",
+    "url_diff": "https://stellabms.xyz/upload/1207",
+    "md5": "34830e1501d13911bec3c74bab69c7a1",
+    "sha256": "3159c19dc23d90edd4a6a6ad66dde7f2fbb19c462e3e547c031d7fdf27170ca5",
+    "level": "16",
+    "proposer": "七海",
+    "comment": "同梱N基準ズレ抜け無し",
+    "submission": 1672
+  },
+  {
     "title": "MA.DA.KA.NA. MAKAIWARS(仮) [INFERNO]",
     "artist": "SECRET HEROINE 朝霧-ASAGI-/ 差分 赤い人",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=140&event=83",
@@ -30218,6 +30338,18 @@
     "submission": 1454
   },
   {
+    "title": "アニマのささやき →〓←",
+    "artist": "黎明機構第三研究開発部 / CV: 浅見ゆい Illustration: うまるつふり / Movie: 石王マサト / Object: Tiwa Pudpichya",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=173&event=116",
+    "url_diff": "https://venue.bmssearch.net/ssss_1st/1",
+    "md5": "a883d9f6497ebc26b75b3f08b5c89f7c",
+    "sha256": "e05e4556bee3bbed3567991e7cae8f567a8c69362b0cbce2f166ddab0e1e7d8a",
+    "level": "16",
+    "proposer": "SHAX.",
+    "comment": "BPM104 ディレイ",
+    "submission": 2351
+  },
+  {
     "title": "アリスの空虚で愉快な人形劇 [Hexagon]",
     "artist": "ろうて obj.hex",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=35&event=102",
@@ -30928,6 +31060,18 @@
     "submission": 1299
   },
   {
+    "title": "BLOODY ROSE [Unfulfilled]",
+    "artist": "ボテ旨 ぽふまろえ obj:1mi",
+    "url": "https://mega.nz/folder/FNFDCQaT#wfv-iI4UuSIaGpP0oFZdtQ/folder/VFV1lJAK",
+    "url_diff": "https://stellabms.xyz/upload/4212",
+    "md5": "1088fa714225c6d1c779f9c1f45ea78a",
+    "sha256": "904b461463747ead8998370363e793ddcd27c6816c982c2a29fdd3f445dd15ea",
+    "level": "17",
+    "proposer": "potechang",
+    "comment": "BPM175 乱打 st3~4?",
+    "submission": 2361
+  },
+  {
     "title": "Blooming Jump! [Maneuver]",
     "artist": "卯月 改",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=109",
@@ -31314,6 +31458,18 @@
     "submission": 1634
   },
   {
+    "title": "Eternal calm [DOMO MASTER]",
+    "artist": "長沼浩太(パパ頑張りました) / mov:長沼浩太(ぜひ！！！！) obj:potechang",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=431&event=140",
+    "url_diff": "https://stellabms.xyz/upload/4153",
+    "md5": "c6ec5ed5d51ee98e8deb0823750ed70b",
+    "sha256": "3429106edce2308f0369ade75138e6b9048d87af4d9e6b2d97d18fdc4baa7ad3",
+    "level": "17",
+    "proposer": "fuko",
+    "comment": "BPM104 同時押し ズレ",
+    "submission": 2359
+  },
+  {
     "title": "Evangelize (Radio Edit) -Long Distance race-",
     "artist": "syatten + 140 / selene. respect for 発汗BMS",
     "url": "https://dl.dropboxusercontent.com/sh/xrr3fvlhagzsmm2/AAC0HdK_kps6UCKtDFTCkpJea/bms/Evangelize%20%28Radio%20Edit%29.rar",
@@ -31575,6 +31731,18 @@
     "proposer": "GRASS",
     "comment": "BPM215の高速乱打だぜ",
     "submission": 2195
+  },
+  {
+    "title": "holicチョコ [7K MARYTHER]",
+    "artist": "Du Vel Mat Te / OBJ: Mary_Sue BGI: morph",
+    "url": "https://morph-pack.netlify.app/",
+    "url_diff": "https://darksabun.github.io/Mary_Sue/",
+    "md5": "d1451ff302e9f94af7e6d3695c2b759c",
+    "sha256": "195c2f2646f2f6a06c477f3665988b874643672147ea13d94936ed9e9989893d",
+    "level": "17",
+    "proposer": "fuko",
+    "comment": "BPM193 微連打",
+    "submission": 2360
   },
   {
     "title": "Hot Heart is Sprinting Love~!! [宇宙を超越した愛]",
@@ -32421,6 +32589,18 @@
     "proposer": "SHAX.",
     "comment": "BPM144 ディレイ系乱打",
     "submission": 2127
+  },
+  {
+    "title": "Thrill Trigger [Tune Tinker]",
+    "artist": "K4Y5 BGA: FJA映像プロダクション / obj: qtp13",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=68&event=131",
+    "url_diff": "https://venue.bmssearch.net/ssss_1st/4",
+    "md5": "6d34b313d32f7a7b2b54927c86583274",
+    "sha256": "146f3b529612ea3556d3c66b7258ebcfe75e8bc97c86448a21780d28479f2ba3",
+    "level": "17",
+    "proposer": "SHAX.",
+    "comment": "BPM169 バラエティー",
+    "submission": 2350
   },
   {
     "title": "Time shrinker [PARADOX]",
@@ -34704,6 +34884,18 @@
     "submission": 1333
   },
   {
+    "title": "トゥンカロン・ティータイム [Monogon]",
+    "artist": "kasとFaine obj:1008",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=133",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05931",
+    "md5": "ce913fbb15a985c11a2b1e7b4605d6a9",
+    "sha256": "9f0b6f13e63ed911cff4f26df1153162fc95ee71869cde01f35d76f2b0cfe76c",
+    "level": "18",
+    "proposer": "歳納京子",
+    "comment": "gachi, chords, jacks",
+    "submission": 1754
+  },
+  {
     "title": "ナツイノ [ガチオシ]",
     "artist": "Ino loves みずたま & 加藤裕幸(sweez) obj.Mallow♪",
     "url": "https://dropbox.bms.ms/u/53751238/Ino_BOFU2016_Natsuino_OGG.zip",
@@ -35925,18 +36117,6 @@
     "submission": 2193
   },
   {
-    "title": "トゥンカロン・ティータイム [Monogon]",
-    "artist": "kasとFaine obj:1008",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=133",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05931",
-    "md5": "ce913fbb15a985c11a2b1e7b4605d6a9",
-    "sha256": "9f0b6f13e63ed911cff4f26df1153162fc95ee71869cde01f35d76f2b0cfe76c",
-    "level": "19",
-    "proposer": "歳納京子",
-    "comment": "gachi, chords, jacks",
-    "submission": 1754
-  },
-  {
     "title": "トルコ行進曲 (Hd-NRG mix) [s-ther]",
     "artist": "celas respect for W.A.Mozart obj:st",
     "url": "https://web.archive.org/web/20140612154923/http://creation-records.info/bms/turkeymarch_r-hqbga.rar",
@@ -35984,6 +36164,18 @@
     "proposer": "LUXURY♪",
     "comment": "DELAAAAY",
     "submission": 840
+  },
+  {
+    "title": "ペイペイ2000 [HEARTFUL]",
+    "artist": "モン・サン・ミシェル obj&arr:魔女",
+    "url": "https://drive.usercontent.google.com/download?id=1f8e-YQZ5V_AsgfKTy4_XGYqjTE2QE7KR&export=download",
+    "url_diff": "https://stellabms.xyz/upload/4059",
+    "md5": "8ce27898dc3cf56c8521d58f86c59143",
+    "sha256": "bccd22129f0c0be6464fd13fbe6f01ffff60843ae07185f20233d13a8f07863d",
+    "level": "19",
+    "proposer": "ABKAOD",
+    "comment": "BPM205乱打、同時押し  曲の完全改変差分",
+    "submission": 2349
   },
   {
     "title": "ポケットモンスター ブラック・ホワイト 四天王戦 [Haxorus]",
@@ -37847,6 +38039,17 @@
     "sha256": "12f8be662c7a1a6650933ad302adb87b10fed26efe0f60ead945ed751cc5c057"
   },
   {
+    "title": "Unleashed World -Ragnarok-",
+    "artist": "sak feat.みゅい Movie: げ～むばか Illust: 球根 / selene.",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=123",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02346",
+    "md5": "12fd96153a125b9a587fe58e1305e557",
+    "sha256": "ff058755444c1ef561b895ec22f41b8c6ea2283d73ca8097ee923d6ce586bd38",
+    "level": "21",
+    "proposer": "こめっと",
+    "submission": 820
+  },
+  {
     "title": "Wizdomiot [XXX]",
     "artist": "ZUN remixed by LeaF Movie:Optie Obj:И",
     "url": "http://leafbms.web.fc2.com/song.html",
@@ -38593,17 +38796,6 @@
     "submission": 836
   },
   {
-    "title": "Unleashed World -Ragnarok-",
-    "artist": "sak feat.みゅい Movie: げ～むばか Illust: 球根 / selene.",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=123",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=02346",
-    "md5": "12fd96153a125b9a587fe58e1305e557",
-    "sha256": "ff058755444c1ef561b895ec22f41b8c6ea2283d73ca8097ee923d6ce586bd38",
-    "level": "22",
-    "proposer": "こめっと",
-    "submission": 820
-  },
-  {
     "title": "Weaponhuman [Armageddon]",
     "artist": "paraneumann / obj:C4",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=131",
@@ -38843,6 +39035,18 @@
     "comment": "微縦連とズレ",
     "submission": 427,
     "sha256": "4afafa2110f3c88f88fbe24fdc92619951fbb3d3459df9ed83e8c46ca8af2464"
+  },
+  {
+    "title": "BEYOND [Sprint]",
+    "artist": "Lime mov:Roaring Flame/ obj:...",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=492&event=133",
+    "url_diff": "https://stellabms.xyz/upload/2542",
+    "md5": "b3ced645875aa00d2001f54beec2bb6e",
+    "sha256": "e68eb753887d41b37d84f2f5206ea00cd6e8a2e82a3b8a2837cd37596b0fc307",
+    "level": "23",
+    "proposer": "魔女",
+    "comment": "276乱打",
+    "submission": 2357
   },
   {
     "title": "Black Lotus  -Ragnarok-",
@@ -39267,6 +39471,18 @@
     "sha256": "1f30f7c9389a6603e41fc2dce10bd934d945162418c39c6be22959bed0a03304"
   },
   {
+    "title": "決死のレイブ ～ RAVE W!TH ME [SP RAVE EACH OTHER]",
+    "artist": "DJ NORMAL1ZER BG by R. A. L. / obj tyrcs",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=261&event=140",
+    "url_diff": "",
+    "md5": "24e43e414ae88f0b5ccbea4f7d334a9a",
+    "sha256": "2144055aab35e088d778f5a2b524ada145d5613515c6bf51cdf96c43b96632e2",
+    "level": "23",
+    "proposer": "魔女",
+    "comment": "180微縦",
+    "submission": 2358
+  },
+  {
     "title": "飛燕草",
     "artist": "2TORI obj:Monsta",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=63",
@@ -39468,6 +39684,18 @@
     "comment": "無限ディレイ",
     "submission": 307,
     "sha256": "b642df09d050b5dc3b63e18935e22ff6a3cf9f003d18d705f2b5410b33b9900a"
+  },
+  {
+    "title": "TECHNO-LOGIC [HEARTLESS]",
+    "artist": "TaW Movie: MES19 / obj:魔女",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=137",
+    "url_diff": "https://stellabms.xyz/upload/3076",
+    "md5": "d3787f888efdb3713c30bc813de7c819",
+    "sha256": "00e8d770936aa76010008582db1548e10c55122a3a9a8f85978c163e28fd60e0",
+    "level": "24",
+    "proposer": "谷風天音",
+    "comment": "st10 CYCLONE [Other]を体力面と密度面で強化させたもの 曲改変あり",
+    "submission": 2356
   },
   {
     "title": "Unleashed World [DESPERATE]",
