@@ -1757,6 +1757,20 @@
     "proposerLr2id": 147895
   },
   {
+    "md5": "5c638db9d98ff4d3f45217716e847288",
+    "sha256": "04490f90654d6bf274f4b0462c5d8551a556fc97a70e1cbe190674eb88bccfd7",
+    "title": "Halley [Back to the 1986]",
+    "artist": "YuKa obj : Khibine",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05431",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=48&event=135",
+    "level": "0",
+    "comment": "MA2021 / トリル, 階段",
+    "zureCount": 0,
+    "proposer": "重野葵",
+    "submission": 3230,
+    "proposerMinirid": "adb271e9-8c13-45dd-9db3-2cf94da7c2d3"
+  },
+  {
     "level": "0",
     "comment": "第二回BMS衆議院選、ズレ、連打、LNあり、トリル",
     "md5": "0d25ec28b94dba8a6d70380ee3f8f26b",
@@ -4960,6 +4974,19 @@
     "proposer": "Mary_Sue",
     "submission": 2433,
     "proposerLr2id": 147889
+  },
+  {
+    "md5": "bc9ae62d94f55ab6d3b746ca261a3986",
+    "sha256": "8b9e4311b6bbaac3967f18fc06f552d21a59fe250511f3b7e2e804c93afbd7bc",
+    "title": "ハイライト [SP ANOTHER]",
+    "artist": "ほろろ",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/genreshuffle4/27",
+    "level": "0",
+    "comment": "GS4 / 軽いLN",
+    "proposer": "重野葵",
+    "submission": 3229,
+    "proposerMinirid": "adb271e9-8c13-45dd-9db3-2cf94da7c2d3"
   },
   {
     "md5": "b1b87a8d8895f3823631c2443eef8c08",
@@ -11935,6 +11962,19 @@
     "votePercent": 0
   },
   {
+    "md5": "e48f8ade62ebc3fe04dcd235b2528977",
+    "sha256": "0e7ca3e5634ea4929053edcdaaadf03644ddf5161ea1f2c67c7fa49f1cc41b4f",
+    "title": "Fragments [SP ANOTHER]",
+    "artist": "影虎。 BMS:Qayo / BGA:FEIflick",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=322&event=137",
+    "level": "2",
+    "comment": "BOFXVII 同梱譜面, BPM 160 連打+皿",
+    "proposer": "Seori",
+    "submission": 3234,
+    "proposerMinirid": "7040afc3-37ee-481c-b5d6-dbb031473e9a"
+  },
+  {
     "md5": "e0fad5fcb854abe2cdb29b2d8d7b2001",
     "sha256": "60986c505de86579239aa998f12997bb0fedf5c663e82ec05dc50f5e88faf937",
     "title": "FUELBLOODS [SP ANOTHER]",
@@ -15315,6 +15355,19 @@
     "proposer": "STANK!",
     "submission": 1231,
     "proposerMinirid": "59104b4a-91a7-41e5-837f-f5ef64375db6"
+  },
+  {
+    "md5": "06bdfb040a6115c3e0f7793b0ce60673",
+    "sha256": "a7e81a6977a59348aabb6a67aee6a16f12f9bf588d09d924df004b89201fd4c2",
+    "title": "衰亡へのヴィトーリエット [INSANE]",
+    "artist": "Chicala Lpis",
+    "url_diff": "",
+    "url": "https://9domu46i.com/yuruyuru/phase19.html",
+    "level": "2",
+    "comment": "ゆるゆる19 / BPM138 / 微縦とか",
+    "proposer": "ctc",
+    "submission": 3231,
+    "proposerLr2id": 31401
   },
   {
     "level": "2",
@@ -20264,6 +20317,18 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "a256a75cf1589b27c77eadf92760bb76",
+    "sha256": "8eaa9d08aed8a626959e98e6f51d9371e76b7f9f8615ae9e885731ddecd10411",
+    "title": "Desert Rose [ANOTHER]",
+    "artist": "D.J.Nero",
+    "url_diff": "",
+    "url": "https://web.archive.org/web/2019*/http://black-funeral.kill.jp/Desert_Rose.zip",
+    "level": "4",
+    "proposer": "Mary_Sue（休止）",
+    "submission": 3233,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "eb9439bd4d6e1f8af4bcf25cfb6b175d",
     "title": "DESPERATE DEATHPARADE [ANOTHER]",
     "artist": "69 de 74",
@@ -21904,6 +21969,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "proposerLr2id": 93763
+  },
+  {
+    "md5": "e12a108e03802e85d0246c18c3a2433b",
+    "sha256": "21b3648878327fe5b58ecfebe07b65a0002de913c97be2293e172686991bdfab",
+    "title": "Surfacing Ship -SpeedRush RMX- [yumether]",
+    "artist": "DJ.Deplorer with DJ.EmeralD / obj:夢瑠",
+    "url_diff": "http://yumerusabun.web.fc2.com/nue.html",
+    "url": "http://music.geocities.jp/darkness_station/_bms/_bms.html",
+    "level": "4",
+    "comment": "BPM170 乱打、瞬間発狂",
+    "zureCount": 0,
+    "proposer": "ABKAOD",
+    "submission": 3228,
+    "proposerLr2id": 175744
   },
   {
     "md5": "9c5f82051198679dba5dde98b9cd90b4",
@@ -24526,6 +24605,18 @@
     "proposer": "なさ式",
     "submission": 1807,
     "proposerLr2id": 108918
+  },
+  {
+    "md5": "a19546384776600757d3da643acf1aac",
+    "sha256": "6cf3450866813993efa2426447e65c0a781d3ee4d222281aecf89f91dd152397",
+    "title": "Mazy Mermaid",
+    "artist": "美樹さやか with 美樹さやか / Hitler von Xeckendolff",
+    "url_diff": "",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=288&event=74",
+    "level": "5",
+    "proposer": "Mary_Sue（休止）",
+    "submission": 3232,
+    "proposerLr2id": 147889
   },
   {
     "md5": "8cc90c51dd6ca11b19cce58d73706ff6",
@@ -37418,6 +37509,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "proposerLr2id": 80338
+  },
+  {
+    "md5": "4e68b2d6e049fe2ba7c45a0dd46ac4e8",
+    "sha256": "f1ac0430139f18539d99461cc079cfdb11e840d3e434e1583eaa1a4bf1b580aa",
+    "title": "Snowdrop -Luna-",
+    "artist": "urimu Movie:inukoro / selene.",
+    "url_diff": "https://www.dropbox.com/s/45x294umd37aetl/Snowdrop.zip?dl=1",
+    "url": "https://drive.google.com/file/d/1bX6cvED-kc8P5gpGkjLijnXJtcOfGhlw/view",
+    "level": "10",
+    "comment": "BPM173 乱打",
+    "zureCount": 0,
+    "proposer": "ABKAOD",
+    "submission": 3227,
+    "proposerLr2id": 175744
   },
   {
     "md5": "fff4875bbf47cec9b90bc1f0bbf73ec7",
@@ -56732,6 +56837,19 @@
     "sha256": "da03d2705d2572a288734c2a1ae4149944be3d77d294d256123af20b58a5b214"
   },
   {
+    "md5": "5ff99ce43bc30867658dc37ebf2581e3",
+    "sha256": "4c8de284d5c1c8762d13054e2d3d9b538c1fc6e60048c1576f069276e2155829",
+    "title": "針金",
+    "artist": "D11",
+    "url_diff": "",
+    "url": "https://d11x.sakura.ne.jp/asdf/category/otoge/bms/",
+    "level": "15",
+    "comment": "bpmアレンジ＋「ある程度まとまったパッケージ」に同梱された譜面",
+    "proposer": "Mary_Sue（休止）",
+    "submission": 2370,
+    "proposerLr2id": 147889
+  },
+  {
     "md5": "846346b51e39713b22247f03c2ffdea8",
     "sha256": "45395a9efd88446474abab4f42315ef6ec7310f663213f1c8cbf92d019c29553",
     "title": "闘気に満ちた草原 [もふもふ！]",
@@ -60739,6 +60857,20 @@
     "proposerLr2id": 40621
   },
   {
+    "md5": "6c74fed1076754373dc7da602866deb6",
+    "sha256": "d3f80db1316ecce6dd8a08634574d3f0fa05af3e9ae5b2b6d1409bc570eb9fe0",
+    "title": "ニニ [Hexagon]",
+    "artist": "テヅカ × Qayo BGA: inukoro / obj.hex",
+    "url_diff": "https://bms.hexlataia.xyz/tables/hexajoy.html",
+    "url": "https://drive.google.com/drive/folders/1FCcHdcRb-VWO1FrARwckE7QL17k2WRKd?usp=sharing",
+    "level": "16",
+    "comment": "BPM174 乱打 微縦",
+    "zureCount": 0,
+    "proposer": "potechang",
+    "submission": 2369,
+    "proposerMinirid": "3c018172-b965-4b75-a7ea-d4b575c04962"
+  },
+  {
     "md5": "3d460b72527d59879b9c7a78f8504289",
     "sha256": "e1a2f0f3764eccc7003e05e5763d4d31163c68c53c19b4718df21a302a49accc",
     "title": "ハートマークとエンドロール [Finale]",
@@ -61044,6 +61176,19 @@
     "voteNo": 0,
     "votePercent": 0,
     "proposerLr2id": 39693
+  },
+  {
+    "md5": "3bbff55e9d794ad7a5b15ccab44c27b8",
+    "sha256": "736d3c0376bf5d1f07d02f2df08b547e829e2b65031dfea52eab53e2ce00d141",
+    "title": "敵性夕立/鏡面海域 -Mirage-",
+    "artist": "暮狛 obj:1/8",
+    "url_diff": "http://oneeighth.web.fc2.com",
+    "url": "http://rattoto10.blog.fc2.com/blog-entry-3.html",
+    "level": "16",
+    "comment": "同梱譜面の地雷＋ワープギミック、ソフラン削除によってずれ抜け多数あり",
+    "proposer": "Mary_Sue（休止）",
+    "submission": 2371,
+    "proposerLr2id": 147889
   },
   {
     "md5": "dfec343537eba6bfd0d89848c88dfc9c",
