@@ -5167,20 +5167,6 @@
     "proposerLr2id": 152181
   },
   {
-    "md5": "157a7266e331b20b97f7d2f70fc9e392",
-    "sha256": "0ffb7eae2988d3fcbffd3049610ef2a2bb767bb6bd2123e0760ff6fdb11f9e56",
-    "title": "夏影 [E1]",
-    "artist": "ねこみみ魔法使い obj:1mi",
-    "url_diff": "https://venue.bmssearch.net/ssss_2nd/6",
-    "url": "https://web.archive.org/web/20200101144141/http://necoco.2-d.jp/bms/nm08_air07.zip",
-    "level": "0",
-    "comment": "",
-    "zureCount": 0,
-    "proposer": "qtp13",
-    "submission": 3244,
-    "proposerLr2id": 86559
-  },
-  {
     "md5": "7089015bf97da82e27988297a3e612fd",
     "sha256": "ee54c98ddefe7d175542b7580cbc84df2a58abf7c64170eb9161376ebe32b2bc",
     "title": "多重極展開 [SP HYPER]",
@@ -10145,6 +10131,20 @@
     "proposer": "ねふ",
     "submission": 2924,
     "proposerMinirid": "24320562-3cfd-4f1b-926e-74dc7ec368fd"
+  },
+  {
+    "md5": "157a7266e331b20b97f7d2f70fc9e392",
+    "sha256": "0ffb7eae2988d3fcbffd3049610ef2a2bb767bb6bd2123e0760ff6fdb11f9e56",
+    "title": "夏影 [E1]",
+    "artist": "ねこみみ魔法使い obj:1mi",
+    "url_diff": "https://venue.bmssearch.net/ssss_2nd/6",
+    "url": "https://web.archive.org/web/20200101144141/http://necoco.2-d.jp/bms/nm08_air07.zip",
+    "level": "1",
+    "comment": "",
+    "zureCount": 0,
+    "proposer": "qtp13",
+    "submission": 3244,
+    "proposerLr2id": 86559
   },
   {
     "md5": "7b8a6a122d20de7075b2c219a9149653",
@@ -15859,6 +15859,20 @@
     "proposerLr2id": 93763
   },
   {
+    "md5": "e4dd9fc8efd6052390393e3616439066",
+    "sha256": "5c636b07ba9f261db39f7fbfbf1cdd53f0d134177faec44c4258995125967098",
+    "title": "APOLLON [Birther]",
+    "artist": "sun3 obj by Nuclein",
+    "url_diff": "https://venue.bmssearch.net/ssss_free/3",
+    "url": "https://web.archive.org/web/20190330075243/http://www.geocities.jp/sun3_bms/apollon_bms.rar",
+    "level": "3",
+    "comment": "BPM180 多要素",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 3257,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "9b78bf8f468db8175da31eb12bb2b155",
     "sha256": "454a25b2d819abc30785d720b43109eac0e79e38e9e1c003768f9acd9f257bf2",
     "title": "Aquahighway [INSANE]",
@@ -17706,6 +17720,20 @@
     "proposerLr2id": 23110
   },
   {
+    "md5": "c876607e1178eb71c9e4f3bace7e83b3",
+    "sha256": "d2809bf1cf149986e951db3a2afbadeccfdd121b97cafc5d2ef0f506343bb778",
+    "title": "RAPID STRIKE -ASSAULT-",
+    "artist": "NIKITA / obj:BAECON",
+    "url_diff": "http://akred.web.fc2.com/baecon/RAPID-STRIKE_Assault.bms",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=88",
+    "level": "3",
+    "comment": "BPM93-187 乱打",
+    "zureCount": 0,
+    "proposer": "ABKAOD",
+    "submission": 3253,
+    "proposerLr2id": 175744
+  },
+  {
     "md5": "3400cd27d056469a79489e0bf8fbcfde",
     "sha256": "98afef361a532cd86e525f4f523b5ecc033b5850186d001d1fd945b4e6d6e5d3",
     "title": "Raspberry Memories [SP BLACK ANOTHER]",
@@ -18950,6 +18978,19 @@
     "voteYes": 0,
     "voteNo": 0,
     "votePercent": 0
+  },
+  {
+    "md5": "b9b6141ec2791b31f1e6512546e62605",
+    "sha256": "e0dcb2d038da0b8eca00e086a52ef489a6cdffecc807c4e3258df8e9f575071c",
+    "title": "スペクトラム [Pr]",
+    "artist": "エルリ鳥 obj. tyrcs",
+    "url_diff": "https://venue.bmssearch.net/ssss_2nd/10",
+    "url": "https://kaikou.nothing.sh/spectrum.zip",
+    "level": "3",
+    "comment": "keysound arrangement",
+    "proposer": "qtp13",
+    "submission": 3256,
+    "proposerLr2id": 86559
   },
   {
     "md5": "1c7b5cd5c32ff6ff9253ea612fbd0a8a",
@@ -22368,6 +22409,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "52d64eb83ce4d6db4b71052396b0ddc107e9e13f78d3ec15a7ac78fcdc34b76f"
+  },
+  {
+    "md5": "448446f5b429c06a6e606387dd71664b",
+    "sha256": "3fa864baac1c03bf410ea7ad7d7e87cc97cf837d95c42d4c6901ff4d1ec558c2",
+    "title": "Tsukuyomi [突き通し]",
+    "artist": "Lime obj:LAPIS",
+    "url_diff": "http://lapisbms.web.fc2.com",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=411&event=104",
+    "level": "4",
+    "comment": "BPM176 乱打 _tsukuyomi_7keys_srm.bme基準",
+    "zureCount": 0,
+    "proposer": "ABKAOD",
+    "submission": 3254,
+    "proposerLr2id": 175744
   },
   {
     "md5": "afadaff138a89eaccefe71b4c94a6dc2",
@@ -41199,6 +41254,19 @@
     "proposerMinirid": "3708ebc6-f813-4964-a5e4-deb86620233a"
   },
   {
+    "md5": "accc5608f01d6885f164aa8fa4e7d764",
+    "sha256": "95060f8a80bfedfb1520a3c431037cec575429ddff10ba2350b3b9a69533d7d8",
+    "title": "Air [Myth]",
+    "artist": "SHIKI obj:1008",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05342.zip",
+    "url": "http://web.archive.org/web/20051118202018/http://www.remarkablesense.org/~shiki/air.exe",
+    "level": "12",
+    "comment": "BPM180 乱打 癖要素を減らして簡単になったエアゴ",
+    "proposer": "potechang",
+    "submission": 3252,
+    "proposerMinirid": "3c018172-b965-4b75-a7ea-d4b575c04962"
+  },
+  {
     "md5": "b976caab8aba1c023ba191bd1e1942d8",
     "sha256": "f4ac47d39ba577ee3ab64a7d89bf0f1ba8652cdfc6d61b874408cacaf4a14bba",
     "title": "Airflucht†LEGGENDARIA",
@@ -42660,6 +42728,20 @@
     "proposer": "MarySue",
     "submission": 1793,
     "proposerLr2id": 147889
+  },
+  {
+    "md5": "b897d86605d2bdc67f33f2ee1411dd6e",
+    "sha256": "795ce67d7d6a9fbd9d71177aeae4f7119c6d0e51136a215b8dbe7df9dd57b419",
+    "title": "Number Y [Pattern S]",
+    "artist": "Lemi. obj:Holy",
+    "url_diff": "https://stellabms.xyz/upload/2949",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=342&event=116",
+    "level": "12",
+    "comment": "from Stella",
+    "zureCount": 0,
+    "proposer": "LUXURY♪",
+    "submission": 3255,
+    "proposerLr2id": 23110
   },
   {
     "level": "12",
@@ -45983,20 +46065,6 @@
     "voteYes": 0,
     "voteNo": 0,
     "votePercent": 0
-  },
-  {
-    "md5": "b897d86605d2bdc67f33f2ee1411dd6e",
-    "sha256": "795ce67d7d6a9fbd9d71177aeae4f7119c6d0e51136a215b8dbe7df9dd57b419",
-    "title": "Number Y [Pattern S]",
-    "artist": "Lemi. obj:Holy",
-    "url_diff": "https://stellabms.xyz/upload/2949",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=342&event=116",
-    "level": "13",
-    "comment": "stream",
-    "zureCount": 0,
-    "proposer": "歳納京子",
-    "submission": 2124,
-    "proposerLr2id": 75332
   },
   {
     "md5": "af820edea8ad204ee94cfea7070f9a3b",
@@ -50139,6 +50207,20 @@
     "sha256": "14a1373eb85881774aacff16e76ce9410911c419b138ae6c3046617753c9b199"
   },
   {
+    "md5": "4cccb944fa722f7f63ca741b17f8a2c5",
+    "sha256": "3378cf8526cfeef63260081a616702d1dcba2209733143e62673b4aeb14b10b0",
+    "title": "Luminance [Lovesick]",
+    "artist": "litmus* ft. 橘ルミ obj:EGRET.",
+    "url_diff": "https://stellabms.xyz/upload/4285",
+    "url": "https://9domu46i.com/yuruyuru/phase21.html",
+    "level": "14",
+    "comment": "BPM175 乱打",
+    "zureCount": 0,
+    "proposer": "potechang",
+    "submission": 2392,
+    "proposerMinirid": "3c018172-b965-4b75-a7ea-d4b575c04962"
+  },
+  {
     "md5": "fb8732784e2fe5d91f77a3634753167d",
     "sha256": "f5ef79c6c7cb61c95238b548aab2ba399170f9e473f437a382d1a846d755e072",
     "title": "Luminescent Drive [Coasted]",
@@ -50816,6 +50898,19 @@
     "proposer": "Mary_Sue",
     "submission": 2098,
     "proposerLr2id": 147889
+  },
+  {
+    "md5": "04a3d255faa0debb2c3c22841aaafec8",
+    "sha256": "78725fa17a2aaf2767477df3b6ed2e1bb8031f91c44a0fe38a7b297f0d0236f3",
+    "title": "SAKURAnightmare [LostPetals]",
+    "artist": "ZUN remixed by Tiv / Illustration:雨水",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/tohobmsr/12",
+    "level": "14",
+    "comment": "BPM205 乱打 T/N≒0.192",
+    "proposer": "GRASS",
+    "submission": 2387,
+    "proposerMinirid": "6ed5d1e2-61fa-471c-8fdc-da298113ba77"
   },
   {
     "md5": "98235538f28e0be71bcd18a221a4c5a3",
@@ -58606,6 +58701,19 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "67bda620ee654c23deaac4f99b1b6333",
+    "sha256": "b89fe966a26200c33e330df681805ae83351f958fe7eca54a862b5907c47ce2c",
+    "title": "fig. 5.0E+15 [########]",
+    "artist": "5000兆yen BGA : C + letsu + tez / 「実行時 エラー '6'」",
+    "url_diff": "https://venue.bmssearch.net/ssss_2nd/8",
+    "url": "https://venue.bmssearch.net/bmsshuin3/26",
+    "level": "16",
+    "comment": "delay keysound arrangement",
+    "proposer": "qtp13",
+    "submission": 2390,
+    "proposerLr2id": 86559
+  },
+  {
     "md5": "536cc21edc55c4df9e2aa998ccbd1f8f",
     "title": "FIONA [DREAM]",
     "artist": "w_tre Lyrics by Sing_fUA",
@@ -59702,6 +59810,19 @@
     "proposer": "SHAX.",
     "submission": 1191,
     "proposerLr2id": 65624
+  },
+  {
+    "md5": "ee524758032e9b307fde3aae770ce646",
+    "sha256": "0c5397671ff27915aadf2746486a73b9ef8ed26ae7d268117369f607dc42a2be",
+    "title": "Oracle [Intense]",
+    "artist": "Utuka obj:potechang",
+    "url_diff": "https://stellabms.xyz/upload/4158",
+    "url": "https://venue.bmssearch.net/freebattle/25",
+    "level": "16",
+    "comment": "(readme)BPM208 体力、物量、乱打 misalignment by bga",
+    "proposer": "ABKAOD",
+    "submission": 2389,
+    "proposerLr2id": 175744
   },
   {
     "md5": "c6649c978d494fe2600a3a8a7b747a88",
@@ -64078,6 +64199,20 @@
     "proposerLr2id": 9235
   },
   {
+    "md5": "10ecfb1f353c5884b58cd100b15a8b94",
+    "sha256": "cc049d4bba8e67ca5ec10982ab4fda19f64691a7e21074cbcdf84b5af952d2f4",
+    "title": "PukaPuka [BiriBiri]",
+    "artist": "きこにゃん BGI:らりる / obj: qtp13",
+    "url_diff": "https://venue.bmssearch.net/ssss_free/8",
+    "url": "https://venue.bmssearch.net/bmstukuru2023/19",
+    "level": "17",
+    "comment": "BPM142 ディレイ",
+    "zureCount": 0,
+    "proposer": "SHAX.",
+    "submission": 2391,
+    "proposerLr2id": 65624
+  },
+  {
     "md5": "b64c19e54a01b504394cbfcfad998e12",
     "title": "PUPA",
     "artist": "モリモリあつし / Ds",
@@ -64443,6 +64578,20 @@
     "proposer": "Mallow♪",
     "submission": 1234,
     "proposerLr2id": 154796
+  },
+  {
+    "md5": "9be766cefbfe449359f9f8dd091df5a5",
+    "sha256": "29e6b24d05a037afea2c473bf5d38053889daba1e96721d6adfbab6febead1c6",
+    "title": "Start over agaIn (BMS Edit) [Restart]",
+    "artist": "Sakamiya feat.一花 img:ttv / obj:kai",
+    "url_diff": "https://stellabms.xyz/upload/4327",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=419&event=133",
+    "level": "17",
+    "comment": "BPM151 微縦",
+    "zureCount": 0,
+    "proposer": "potechang",
+    "submission": 2393,
+    "proposerMinirid": "3c018172-b965-4b75-a7ea-d4b575c04962"
   },
   {
     "md5": "67a511c6f1feed687a4865866cd4655b",
@@ -68516,6 +68665,20 @@
     "proposerMinirid": "3b715e5b-6a45-4156-913c-5109a62f4512"
   },
   {
+    "md5": "6e707c71d420ae259922b98729754ab8",
+    "sha256": "c2cc5e7d5bacb902918550b6273182120921900ac8d84098a5a3762383c1a433",
+    "title": "フロンティア↑↑エクスプローラー [GOD]",
+    "artist": "kei_iwata Illust:morph/ BGA:qfeileadh/ obj:potechang",
+    "url_diff": "https://stellabms.xyz/upload/4317",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=132",
+    "level": "18",
+    "comment": "BPM200 体力乱打、同時押し",
+    "zureCount": 0,
+    "proposer": "ABKAOD",
+    "submission": 2388,
+    "proposerLr2id": 175744
+  },
+  {
     "md5": "5d499f1d4a563f5a3c98e037c39601d8",
     "sha256": "2f3ed5451608a2e8a7af0dd202f1868846cbb84e994dc3c2d4cf84580b64bd27",
     "title": "プナイプナイげんそう～５人の並行世界から来たてるやまたちが世界を救う！？　プナイプナイinワンダーランド～ [INFERNO]",
@@ -71873,19 +72036,6 @@
     "proposerLr2id": 23110
   },
   {
-    "md5": "9346880ee7c843634894575e4385edce",
-    "sha256": "a972e41f84777e6b084316beeb76307d6c5e64000b665afc68cbb96356c8cbc8",
-    "title": "scualee [DELTA]",
-    "artist": "Aoi mov:出前 / obj:Criyajuh",
-    "url_diff": "https://stellabms.xyz/upload/2158",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=462&event=140",
-    "level": "20",
-    "comment": "150bpm ",
-    "proposer": "Guaema",
-    "submission": 2021,
-    "proposerLr2id": 73333
-  },
-  {
     "md5": "45681e84e18abc0b7056db209a694309",
     "sha256": "b4d922e1fb4db77ba02ef41841e9306d6edc4b1049b1b27ba6e574552df07b36",
     "title": "Shiny☆Strike!!! [Beyond the Future]",
@@ -73390,6 +73540,19 @@
     "sha256": "eba8dbd0b4fc23a4412655fafe6d7a97ec459efdfa760920492a41ccc723eed7"
   },
   {
+    "md5": "9346880ee7c843634894575e4385edce",
+    "sha256": "a972e41f84777e6b084316beeb76307d6c5e64000b665afc68cbb96356c8cbc8",
+    "title": "scualee [DELTA]",
+    "artist": "Aoi mov:出前 / obj:Criyajuh",
+    "url_diff": "https://stellabms.xyz/upload/2158",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=462&event=140",
+    "level": "21",
+    "comment": "150bpm ",
+    "proposer": "Guaema",
+    "submission": 2021,
+    "proposerLr2id": 73333
+  },
+  {
     "md5": "15cff55bf011ac0542b19f9b113d2c92",
     "sha256": "d4fabfdfe1b8cf7dc2315859508a19c20f10f6dd6271997bb0795a8a6c4817e7",
     "title": "SEPIA -reminisce-",
@@ -74644,19 +74807,6 @@
     "sha256": "afba8439a42aa01a83aa4e80c12a967c3cb819d1816e8ec2dc22b0ec5ca19b65"
   },
   {
-    "md5": "5ec8fc39e595eb170a9d531546b6959d",
-    "sha256": "a8adb0eec3eeee400d9ad6a7d19417cf320e7d1b735cbee0504a547650233d30",
-    "title": "Sesame Kingdom [HEARTLESS]",
-    "artist": "VeetaCrush bga: linglvz / obj:魔女",
-    "url_diff": "https://stellabms.xyz/upload/2814",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=140",
-    "level": "22",
-    "comment": "st9~10; misalignment by delay conversion to 24ths",
-    "proposer": "qtp13",
-    "submission": 2366,
-    "proposerLr2id": 86559
-  },
-  {
     "md5": "9c7fbabfb781ccce6a92a6c61385109e",
     "sha256": "afc16b40370138f1f9dd47c5050fe56f76fea10ac7cd8398b245d291b1bcee29",
     "title": "Shiratsuyu [Other]",
@@ -75699,6 +75849,19 @@
     "proposer": "スノート",
     "submission": 1117,
     "proposerLr2id": 86393
+  },
+  {
+    "md5": "5ec8fc39e595eb170a9d531546b6959d",
+    "sha256": "a8adb0eec3eeee400d9ad6a7d19417cf320e7d1b735cbee0504a547650233d30",
+    "title": "Sesame Kingdom [HEARTLESS]",
+    "artist": "VeetaCrush bga: linglvz / obj:魔女",
+    "url_diff": "https://stellabms.xyz/upload/2814",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=6&event=140",
+    "level": "23",
+    "comment": "st9~10; misalignment by delay conversion to 24ths",
+    "proposer": "qtp13",
+    "submission": 2366,
+    "proposerLr2id": 86559
   },
   {
     "md5": "4f92f0124007e0108e6ec45643e47a34",
