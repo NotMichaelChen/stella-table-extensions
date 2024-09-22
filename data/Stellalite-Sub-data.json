@@ -19381,6 +19381,19 @@
     "proposerMinirid": "8281b134-2da8-4f09-a4d0-22618e5611fd"
   },
   {
+    "md5": "fe47147d206b012d8f0859f21fdeb657",
+    "sha256": "23f158b07a274c8df9c9a5de1774bbb6a839b127cf81652a0974643a6b37748f",
+    "title": "星月トラジコメディー",
+    "artist": "Yonder Voice",
+    "url_diff": "",
+    "url": "https://venue.bmssearch.net/tohobmsr/27",
+    "level": "3",
+    "comment": "東方音弾遊戯 -REVIVED- 同梱譜面",
+    "proposer": "Seori",
+    "submission": 3258,
+    "proposerMinirid": "7040afc3-37ee-481c-b5d6-dbb031473e9a"
+  },
+  {
     "md5": "1cfae0e098943af1fa28e36138010261",
     "sha256": "c281c4565434d78edb609d9d505607d72a6e65e9af7c3b03e401b5d957687829",
     "title": "星降る空のひかり [wem]",
@@ -61787,6 +61800,20 @@
     "votePercent": 0
   },
   {
+    "md5": "72f2cf64d3679bde268e943bceedcd32",
+    "sha256": "366253eaed50b9d16e985c9b50045e3401793c49a4cbe2c2663fb5c938311a85",
+    "title": "熱帯夜の祭り [EX]",
+    "artist": "Pica X M2U (obj:EGRET.) Movie:PressVisualer",
+    "url_diff": "https://stellabms.xyz/upload/2003",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=157&event=140",
+    "level": "16",
+    "comment": "100 同時押し",
+    "zureCount": 0,
+    "proposer": "1mi",
+    "submission": 2394,
+    "proposerMinirid": "de30d9a6-6b6b-46fe-8a47-ec2044a63cad"
+  },
+  {
     "md5": "72c21935a884777402290d33c40bd3de",
     "sha256": "f59d04cd0f731b0d4a6d88cfa016548fd02f5bcc665399ccc4f0e9a9fc51fd4b",
     "title": "瑠璃子-Blue Moon Mix- (満月)",
@@ -76549,6 +76576,19 @@
     "proposer": "qtp13",
     "submission": 2284,
     "proposerLr2id": 86559
+  },
+  {
+    "md5": "349e95ee5127a79a537a503043dadc2c",
+    "sha256": "6498a3d764e9df27a4f4db334821901c373bbf2d5de06fd47aec023d9088d6a6",
+    "title": "ZENITHALIZE",
+    "artist": "姉ヶ崎 寧々/ obj:Monsta BGA : photonskyto",
+    "url_diff": "https://gnqg.rosx.net/upload/upload.cgi?get=06369",
+    "url": "http://electro-planet.net/loveplus/zenithalize.html",
+    "level": "24",
+    "comment": "モ6",
+    "proposer": "シックスペンス",
+    "submission": 2395,
+    "proposerLr2id": 151185
   },
   {
     "title": "オトゲラヴ！ [初回限定版豪華三大特典付]",
