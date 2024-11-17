@@ -11015,7 +11015,7 @@
     "sha256": "6a229d7b4a37f42bc6469978fc7f0ca9c4a01478f923bff1ad391890178b2209",
     "title": "Angelic Snow (KINOTHER)",
     "artist": "Est obj:kinoko",
-    "url_diff": "https://drive.google.com/file/d/1oMDbe2ivwmLHwoE_CDtyRngxI0YOpKI5/view?usp=sharing",
+    "url_diff": "https://drive.google.com/file/d/1oMDbe2ivwmLHwoE_CDtyRngxI0YOpKI5/view",
     "url": "http://estish.nobody.jp/",
     "level": "2",
     "comment": "BPM148 乱打",
@@ -50900,6 +50900,20 @@
     "sha256": "14a1373eb85881774aacff16e76ce9410911c419b138ae6c3046617753c9b199"
   },
   {
+    "md5": "d286c6b0d44854a04fd2a00d09e337c9",
+    "sha256": "50b13614d220079252b2a59ccf222fadd69feea5a4cea1116dd15811d261099c",
+    "title": "Lucifer [PEPE]",
+    "artist": "Chitose obj:シュナペカペ",
+    "url_diff": "https://stellabms.xyz/upload/4509",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=86",
+    "level": "14",
+    "comment": "BPM165 乱打",
+    "zureCount": 0,
+    "proposer": "potechang",
+    "submission": 2462,
+    "proposerMinirid": "3c018172-b965-4b75-a7ea-d4b575c04962"
+  },
+  {
     "md5": "4cccb944fa722f7f63ca741b17f8a2c5",
     "sha256": "3378cf8526cfeef63260081a616702d1dcba2209733143e62673b4aeb14b10b0",
     "title": "Luminance [Lovesick]",
@@ -51107,6 +51121,19 @@
     "proposer": "ぶんぺ～",
     "submission": 1442,
     "proposerMinirid": "3708ebc6-f813-4964-a5e4-deb86620233a"
+  },
+  {
+    "md5": "ebf75354a4bd0f8bfb8d1702a4a67bb6",
+    "sha256": "ebbc80f7feda47aad921b32c034d38131648f416dc2b7b801554d664e4dd126c",
+    "title": "Neo Side [Run Away]",
+    "artist": "Harunao, Kanna obj:E BGI: LiZiO",
+    "url_diff": "https://stellabms.xyz/upload/4435",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=332&event=140",
+    "level": "14",
+    "comment": "180 同時押し",
+    "proposer": "1mi",
+    "submission": 2461,
+    "proposerMinirid": "de30d9a6-6b6b-46fe-8a47-ec2044a63cad"
   },
   {
     "md5": "e6315fbea415eb4432b2dfdcb82cb724",
