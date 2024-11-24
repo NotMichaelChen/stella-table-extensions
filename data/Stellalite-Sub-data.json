@@ -8143,6 +8143,18 @@
     "proposerMinirid": "c4c2e1c8-d7fb-4a09-9864-2fc8536c4c29"
   },
   {
+    "md5": "86f7b6ff50c1b345e0df3109e2fb8aa3",
+    "sha256": "f1b150a851f1187eecfa7cc1b68b5b99b26ba87fe66b27c61d32a9f895de0f4c",
+    "title": "Ops:Limone [SP ANOTHER]",
+    "artist": "Reku Mochizuki",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=140",
+    "level": "1",
+    "proposer": "키리엘",
+    "submission": 3299,
+    "proposerLr2id": 181120
+  },
+  {
     "md5": "d97b573e679a47e2e9495fb11b20230a",
     "sha256": "8effb4529bcc13b881f23720e07d64c46d7f7a3597217c3bbfdae1f957245ec2",
     "title": "Options [;]",
@@ -17936,6 +17948,19 @@
     "proposerLr2id": 124809
   },
   {
+    "md5": "311a7b80bb25d0aa5193df81c6cc2c7c",
+    "sha256": "92ace357fa48a90376f817c2b6f620319c96e596fe653cf32786677a4e4f4613",
+    "title": "RIE-CHAN MADNESS [Insanity]",
+    "artist": "ぷらすちっくと理恵の人 obj:monaka",
+    "url_diff": "http://monaka1374.game-ss.com/bms/convert7",
+    "url": "http://tm2.toymusical.net/download.html",
+    "level": "3",
+    "comment": "convert7イベント",
+    "proposer": "七海",
+    "submission": 3301,
+    "proposerLr2id": 84597
+  },
+  {
     "md5": "d877c16fe6be071e6ad29aa9232ab565",
     "sha256": "c440e36aa30e4b08aca3c0a589e0c83437f2504a5f938bb3c97ef1aac81a428e",
     "title": "Rush-More [ZOI]",
@@ -25057,6 +25082,19 @@
     "proposerLr2id": 65624
   },
   {
+    "md5": "f8947b353735ce5a0e2db2727fda63d3",
+    "sha256": "7d3bea1515f1e6b861c2d8debb09954462dd69c6cd727f20900d8b22eb9e858e",
+    "title": "Modern Times [イノシシ16分交互拱覧、神戸大回線混雑繰返]",
+    "artist": "Yosk! obj:Scely",
+    "url_diff": "https://onedrive.live.com/?authkey=%21AEUumufyPI1pHno&cid=69BA5AFA5314B0D5&id=69BA5AFA5314B0D5%21263595&parId=69BA5AFA5314B0D5%21263572&o=OneUp",
+    "url": "https://yosk.ojaru.jp/bmsyosk2.html#101",
+    "level": "5",
+    "comment": "The misalignment arises from the soflan & changes in beat type from #035 to #050",
+    "proposer": "Itgsurf",
+    "submission": 3300,
+    "proposerMinirid": "5107c1c1-33ed-49b1-95af-5db49849e119"
+  },
+  {
     "md5": "c2584057469480172479f0b166aff5fa",
     "sha256": "c14a634cae066d482bb76fea56648d7d0b7cdd2c42adb2ba558db6c8dfbf978a",
     "title": "My Hardcore [Difficult]",
@@ -26999,6 +27037,20 @@
     "proposerLr2id": 86559
   },
   {
+    "md5": "f4c0edee7bcb3f21f4796a2929799585",
+    "sha256": "775fd15db9e59f85df91f644abff7f65afe5bad684818e1323ae0706bcf6436e",
+    "title": "AXIS DIMENSION [X-Axis]",
+    "artist": "REX obj:K-SPIN",
+    "url_diff": "http://kspinbms.web.fc2.com/insane.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=148&event=96",
+    "level": "6",
+    "comment": "BPM150 乱打",
+    "zureCount": 0,
+    "proposer": "ABKAOD",
+    "submission": 3304,
+    "proposerLr2id": 175744
+  },
+  {
     "md5": "60d05af40aa26dfed7424d2f2809d158",
     "sha256": "2f128dc93852cc99bf5e51c00f8bb216232c07d8304d2d32331170d90d79e03f",
     "title": "Bad Cycle [ZOI]",
@@ -27787,19 +27839,6 @@
     "proposer": "えば(おらじゃ)",
     "submission": 3055,
     "proposerMinirid": "5eef44ee-844b-4857-a1da-a6ca38ea59ee"
-  },
-  {
-    "md5": "bbd457e8749acc8f8bc3070fd805a716",
-    "sha256": "b296f093f760053089131e7f2ca0754a00d90066aa98f4ce6ff3685171c86448",
-    "title": "Legend of Seeker [HARD]",
-    "artist": "remixed celas / 差分 赤い人",
-    "url_diff": "http://akred.web.fc2.com/bmsfile/Legend-of-Seeker_HARDf.bme",
-    "url": "http://creation-records.info/bms.htm",
-    "level": "6",
-    "comment": "",
-    "proposer": "juuqi",
-    "submission": 3259,
-    "proposerLr2id": 169534
   },
   {
     "md5": "d4d442fc7ff5575b81c6c402026832f6",
@@ -30754,6 +30793,19 @@
     "proposerLr2id": 128405
   },
   {
+    "md5": "bbd457e8749acc8f8bc3070fd805a716",
+    "sha256": "b296f093f760053089131e7f2ca0754a00d90066aa98f4ce6ff3685171c86448",
+    "title": "Legend of Seeker [HARD]",
+    "artist": "remixed celas / 差分 赤い人",
+    "url_diff": "http://akred.web.fc2.com/bmsfile/Legend-of-Seeker_HARDf.bme",
+    "url": "http://creation-records.info/bms.htm",
+    "level": "7",
+    "comment": "",
+    "proposer": "juuqi",
+    "submission": 3259,
+    "proposerLr2id": 169534
+  },
+  {
     "md5": "e5b526bc1dda2b0a2d0e180b3a3c1b06",
     "sha256": "175a4391bee5293e1af13dfbce0a7e929d49d873d586ab9884895044fb63b951",
     "title": "lifework [SP-RX ANOTHER]",
@@ -31352,6 +31404,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "proposerLr2id": 80338
+  },
+  {
+    "md5": "0613e7c54f9c026d9460e106eb7db194",
+    "sha256": "9d2b8d187ff783c43e8b431295b5d2b716b2ac1d7679415d77f34260c1f9dffc",
+    "title": "The infant daughter Frandle's -Luna-",
+    "artist": "celas / selene.",
+    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=04683",
+    "url": "https://web.archive.org/web/20140612155001/http://creation-records.info/bms/c_oen_ogg.rar",
+    "level": "7",
+    "comment": "BPM146 物量乱打",
+    "zureCount": 0,
+    "proposer": "ABKAOD",
+    "submission": 3303,
+    "proposerLr2id": 175744
   },
   {
     "md5": "16b56701b2f846875a26dda621a132dd",
@@ -32047,6 +32113,19 @@
     "proposer": "椒図",
     "submission": 1302,
     "proposerLr2id": 124809
+  },
+  {
+    "md5": "8ab350071a82124c03e64ddfb04a1fe1",
+    "sha256": "98f1fa5bb586cb5337c21fbac1a34ab8fd191b9b5a434b02f7935163bff8ba44",
+    "title": "眠レル森ノ毒林檎 (pw-another)",
+    "artist": "めｎち / obj: pw",
+    "url_diff": "https://drive.google.com/open?id=15Ak57DJYEr-m9SpsBWsPljG8krm9zkgv",
+    "url": "https://mega.nz/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
+    "level": "7",
+    "comment": "?!",
+    "proposer": "七海",
+    "submission": 3302,
+    "proposerLr2id": 84597
   },
   {
     "md5": "5c9d8aace77a992af8833ff2692c782b",
@@ -32748,6 +32827,20 @@
     "proposer": "EGRET.",
     "submission": 2681,
     "proposerMinirid": "5a356ead-7697-48cb-ba1e-27ff9d0d8de7"
+  },
+  {
+    "md5": "c9dcc48bfee44f5e2879a2ff9a9234fa",
+    "sha256": "265b9a14f64f97bab696fabd97cb02e42b1f60dc147a5c03a05b8351de5c20ec",
+    "title": "Gensou Leaving [NEXT]",
+    "artist": "ZUN Remix by rider / obj:Sar",
+    "url_diff": "http://absolute.pv.land.to/bmsuploader.html",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=5&event=102",
+    "level": "8",
+    "comment": "BPM37 - 148 ソフラン、同時押し、乱打",
+    "zureCount": 0,
+    "proposer": "ABKAOD",
+    "submission": 3305,
+    "proposerLr2id": 175744
   },
   {
     "md5": "84936dd2b560d4ba933030f0163aca4f",
@@ -37007,19 +37100,6 @@
     "proposerLr2id": 84597
   },
   {
-    "md5": "ae55eeaa58a456acb7306903ec817beb",
-    "sha256": "12ac8553a4f1c0e319c5903da0f5f7f34532d368749f164699b6a65970208e2f",
-    "title": "Curtain Of Secrecy [INSANE]",
-    "artist": "loz",
-    "url_diff": "",
-    "url": "http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=10",
-    "level": "10",
-    "comment": "BPM182 乱打、軸",
-    "proposer": "ABKAOD",
-    "submission": 3271,
-    "proposerLr2id": 175744
-  },
-  {
     "md5": "5cd49fb3326135e74cd668270d9b88c7",
     "sha256": "8472345acfa7c9136683fab6fbd342b6b4550c5ec6a42ea934fd2205b3a663cf",
     "title": "Cynic (THE hyper)",
@@ -39413,6 +39493,19 @@
     "proposer": "七海",
     "submission": 2663,
     "proposerLr2id": 84597
+  },
+  {
+    "md5": "ae55eeaa58a456acb7306903ec817beb",
+    "sha256": "12ac8553a4f1c0e319c5903da0f5f7f34532d368749f164699b6a65970208e2f",
+    "title": "Curtain Of Secrecy [INSANE]",
+    "artist": "loz",
+    "url_diff": "",
+    "url": "http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=10",
+    "level": "11",
+    "comment": "BPM182 乱打、軸",
+    "proposer": "ABKAOD",
+    "submission": 3271,
+    "proposerLr2id": 175744
   },
   {
     "md5": "404937351f39007a7a211e154feebadb",
@@ -43277,20 +43370,6 @@
     "proposerLr2id": 147889
   },
   {
-    "md5": "b46b00719a28bca638f655482e3c524e",
-    "sha256": "ae94f4f3745bed6c41f1c29834238812f48b98514e7678b9dad678381bcfbd69",
-    "title": "Puckish Angel [Gachimuchi]",
-    "artist": "arrange : Utuka original : zun",
-    "url_diff": "https://stellabms.xyz/upload/4332",
-    "url": "https://venue.bmssearch.net/tohobmsr/8",
-    "level": "12",
-    "comment": "BPM115 ガチ押し",
-    "zureCount": 0,
-    "proposer": "fuko",
-    "submission": 3292,
-    "proposerMinirid": "ba0690c9-b068-498b-8f78-4f10295e3e7f"
-  },
-  {
     "md5": "bf1e76aa6268151547ab31cfcfccb4e0",
     "sha256": "0ecceacc500130724457730aae68caf1da2d0a41d60546b0e67121d19782f5d5",
     "title": "Quad Queens -Astral Axis-",
@@ -46808,6 +46887,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "880d3e358cd04c6c2ef88e6f99f97938706a4037a08981d548336c31bfd5bb8f"
+  },
+  {
+    "md5": "b46b00719a28bca638f655482e3c524e",
+    "sha256": "ae94f4f3745bed6c41f1c29834238812f48b98514e7678b9dad678381bcfbd69",
+    "title": "Puckish Angel [Gachimuchi]",
+    "artist": "arrange : Utuka original : zun",
+    "url_diff": "https://stellabms.xyz/upload/4332",
+    "url": "https://venue.bmssearch.net/tohobmsr/8",
+    "level": "13",
+    "comment": "from Satellite",
+    "zureCount": 0,
+    "proposer": "LUXURY♪",
+    "submission": 2463,
+    "proposerLr2id": 23110
   },
   {
     "md5": "b7806afd42bfcd2a91dcfeb3b2b80361",
@@ -50419,6 +50512,20 @@
     "voteNo": 0,
     "votePercent": 0,
     "sha256": "a3141998f518bef910caa38eacdd439f384ceb1553d656983c178327769359b5"
+  },
+  {
+    "md5": "bce596e3275ac4e98255c585001dc114",
+    "sha256": "97f9e734369c5dd23b89d699faa78da5e91468159c680085abc6800fc4005e9f",
+    "title": "Gothic System -C.H.S_NRG Mix- [Mechanical Tyrant]",
+    "artist": "DJ TECHNORCH Remixed by tpa:pbr obj by Zethiwo",
+    "url_diff": "https://stellabms.xyz/upload/3810",
+    "url": "https://onedrive.live.com/?cid=E6C08C2D3413101E&id=E6C08C2D3413101E%21255",
+    "level": "14",
+    "comment": "BPM188 同時押し、体力、乱打",
+    "zureCount": 0,
+    "proposer": "ABKAOD",
+    "submission": 2466,
+    "proposerLr2id": 175744
   },
   {
     "md5": "3b073741055654a2bcf0fb925489c869",
@@ -62423,6 +62530,19 @@
     "proposerLr2id": 9235
   },
   {
+    "md5": "4464d56532665032cf3e4452dbe56a65",
+    "sha256": "c625fb7c809f1e29a45824bc6bda77a17ecdabe3d3d39fb7edbc14b9cc79a3b5",
+    "title": "レミニセンス [HELL]",
+    "artist": "Lian",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=191&event=140",
+    "level": "16",
+    "comment": "BPM185 微連打、乱打、同時押し",
+    "proposer": "ABKAOD",
+    "submission": 2467,
+    "proposerLr2id": 175744
+  },
+  {
     "md5": "f19e43deacedd0cd190ce7aa75c67479",
     "sha256": "c6c9365bcb923640aaa89ea39d638cdabad1028e30dbd382b3b11ad88bbc53e7",
     "title": "俗物フェスティバル [无何之郷]",
@@ -71749,6 +71869,20 @@
     "proposerLr2id": 73333
   },
   {
+    "md5": "4e3fd592661443115fbcc5ff2c51c2e4",
+    "sha256": "3a29e478a165077379da0c6f3f3986ed6f7b002a6cd3df85271ad114733d6e40",
+    "title": "アイーシャの剣-Forcing breakthrough- [乱打ONLY]",
+    "artist": "Alicia* / α-Gorila",
+    "url_diff": "https://darksabun.github.io/sabun/aisha_7keys_randa.zip",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=174&event=74",
+    "level": "19",
+    "comment": "BPM196 乱打",
+    "zureCount": 0,
+    "proposer": "ABKAOD",
+    "submission": 2465,
+    "proposerLr2id": 175744
+  },
+  {
     "md5": "e6dd7c83ab1168dd3640ce54bacc8e96",
     "sha256": "0503b3539ae55640c8935845b81d903bca71554517a40014ae5d460b18ff6307",
     "title": "アイーシャの剣-Forcing breakthrough- [廃刀令]",
@@ -77204,6 +77338,20 @@
     "comment": "st9~10; misalignment by delay conversion to 24ths",
     "proposer": "qtp13",
     "submission": 2366,
+    "proposerLr2id": 86559
+  },
+  {
+    "md5": "50c488432674dbb21fd505ddbfd901f2",
+    "sha256": "e1d123d8de553a553dcece7694859e20394cdb37b001ef857097d73417dcdda8",
+    "title": "stairway to the universe [stairway]",
+    "artist": "maki obj. universe",
+    "url_diff": "https://stellabms.xyz/upload/1817",
+    "url": "http://aquaseeds.net/",
+    "level": "23",
+    "comment": "",
+    "zureCount": 0,
+    "proposer": "qtp13",
+    "submission": 2464,
     "proposerLr2id": 86559
   },
   {
