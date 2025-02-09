@@ -1,11 +1,5 @@
 [
   {
-    "md5": "852775fe56624678df49f191f27cbbc8",
-    "title": "人魚電台 [DP ANOTHER]",
-    "level": "4.00...4.50",
-    "comment": "sl0"
-  },
-  {
     "md5": "1cf006b02e60d21cef593be4a142d96e",
     "title": "Beyond The Alice (14N)",
     "level": "4.50...5.00",
@@ -170,6 +164,12 @@
   {
     "md5": "3a9338257e96637378c6f7f4dac076f7",
     "title": "ハッピーフェイクショー [DP Another]",
+    "level": "4.50...5.00",
+    "comment": "sl0"
+  },
+  {
+    "md5": "852775fe56624678df49f191f27cbbc8",
+    "title": "人魚電台 [DP ANOTHER]",
     "level": "4.50...5.00",
     "comment": "sl0"
   },
@@ -432,12 +432,6 @@
     "comment": "sl1"
   },
   {
-    "md5": "b5b1d8cc91a438816b698a71c4302c7e",
-    "title": "denebora -for beginner-",
-    "level": "6.00...6.50",
-    "comment": "sl1"
-  },
-  {
     "md5": "7ae0dc58289894c5bf44fbd8891dd5d6",
     "title": "EUROBEATアイドル橘花音のテーマ",
     "level": "6.00...6.50",
@@ -536,12 +530,6 @@
   {
     "md5": "c7a7a7a5dd1985f680783d6cad0e66a3",
     "title": "Precious!!! [14key,Another]",
-    "level": "6.00...6.50",
-    "comment": "sl1"
-  },
-  {
-    "md5": "961f2de5e160520808632f9453bf0954",
-    "title": "Re:Sound Sing Step [DP-sagANOTHER]",
     "level": "6.00...6.50",
     "comment": "sl1"
   },
@@ -666,6 +654,12 @@
     "comment": "sl1"
   },
   {
+    "md5": "b5b1d8cc91a438816b698a71c4302c7e",
+    "title": "denebora -for beginner-",
+    "level": "6.50...7.00",
+    "comment": "sl1"
+  },
+  {
     "md5": "5dedb908c2d0fc61a09a2499ace14ee7",
     "title": "especies exoticas",
     "level": "6.50...7.00",
@@ -680,6 +674,12 @@
   {
     "md5": "5beb90dc50a2fccd6b757ff15d2775f8",
     "title": "Magical Love Words (vovovo.mix) -another14-",
+    "level": "6.50...7.00",
+    "comment": "sl1"
+  },
+  {
+    "md5": "961f2de5e160520808632f9453bf0954",
+    "title": "Re:Sound Sing Step [DP-sagANOTHER]",
     "level": "6.50...7.00",
     "comment": "sl1"
   },
@@ -722,12 +722,6 @@
   {
     "md5": "fde2c480967f93727ce4c8bc87b6759d",
     "title": "ふしぎなおくりもの [DPH]",
-    "level": "7.00...7.50",
-    "comment": "sl2"
-  },
-  {
-    "md5": "057320c93f0eb079cacb33d535f27a02",
-    "title": "無機質世界に彩を [Double Lush Green]",
     "level": "7.00...7.50",
     "comment": "sl2"
   },
@@ -1008,6 +1002,12 @@
     "comment": "sl2"
   },
   {
+    "md5": "057320c93f0eb079cacb33d535f27a02",
+    "title": "無機質世界に彩を [Double Lush Green]",
+    "level": "7.50...8.00",
+    "comment": "sl2"
+  },
+  {
     "md5": "14a1172f13f22f8dd2e8bf5afa275a14",
     "title": "翼の折れた天使たちのレクイエム [DP Another]",
     "level": "7.50...8.00",
@@ -1236,18 +1236,6 @@
     "comment": "sl3"
   },
   {
-    "md5": "86ac0db57e4f59c6256d3b6b2c00f57e",
-    "title": "Round and Round [DP BLACK ANOTHER]",
-    "level": "9.50...10.00",
-    "comment": "sl4"
-  },
-  {
-    "md5": "e80b8d644b47e94cda1c90ca27014a3b",
-    "title": "Take Me Away [DPH]",
-    "level": "9.50...10.00",
-    "comment": "sl4"
-  },
-  {
     "md5": "57bf2117e01dba19e4fa172ade61d400",
     "title": "藍煉の人形 [DPA.NOTHER]",
     "level": "9.50...10.00",
@@ -1320,6 +1308,12 @@
     "comment": "sl4"
   },
   {
+    "md5": "86ac0db57e4f59c6256d3b6b2c00f57e",
+    "title": "Round and Round [DP BLACK ANOTHER]",
+    "level": "10.00...10.50",
+    "comment": "sl4"
+  },
+  {
     "md5": "c8165d170ccb541a766ce33a74d284a7",
     "title": "S'il vous plait! [DP_Li]",
     "level": "10.00...10.50",
@@ -1334,6 +1328,12 @@
   {
     "md5": "77049e33fcbb6a4472d562a11a4fa5e0",
     "title": "sola [DP ANOTHER]",
+    "level": "10.00...10.50",
+    "comment": "sl4"
+  },
+  {
+    "md5": "e80b8d644b47e94cda1c90ca27014a3b",
+    "title": "Take Me Away [DPH]",
     "level": "10.00...10.50",
     "comment": "sl4"
   },
@@ -1376,6 +1376,12 @@
   {
     "md5": "347e728cf787c9eddcb2986abe6c028e",
     "title": "月時計　Last・Dial (DPA)",
+    "level": "10.00...10.50",
+    "comment": "sl4"
+  },
+  {
+    "md5": "b1ab52c5dd337896719ae04e0ae52a6e",
+    "title": "永夜の報い -full moon- <14A>",
     "level": "10.00...10.50",
     "comment": "sl4"
   },
@@ -1662,6 +1668,12 @@
     "comment": "sl7"
   },
   {
+    "md5": "bb12fa09ab5443911ba51b1a7dd526db",
+    "title": "温泉大作戦 [DP_Li]",
+    "level": "13.50...14.00",
+    "comment": "sl7"
+  },
+  {
     "md5": "401c87a84d6d6396a970d2d73416af98",
     "title": "Kronos [Choronos]",
     "level": "14.50...15.00",
@@ -1676,12 +1688,6 @@
   {
     "md5": "2c343d24fc944984e77bfd3d16cfc5e6",
     "title": "あさひのなかで(Art Glint mix) [DPI]",
-    "level": "14.50...15.00",
-    "comment": "sl8"
-  },
-  {
-    "md5": "9b2a7f55232d233a4dfa40442425db4b",
-    "title": "バーチャルセラピー [DP THERAPY]",
     "level": "14.50...15.00",
     "comment": "sl8"
   },
@@ -1712,6 +1718,12 @@
   {
     "md5": "5ad08be587d9d42971084fc701df0693",
     "title": "witchcraft [14A]",
+    "level": "15.00...15.50",
+    "comment": "sl8"
+  },
+  {
+    "md5": "9b2a7f55232d233a4dfa40442425db4b",
+    "title": "バーチャルセラピー [DP THERAPY]",
     "level": "15.00...15.50",
     "comment": "sl8"
   },
@@ -2544,12 +2556,6 @@
     "comment": "sl9"
   },
   {
-    "md5": "9bd85de86ef5afd051a3f654e133da02",
-    "title": "myste`re　 [14keys Another]",
-    "level": "-",
-    "comment": "sl8"
-  },
-  {
     "md5": "b7ff48a82dc10c9622934bbf39de2202",
     "title": "Nervous As the Damsel [DP ANOTHER]",
     "level": "-",
@@ -3270,22 +3276,16 @@
     "comment": "sl2"
   },
   {
-    "md5": "b1ab52c5dd337896719ae04e0ae52a6e",
-    "title": "永夜の報い -full moon- <14A>",
+    "md5": "1e7d0536478214433ea92571b5e16730",
+    "title": "機:はたひ -DP-",
     "level": "-",
-    "comment": "sl4"
+    "comment": "sl0"
   },
   {
     "md5": "5a71ac30e80907739a14741a8c26ca5d",
     "title": "浮世絵横丁",
     "level": "-",
     "comment": "sl5"
-  },
-  {
-    "md5": "bb12fa09ab5443911ba51b1a7dd526db",
-    "title": "温泉大作戦 [DP_Li]",
-    "level": "-",
-    "comment": "sl7"
   },
   {
     "md5": "b8f6072086e4821003637684f28cd765",
