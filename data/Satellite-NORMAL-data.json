@@ -7851,7 +7851,7 @@
     "md5": "0e0e1c6f0e2548216689ae6dbe67b7e7",
     "title": "ネイクド・ワイルド・パラノイド [夜王牙]",
     "level": "6.50...7.00",
-    "comment": "sl8"
+    "comment": "sl9"
   },
   {
     "md5": "6c0d37102eddd177de86a304b95c647a",
@@ -11034,12 +11034,6 @@
     "comment": "sl12"
   },
   {
-    "md5": "7fbec3c4235193e4d2ebf32319090f05",
-    "title": "The Vision Of Fantasia [SP Master]",
-    "level": "11.50...12.00",
-    "comment": "sl12"
-  },
-  {
     "md5": "0fdfa48d94bf63953661e8ebb0658dd8",
     "title": "Wizdomiot [Kerother]",
     "level": "11.50...12.00",
@@ -11049,12 +11043,6 @@
     "md5": "208f388f7f98b5c92becbe4238530714",
     "title": "Χαρων [Realm 5: The Netherworld]",
     "level": "11.50...12.00",
-    "comment": "sl12"
-  },
-  {
-    "md5": "bf30358f363e5b16ad938a15bddd9a29",
-    "title": "Device Queue [Down Quark]",
-    "level": "12.00...12.50",
     "comment": "sl12"
   }
 ]
