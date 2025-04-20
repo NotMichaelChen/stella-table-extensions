@@ -8457,6 +8457,17 @@
     "submission": 1439
   },
   {
+    "md5": "c9fb382609dc2de212e31fca7542677d",
+    "sha256": "f4ef94557661b3b2aa67d62db80ea349ce945eb99eef497d298fddf3e52d81ed",
+    "title": "心の失う [Heartache]",
+    "artist": "ShooTinGStaR&AAswordsman feat.果丸 / bms:涙訣 mov:JackyCreeper/illust:YimonDC/obj:涙訣",
+    "url_diff": "",
+    "url": "https://drive.google.com/file/d/1HgOl4nbr1Bs1R76VYNwz5OvrMmFSnasX/view?usp=drive_link",
+    "level": "1",
+    "comment": "BPM74",
+    "submission": 3493
+  },
+  {
     "md5": "ddab030e51246d75bed80518ce6e9788",
     "sha256": "cd8d5e48d5613380f15e5259b530012d936cff96a9dacb483bc273b2466d88ec",
     "title": "日溜りの街－あ！－ (乱打MAX)",
@@ -9049,7 +9060,6 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=145",
     "level": "2",
     "comment": "乱打+α",
-    "zureCount": 0,
     "submission": 3485
   },
   {
@@ -10647,6 +10657,17 @@
     "level": "2",
     "comment": "2~3? 同梱譜面",
     "submission": 1801
+  },
+  {
+    "md5": "0862a9ce0662a2feb967e3670d94089c",
+    "sha256": "26f2701aa5331141f2fce3c0956c386caaebeadb36e5c378331b2a98855c0cb4",
+    "title": "My Little Sweet Kitty [Cookies]",
+    "artist": "Yu^ta",
+    "url_diff": "",
+    "url": "https://famousbms.web.fc2.com",
+    "level": "2",
+    "comment": "BPM180 乱打 双楼梯 同捆表=>3",
+    "submission": 3492
   },
   {
     "md5": "b33eba5c086f41ab89b78207f3b301b9",
@@ -20352,7 +20373,6 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=117&event=110",
     "level": "5",
     "comment": "BPM170 乱打",
-    "zureCount": 0,
     "submission": 3484
   },
   {
@@ -22331,6 +22351,16 @@
     "level": "6",
     "comment": "BPM275 16分階段と8分皿",
     "submission": 1437
+  },
+  {
+    "md5": "2463ee293a812825590257c17d02f86b",
+    "sha256": "63840fdda1cbd07825bb736131610549856ed08ff1729253133e8a65bc53166d",
+    "title": "Corgito Ergosum [SP INSANE]",
+    "artist": "Raimukun movie:Inukoro / obj: w",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=146",
+    "level": "6",
+    "submission": 3491
   },
   {
     "md5": "9242321e4ac02f19f897ea88c1f93eeb",
@@ -24461,7 +24491,6 @@
     "url": "https://horie.synology.me:1048/BMS%20Library/Song/[REVLIS]%20Argentite.zip",
     "level": "7",
     "comment": "145 jack",
-    "zureCount": 0,
     "submission": 3489
   },
   {
@@ -33137,7 +33166,6 @@
     "url": "https://mega.nz/folder/EpgWgJqa#7OItZfYLQxZ0X8OB19yvNQ/file/Qkpl2Iga",
     "level": "11",
     "comment": "高速",
-    "zureCount": 0,
     "submission": 3486
   },
   {
@@ -34183,6 +34211,17 @@
     "submission": 2085
   },
   {
+    "md5": "3c9e3bc618aad5166d8fed46c018018d",
+    "sha256": "a7f9aae90e04fd3390e66c9b5b03d86a8b14fbec1b8cb3e10bf61de61e00ba15",
+    "title": "Acacia [Redacted]",
+    "artist": "Snowyplane",
+    "url_diff": "https://stellabms.xyz/upload/5266",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=80&event=135",
+    "level": "12",
+    "comment": "★17 Empress of Raizze より",
+    "submission": 3490
+  },
+  {
     "md5": "accc5608f01d6885f164aa8fa4e7d764",
     "sha256": "95060f8a80bfedfb1520a3c431037cec575429ddff10ba2350b3b9a69533d7d8",
     "title": "Air [Myth]",
@@ -34509,6 +34548,17 @@
     "level": "12",
     "comment": "序盤の縦連に注意",
     "submission": 709
+  },
+  {
+    "title": "cheerful forest [H]",
+    "artist": "parakeet 41 /obj.laner BGA:yuru",
+    "url": "https://drive.google.com/uc?export=download&id=17_xK_md3Um4MHTgp2aerV-JKXPQvEP7w",
+    "url_diff": "https://web.archive.org/web/20190322230138/https://www.hyper-laner.com/sabun/all201807_laner.rar",
+    "md5": "0e2d518ad287ad974167f00c5028bd74",
+    "sha256": "33909c0b8114988288ba4aeef204a280d277f5e83c5a543d6ebbf14273c6e24c",
+    "level": "12",
+    "comment": "from Stella",
+    "submission": 3458
   },
   {
     "md5": "0f61440742426aa49fc016b49a441d8a",
@@ -35707,7 +35757,6 @@
     "url": "https://venue.bmssearch.net/3/72",
     "level": "12",
     "comment": "BPM156 微連打、フィジカル",
-    "zureCount": 0,
     "submission": 3487
   },
   {
@@ -37173,17 +37222,6 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=96",
     "level": "13",
     "submission": 1544
-  },
-  {
-    "md5": "0e2d518ad287ad974167f00c5028bd74",
-    "sha256": "33909c0b8114988288ba4aeef204a280d277f5e83c5a543d6ebbf14273c6e24c",
-    "title": "cheerful forest [H]",
-    "artist": "parakeet 41 /obj.laner BGA:yuru",
-    "url_diff": "https://web.archive.org/web/20190322230138/https://www.hyper-laner.com/sabun/all201807_laner.rar",
-    "url": "https://drive.google.com/uc?export=download&id=17_xK_md3Um4MHTgp2aerV-JKXPQvEP7w",
-    "level": "13",
-    "comment": "from Stella",
-    "submission": 2649
   },
   {
     "title": "Chronomia [Presea]",
@@ -38977,7 +39015,6 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=355&event=142",
     "level": "13",
     "comment": "物量乱打",
-    "zureCount": 0,
     "submission": 2650
   },
   {
@@ -43955,7 +43992,6 @@
     "url": "https://venue.bmssearch.net/bmstukuru2023/77",
     "level": "14",
     "comment": "BPM178 ディレイ",
-    "zureCount": 0,
     "submission": 2655
   },
   {
@@ -49433,7 +49469,6 @@
     "url": "https://venue.bmssearch.net/bmstukuru2022/26",
     "level": "16",
     "comment": "BPM195 乱打",
-    "zureCount": 0,
     "submission": 2652
   },
   {
@@ -53531,7 +53566,6 @@
     "url": "https://drive.usercontent.google.com/u/0/uc?id=14Hw8rt3A9J8pVtSjMOr6sb1XcsC9WC77&export=download",
     "level": "17",
     "comment": "BPM190 乱打",
-    "zureCount": 0,
     "submission": 2656
   },
   {
@@ -54631,6 +54665,18 @@
     "submission": 2452
   },
   {
+    "md5": "acef7850c77307bf783d00a229cbfdd0",
+    "sha256": "939442a260a46584edbc4b732f1aa489fd7c8b43bda4d35878c5afb92f30f48e",
+    "title": "Z [FTT]",
+    "artist": "えむ obj:1mi",
+    "url_diff": "https://darksabun.github.io/event/bbbb/venue/",
+    "url": "https://drive.google.com/file/d/1PZqQ1J4uLiv-nFgDux_VJQOWYROErYmg/view?usp=drive_link",
+    "level": "17",
+    "comment": "crazy-",
+    "zureCount": 0,
+    "submission": 2662
+  },
+  {
     "md5": "a453ecdda9bf2161f38aa69dd5493ed9",
     "title": "ZENITHALIZE [Monsther]",
     "artist": "姉ヶ崎 寧々 BGA : photonskyto/obj:Monsta",
@@ -55109,7 +55155,6 @@
     "url": "https://venue.bmssearch.net/genreshuffle4/12",
     "level": "17",
     "comment": "高速発狂 微連打",
-    "zureCount": 0,
     "submission": 2653
   },
   {
@@ -56048,7 +56093,6 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=457&event=140",
     "level": "18",
     "comment": "BPM140 ガチ押し",
-    "zureCount": 0,
     "submission": 2657
   },
   {
@@ -56774,7 +56818,6 @@
     "url": "https://venue.bmssearch.net/bmstukuru2023/82",
     "level": "18",
     "comment": "連打複合",
-    "zureCount": 0,
     "submission": 2654
   },
   {
@@ -58464,6 +58507,17 @@
     "level": "19",
     "comment": "BPM275 16分乱打、8分皿",
     "submission": 1109
+  },
+  {
+    "md5": "c83265a0c72d50293073db5295e147fe",
+    "sha256": "e97732887edd992c0cffc0eb82aa2031bf0934e2ec2aa69e66468fb051ffec17",
+    "title": "Corgito Ergosum [SP PERIOD]",
+    "artist": "Raimukun movie:Inukoro / obj:LuvTek",
+    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=146",
+    "level": "19",
+    "comment": "6~7",
+    "submission": 2661
   },
   {
     "title": "Cynic -Irony-",
@@ -62163,6 +62217,17 @@
     "submission": 978
   },
   {
+    "md5": "3c9f971bab8debea33da16acd9355f8c",
+    "sha256": "28410756356b7c9fe652eb14983213754952621cd86a855c747d558dfe58a184",
+    "title": "World See Night [Deliberate Opaqueness]",
+    "artist": "CYLTIE. obj:Guanacoite",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05324.zip",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=11&event=126",
+    "level": "21",
+    "comment": "215乱打",
+    "submission": 2660
+  },
+  {
     "md5": "dd9bd1bdc410917259006acc72b634af",
     "sha256": "03b68d1593e651118a208b25686f78c35fc28db8a01c2d39549b16871ac5eadc",
     "title": "∞ bit [LT's INFINITY]",
@@ -63475,6 +63540,17 @@
     "comment": "DELAY",
     "submission": 457,
     "sha256": "455462c421bcde16f71e3168f2e07c9463e950d88a27c3ba3f9d2a606a67f2ff"
+  },
+  {
+    "md5": "0b460a2d0776d2cd53720bb33009c44a",
+    "sha256": "732561884015406cac0c0871b53fe7f80f9f1b8418981a25e6b1ce566d29569f",
+    "title": "糸引く夏のエデンにて。 [Predestined Story]",
+    "artist": "Setca. obj:potechang",
+    "url_diff": "https://stellabms.xyz/upload/4854",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=140",
+    "level": "22",
+    "comment": "ガチ押し",
+    "submission": 2659
   },
   {
     "md5": "1a34731e9bbed921de2d27ade5fbf3c0",
